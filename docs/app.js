@@ -164,7 +164,7 @@ function reveal() {
   const readingEl = document.getElementById("reading");
   const promptEl  = document.getElementById("prompt-area");
 
-  promptEl.hidden = true;
+  promptEl.remove();
 
   if (fetchError) {
     errorEl.hidden = false;
