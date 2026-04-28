@@ -22,13 +22,18 @@
   --chains:  #cc6600;
 }
 
-html { font-size: 16px; }
+html {
+  font-size: 16px;
+  overflow-x: hidden;
+}
 
 body {
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-mono);
   min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -302,7 +307,16 @@ footer {
   .card-house { font-size: 0.55rem; }
   .card-confidence { font-size: 0.55rem; }
 
-  .sources-section { padding-left: 1rem; padding-right: 1rem; }
+  .sources-section {
+    width: 100vw;
+    max-width: 100vw;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+  .source-card-name, .source-article-title, .source-url {
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
   .source-article-title {
     white-space: normal;
     overflow: visible;
