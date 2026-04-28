@@ -54,24 +54,48 @@ header {
   white-space: pre;
 }
 
-.tagline {
+/* ── Prompt ──────────────────────────────────────────────────────────── */
+
+.prompt-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  cursor: text;
+}
+
+.prompt-prefix {
   color: var(--text-dim);
-  font-size: 0.8rem;
-  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  user-select: none;
+}
+
+.prompt-input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  caret-color: var(--text);
+  width: 8ch;
   letter-spacing: 0.05em;
 }
 
-/* ── Loading / Error ────────────────────────────────────────────────── */
-
-.loading, .error {
-  text-align: center;
-  padding: 3rem;
+.prompt-input::placeholder {
   color: var(--text-dim);
+  opacity: 0.5;
+}
+
+/* ── Error ───────────────────────────────────────────────────────────── */
+
+.error {
+  text-align: center;
+  padding: 1rem;
+  color: #cc4444;
   font-size: 0.9rem;
   letter-spacing: 0.1em;
 }
-
-.error { color: #cc4444; }
 
 /* ── Reading date ────────────────────────────────────────────────────── */
 
@@ -90,12 +114,12 @@ header {
   display: grid;
   grid-template-columns: repeat(3, 180px);
   grid-template-rows: repeat(4, auto);
-  gap: 16px 20px;
+  gap: 24px 20px;
   margin: 0 auto 3rem;
   justify-content: center;
 }
 
-/* Named grid areas by position */
+/* Named grid areas — applied to .card-wrap */
 .pos-ascending  { grid-column: 2; grid-row: 1; }
 .pos-waning     { grid-column: 1; grid-row: 2; }
 .pos-center     { grid-column: 2; grid-row: 2; }
@@ -104,14 +128,22 @@ header {
 .pos-wild-0     { grid-column: 1; grid-row: 4; }
 .pos-wild-1     { grid-column: 3; grid-row: 4; }
 
+/* ── Card wrap (card + position subtitle) ────────────────────────────── */
+
+.card-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 180px;
+}
+
 /* ── Card ────────────────────────────────────────────────────────────── */
 
 .card {
   width: 180px;
   background: var(--bg-card);
   border: 1px solid var(--house-color, var(--border));
-  padding: 12px 10px 10px;
-  position: relative;
+  padding: 12px 10px 12px;
   transition: background 0.15s;
   cursor: default;
 }
@@ -174,19 +206,14 @@ header {
   letter-spacing: -0.05em;
 }
 
+/* Position label sits below the card border as a subtitle */
 .card-pos-label {
-  position: absolute;
-  bottom: -1px;
-  left: 0;
-  right: 0;
-  text-align: center;
   font-size: 0.55rem;
   color: var(--text-dim);
   letter-spacing: 0.1em;
-  padding: 0 4px 6px;
+  text-align: center;
+  padding-top: 5px;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 /* ── Sources ─────────────────────────────────────────────────────────── */
@@ -252,9 +279,10 @@ footer {
 @media (max-width: 640px) {
   .reading-grid {
     grid-template-columns: repeat(3, 140px);
-    gap: 10px 12px;
+    gap: 20px 12px;
   }
-  .card { width: 140px; padding: 10px 8px 8px; }
+  .card-wrap { width: 140px; }
+  .card { width: 140px; padding: 10px 8px 10px; }
   .card-sigil { font-size: 1.1rem; }
   .card-title { font-size: 0.62rem; }
   .card-house { font-size: 0.55rem; }
@@ -264,9 +292,10 @@ footer {
 @media (max-width: 480px) {
   .reading-grid {
     grid-template-columns: repeat(3, 110px);
-    gap: 8px;
+    gap: 16px 8px;
   }
-  .card { width: 110px; padding: 8px 6px 6px; }
+  .card-wrap { width: 110px; }
+  .card { width: 110px; padding: 8px 6px 8px; }
   .card-sigil { font-size: 1rem; margin: 4px 0; }
   .card-title { font-size: 0.55rem; }
   .card-house { font-size: 0.5rem; margin-bottom: 6px; }

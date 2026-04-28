@@ -9,18 +9,29 @@
 <body>
 
   <header>
-    <pre class="splash">
-╔══════════════════════════════════════════════╗
+    <pre class="splash">╔══════════════════════════════════════════════╗
 ║          D E C K   O F   D R A G O N S      ║
 ║                                              ║
 ║   The cards reveal what forces move unseen.  ║
 ║   What hand is played, what debt is owed.    ║
 ╚══════════════════════════════════════════════╝</pre>
-    <p class="tagline">A real-world political oracle. One reading per day.</p>
   </header>
 
   <main>
-    <div id="loading" class="loading">Consulting the deck&hellip;</div>
+    <div id="prompt-area" class="prompt-area">
+      <span class="prompt-prefix">&gt;&nbsp;</span><input
+        id="prompt-input"
+        class="prompt-input"
+        type="text"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+        placeholder="draw"
+        aria-label="Enter command"
+      >
+    </div>
+
     <div id="error" class="error" hidden></div>
 
     <div id="reading" hidden>
@@ -34,7 +45,6 @@
   </main>
 
   <footer>
-    <p>Cards never name entities &mdash; they show only archetypes. The puzzle is identifying who plays each role.</p>
     <p>Powered by Guardian API &middot; GDELT &middot; Sentence Transformers</p>
   </footer>
 

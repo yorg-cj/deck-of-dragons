@@ -51,20 +51,23 @@ function formatDate(dateStr) {
 }
 
 function buildCard(card) {
-  const house   = card.house;
-  const color   = HOUSE_COLORS[house] || "var(--text)";
-  const sigil   = HOUSE_SIGILS[house]  || "?";
-  const label   = house.replace("High House ", "").toUpperCase();
-  const pos     = card.position || "WILD";
+  const house    = card.house;
+  const color    = HOUSE_COLORS[house] || "var(--text)";
+  const sigil    = HOUSE_SIGILS[house]  || "?";
+  const label    = house.replace("High House ", "").toUpperCase();
+  const pos      = card.position || "WILD";
   const posLabel = POSITION_LABELS[pos] || pos;
-  const conf    = card.confidence || 0;
-  const rev     = card.reversed;
+  const conf     = card.confidence || 0;
+  const rev      = card.reversed;
 
-  const el = document.createElement("div");
-  el.className = "card" + (rev ? " reversed" : "");
-  el.style.setProperty("--house-color", color);
+  // Outer wrap holds the card border + position subtitle below it
+  const wrap = document.createElement("div");
+  wrap.className = "card-wrap";
 
-  el.innerHTML = `
+  const cardEl = document.createElement("div");
+  cardEl.className = "card" + (rev ? " reversed" : "");
+  cardEl.style.setProperty("--house-color", color);
+  cardEl.innerHTML = `
     <div class="card-reversed-label">${rev ? "▼ REVERSED ▼" : ""}</div>
     <span class="card-sigil">${sigil}</span>
     <div class="card-title">${escHtml(card.title || "")}</div>
@@ -72,10 +75,15 @@ function buildCard(card) {
     <div class="card-confidence">
       <span class="conf-bar">${confidenceBar(conf)}</span>&nbsp;${Math.round(conf * 100)}%
     </div>
-    <div class="card-pos-label">${posLabel}</div>
   `;
 
-  return el;
+  const labelEl = document.createElement("div");
+  labelEl.className = "card-pos-label";
+  labelEl.textContent = posLabel;
+
+  wrap.appendChild(cardEl);
+  wrap.appendChild(labelEl);
+  return wrap;
 }
 
 function buildSourceItem(card) {
@@ -108,7 +116,6 @@ function escHtml(str) {
 }
 
 function renderReading(reading) {
-  // Date
   document.getElementById("reading-date").textContent =
     "The reading for " + formatDate(reading.date);
 
@@ -117,47 +124,81 @@ function renderReading(reading) {
   grid.innerHTML    = "";
   sources.innerHTML = "";
 
-  const cards    = reading.cards || [];
-  const wildCards = cards.filter(c => c.position === "WILD");
-  let wildIdx = 0;
+  const cards   = reading.cards || [];
+  let wildIdx   = 0;
 
   for (const card of cards) {
-    const pos = card.position || "WILD";
-    const cardEl = buildCard(card);
+    const pos   = card.position || "WILD";
+    const wrap  = buildCard(card);
 
     if (pos === "WILD") {
-      const slot = wildIdx < 2 ? `pos-wild-${wildIdx}` : null;
-      if (slot) cardEl.classList.add(slot);
+      if (wildIdx < 2) wrap.classList.add(`pos-wild-${wildIdx}`);
       wildIdx++;
     } else {
       const cssClass = POSITION_CSS_CLASS[pos];
-      if (cssClass) cardEl.classList.add(cssClass);
+      if (cssClass) wrap.classList.add(cssClass);
     }
 
-    grid.appendChild(cardEl);
+    grid.appendChild(wrap);
     sources.appendChild(buildSourceItem(card));
   }
 }
 
-async function load() {
-  const loadingEl = document.getElementById("loading");
-  const errorEl   = document.getElementById("error");
-  const readingEl = document.getElementById("reading");
+// Fetch the reading immediately in the background; reveal on "draw"
+let readingData  = null;
+let fetchError   = false;
 
+async function prefetch() {
   try {
     const resp = await fetch("reading.json?t=" + Date.now());
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    const reading = await resp.json();
-
-    loadingEl.hidden = true;
-    renderReading(reading);
-    readingEl.hidden = false;
+    readingData = await resp.json();
   } catch (err) {
-    loadingEl.hidden = true;
-    errorEl.hidden   = false;
-    errorEl.textContent = "Could not load the reading. The deck is silent today.";
+    fetchError = true;
     console.error(err);
   }
 }
 
-load();
+function reveal() {
+  const errorEl   = document.getElementById("error");
+  const readingEl = document.getElementById("reading");
+  const promptEl  = document.getElementById("prompt-area");
+
+  if (fetchError) {
+    errorEl.hidden  = false;
+    errorEl.textContent = "The deck is silent today.";
+    return;
+  }
+
+  if (!readingData) {
+    // Still loading — wait briefly and retry
+    setTimeout(reveal, 300);
+    return;
+  }
+
+  promptEl.hidden = true;
+  renderReading(readingData);
+  readingEl.hidden = false;
+}
+
+function init() {
+  prefetch();
+
+  const input = document.getElementById("prompt-input");
+
+  // Focus input on click anywhere in prompt area
+  document.getElementById("prompt-area").addEventListener("click", () => input.focus());
+  input.focus();
+
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      const cmd = input.value.trim().toLowerCase();
+      input.value = "";
+      if (cmd === "draw" || cmd === "d") {
+        reveal();
+      }
+    }
+  });
+}
+
+init();
