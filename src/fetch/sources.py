@@ -26,7 +26,7 @@ def fetch_all(days: int = 2, save: bool = True) -> list[dict]:
         g = guardian.fetch_recent(days=days)
         print(f"{len(g)} articles")
         all_articles.extend(g)
-    except EnvironmentError as e:
+    except Exception as e:
         print(f"skipped ({e})")
 
     print("  NYT...", end=" ", flush=True)
@@ -34,7 +34,7 @@ def fetch_all(days: int = 2, save: bool = True) -> list[dict]:
         n = nyt.fetch_recent(days=days)
         print(f"{len(n)} articles")
         all_articles.extend(n)
-    except EnvironmentError as e:
+    except Exception as e:
         print(f"skipped ({e})")
 
     print("  World News...", end=" ", flush=True)
@@ -42,7 +42,7 @@ def fetch_all(days: int = 2, save: bool = True) -> list[dict]:
         w = worldnews.fetch_recent()
         print(f"{len(w)} articles")
         all_articles.extend(w)
-    except EnvironmentError as e:
+    except Exception as e:
         print(f"skipped ({e})")
 
     print("  GDELT...", end=" ", flush=True)
@@ -70,6 +70,8 @@ def fetch_all(days: int = 2, save: bool = True) -> list[dict]:
 
 
 def _save_to_db(articles: list[dict]):
+    if not DB_PATH.exists():
+        return
     conn = sqlite3.connect(DB_PATH)
     new_count = 0
     for art in articles:

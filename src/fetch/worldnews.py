@@ -35,7 +35,7 @@ def fetch_recent(per_query: int = 5) -> list[dict]:
                 "sort-direction": "DESC",
             })
             resp.raise_for_status()
-        except httpx.HTTPError as e:
+        except Exception as e:
             print(f"  WorldNews [{query}]: {e}")
             continue
 

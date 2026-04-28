@@ -25,7 +25,7 @@ def fetch_recent(days: int = 2, per_section: int = 50) -> list[dict]:
                 "from-date": _days_ago(days),
             })
             resp.raise_for_status()
-        except httpx.HTTPError as e:
+        except Exception as e:
             print(f"  Guardian [{section}]: {e}")
             continue
 
