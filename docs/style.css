@@ -301,6 +301,13 @@ footer {
   .card-title { font-size: 0.62rem; }
   .card-house { font-size: 0.55rem; }
   .card-confidence { font-size: 0.55rem; }
+
+  .sources-section { padding-left: 1rem; padding-right: 1rem; }
+  .source-article-title {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
 }
 
 @media (max-width: 480px) {
