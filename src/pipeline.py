@@ -23,7 +23,7 @@ def get_reading(force_refresh: bool = False) -> dict:
     Return today's reading. Loads from cache if available; fetches and
     classifies otherwise. Set force_refresh=True to re-run the pipeline.
     """
-    _CACHE_DIR.mkdir(exist_ok=True)
+    _CACHE_DIR.mkdir(parents=True, exist_ok=True)
     cache_file = _CACHE_DIR / f"{date.today()}.json"
 
     if cache_file.exists() and not force_refresh:
