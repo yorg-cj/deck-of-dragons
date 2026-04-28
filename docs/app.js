@@ -187,23 +187,47 @@ function reveal() {
 function init() {
   prefetch();
 
+  const input    = document.getElementById("prompt-input");
   const bufferEl = document.getElementById("buffer-display");
   let buffer = "";
 
+  function submit() {
+    const cmd = buffer.trim().toLowerCase();
+    buffer = "";
+    input.value = "";
+    bufferEl.textContent = "";
+    if (cmd === "draw" || cmd === "d") reveal();
+  }
+
+  // Mobile: tap anywhere in prompt area to focus input and pop up keyboard
+  document.getElementById("prompt-area").addEventListener("click", () => input.focus());
+
+  // Mobile: sync what the keyboard types into the visual buffer
+  input.addEventListener("input", () => {
+    buffer = input.value;
+    bufferEl.textContent = buffer;
+  });
+
+  // Mobile: Enter key via keyboard
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") submit();
+  });
+
+  // Desktop: capture keystrokes without requiring a tap first
   document.addEventListener("keydown", (e) => {
-    if (document.getElementById("prompt-area").hidden) return;
+    if (!document.getElementById("prompt-area")) return;
+    if (document.activeElement === input) return; // mobile input is handling it
 
     if (e.key === "Enter") {
-      const cmd = buffer.trim().toLowerCase();
-      buffer = "";
-      bufferEl.textContent = "";
-      if (cmd === "draw" || cmd === "d") reveal();
+      submit();
     } else if (e.key === "Backspace") {
       e.preventDefault();
       buffer = buffer.slice(0, -1);
+      input.value = buffer;
       bufferEl.textContent = buffer;
     } else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey) {
       buffer += e.key;
+      input.value = buffer;
       bufferEl.textContent = buffer;
     }
   });
