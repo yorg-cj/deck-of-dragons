@@ -9,27 +9,17 @@
 <body>
 
   <header>
-    <pre class="splash">╔══════════════════════════════════════════════╗
-║          D E C K   O F   D R A G O N S      ║
-║                                              ║
-║   The cards reveal what forces move unseen.  ║
-║   What hand is played, what debt is owed.    ║
-╚══════════════════════════════════════════════╝</pre>
+    <pre class="splash">+================================================+
+|          D E C K   O F   D R A G O N S        |
+|                                                |
+|   The cards reveal what forces move unseen.    |
+|   What hand is played, what debt is owed.      |
++================================================+</pre>
   </header>
 
   <main>
     <div id="prompt-area" class="prompt-area">
-      <span class="prompt-prefix">&gt;&nbsp;</span><input
-        id="prompt-input"
-        class="prompt-input"
-        type="text"
-        autocomplete="off"
-        autocorrect="off"
-        autocapitalize="off"
-        spellcheck="false"
-        placeholder="draw"
-        aria-label="Enter command"
-      >
+      <span class="prompt-prefix">&gt;&nbsp;</span><span id="buffer-display" class="buffer-display"></span><span class="prompt-cursor">_</span>
     </div>
 
     <div id="error" class="error" hidden></div>

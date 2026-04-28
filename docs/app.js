@@ -164,19 +164,22 @@ function reveal() {
   const readingEl = document.getElementById("reading");
   const promptEl  = document.getElementById("prompt-area");
 
+  promptEl.hidden = true;
+
   if (fetchError) {
-    errorEl.hidden  = false;
+    errorEl.hidden = false;
     errorEl.textContent = "The deck is silent today.";
     return;
   }
 
   if (!readingData) {
-    // Still loading — wait briefly and retry
+    errorEl.hidden = false;
+    errorEl.textContent = "Drawing from the deck...";
     setTimeout(reveal, 300);
     return;
   }
 
-  promptEl.hidden = true;
+  errorEl.hidden = true;
   renderReading(readingData);
   readingEl.hidden = false;
 }
@@ -184,19 +187,24 @@ function reveal() {
 function init() {
   prefetch();
 
-  const input = document.getElementById("prompt-input");
+  const bufferEl = document.getElementById("buffer-display");
+  let buffer = "";
 
-  // Focus input on click anywhere in prompt area
-  document.getElementById("prompt-area").addEventListener("click", () => input.focus());
-  input.focus();
+  document.addEventListener("keydown", (e) => {
+    if (document.getElementById("prompt-area").hidden) return;
 
-  input.addEventListener("keydown", (e) => {
     if (e.key === "Enter") {
-      const cmd = input.value.trim().toLowerCase();
-      input.value = "";
-      if (cmd === "draw" || cmd === "d") {
-        reveal();
-      }
+      const cmd = buffer.trim().toLowerCase();
+      buffer = "";
+      bufferEl.textContent = "";
+      if (cmd === "draw" || cmd === "d") reveal();
+    } else if (e.key === "Backspace") {
+      e.preventDefault();
+      buffer = buffer.slice(0, -1);
+      bufferEl.textContent = buffer;
+    } else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey) {
+      buffer += e.key;
+      bufferEl.textContent = buffer;
     }
   });
 }

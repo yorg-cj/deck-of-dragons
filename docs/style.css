@@ -70,21 +70,21 @@ header {
   user-select: none;
 }
 
-.prompt-input {
-  background: transparent;
-  border: none;
-  outline: none;
+.buffer-display {
   color: var(--text);
   font-family: var(--font-mono);
   font-size: 0.9rem;
-  caret-color: var(--text);
-  width: 8ch;
   letter-spacing: 0.05em;
 }
 
-.prompt-input::placeholder {
-  color: var(--text-dim);
-  opacity: 0.5;
+.prompt-cursor {
+  color: var(--text);
+  font-size: 0.9rem;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
 }
 
 /* ── Error ───────────────────────────────────────────────────────────── */
