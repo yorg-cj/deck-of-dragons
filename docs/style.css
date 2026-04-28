@@ -1,0 +1,274 @@
+/* ── Base ───────────────────────────────────────────────────────────── */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #0d0d0d;
+  --bg-card:   #111111;
+  --bg-hover:  #161616;
+  --text:      #cccccc;
+  --text-dim:  #555555;
+  --text-mid:  #888888;
+  --border:    #333333;
+  --font-mono: 'Courier New', Courier, monospace;
+
+  /* House colours */
+  --war:     #cc3333;
+  --coin:    #bbaa00;
+  --shadow:  #bb44bb;
+  --life:    #44aa44;
+  --iron:    #4466cc;
+  --words:   #33aaaa;
+  --chains:  #cc6600;
+}
+
+html { font-size: 16px; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-mono);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem 4rem;
+  line-height: 1.5;
+}
+
+/* ── Header ─────────────────────────────────────────────────────────── */
+
+header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  width: 100%;
+  max-width: 640px;
+}
+
+.splash {
+  display: inline-block;
+  font-size: clamp(0.55rem, 1.8vw, 0.85rem);
+  color: var(--text-mid);
+  text-align: left;
+  line-height: 1.4;
+  white-space: pre;
+}
+
+.tagline {
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  margin-top: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
+/* ── Loading / Error ────────────────────────────────────────────────── */
+
+.loading, .error {
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+}
+
+.error { color: #cc4444; }
+
+/* ── Reading date ────────────────────────────────────────────────────── */
+
+.reading-date {
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+/* ── Card grid ───────────────────────────────────────────────────────── */
+
+.reading-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 180px);
+  grid-template-rows: repeat(4, auto);
+  gap: 16px 20px;
+  margin: 0 auto 3rem;
+  justify-content: center;
+}
+
+/* Named grid areas by position */
+.pos-ascending  { grid-column: 2; grid-row: 1; }
+.pos-waning     { grid-column: 1; grid-row: 2; }
+.pos-center     { grid-column: 2; grid-row: 2; }
+.pos-emerging   { grid-column: 3; grid-row: 2; }
+.pos-foundation { grid-column: 2; grid-row: 3; }
+.pos-wild-0     { grid-column: 1; grid-row: 4; }
+.pos-wild-1     { grid-column: 3; grid-row: 4; }
+
+/* ── Card ────────────────────────────────────────────────────────────── */
+
+.card {
+  width: 180px;
+  background: var(--bg-card);
+  border: 1px solid var(--house-color, var(--border));
+  padding: 12px 10px 10px;
+  position: relative;
+  transition: background 0.15s;
+  cursor: default;
+}
+
+.card:hover { background: var(--bg-hover); }
+
+.card.reversed {
+  border-color: color-mix(in srgb, var(--house-color, var(--border)) 50%, transparent);
+  opacity: 0.85;
+}
+
+.card-reversed-label {
+  font-size: 0.6rem;
+  color: color-mix(in srgb, var(--house-color, var(--text-dim)) 70%, transparent);
+  text-align: center;
+  letter-spacing: 0.1em;
+  margin-bottom: 6px;
+  height: 1em;
+}
+
+.card-sigil {
+  font-size: 1.4rem;
+  text-align: center;
+  color: var(--house-color, var(--text));
+  margin: 8px 0 6px;
+  display: block;
+}
+
+.card.reversed .card-sigil { opacity: 0.6; }
+
+.card-title {
+  font-size: 0.72rem;
+  font-weight: bold;
+  text-align: center;
+  color: var(--house-color, var(--text));
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+
+.card.reversed .card-title { opacity: 0.7; }
+
+.card-house {
+  font-size: 0.62rem;
+  text-align: center;
+  color: color-mix(in srgb, var(--house-color, var(--text-mid)) 80%, var(--text-mid));
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+}
+
+.card-confidence {
+  font-size: 0.62rem;
+  color: var(--text-dim);
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.conf-bar {
+  display: inline-block;
+  letter-spacing: -0.05em;
+}
+
+.card-pos-label {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+  padding: 0 4px 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ── Sources ─────────────────────────────────────────────────────────── */
+
+.sources-section {
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+  padding-top: 1.5rem;
+}
+
+.sources-header {
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  margin-bottom: 1.5rem;
+}
+
+.source-item {
+  margin-bottom: 1.25rem;
+}
+
+.source-card-name {
+  font-size: 0.8rem;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}
+
+.source-article-title {
+  font-size: 0.72rem;
+  color: var(--text-mid);
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.source-url a {
+  font-size: 0.68rem;
+  color: #4488cc;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.source-url a:hover { text-decoration: underline; }
+
+/* ── Footer ──────────────────────────────────────────────────────────── */
+
+footer {
+  margin-top: 4rem;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.65rem;
+  line-height: 2;
+  letter-spacing: 0.05em;
+}
+
+/* ── Responsive ──────────────────────────────────────────────────────── */
+
+@media (max-width: 640px) {
+  .reading-grid {
+    grid-template-columns: repeat(3, 140px);
+    gap: 10px 12px;
+  }
+  .card { width: 140px; padding: 10px 8px 8px; }
+  .card-sigil { font-size: 1.1rem; }
+  .card-title { font-size: 0.62rem; }
+  .card-house { font-size: 0.55rem; }
+  .card-confidence { font-size: 0.55rem; }
+}
+
+@media (max-width: 480px) {
+  .reading-grid {
+    grid-template-columns: repeat(3, 110px);
+    gap: 8px;
+  }
+  .card { width: 110px; padding: 8px 6px 6px; }
+  .card-sigil { font-size: 1rem; margin: 4px 0; }
+  .card-title { font-size: 0.55rem; }
+  .card-house { font-size: 0.5rem; margin-bottom: 6px; }
+  .card-confidence { display: none; }
+}

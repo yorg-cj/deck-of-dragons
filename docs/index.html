@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deck of Dragons</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <pre class="splash">
+╔══════════════════════════════════════════════╗
+║          D E C K   O F   D R A G O N S      ║
+║                                              ║
+║   The cards reveal what forces move unseen.  ║
+║   What hand is played, what debt is owed.    ║
+╚══════════════════════════════════════════════╝</pre>
+    <p class="tagline">A real-world political oracle. One reading per day.</p>
+  </header>
+
+  <main>
+    <div id="loading" class="loading">Consulting the deck&hellip;</div>
+    <div id="error" class="error" hidden></div>
+
+    <div id="reading" hidden>
+      <div class="reading-date" id="reading-date"></div>
+      <div class="reading-grid" id="reading-grid"></div>
+      <div class="sources-section">
+        <div class="sources-header">── SOURCES ──</div>
+        <div class="sources-list" id="sources-list"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Cards never name entities &mdash; they show only archetypes. The puzzle is identifying who plays each role.</p>
+    <p>Powered by Guardian API &middot; GDELT &middot; Sentence Transformers</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
