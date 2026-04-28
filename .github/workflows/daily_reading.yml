@@ -1,4 +1,5 @@
 name: Daily Reading
+# Generates today's oracle reading and commits it to docs/reading.json
 
 on:
   schedule:
