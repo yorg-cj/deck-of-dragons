@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "cards": [
     {
       "house": "High House Coin",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.42,
+      "scores": {
+        "High House War": 0.097,
+        "High House Coin": 0.136,
+        "High House Shadow": 0.42,
+        "High House Life": 0.047,
+        "High House Iron": 0.02,
+        "High House Words": 0.301,
+        "High House Chains": 0.153
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.768
+      },
+      "article": {
+        "title": "La conocida historia secreta de la CIA en M\u00e9xico",
+        "url": "https://lasillarota.com/opinion/columnas/2026/4/27/la-conocida-historia-secreta-de-la-cia-en-mexico-596578.html",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
@@ -57,7 +86,7 @@
         "source": "guardian",
         "full_text": "Britain must seize the initiative on artificial intelligence or be left at the \u201cmercy and whim\u201d of a future shaped by the technology, Liz Kendall has said. The technology secretary said the country must have greater control over the industry as she highlighted big tech\u2019s grip on its development, with 70% of the world\u2019s AI computing power provided by US companies. In a speech on the UK\u2019s ability to develop its own capabilities, Kendall said: \u201cThe choice isn\u2019t between a world that has AI and one that does not. It is a choice between a world where we shape our AI future, based on our own interests and values, or where we are left at its mercy and whim.\u201d Kendall highlighted the launch this month of a state AI investment fund as evidence of Labour\u2019s support for domestic firms, and revealed the government was drawing up a plan to become more influential in designing and manufacturing the chips that power AI systems. The MP for Leicester West spoke amid concerns the UK was struggling to make its own way with the technology, despite producing a stream of academic talent and being the base for companies such as the UK-founded Google DeepMind. Last week Nick Clegg, the former deputy prime minister and, until recently, a senior Silicon Valley executive, said the UK was \u201cwithout a single steam engine\u201d in the AI revolution owing to factors such as high energy costs and an unresolved row over copyright. OpenAI, the US startup behind ChatGPT, has paused a multi-billion dollar datacentre project in the UK, citing high energy costs and regulation. The Guardian revealed recently that many of the deals to \u201cmainline AI into the veins\u201d of the British economy were \u201cphantom investments\u201d, and a supercomputer scheduled to go live in 2026 was still a scaffolding yard in Essex. Kendall singled out datacentres as an example of concentration in the AI market, with five US companies \u2013 Amazon, Google, Meta, Microsoft, and Oracle \u2013 controlling 70% of global AI computing, up from 60% a year ago. \u201cControl of this incredibly powerful technology is becoming increasingly concentrated,\u201d she said, adding that the UK \u201cmust shape this technology, not just be shaped by it\u201d. However, Kendall said a push for AI sovereignty should not be seen as \u201cweakening our deep, close and enduring relationship with the US\u201d, the home of leading AI companies such as OpenAI and Anthropic. Kendall said calls to pause AI development would be a \u201cbetrayal of British talent and British interests\u201d. In December, MPs at a Westminster Hall debate were urged to consider calls by the campaign group PauseAI for a hiatus in developing powerful AI systems. \u201cIt would send a message that Britain is closed to new ideas and new opportunities; that a country so rich in talent, innovation and enterprise has put an \u2018out of office\u2019 sign on its front door,\u201d said Kendall. \u201cIf we retreat from progress we retreat from the world, leaving this powerful technology to be exploited by other nations to their advantage and our disadvantage.\u201d"
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
@@ -89,65 +118,36 @@
         "source": "guardian",
         "full_text": "Britain is becoming a soft target for Russian and other state propaganda because the UK is not prepared to educate people on how to deal with information warfare, according to a former White House adviser and security expert. Fiona Hill told a parliamentary committee that she feared the UK had become \u201cextraordinarily vulnerable\u201d to online manipulation feeding into the electoral system because there was a lack of discussion about civil defence. \u201cI think part of the problem is also on the societal level: that the UK increasingly looks like a soft target rather than a hard target, because modern war, as we all know, is fought with so many different methods now, including propaganda,\u201d Hill said. She contrasted the UK with Sweden, which has an idea of \u201cpsychological defence\u201d. It is about \u201ctraining people to think about how you deal with all kinds of information warfare, so people can recognise when they\u2019re being manipulated\u201d. The concept dates back to the cold war, but after a hiatus Sweden set up a psychological defence agency in 2022, which tries to work with the public and highlight online disinformation. Four years ago, the unit highlighted that false narratives were being spread, originally from sources in Egypt, that Swedish social services were kidnapping Muslim children for corrupt purposes. The disinformation was for a time picked up and believed, particularly in immigrant communities, until it was called out and quashed. Hill was speaking at a meeting of parliament\u2019s joint committee on national security strategy, which is composed of MPs and peers, and is inquiring how the UK can build societal resilience in the online era. She appeared alongside George Robertson, a former Nato secretary general, who alongside Hill co-authored last year\u2019s Strategic Defence Review, which recommended that the government engage the general public in a wider conversation about the risks posed by Russia, China, Iran and others. Robertson said there \u201cwas a great necessity to share with the country the kind of threats that we face at the moment\u201d given that Keir Starmer, the prime minister, had warned about the possibility of a Russian attack on Nato by the end of the decade. \u201cYou would have thought that it would have been a matter of some urgency,\u201d Robertson said, but he added that despite trying to remind Starmer of the pledge to communicate more \u201cthey haven\u2019t started it\u201d. The former Nato chief said: \u201cWe cannot allow the idea to be there that it is purely a matter for the armed forces to defend the country,\u201d and that it required \u201can all of country approach\u201d which included engaging citizens directly. But Robertson and Hill argued that the UK had generally become poor in engaging people in civil defence and a realistic appraisal of the threat faced from Russia or elsewhere. Hill said during the Troubles in Northern Ireland there had been a successful effort in educating people about the dangers of unattended bags which could contain explosives, but no analogous efforts today. \u201cI think there\u2019s too much of a worry that people are going to panic at this particular point, but you haven\u2019t even tried to test the proposition of actually talking to people directly,\u201d she said."
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.376,
+      "reversed": false,
+      "confidence": 0.378,
       "scores": {
-        "High House War": 0.376,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.171,
-        "High House Life": 0.101,
-        "High House Iron": -0.035,
-        "High House Words": 0.099,
-        "High House Chains": 0.215
+        "High House War": 0.378,
+        "High House Coin": 0.181,
+        "High House Shadow": 0.113,
+        "High House Life": 0.02,
+        "High House Iron": 0.097,
+        "High House Words": 0.253,
+        "High House Chains": 0.213
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.883
       },
       "article": {
-        "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
-        "url": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-        "source": "guardian",
-        "full_text": "Russia\u2019s defence ministry has claimed its Africa Corps \u2013 the successor to the former Wagner mercenary group \u2013 prevented a coup in Mali over the weekend, avoiding mass civilian casualties and inflicting \u201cirreplaceable losses\u201d on rebel insurgents. It said in a statement that its troops in the desert town of Kidal near the Algerian border had fought for more than 24 hours while completely surrounded and vastly outnumbered. It also alleged, without providing evidence, that the militants had been trained by European mercenary instructors, including Ukrainians. The casualty toll was not specified. Local reports on Monday had suggested that, contrary to Russia\u2019s claims, the Africa Corps troops negotiated their exit, with Algeria as a mediator. Rebel forces in Mali over the weekend drove the Africa Corps from Kidal, launched an attack near the capital, Bamako, and killed defence minister Sadio Camara \u2013 a key Moscow ally \u2013 in an apparent suicide bombing. Kremlin spokesperson Dmitry Peskov separately told reporters in Moscow on Tuesday that restoring peace and stability in Mali was a priority. The fall of Kidal \u2013 a city Russian forces first helped the junta recapture in 2023 \u2013 and handover of territory to the rebel alliance has been seen as proof of the limits of Moscow\u2019s military influence in west Africa. French state radio RFI quoted one Malian official as anonymously saying that Kidal\u2019s governor had warned Africa Corps of the attack three days before it happened and that their exit was pre-negotiated. \u201cThe Russians betrayed us in Kidal,\u201d the official said. Mali has been gripped by violence on multiple fronts since 2012 after a rebellion triggered by Tuareg rebels. The security crisis hit a new peak on Saturday after the separatists and al-Qaida-linked jihadists joined forces to launch coordinated attacks, dealing a major blow to the country\u2019s military junta and its Russian backers. In recent years, Russia has made inroads in the Sahel, the semi-desert belt stretching across countries including Mali, Burkina Faso and Niger. All three have experienced military coups in which French and UN forces were expelled and replaced by Russian support, as juntas sought to shore up their rule and confront long-running Islamist insurgencies and separatist rebellions. About 2,000 Russian troops are deployed in landlocked Mali under the Africa Corps banner, the successor to the Wagner group across much of the continent. Military bloggers close to the defence ministry previously said that one Russian helicopter had been shot down near the city of Gao, killing those on board. Footage posted on social media appeared to show Russian soldiers engaged in fighting with insurgents, with one clip showing rebels seizing Russian military hardware. Residents of neighbourhoods within and on the outskirts of Bamako also reported seeing al-Qaida affiliate Jama\u2019at Nusrat al-Islam wal-Muslimin (JNIM) terrorists freely moving around in the last few days. Analysts like Ulf Laessing, Bamako-based head of the Sahel programme at the German thinktank Konrad-Adenauer-Stiftung, say the Russians could change tactics in the short-term at least and move southwards. \u201cI think the Russians will focus on defending the regime and leave the north to rebels,\u201d he told the Guardian. Peskov told reporters Moscow had no information on the whereabouts of Assimi Go\u00efta, the military ruler who deposed Mali\u2019s civilian government in a 2020 coup and assumed office within a year, but had not been seen publicly since the unrest began. The Malian presidency posted a photo of him in a meeting with Russian ambassador Igor Gromyko on X on Tuesday afternoon, in a meeting purported to have happened on the same day. That, however, did not diminish speculation about Goita\u2019s future as military ruler and reports of factions within the junta. \u201cGo\u00efta has lost his footing \u2026 he no longer has political legitimacy over the junta,\u201d one former Malian diplomat told the Guardian under condition of anonymity."
+        "title": "As Attacks Spread, War With Iran Reaches Far Beyond Mideast",
+        "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-turkey.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.345,
-      "scores": {
-        "High House War": 0.087,
-        "High House Coin": 0.086,
-        "High House Shadow": 0.345,
-        "High House Life": 0.022,
-        "High House Iron": -0.102,
-        "High House Words": 0.208,
-        "High House Chains": 0.088
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.544,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "Ukraine war briefing: Arrests over Russian GRU-linked murder plots in Lithuania",
-        "url": "https://www.theguardian.com/world/2026/apr/28/ukraine-war-briefing-arrests-russian-gru-linked-plots-lithuania",
-        "source": "guardian",
-        "full_text": "Lithuanian authorities say they have charged 13 people with two attempted murders in Vilnius linked to Russia\u2019s GRU military intelligence agency, while Ukraine said the same group constituted a \u201cRussian intelligence network\u201d that tried to murder Ukrainian journalists and an intelligence official. Lithuania alleges those who sought the killings were acting in the interests of the GRU, said Saulius Briginas, the Lithuanian police chief. The suspects, some of whom were arrested in Lithuania in March, were charged with seeking to kill one Lithuanian \u2013 an activist and fundraiser for Ukraine \u2013 and one Russian national, a dissident and activist for the rights of the Bashkir minority of Russia. The same suspects were also believed by police to be behind an arson attack on Ukraine-bound military equipment in Bulgaria and espionage against the Greek military, he added. \u201cWe are witnessing hybrid-style crimes against European Union countries, their national security, and persons who act in support of Ukraine,\u201d said Briginas, the police chief. Russia\u2019s defence ministry, which is in charge of military intelligence, did not immediately respond to a request for comment when contacted by the Reuters news agency. Moscow has always denied allegations it is involved in such operations or in a wider sabotage campaign involving arson attacks aimed at destabilising Ukraine\u2019s allies. But there have been several successful prosecutions in target countries including the UK and admissions by participants that they were acting for Russian paymasters. Lithuania has previously said the GRU was behind parcel blasts in Europe and attempted arson at an Ikea store and at a plant that supplies radio scanners to Ukraine\u2019s army. The Ukrainian foreign minister, Andriy Sybiga, said he had summoned Israel\u2019s ambassador in protest over a shipment to an Israeli port allegedly containing stolen grain farmed on Russian-occupied Ukrainian territory. Ukraine says it previously informed Israel in April that a Russian shipment received at Haifa contained grain from Ukrainian territory. Sybiga said: \u201cIt is difficult to understand Israel\u2019s lack of appropriate response \u2026 Now that another such vessel has arrived in Haifa, we once again warn Israel against accepting the stolen grain and harming our relations.\u201d The Israeli foreign minister, Gideon Saar, hit back at Sybiga over the public announcement but added \u201cthe matter will be examined \u2026 Israel is a state that abides by the rule of law.\u201d The EU found in 2024 there was evidence Russia was \u201cillegally appropriating large volumes of [cereals and grains] in territories of Ukraine, which it illegally occupies, and routing them to its export markets as allegedly Russian products\u201d. A Russian drone attack before dawn on Ukraine\u2019s southern city of Odesa wounded 14 people, including two children, authorities said on Monday, in a barrage of civilian areas. A Ukrainian drone strike killed two people in the Russia-occupied part of Ukraine\u2019s southern Kherson region, the Moscow-installed governor, Vladimir Saldo, said on Monday. A man and a woman in their 70s died in the village of Dnipriany, he said. In Odesa, drones hit residential neighbourhoods and civilian infrastructure, said Serhii Lysak, the head of the city\u2019s administration. Five of the wounded, most of them with shrapnel wounds, were hospitalised, according to Oleh Kiper, the head of the regional military administration. Volodymyr Zelenskyy, the Ukrainian president, said on Monday that Russia has fired approximately 1,900 attack drones, nearly 1,400 powerful guided aerial bombs and about 60 missiles of various types at Ukraine over the past week. In Poland, Donald Tusk, the prime minister, said his government planned to build a \u201cdrone armada\u201d with Ukraine\u2019s help, to defend both itself and the rest of Europe. Zelenskyy also announced that Ukraine is massively scaling up the production of ground robots that can deliver supplies, evacuate injured soldiers and fire automatic weapons. Kyi"
-      },
-      "position": "ASCENDING"
     },
     {
       "house": "High House Life",
@@ -182,27 +182,27 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.324,
+      "confidence": 0.333,
       "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.224,
-        "High House Shadow": 0.036,
-        "High House Life": 0.116,
-        "High House Iron": 0.047,
-        "High House Words": 0.269,
-        "High House Chains": 0.324
+        "High House War": 0.252,
+        "High House Coin": 0.256,
+        "High House Shadow": 0.164,
+        "High House Life": 0.074,
+        "High House Iron": 0.11,
+        "High House Words": 0.299,
+        "High House Chains": 0.333
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.527,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.958
       },
       "article": {
-        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
-        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
-        "source": "nyt",
+        "title": "West Asia conflict highlights: US enforces Iran blockade, GCC rejects Hormuz closure, India urges free navigation at UNSC",
+        "url": "https://www.mid-day.com/news/world-news/article/west-asia-conflict-highlights-us-enforces-iran-blockade-gcc-rejects-hormuz-closure-india-urges-free-navigation-at-unsc-23627998",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
@@ -215,37 +215,17 @@
       "actor_a": "IRAN",
       "actor_b": "BRITAIN",
       "relationship": "opposed",
-      "goldstein_avg": -2.329,
+      "goldstein_avg": -2.241,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "RUSSIA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.439,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Shadow",
-      "actor_a": "IRAN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.616,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
+      "house_a": "High House Shadow",
       "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "THE CHALLENGES FACING CANADA",
+      "actor_a": "M\u00c9XICO",
+      "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.322,
+      "goldstein_avg": -0.001,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -255,95 +235,25 @@
       "actor_a": "LIZ KENDALL",
       "actor_b": "BRITAIN",
       "relationship": "neutral",
-      "goldstein_avg": 0.047,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "LIZ KENDALL",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.002,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "BRITAIN",
-      "actor_b": "RUSSIA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.855,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Shadow",
-      "actor_a": "BRITAIN",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -1.391,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "BRITAIN",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.041,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Shadow",
-      "actor_a": "RUSSIA",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.982,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "RUSSIA",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.126,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "UKRAINE",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.052,
+      "goldstein_avg": 0.029,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.585,
+      "trend": "rising",
+      "trend_ratio": 1.338,
       "source": "gdelt_volume"
     },
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 0.903,
+      "trend_ratio": 0.89,
       "source": "gdelt_volume"
     },
     "High House Life": {
       "trend": "rising",
-      "trend_ratio": 4.366,
+      "trend_ratio": 4.418,
       "source": "gdelt_volume"
     }
   }
