@@ -1,63 +1,34 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "cards": [
     {
-      "house": "High House Coin",
-      "title": "The Throne",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.47,
+      "confidence": 0.455,
       "scores": {
-        "High House War": 0.071,
-        "High House Coin": 0.47,
-        "High House Shadow": 0.093,
-        "High House Life": 0.067,
-        "High House Iron": 0.011,
-        "High House Words": 0.067,
-        "High House Chains": 0.279
+        "High House War": 0.058,
+        "High House Coin": 0.138,
+        "High House Shadow": 0.08,
+        "High House Life": 0.455,
+        "High House Iron": 0.045,
+        "High House Words": 0.134,
+        "High House Chains": 0.152
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.893
+        "sentiment_score": 0.688
       },
       "article": {
-        "title": "G7 central banks poised to hold borrowing costs amid concerns over prolonged Iran war",
-        "url": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
-        "source": "guardian",
-        "full_text": "The world\u2019s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war. In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses. Financial markets are braced for signals from the central banks of the US, Canada, Japan, Britain and the eurozone on the prospects for interest rates amid concerns that a prolonged conflict could force them to keep borrowing costs higher for longer. \u201cAnother week of no fighting, no deal and no energy flows, another week that pressure on inflation and supply chains continues to build,\u201d said Wei Yao, an analyst at the French bank Soci\u00e9t\u00e9 G\u00e9n\u00e9rale. \u201cWe will probably see all the major central banks sticking to the strategy of \u2018keep clam but stay vigilant\u2019. Communications will be the focus.\u201d In what is expected to be Federal Reserve chair Jerome Powell\u2019s final meeting in charge, the US central bank is widely expected to keep borrowing costs unchanged on Wednesday as the Middle East war stokes inflationary pressures in the world\u2019s largest economy. Financial markets are also pricing in an almost 100% chance of the Bank of England, European Central Bank, Bank of Japan and Bank of Canada holding rates. City traders give an outside probability of the UK central bank raising borrowing costs by a quarter-point. Last month the Bank kept rates on hold at 3.75%. Susannah Streeter, chief investment strategist at Wealth Club, said officials at Threadneedle Street were set to be \u201csuper wary\u201d. She said: \u201cWhile price pressures are clearly mounting, the economy is set to struggle and that could limit the chances of inflation becoming embedded. So, while they are likely to indicate that a fresh hike could be ahead, there are unlikely to be any kneejerk moves, until there\u2019s more clarity about the length of the Iran conflict.\u201d It comes as Rachel Reeves, the UK chancellor, prepares to give speeches in May and June to outline the government\u2019s approach to emergency energy support as the Iran war has driven up costs for households and businesses. With Keir Starmer\u2019s government under pressure after the revelations over the appointment of Peter Mandelson as Britain\u2019s ambassador to the US, the Financial Times reported that the chancellor would restate Labour\u2019s commitment to economic growth and sound government finances. Labour faces a tough round of local elections next week, amid speculation that Starmer\u2019s critics within the party could move to replace him. The prime minister is expected to involve the Bank of England in a meeting of the government\u2019s emergency Cobra committee on Tuesday on the economic fallout from the Iran war. Speaking at a conference held by the shop workers\u2019 union Usdaw on Monday, Starmer was applauded for restating Britain\u2019s opposition to the US-Israeli war on Iran, highlighting tensions between Downing Street and the White House as King Charles travels to Washington this week for a state visit. \u201cI have to level with you about Iran because the truth is the economic consequences could still be with us for some time. You don\u2019t have to be a politician to know that. You can see it on every petrol forecourt across the country,\u201d he said. \u201cWe are monitoring this daily. So, delegates, for example, tomorrow I\u2019m chairing a meeting in Cobra on the impact, bringing in people from the Bank of England, so you can be sure we will stand by working people in this crisis.\u201d Inflation had been cooling across advanced economies before the start of the US-Israeli war on Iran. There have been signs of the UK economy beginning to turn a corner, with stronger-than-expected growth at the start of the year, falling unemployment, and resilience in the public finances. However, experts have warned the throttling of global energy supplies by the Iran war will drive up inflation globally this year. Ea"
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.42,
-      "scores": {
-        "High House War": 0.097,
-        "High House Coin": 0.136,
-        "High House Shadow": 0.42,
-        "High House Life": 0.047,
-        "High House Iron": 0.02,
-        "High House Words": 0.301,
-        "High House Chains": 0.153
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.768
-      },
-      "article": {
-        "title": "La conocida historia secreta de la CIA en M\u00e9xico",
-        "url": "https://lasillarota.com/opinion/columnas/2026/4/27/la-conocida-historia-secreta-de-la-cia-en-mexico-596578.html",
-        "source": "gdelt_doc",
+        "title": "Climate-Driven Disruptions to Education in Africa Raise Protection Risks for Millions of Children",
+        "url": "https://www.globalissues.org/news/2026/04/29/42902",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
@@ -86,171 +57,271 @@
         "source": "guardian",
         "full_text": "Britain must seize the initiative on artificial intelligence or be left at the \u201cmercy and whim\u201d of a future shaped by the technology, Liz Kendall has said. The technology secretary said the country must have greater control over the industry as she highlighted big tech\u2019s grip on its development, with 70% of the world\u2019s AI computing power provided by US companies. In a speech on the UK\u2019s ability to develop its own capabilities, Kendall said: \u201cThe choice isn\u2019t between a world that has AI and one that does not. It is a choice between a world where we shape our AI future, based on our own interests and values, or where we are left at its mercy and whim.\u201d Kendall highlighted the launch this month of a state AI investment fund as evidence of Labour\u2019s support for domestic firms, and revealed the government was drawing up a plan to become more influential in designing and manufacturing the chips that power AI systems. The MP for Leicester West spoke amid concerns the UK was struggling to make its own way with the technology, despite producing a stream of academic talent and being the base for companies such as the UK-founded Google DeepMind. Last week Nick Clegg, the former deputy prime minister and, until recently, a senior Silicon Valley executive, said the UK was \u201cwithout a single steam engine\u201d in the AI revolution owing to factors such as high energy costs and an unresolved row over copyright. OpenAI, the US startup behind ChatGPT, has paused a multi-billion dollar datacentre project in the UK, citing high energy costs and regulation. The Guardian revealed recently that many of the deals to \u201cmainline AI into the veins\u201d of the British economy were \u201cphantom investments\u201d, and a supercomputer scheduled to go live in 2026 was still a scaffolding yard in Essex. Kendall singled out datacentres as an example of concentration in the AI market, with five US companies \u2013 Amazon, Google, Meta, Microsoft, and Oracle \u2013 controlling 70% of global AI computing, up from 60% a year ago. \u201cControl of this incredibly powerful technology is becoming increasingly concentrated,\u201d she said, adding that the UK \u201cmust shape this technology, not just be shaped by it\u201d. However, Kendall said a push for AI sovereignty should not be seen as \u201cweakening our deep, close and enduring relationship with the US\u201d, the home of leading AI companies such as OpenAI and Anthropic. Kendall said calls to pause AI development would be a \u201cbetrayal of British talent and British interests\u201d. In December, MPs at a Westminster Hall debate were urged to consider calls by the campaign group PauseAI for a hiatus in developing powerful AI systems. \u201cIt would send a message that Britain is closed to new ideas and new opportunities; that a country so rich in talent, innovation and enterprise has put an \u2018out of office\u2019 sign on its front door,\u201d said Kendall. \u201cIf we retreat from progress we retreat from the world, leaving this powerful technology to be exploited by other nations to their advantage and our disadvantage.\u201d"
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.403,
+      "confidence": 0.398,
       "scores": {
-        "High House War": 0.158,
-        "High House Coin": 0.088,
-        "High House Shadow": 0.293,
-        "High House Life": 0.089,
-        "High House Iron": 0.008,
-        "High House Words": 0.403,
-        "High House Chains": 0.089
+        "High House War": 0.063,
+        "High House Coin": 0.398,
+        "High House Shadow": 0.215,
+        "High House Life": 0.117,
+        "High House Iron": 0.148,
+        "High House Words": 0.264,
+        "High House Chains": 0.295
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.8,
+        "confidence": 0.7,
         "matched_signals": [
-          "propaganda",
-          "disinformation"
+          "sanction"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.877
       },
       "article": {
-        "title": "Britain becoming \u2018soft target\u2019 for Russian propaganda, says security expert",
-        "url": "https://www.theguardian.com/politics/2026/apr/27/britain-becoming-soft-target-for-russian-propaganda-says-security-expert",
-        "source": "guardian",
-        "full_text": "Britain is becoming a soft target for Russian and other state propaganda because the UK is not prepared to educate people on how to deal with information warfare, according to a former White House adviser and security expert. Fiona Hill told a parliamentary committee that she feared the UK had become \u201cextraordinarily vulnerable\u201d to online manipulation feeding into the electoral system because there was a lack of discussion about civil defence. \u201cI think part of the problem is also on the societal level: that the UK increasingly looks like a soft target rather than a hard target, because modern war, as we all know, is fought with so many different methods now, including propaganda,\u201d Hill said. She contrasted the UK with Sweden, which has an idea of \u201cpsychological defence\u201d. It is about \u201ctraining people to think about how you deal with all kinds of information warfare, so people can recognise when they\u2019re being manipulated\u201d. The concept dates back to the cold war, but after a hiatus Sweden set up a psychological defence agency in 2022, which tries to work with the public and highlight online disinformation. Four years ago, the unit highlighted that false narratives were being spread, originally from sources in Egypt, that Swedish social services were kidnapping Muslim children for corrupt purposes. The disinformation was for a time picked up and believed, particularly in immigrant communities, until it was called out and quashed. Hill was speaking at a meeting of parliament\u2019s joint committee on national security strategy, which is composed of MPs and peers, and is inquiring how the UK can build societal resilience in the online era. She appeared alongside George Robertson, a former Nato secretary general, who alongside Hill co-authored last year\u2019s Strategic Defence Review, which recommended that the government engage the general public in a wider conversation about the risks posed by Russia, China, Iran and others. Robertson said there \u201cwas a great necessity to share with the country the kind of threats that we face at the moment\u201d given that Keir Starmer, the prime minister, had warned about the possibility of a Russian attack on Nato by the end of the decade. \u201cYou would have thought that it would have been a matter of some urgency,\u201d Robertson said, but he added that despite trying to remind Starmer of the pledge to communicate more \u201cthey haven\u2019t started it\u201d. The former Nato chief said: \u201cWe cannot allow the idea to be there that it is purely a matter for the armed forces to defend the country,\u201d and that it required \u201can all of country approach\u201d which included engaging citizens directly. But Robertson and Hill argued that the UK had generally become poor in engaging people in civil defence and a realistic appraisal of the threat faced from Russia or elsewhere. Hill said during the Troubles in Northern Ireland there had been a successful effort in educating people about the dangers of unattended bags which could contain explosives, but no analogous efforts today. \u201cI think there\u2019s too much of a worry that people are going to panic at this particular point, but you haven\u2019t even tried to test the proposition of actually talking to people directly,\u201d she said."
+        "title": "Trump intensifies \u2018Economic Fury\u2019 against China and Iran",
+        "url": "https://worldtribune.com/trump-intensifies-economic-fury-against-china-and-iran",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.378,
+      "confidence": 0.39,
       "scores": {
-        "High House War": 0.378,
-        "High House Coin": 0.181,
-        "High House Shadow": 0.113,
-        "High House Life": 0.02,
-        "High House Iron": 0.097,
-        "High House Words": 0.253,
-        "High House Chains": 0.213
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.883
-      },
-      "article": {
-        "title": "As Attacks Spread, War With Iran Reaches Far Beyond Mideast",
-        "url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-turkey.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.338,
-      "scores": {
-        "High House War": 0.03,
-        "High House Coin": 0.128,
-        "High House Shadow": 0.07,
-        "High House Life": 0.338,
-        "High House Iron": 0.037,
-        "High House Words": 0.017,
-        "High House Chains": 0.093
+        "High House War": 0.39,
+        "High House Coin": 0.101,
+        "High House Shadow": 0.183,
+        "High House Life": 0.114,
+        "High House Iron": 0.092,
+        "High House Words": 0.153,
+        "High House Chains": 0.177
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.97
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Trump\u2019s Budget May Target Climate Programs. Here\u2019s What Still Survives.",
-        "url": "https://www.nytimes.com/2026/04/02/climate/trump-budget-climate-cuts-congress.html",
+        "title": "India Ready for \u2018Long War\u2019 During Operation Sindoor: Rajnath Singh at National Security Summit",
+        "url": "https://pragativadi.com/india-ready-for-long-war-during-operation-sindoor-rajnath-singh-at-national-security-summit",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.33,
+      "scores": {
+        "High House War": 0.213,
+        "High House Coin": 0.134,
+        "High House Shadow": 0.33,
+        "High House Life": -0.004,
+        "High House Iron": 0.188,
+        "High House Words": 0.254,
+        "High House Chains": 0.104
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "Despite Cease-Fire, Iran\u2019s Hackers Haven\u2019t Logged Off",
+        "url": "https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.324,
+      "scores": {
+        "High House War": 0.049,
+        "High House Coin": 0.224,
+        "High House Shadow": 0.036,
+        "High House Life": 0.116,
+        "High House Iron": 0.047,
+        "High House Words": 0.269,
+        "High House Chains": 0.324
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.541,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.984
+      },
+      "article": {
+        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
+        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.333,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.252,
-        "High House Coin": 0.256,
-        "High House Shadow": 0.164,
-        "High House Life": 0.074,
-        "High House Iron": 0.11,
-        "High House Words": 0.299,
-        "High House Chains": 0.333
+        "High House War": 0.034,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.248,
+        "High House Life": 0.103,
+        "High House Iron": 0.058,
+        "High House Words": 0.308,
+        "High House Chains": 0.065
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.527,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.958
+        "confidence": 0.6,
+        "matched_signals": [
+          "press freedom"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.985
       },
       "article": {
-        "title": "West Asia conflict highlights: US enforces Iran blockade, GCC rejects Hormuz closure, India urges free navigation at UNSC",
-        "url": "https://www.mid-day.com/news/world-news/article/west-asia-conflict-highlights-us-enforces-iran-blockade-gcc-rejects-hormuz-closure-india-urges-free-navigation-at-unsc-23627998",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
+        "url": "https://www.theguardian.com/world/2026/apr/30/jailed-hong-kong-pro-democracy-activist-jimmy-lai-wins-freedom-of-speech-award-in-germany",
+        "source": "guardian",
+        "full_text": "The jailed media entrepreneur Jimmy Lai has been awarded Deutsche Welle\u2019s freedom of speech award for his contribution to Hong Kong\u2019s pro-democracy movement. The German public broadcaster said on Thursday that Lai would be presented in absentia with the 12th iteration of the award on 23 June at the DW Global Media Forum in Bonn. Deutsche Welle\u2019s director general, Barbara Massing, praised the 78-year-old founder of the now-shuttered news outlet Apple Daily for standing \u201cunwaveringly for press freedom in Hong Kong at great personal risk\u201d. She added: \u201cWith Apple Daily, he gave journalists a platform for free reporting and a voice to the democracy movement in Hong Kong,\u201d she said. \u201cHis commitment reminds us that press freedom is never a given \u2013 it must be constantly defended. With the DW freedom of speech award, we honour his indispensable dedication to democratic values.\u201d Lai, a British citizen, was one of Hong Kong\u2019s most prominent and vocal pro-democracy advocates before his imprisonment. He provided financial backing to democratic parties and politicians and took part in mass protests against Beijing\u2019s rule in 2019 and 2020. Authorities arrested Lai in 2020, accusing him of using the Apple Daily and his political connections to lobby for foreign governments to impose sanctions on China and Hong Kong. A Hong Kong court sentenced him to 20 years in prison in February on charges that include \u201cconspiracy to collaborate with foreign forces\u201d and publishing \u201cseditious material\u201d. He was convicted under the city\u2019s draconian national security law, imposed by the Chinese Communist party in 2020. The ruling was condemned as politically motivated by rights groups and the British government, with Human Rights Watch warning that the length of his sentence amounted to \u201ceffectively a death sentence\u201d. Lai\u2019s conviction was the culmination of a years-long saga that critics say represents Hong Kong\u2019s transformation from a largely free city after its return to China in 1997 \u2013 following more than 150 years of British rule \u2013 to one where dissent is fiercely suppressed. Beijing says the imposition of the law was necessary to restore stability to the city. Lai, who was born in southern China in 1947 and fled to Hong Kong in 1960, said he owed \u201ceverything to the people of Hong Kong\u201d and that a prison term would be \u201credemption\u201d for the \u201cwonderful life\u201d the territory had given him. Additional reporting from Yu-chen Li."
       },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "BRITAIN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.241,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "M\u00c9XICO",
-      "actor_b": "IRAN",
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "LIZ KENDALL",
+      "actor_b": "CHINA",
       "relationship": "neutral",
-      "goldstein_avg": -0.001,
+      "goldstein_avg": -0.113,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Iron",
-      "house_b": "High House Words",
+      "house_b": "High House War",
       "actor_a": "LIZ KENDALL",
-      "actor_b": "BRITAIN",
+      "actor_b": "INDIA",
       "relationship": "neutral",
-      "goldstein_avg": 0.029,
+      "goldstein_avg": -0.07,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
+      "actor_a": "LIZ KENDALL",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.052,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "INDIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.693,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Shadow",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.598,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.016,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "HONG KONG",
+      "relationship": "allied",
+      "goldstein_avg": 1.028,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "INDIA",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.098,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "INDIA",
+      "actor_b": "HONG KONG",
+      "relationship": "neutral",
+      "goldstein_avg": -0.544,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "IRAN",
+      "actor_b": "HONG KONG",
+      "relationship": "opposed",
+      "goldstein_avg": -1.769,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "THE CHALLENGES FACING CANADA",
+      "actor_b": "HONG KONG",
+      "relationship": "neutral",
+      "goldstein_avg": 0.008,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.338,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.89,
-      "source": "gdelt_volume"
-    },
     "High House Life": {
       "trend": "rising",
       "trend_ratio": 4.418,
