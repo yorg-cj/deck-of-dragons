@@ -68,6 +68,11 @@ header {
 }
 
 .draw-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  box-sizing: border-box;
+  display: block;
   background: var(--bg-card);
   border: 1px solid var(--border);
   color: var(--text-dim);
@@ -80,6 +85,7 @@ header {
   outline: none;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
   -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .draw-btn:hover, .draw-btn:focus-visible {
@@ -90,6 +96,8 @@ header {
 
 .draw-btn:active {
   background: var(--bg-hover);
+  color: var(--text);
+  border-color: var(--text-mid);
 }
 
 /* ── Error ───────────────────────────────────────────────────────────── */

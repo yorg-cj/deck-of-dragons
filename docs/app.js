@@ -178,17 +178,19 @@ function reveal() {
   const readingEl = document.getElementById("reading");
   const drawArea  = document.getElementById("draw-area");
 
-  if (drawArea) drawArea.remove();
+  // Show immediate feedback — button disappears, status appears
+  if (drawArea) {
+    drawArea.remove();
+    errorEl.hidden = false;
+    errorEl.textContent = "Drawing from the deck...";
+  }
 
   if (fetchError) {
-    errorEl.hidden = false;
     errorEl.textContent = "The deck is silent today.";
     return;
   }
 
   if (!readingData) {
-    errorEl.hidden = false;
-    errorEl.textContent = "Drawing from the deck...";
     setTimeout(reveal, 300);
     return;
   }
