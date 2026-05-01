@@ -59,15 +59,19 @@ function buildCard(card) {
   const posLabel = POSITION_LABELS[pos] || pos;
   const conf     = card.confidence || 0;
   const rev      = card.reversed;
+  const artTitle = (card.article || {}).title || "";
 
-  // Outer wrap holds the card border + position subtitle below it
   const wrap = document.createElement("div");
   wrap.className = "card-wrap";
 
-  const cardEl = document.createElement("div");
-  cardEl.className = "card" + (rev ? " reversed" : "");
-  cardEl.style.setProperty("--house-color", color);
-  cardEl.innerHTML = `
+  const inner = document.createElement("div");
+  inner.className = "card-inner";
+
+  // Front face — existing card design, unchanged
+  const front = document.createElement("div");
+  front.className = "card card-face" + (rev ? " reversed" : "");
+  front.style.setProperty("--house-color", color);
+  front.innerHTML = `
     <div class="card-reversed-label">${rev ? "▼ REVERSED ▼" : ""}</div>
     <span class="card-sigil">${sigil}</span>
     <div class="card-title">${escHtml(card.title || "")}</div>
@@ -77,11 +81,21 @@ function buildCard(card) {
     </div>
   `;
 
+  // Back face — article title
+  const back = document.createElement("div");
+  back.className = "card-back card-face" + (rev ? " reversed" : "");
+  back.style.setProperty("--house-color", color);
+  back.innerHTML = `<div class="card-back-title">${escHtml(artTitle)}</div>`;
+
+  inner.appendChild(front);
+  inner.appendChild(back);
+  inner.addEventListener("click", () => wrap.classList.toggle("flipped"));
+
   const labelEl = document.createElement("div");
   labelEl.className = "card-pos-label";
   labelEl.textContent = posLabel;
 
-  wrap.appendChild(cardEl);
+  wrap.appendChild(inner);
   wrap.appendChild(labelEl);
   return wrap;
 }
@@ -162,9 +176,9 @@ async function prefetch() {
 function reveal() {
   const errorEl   = document.getElementById("error");
   const readingEl = document.getElementById("reading");
-  const promptEl  = document.getElementById("prompt-area");
+  const drawArea  = document.getElementById("draw-area");
 
-  promptEl.remove();
+  if (drawArea) drawArea.remove();
 
   if (fetchError) {
     errorEl.hidden = false;
@@ -186,51 +200,7 @@ function reveal() {
 
 function init() {
   prefetch();
-
-  const input    = document.getElementById("prompt-input");
-  const bufferEl = document.getElementById("buffer-display");
-  let buffer = "";
-
-  function submit() {
-    const cmd = buffer.trim().toLowerCase();
-    buffer = "";
-    input.value = "";
-    bufferEl.textContent = "";
-    if (cmd === "draw" || cmd === "d") reveal();
-  }
-
-  // Mobile: tap anywhere in prompt area to focus input and pop up keyboard
-  document.getElementById("prompt-area").addEventListener("click", () => input.focus());
-
-  // Mobile: sync what the keyboard types into the visual buffer
-  input.addEventListener("input", () => {
-    buffer = input.value;
-    bufferEl.textContent = buffer;
-  });
-
-  // Mobile: Enter key via keyboard
-  input.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") submit();
-  });
-
-  // Desktop: capture keystrokes without requiring a tap first
-  document.addEventListener("keydown", (e) => {
-    if (!document.getElementById("prompt-area")) return;
-    if (document.activeElement === input) return; // mobile input is handling it
-
-    if (e.key === "Enter") {
-      submit();
-    } else if (e.key === "Backspace") {
-      e.preventDefault();
-      buffer = buffer.slice(0, -1);
-      input.value = buffer;
-      bufferEl.textContent = buffer;
-    } else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey && !e.altKey) {
-      buffer += e.key;
-      input.value = buffer;
-      bufferEl.textContent = buffer;
-    }
-  });
+  document.getElementById("draw-btn").addEventListener("click", reveal);
 }
 
 init();

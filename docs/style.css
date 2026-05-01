@@ -59,51 +59,37 @@ header {
   white-space: pre;
 }
 
-/* ── Prompt ──────────────────────────────────────────────────────────── */
+/* ── Draw button ─────────────────────────────────────────────────────── */
 
-.prompt-area {
+.draw-area {
   display: flex;
-  align-items: center;
   justify-content: center;
   margin-bottom: 2rem;
-  cursor: text;
 }
 
-.prompt-prefix {
+.draw-btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
   color: var(--text-dim);
-  font-size: 0.9rem;
-  user-select: none;
-}
-
-.buffer-display {
-  color: var(--text);
   font-family: var(--font-mono);
-  font-size: 0.9rem;
-  letter-spacing: 0.05em;
-}
-
-.prompt-input-hidden {
-  position: absolute;
-  opacity: 0;
-  width: 1px;
-  height: 1em;
-  border: none;
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  padding: 0.75rem 2.5rem;
+  cursor: pointer;
   outline: none;
-  background: transparent;
-  color: transparent;
-  caret-color: transparent;
-  pointer-events: none;
-  font-size: 16px; /* prevents iOS auto-zoom on focus */
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  -webkit-tap-highlight-color: transparent;
 }
 
-.prompt-cursor {
+.draw-btn:hover, .draw-btn:focus-visible {
+  background: var(--bg-hover);
   color: var(--text);
-  font-size: 0.9rem;
-  animation: blink 1s step-end infinite;
+  border-color: var(--text-mid);
 }
 
-@keyframes blink {
-  50% { opacity: 0; }
+.draw-btn:active {
+  background: var(--bg-hover);
 }
 
 /* ── Error ───────────────────────────────────────────────────────────── */
@@ -154,6 +140,52 @@ header {
   flex-direction: column;
   align-items: center;
   width: 180px;
+  cursor: pointer;
+  perspective: 600px;
+}
+
+/* ── Card flip ───────────────────────────────────────────────────────── */
+
+.card-inner {
+  display: grid;
+  width: 180px;
+  transform-style: preserve-3d;
+  transition: transform 0.45s ease;
+}
+
+.card-wrap.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  grid-row: 1;
+  grid-column: 1;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.card-back {
+  background: var(--bg-card);
+  border: 1px solid var(--house-color, var(--border));
+  padding: 12px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotateY(180deg);
+}
+
+.card-back.reversed {
+  border-color: color-mix(in srgb, var(--house-color, var(--border)) 50%, transparent);
+  opacity: 0.85;
+}
+
+.card-back-title {
+  font-size: 0.65rem;
+  color: var(--text-mid);
+  text-align: center;
+  line-height: 1.6;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 /* ── Card ────────────────────────────────────────────────────────────── */
@@ -164,10 +196,10 @@ header {
   border: 1px solid var(--house-color, var(--border));
   padding: 12px 10px 12px;
   transition: background 0.15s;
-  cursor: default;
 }
 
-.card:hover { background: var(--bg-hover); }
+.card-wrap:hover .card,
+.card-wrap:hover .card-back { background: var(--bg-hover); }
 
 .card.reversed {
   border-color: color-mix(in srgb, var(--house-color, var(--border)) 50%, transparent);
@@ -301,7 +333,9 @@ footer {
     gap: 20px 12px;
   }
   .card-wrap { width: 140px; }
+  .card-inner { width: 140px; }
   .card { width: 140px; padding: 10px 8px 10px; }
+  .card-back { padding: 10px 8px; }
   .card-sigil { font-size: 1.1rem; }
   .card-title { font-size: 0.62rem; }
   .card-house { font-size: 0.55rem; }
@@ -330,7 +364,9 @@ footer {
     gap: 16px 8px;
   }
   .card-wrap { width: 110px; }
+  .card-inner { width: 110px; }
   .card { width: 110px; padding: 8px 6px 8px; }
+  .card-back { padding: 8px 6px; }
   .card-sigil { font-size: 1rem; margin: 4px 0; }
   .card-title { font-size: 0.55rem; }
   .card-house { font-size: 0.5rem; margin-bottom: 6px; }
