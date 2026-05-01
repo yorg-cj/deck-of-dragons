@@ -246,6 +246,7 @@ header {
   color: var(--text-mid);
   text-align: center;
   line-height: 1.6;
+  width: 100%;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
