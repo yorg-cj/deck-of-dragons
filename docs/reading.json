@@ -1,210 +1,206 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "cards": [
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.455,
-      "scores": {
-        "High House War": 0.058,
-        "High House Coin": 0.138,
-        "High House Shadow": 0.08,
-        "High House Life": 0.455,
-        "High House Iron": 0.045,
-        "High House Words": 0.134,
-        "High House Chains": 0.152
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.688
-      },
-      "article": {
-        "title": "Climate-Driven Disruptions to Education in Africa Raise Protection Risks for Millions of Children",
-        "url": "https://www.globalissues.org/news/2026/04/29/42902",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.405,
-      "scores": {
-        "High House War": 0.06,
-        "High House Coin": 0.228,
-        "High House Shadow": 0.237,
-        "High House Life": 0.119,
-        "High House Iron": 0.405,
-        "High House Words": 0.121,
-        "High House Chains": 0.175
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.726
-      },
-      "article": {
-        "title": "UK must seize initiative on AI or be left at its mercy, Liz Kendall says",
-        "url": "https://www.theguardian.com/technology/2026/apr/28/uk-must-seize-ai-initiative-or-be-left-at-the-mercy-of-the-future-liz-kendall-warns",
-        "source": "guardian",
-        "full_text": "Britain must seize the initiative on artificial intelligence or be left at the \u201cmercy and whim\u201d of a future shaped by the technology, Liz Kendall has said. The technology secretary said the country must have greater control over the industry as she highlighted big tech\u2019s grip on its development, with 70% of the world\u2019s AI computing power provided by US companies. In a speech on the UK\u2019s ability to develop its own capabilities, Kendall said: \u201cThe choice isn\u2019t between a world that has AI and one that does not. It is a choice between a world where we shape our AI future, based on our own interests and values, or where we are left at its mercy and whim.\u201d Kendall highlighted the launch this month of a state AI investment fund as evidence of Labour\u2019s support for domestic firms, and revealed the government was drawing up a plan to become more influential in designing and manufacturing the chips that power AI systems. The MP for Leicester West spoke amid concerns the UK was struggling to make its own way with the technology, despite producing a stream of academic talent and being the base for companies such as the UK-founded Google DeepMind. Last week Nick Clegg, the former deputy prime minister and, until recently, a senior Silicon Valley executive, said the UK was \u201cwithout a single steam engine\u201d in the AI revolution owing to factors such as high energy costs and an unresolved row over copyright. OpenAI, the US startup behind ChatGPT, has paused a multi-billion dollar datacentre project in the UK, citing high energy costs and regulation. The Guardian revealed recently that many of the deals to \u201cmainline AI into the veins\u201d of the British economy were \u201cphantom investments\u201d, and a supercomputer scheduled to go live in 2026 was still a scaffolding yard in Essex. Kendall singled out datacentres as an example of concentration in the AI market, with five US companies \u2013 Amazon, Google, Meta, Microsoft, and Oracle \u2013 controlling 70% of global AI computing, up from 60% a year ago. \u201cControl of this incredibly powerful technology is becoming increasingly concentrated,\u201d she said, adding that the UK \u201cmust shape this technology, not just be shaped by it\u201d. However, Kendall said a push for AI sovereignty should not be seen as \u201cweakening our deep, close and enduring relationship with the US\u201d, the home of leading AI companies such as OpenAI and Anthropic. Kendall said calls to pause AI development would be a \u201cbetrayal of British talent and British interests\u201d. In December, MPs at a Westminster Hall debate were urged to consider calls by the campaign group PauseAI for a hiatus in developing powerful AI systems. \u201cIt would send a message that Britain is closed to new ideas and new opportunities; that a country so rich in talent, innovation and enterprise has put an \u2018out of office\u2019 sign on its front door,\u201d said Kendall. \u201cIf we retreat from progress we retreat from the world, leaving this powerful technology to be exploited by other nations to their advantage and our disadvantage.\u201d"
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
       "reversed": true,
-      "confidence": 0.398,
+      "confidence": 0.561,
       "scores": {
-        "High House War": 0.063,
-        "High House Coin": 0.398,
-        "High House Shadow": 0.215,
-        "High House Life": 0.117,
-        "High House Iron": 0.148,
-        "High House Words": 0.264,
-        "High House Chains": 0.295
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.877
-      },
-      "article": {
-        "title": "Trump intensifies \u2018Economic Fury\u2019 against China and Iran",
-        "url": "https://worldtribune.com/trump-intensifies-economic-fury-against-china-and-iran",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.39,
-      "scores": {
-        "High House War": 0.39,
-        "High House Coin": 0.101,
-        "High House Shadow": 0.183,
-        "High House Life": 0.114,
-        "High House Iron": 0.092,
-        "High House Words": 0.153,
-        "High House Chains": 0.177
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "India Ready for \u2018Long War\u2019 During Operation Sindoor: Rajnath Singh at National Security Summit",
-        "url": "https://pragativadi.com/india-ready-for-long-war-during-operation-sindoor-rajnath-singh-at-national-security-summit",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.33,
-      "scores": {
-        "High House War": 0.213,
-        "High House Coin": 0.134,
-        "High House Shadow": 0.33,
-        "High House Life": -0.004,
-        "High House Iron": 0.188,
-        "High House Words": 0.254,
-        "High House Chains": 0.104
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "Despite Cease-Fire, Iran\u2019s Hackers Haven\u2019t Logged Off",
-        "url": "https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.324,
-      "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.224,
-        "High House Shadow": 0.036,
-        "High House Life": 0.116,
-        "High House Iron": 0.047,
-        "High House Words": 0.269,
-        "High House Chains": 0.324
+        "High House War": 0.07,
+        "High House Coin": 0.174,
+        "High House Shadow": 0.209,
+        "High House Life": 0.1,
+        "High House Iron": 0.561,
+        "High House Words": -0.034,
+        "High House Chains": 0.12
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.541,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
-        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
+        "title": "Tech giants ramp up AI spending, but returns remain uncertain: Jefferies",
+        "url": "https://www.aninews.in/news/business/tech-giants-ramp-up-ai-spending-but-returns-remain-uncertain-jefferies20260501141624",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.48,
+      "scores": {
+        "High House War": -0.057,
+        "High House Coin": 0.48,
+        "High House Shadow": 0.109,
+        "High House Life": 0.076,
+        "High House Iron": 0.017,
+        "High House Words": 0.12,
+        "High House Chains": 0.201
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "The World\u2019s Central Banks Are Wrestling With a Gigantic Problem",
+        "url": "https://www.nytimes.com/2026/05/01/business/iran-war-interest-rates-central-banks.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.413,
+      "scores": {
+        "High House War": 0.222,
+        "High House Coin": 0.26,
+        "High House Shadow": 0.014,
+        "High House Life": 0.037,
+        "High House Iron": -0.016,
+        "High House Words": 0.198,
+        "High House Chains": 0.413
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.541,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.983
+      },
+      "article": {
+        "title": "Iran demands compensation from Gulf countries for consequences of war",
+        "url": "https://www.trend.az/iran/4181194.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.385,
+      "scores": {
+        "High House War": 0.06,
+        "High House Coin": 0.065,
+        "High House Shadow": 0.385,
+        "High House Life": 0.151,
+        "High House Iron": 0.156,
+        "High House Words": 0.354,
+        "High House Chains": 0.075
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "UN warns women in public life face increasingly sophisticated online violence ",
+        "url": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
+        "source": "guardian",
+        "full_text": "Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators\u201d. Female rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report by UN Women found. Of more than 1,500 women in public life, 6% said they had been victims of deepfakes, while nearly a third said they had received unsolicited sexual advances online. About 12% said they had had images of themselves shared without their consent, including intimate or sexual content. \u201cArtificial intelligence is making abuse easier and more damaging,\u201d said Kalliopi Mingeirou, who leads UN Women\u2019s efforts to end violence against women. \u201cWhile anonymity, as well as the speed of how this information and narratives circulate in mainstream media, make this content more dangerous.\u201d Released on Thursday, the report adds to mounting evidence suggesting that, for millions of women and girls across the globe, the digital sphere has become a space synonymous with abuse. Many women have to choose between being online and accepting the threat of violence or self-censoring, perhaps even staying offline, and potentially paying a professional and personal cost for doing so, it found. \u201cWhen women in general, or journalists and human rights defenders, are driven out from digital spaces, we all lose,\u201d said Mingeirou. \u201cWe know that female journalists are essential to how truth is told and whose stories get told,\u201d she said. \u201cAnd when we have women human rights defenders, or more broadly, women in public life being pushed out of the digital spaces, we see an erosion of hard-won rights.\u201d This erosion was particularly concerning given that it was taking place against a broader backdrop of rising authoritarianism, democratic backsliding and networking misogyny such as the manosphere, the report noted. \u201cGender rights rollback is both enabled and exacerbated by technologies which \u2013 by design \u2013 amplify misogynistic hate speech for profit,\u201d it said, pointing to generative AI apps that are capable of stripping clothes from photos of women without their consent or simulating them being sexually assaulted. \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators,\u201d it added. Mingeirou said the attacks were \u201ccoordinated and deliberate\u201d, and aimed at silencing women\u2019s voices while undermining their professional credibility and reputations. \u201cThis is part of a phenomenon of a broader pushback against gender equality,\u201d she said. \u201cWe see misogynistic networks that are very well coordinated attacking the narratives on gender equality and women in public life more broadly.\u201d Her view was backed by a study released earlier this year, in which researchers argued the silencing of women online was not an incidental byproduct of the digital sphere, but rather a \u201ccoordinated, systemic practice\u201d. The research had laid bare how \u201conline hostility is made frictionless and rewarding for misogynists\u201d, citing how the platforms\u2019 algorithmic amplification and formation of ad hoc hostile groups had served to \u201cconvert misogynistic hostility into a coordinated apparatus for suppressing women\u2019s participation in public discourse\u201d. The extent of this threat burst into public view earlier this year after it emerged that hundreds of thousands of requests had poured into Elon Musk\u2019s AI tool, Grok, asking it to strip clothes from photographs of women. Months later, a German TV star Collien Fernandes alleged that her ex-husband had spread AI-generated pornographic images of her online. Last year UN Women\u2019s executive director, Sima Bahous, said: \u201cWhat begins online doesn\u2019t stay online. Digital abuse spills into real life, spreading fear, silencing voices and \u2013 in the worst cases \u2013 leading to physical violence and femicide.\u201d Thursday\u2019s report found that a quarter"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.308,
+      "confidence": 0.371,
       "scores": {
-        "High House War": 0.034,
-        "High House Coin": 0.105,
-        "High House Shadow": 0.248,
-        "High House Life": 0.103,
-        "High House Iron": 0.058,
-        "High House Words": 0.308,
-        "High House Chains": 0.065
+        "High House War": 0.314,
+        "High House Coin": 0.178,
+        "High House Shadow": 0.236,
+        "High House Life": 0.043,
+        "High House Iron": 0.126,
+        "High House Words": 0.371,
+        "High House Chains": 0.218
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "press freedom"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.985
+        "confidence": 0.541,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
-        "url": "https://www.theguardian.com/world/2026/apr/30/jailed-hong-kong-pro-democracy-activist-jimmy-lai-wins-freedom-of-speech-award-in-germany",
+        "title": "America No Longer Rules the Waves",
+        "url": "https://www.nytimes.com/2026/05/01/opinion/iran-hormuz-navy-south-china-sea-naval-power.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.362,
+      "scores": {
+        "High House War": 0.362,
+        "High House Coin": 0.134,
+        "High House Shadow": 0.082,
+        "High House Life": 0.096,
+        "High House Iron": -0.048,
+        "High House Words": 0.186,
+        "High House Chains": 0.338
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.539,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.979
+      },
+      "article": {
+        "title": "The little-known clause that Europe\u2019s security may now depend on",
+        "url": "https://www.theguardian.com/world/2026/apr/29/the-little-known-clause-that-europes-security-may-now-depend-on",
         "source": "guardian",
-        "full_text": "The jailed media entrepreneur Jimmy Lai has been awarded Deutsche Welle\u2019s freedom of speech award for his contribution to Hong Kong\u2019s pro-democracy movement. The German public broadcaster said on Thursday that Lai would be presented in absentia with the 12th iteration of the award on 23 June at the DW Global Media Forum in Bonn. Deutsche Welle\u2019s director general, Barbara Massing, praised the 78-year-old founder of the now-shuttered news outlet Apple Daily for standing \u201cunwaveringly for press freedom in Hong Kong at great personal risk\u201d. She added: \u201cWith Apple Daily, he gave journalists a platform for free reporting and a voice to the democracy movement in Hong Kong,\u201d she said. \u201cHis commitment reminds us that press freedom is never a given \u2013 it must be constantly defended. With the DW freedom of speech award, we honour his indispensable dedication to democratic values.\u201d Lai, a British citizen, was one of Hong Kong\u2019s most prominent and vocal pro-democracy advocates before his imprisonment. He provided financial backing to democratic parties and politicians and took part in mass protests against Beijing\u2019s rule in 2019 and 2020. Authorities arrested Lai in 2020, accusing him of using the Apple Daily and his political connections to lobby for foreign governments to impose sanctions on China and Hong Kong. A Hong Kong court sentenced him to 20 years in prison in February on charges that include \u201cconspiracy to collaborate with foreign forces\u201d and publishing \u201cseditious material\u201d. He was convicted under the city\u2019s draconian national security law, imposed by the Chinese Communist party in 2020. The ruling was condemned as politically motivated by rights groups and the British government, with Human Rights Watch warning that the length of his sentence amounted to \u201ceffectively a death sentence\u201d. Lai\u2019s conviction was the culmination of a years-long saga that critics say represents Hong Kong\u2019s transformation from a largely free city after its return to China in 1997 \u2013 following more than 150 years of British rule \u2013 to one where dissent is fiercely suppressed. Beijing says the imposition of the law was necessary to restore stability to the city. Lai, who was born in southern China in 1947 and fled to Hong Kong in 1960, said he owed \u201ceverything to the people of Hong Kong\u201d and that a prison term would be \u201credemption\u201d for the \u201cwonderful life\u201d the territory had given him. Additional reporting from Yu-chen Li."
+        "full_text": "Most people have heard of Nato\u2019s article 5. The \u201cone for all, all for one\u201d clause states an armed attack on one member country should be considered an attack on all, requiring member states to come to the victim\u2019s aid \u2013 including with \u201cthe use of armed force\u201d. Not so many, till this week, had heard of the EU\u2019s own mutual defence clause, article 42.7 (pdf), which says that if a member state comes under armed attack, the others \u201cshall have towards it an obligation of aid and assistance by all the means in their power\u201d. That\u2019s perhaps because there hadn\u2019t, until recently, been much need for Europeans to consult article 42.7. More than 40 US military bases and 85,000 troops across the EU (and UK) were testament to Washington\u2019s defence commitment to the old continent. But times have changed. Earlier this year Donald Trump threatened to invade Greenland \u2013 and Denmark, a Nato member state, took the threat seriously enough to prepare for war, sending explosives and bloodbags to its largely autonomous territory. Two months later, the US president attacked Iran, without consulting European allies \u2013 then demanded they join in, called them \u201ccowards\u201d when they declined to help reopen the strait of Hormuz, and dismissed Nato as a \u201cpaper tiger\u201d. He has said he is \u201cabsolutely\u201d considering pulling the US out of the alliance. And when European leaders were reluctant to allow US bases on their territory to be used for bombing missions in Iran, his secretary of state, Marco Rubio, questioned the point of keeping the bases there. It should, by now, be clear to even the most staunchly atlanticist European, in short, that the US defence umbrella that has sheltered them for the past 77 years has sprung more than a few leaks, and could very conceivably be blown away altogether. That is certainly the view of Donald Tusk, prime minister of perhaps the US\u2019s most fervent ally in Europe, Poland, who told the FT that the bloc\u2019s \u201cmost important question\u201d was whether the US would be \u201cloyal\u201d to its Nato pledge in the event of Russian attack. Hence the renewed interest in the EU\u2019s article 42.7. On the face of it, it offers a stronger guarantee even than Nato\u2019s, obliging EU states to aid their fellows \u201cby all the means in their power\u201d (the alliance stipulates only \u201cas they deem necessary\u201d). But what might that mean in practice? Unfortunately, the answer is: nobody quite knows. \u201cThe treaty is very clear about the what,\u201d said Ursula von der Leyen, the European Commission chief. \u201cIt is not clear about what happens when, and who does what.\u201d At last week\u2019s EU summit in Cyprus, leaders agreed the Commission would \u201cprepare a blueprint\u201d on how the bloc will respond if the clause is triggered. A \u201chandbook\u201d was being drawn up, said Ant\u00f3nio Costa, the president of the European Council. The push to \u201coperationalise\u201d 42.7 has been driven by Cyprus, one of the few EU members not in Nato, after it was targeted by drones seemingly launched by Lebanon\u2019s Hezbollah \u2013 one of which struck the UK\u2019s RAF Akrotiri airbase. The country\u2019s president, Nikos Christodoulides, called for bilateral assistance rather than invoking a clause widely acknowledged as poorly defined. Greece, France, Italy, Spain and the Netherlands mobilised assets, including jet fighters. But the incident showed the EU was far from being in a position \u201cto act as a credible guarantor of security\u201d, Christodoulides said, certainly in the event of a full-scale attack. Article 42.7, he said, urgently needed to become a practical operational tool. France is so far the only country to have formally triggered 42.7, after its 2015 terror attacks. Several EU states boosted troop numbers on EU and UN missions so France could recall its soldiers, while others provided intelligence and police support. Speaking in Athens at the weekend, its president, Emmanuel Macron, agreed with his Cypriot counterpart: clause 42.7 had to be \u201cmore than words\u201d now there was \u201cdoubt on Nato\u2019s article 5 \u2013 put on the table not by the Europeans, but by "
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.355,
+      "scores": {
+        "High House War": -0.0,
+        "High House Coin": 0.037,
+        "High House Shadow": -0.069,
+        "High House Life": 0.355,
+        "High House Iron": -0.091,
+        "High House Words": 0.038,
+        "High House Chains": 0.019
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.924
+      },
+      "article": {
+        "title": "The climate crisis is making our hay fever worse \u2013 and affecting our enjoyment of nature",
+        "url": "https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature",
+        "source": "guardian",
+        "full_text": "Here\u2019s a confession that may alarm faithful readers of this newsletter: I am an environment reporter who does not love nature. Before I get cancelled, yes, I do care about the fate of the natural world \u2013 scientists are clear that wrecking it hurts us \u2013 but the weird wonders of wildlife have always occupied a smaller place in my heart than those of most people I interview. One reason for that, I realised last week, is that hay fever has seriously dampened the pleasure I get from ambling through forests or squelching through wetlands. Strangely, the same forces driving the destruction of nature have also contributed to my lack of appreciation for it. Climate breakdown has made the European pollen season one to two weeks longer than it was when I was born in the 1990s, a study in the Lancet medical journal found last week. How does global heating change our ability to relate to the great outdoors? Let\u2019s take a look, after the headlines. Essential reads BP profits more than double as oil and gas prices soar in Iran war Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia\u2019s war Nordic heatwave part of record year that saw temperatures scorch most of Europe, report finds In focus The start of spring is something I feel viscerally \u2013 my eyes itch, my nose runs and breathing becomes a chore. That\u2019s because my immune system thinks tiny particles of pollen are a threat to be fought. \u201cTouch grass\u201d \u2013 the internet\u2019s way of telling people to log off and reconnect with the outside world \u2013 is the exact opposite of what doctors advise people like me to do when the pollen count is high. Allergic rhinitis affects tens of millions of people in Europe alone and, unfortunately, climate breakdown is set to make it worse. Global heating has significantly lengthened the pollen season, the latest review of the continent\u2019s climate-health impacts found last week. The seasons for birch, alder and olive trees are now starting between one and two weeks earlier than they did in the 1990s. Separate research from the US has found that some plants release more pollen as a result of the extra carbon dioxide they breathe. Grumbling about allergies may seem self-indulgent compared to the extreme harms that fossil fuels inflict on us, but the cumulative impact \u2013 on everything from productivity to quality of life \u2013 shows how infuriatingly mundane climate damages can be. There is even something perverse about the process: big oil has unwittingly used nature to turn our bodies against us, hampering our ability to appreciate the very thing we\u2019re losing. Readers who enjoy nature when jetting off on summer holidays may have experienced an echo of these frustrations through the changing face of travel. Beach resorts choked by wildfire smoke and Alpine mountains deprived of snow are joining a growing list of examples of natural beauty clashing with climate breakdown. At the more extreme end is the impending demise of treasured ecosystems such as coral reefs, which will be wiped out if global heating rises 2C above preindustrial levels. We are on track for 2.6C by the end of the century. Well before that point, though, our access to Earth\u2019s natural wonders is likely to be hampered. One leading tourism researcher believes that climate-driven price spikes on everything from insurance to coffee have begun to push us from the era of mass tourism into the era of \u201cnon-tourism\u201d. Add in the flight shame that already deters some climate-conscious travellers from stepping on a plane, and the ability to explore the rich biodiversity on the planet first-hand \u2013 a privilege, it should be said, that was only ever enjoyed by a minority to begin with \u2013 shrinks even further. There isn\u2019t a huge amount to be done about pollen allergies, but encouraging people to seek natural beauty closer to home may be a compelling antidote to the loss of far-flung biodiversity. My colleagues have written movingly on the joys of nature that can be found in back gardens, national park"
       },
       "position": "WANING"
     }
@@ -212,119 +208,19 @@
   "relationships": [
     {
       "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "LIZ KENDALL",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.113,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "LIZ KENDALL",
-      "actor_b": "INDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.07,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "LIZ KENDALL",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.052,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "INDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.693,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Shadow",
-      "actor_a": "CHINA",
+      "house_b": "High House Chains",
+      "actor_a": "TECH",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.598,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "CHINA",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.016,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "HONG KONG",
-      "relationship": "allied",
-      "goldstein_avg": 1.028,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "INDIA",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.098,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "INDIA",
-      "actor_b": "HONG KONG",
-      "relationship": "neutral",
-      "goldstein_avg": -0.544,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "HONG KONG",
-      "relationship": "opposed",
-      "goldstein_avg": -1.769,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "THE CHALLENGES FACING CANADA",
-      "actor_b": "HONG KONG",
-      "relationship": "neutral",
-      "goldstein_avg": 0.008,
+      "goldstein_avg": -1.602,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 4.418,
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
