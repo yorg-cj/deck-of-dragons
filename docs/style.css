@@ -59,6 +59,55 @@ header {
   white-space: pre;
 }
 
+/* ── About ───────────────────────────────────────────────────────────── */
+
+.about-section {
+  text-align: center;
+  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 640px;
+}
+
+.about-toggle {
+  appearance: none;
+  -webkit-appearance: none;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.2em;
+  cursor: pointer;
+  padding: 0.25rem 0;
+  outline: none;
+  transition: color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.about-toggle:hover { color: var(--text-mid); }
+
+.about-body {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.35s ease;
+}
+
+.about-body.open { max-height: 200px; }
+
+.about-text {
+  font-size: 0.72rem;
+  color: var(--text-mid);
+  line-height: 1.75;
+  padding: 1rem 1.5rem 0;
+  text-align: left;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  word-break: break-word;
+}
+
 /* ── Draw button ─────────────────────────────────────────────────────── */
 
 .draw-area {

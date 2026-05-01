@@ -203,6 +203,10 @@ function reveal() {
 function init() {
   prefetch();
   document.getElementById("draw-btn").addEventListener("click", reveal);
+
+  const toggle = document.getElementById("about-toggle");
+  const body   = document.getElementById("about-body");
+  toggle.addEventListener("click", () => body.classList.toggle("open"));
 }
 
 init();
