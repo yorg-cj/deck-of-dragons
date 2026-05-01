@@ -246,14 +246,17 @@ header {
   color: var(--text-mid);
   text-align: center;
   line-height: 1.6;
-  word-break: break-word;
-  overflow-wrap: break-word;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* ── Card ────────────────────────────────────────────────────────────── */
 
 .card {
   width: 180px;
+  min-height: 140px;
   background: var(--bg-card);
   border: 1px solid var(--house-color, var(--border));
   padding: 12px 10px 12px;
@@ -396,7 +399,7 @@ footer {
   }
   .card-wrap { width: 140px; }
   .card-inner { width: 140px; }
-  .card { width: 140px; padding: 10px 8px 10px; }
+  .card { width: 140px; min-height: 115px; padding: 10px 8px 10px; }
   .card-back { padding: 10px 8px; }
   .card-sigil { font-size: 1.1rem; }
   .card-title { font-size: 0.62rem; }
@@ -427,7 +430,7 @@ footer {
   }
   .card-wrap { width: 110px; }
   .card-inner { width: 110px; }
-  .card { width: 110px; padding: 8px 6px 8px; }
+  .card { width: 110px; min-height: 95px; padding: 8px 6px 8px; }
   .card-back { padding: 8px 6px; }
   .card-sigil { font-size: 1rem; margin: 4px 0; }
   .card-title { font-size: 0.55rem; }
