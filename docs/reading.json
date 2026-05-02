@@ -1,35 +1,6 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.561,
-      "scores": {
-        "High House War": 0.07,
-        "High House Coin": 0.174,
-        "High House Shadow": 0.209,
-        "High House Life": 0.1,
-        "High House Iron": 0.561,
-        "High House Words": -0.034,
-        "High House Chains": 0.12
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.541,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
-      },
-      "article": {
-        "title": "Tech giants ramp up AI spending, but returns remain uncertain: Jefferies",
-        "url": "https://www.aninews.in/news/business/tech-giants-ramp-up-ai-spending-but-returns-remain-uncertain-jefferies20260501141624",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Coin",
       "title": "The Throne",
@@ -57,50 +28,79 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.413,
+      "confidence": 0.405,
       "scores": {
-        "High House War": 0.222,
-        "High House Coin": 0.26,
-        "High House Shadow": 0.014,
-        "High House Life": 0.037,
-        "High House Iron": -0.016,
-        "High House Words": 0.198,
-        "High House Chains": 0.413
+        "High House War": 0.405,
+        "High House Coin": 0.17,
+        "High House Shadow": 0.233,
+        "High House Life": 0.049,
+        "High House Iron": 0.089,
+        "High House Words": 0.335,
+        "High House Chains": 0.196
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.982
       },
       "article": {
-        "title": "Iran demands compensation from Gulf countries for consequences of war",
-        "url": "https://www.trend.az/iran/4181194.html",
-        "source": "worldnews",
+        "title": "The Tragic Decline of the American Navy",
+        "url": "https://www.nytimes.com/2026/05/01/opinion/iran-hormuz-navy-south-china-sea-naval-power.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
     },
     {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.393,
+      "scores": {
+        "High House War": 0.031,
+        "High House Coin": 0.244,
+        "High House Shadow": 0.233,
+        "High House Life": -0.032,
+        "High House Iron": 0.393,
+        "High House Words": -0.01,
+        "High House Chains": 0.001
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Intel\u2019s Revenues Soar, Aided by A.I. Boom",
+        "url": "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House Shadow",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.385,
+      "confidence": 0.379,
       "scores": {
-        "High House War": 0.06,
-        "High House Coin": 0.065,
-        "High House Shadow": 0.385,
-        "High House Life": 0.151,
-        "High House Iron": 0.156,
-        "High House Words": 0.354,
-        "High House Chains": 0.075
+        "High House War": 0.067,
+        "High House Coin": 0.061,
+        "High House Shadow": 0.379,
+        "High House Life": 0.152,
+        "High House Iron": 0.159,
+        "High House Words": 0.358,
+        "High House Chains": 0.077
       },
       "reversal": {
         "reversed": true,
@@ -113,7 +113,7 @@
         "title": "UN warns women in public life face increasingly sophisticated online violence ",
         "url": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
         "source": "guardian",
-        "full_text": "Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators\u201d. Female rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report by UN Women found. Of more than 1,500 women in public life, 6% said they had been victims of deepfakes, while nearly a third said they had received unsolicited sexual advances online. About 12% said they had had images of themselves shared without their consent, including intimate or sexual content. \u201cArtificial intelligence is making abuse easier and more damaging,\u201d said Kalliopi Mingeirou, who leads UN Women\u2019s efforts to end violence against women. \u201cWhile anonymity, as well as the speed of how this information and narratives circulate in mainstream media, make this content more dangerous.\u201d Released on Thursday, the report adds to mounting evidence suggesting that, for millions of women and girls across the globe, the digital sphere has become a space synonymous with abuse. Many women have to choose between being online and accepting the threat of violence or self-censoring, perhaps even staying offline, and potentially paying a professional and personal cost for doing so, it found. \u201cWhen women in general, or journalists and human rights defenders, are driven out from digital spaces, we all lose,\u201d said Mingeirou. \u201cWe know that female journalists are essential to how truth is told and whose stories get told,\u201d she said. \u201cAnd when we have women human rights defenders, or more broadly, women in public life being pushed out of the digital spaces, we see an erosion of hard-won rights.\u201d This erosion was particularly concerning given that it was taking place against a broader backdrop of rising authoritarianism, democratic backsliding and networking misogyny such as the manosphere, the report noted. \u201cGender rights rollback is both enabled and exacerbated by technologies which \u2013 by design \u2013 amplify misogynistic hate speech for profit,\u201d it said, pointing to generative AI apps that are capable of stripping clothes from photos of women without their consent or simulating them being sexually assaulted. \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators,\u201d it added. Mingeirou said the attacks were \u201ccoordinated and deliberate\u201d, and aimed at silencing women\u2019s voices while undermining their professional credibility and reputations. \u201cThis is part of a phenomenon of a broader pushback against gender equality,\u201d she said. \u201cWe see misogynistic networks that are very well coordinated attacking the narratives on gender equality and women in public life more broadly.\u201d Her view was backed by a study released earlier this year, in which researchers argued the silencing of women online was not an incidental byproduct of the digital sphere, but rather a \u201ccoordinated, systemic practice\u201d. The research had laid bare how \u201conline hostility is made frictionless and rewarding for misogynists\u201d, citing how the platforms\u2019 algorithmic amplification and formation of ad hoc hostile groups had served to \u201cconvert misogynistic hostility into a coordinated apparatus for suppressing women\u2019s participation in public discourse\u201d. The extent of this threat burst into public view earlier this year after it emerged that hundreds of thousands of requests had poured into Elon Musk\u2019s AI tool, Grok, asking it to strip clothes from photographs of women. Months later, a German TV star Collien Fernandes alleged that her ex-husband had spread AI-generated pornographic images of her online. Last year UN Women\u2019s executive director, Sima Bahous, said: \u201cWhat begins online doesn\u2019t stay online. Digital abuse spills into real life, spreading fear, silencing voices and \u2013 in the worst cases \u2013 leading to physical violence and femicide.\u201d Thursday\u2019s report found that a quarter"
+        "full_text": "Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators\u201d. Female rights campaigners, journalists and other public communicators face a deepening threat owing to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report published by UN Women found. Of more than 600 women in public life, 6% said they had been victims of deepfakes, while nearly a third said they had received unsolicited sexual advances online. About 12% said they had had images of themselves shared without their consent, including intimate or sexual content. \u201cArtificial intelligence is making abuse easier and more damaging,\u201d said Kalliopi Mingeirou, who leads UN Women\u2019s efforts to end violence against women. \u201cWhile anonymity, as well as the speed of how this information and narratives circulate in mainstream media, make this content more dangerous.\u201d Released on Thursday, the report adds to mounting evidence suggesting that, for millions of women and girls across the globe, the digital sphere has become a space synonymous with abuse. Many women have to choose between being online and accepting the threat of violence or self-censoring, perhaps even staying offline, and potentially paying a professional and personal cost for doing so, it found. \u201cWhen women in general, or journalists and human rights defenders, are driven out from digital spaces, we all lose,\u201d said Mingeirou. \u201cWe know that female journalists are essential to how truth is told and whose stories get told,\u201d she said. \u201cAnd when we have women human rights defenders, or more broadly, women in public life being pushed out of the digital spaces, we see an erosion of hard-won rights.\u201d This erosion was particularly concerning given that it was taking place against a broader backdrop of rising authoritarianism, democratic backsliding and networking misogyny such as the manosphere, the report noted. \u201cGender rights rollback is both enabled and exacerbated by technologies which \u2013 by design \u2013 amplify misogynistic hate speech for profit,\u201d it said, pointing to generative AI apps that are capable of stripping clothes from photos of women without their consent or simulating them being sexually assaulted. \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators,\u201d it added. The result was a \u201csupercharging\u201d of threats against women in public life aimed at pushing women out of visible public roles and ushering in a broader rollback of gender rights, said Julie Posetti, the lead researcher and author of the report. \u201cSo if you call anybody a liar and a criminal frequently enough, broadly enough, and with as much fake evidence as you can, then you are likely to convince followers that this is in fact the reality,\u201d said Posetti, who is a professor of journalism and chair of the Centre for Journalism and Democracy at City St George\u2019s University of London. The pattern was similar to that of movements aligned with authoritarianism and that seek to undercut progress on women\u2019s rights, such as reproductive rights, she said. \u201cAnd we see these sorts of messages around, you know, women not being fit for leadership echoed not just online, but in the partisan press and within certain political circles. So it\u2019s all about reinforcing an environment which is creating permission for the rollback of gender rights.\u201d She said women who identified as LGBTQ+ were more likely to experience online violence, as were those who were racialised or from religious backgrounds, such as Muslim or Jewish women. \u201cSo being a woman makes you a target, but being a woman with intersectional identities makes you a bigger target,\u201d she said. \u201cAdd to that a woman who is perceived to be out of place, speaking her mind, speaking truth to power \u2013 particularly truth to power to men \u2013 these are all aspects of behaviour that tend to trigger the most malign misogynis"
       },
       "position": "WILD"
     },
@@ -121,59 +121,30 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.371,
+      "confidence": 0.369,
       "scores": {
-        "High House War": 0.314,
-        "High House Coin": 0.178,
-        "High House Shadow": 0.236,
-        "High House Life": 0.043,
-        "High House Iron": 0.126,
-        "High House Words": 0.371,
-        "High House Chains": 0.218
+        "High House War": 0.201,
+        "High House Coin": 0.179,
+        "High House Shadow": 0.143,
+        "High House Life": 0.118,
+        "High House Iron": -0.0,
+        "High House Words": 0.369,
+        "High House Chains": 0.229
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "America No Longer Rules the Waves",
-        "url": "https://www.nytimes.com/2026/05/01/opinion/iran-hormuz-navy-south-china-sea-naval-power.html",
-        "source": "nyt",
+        "title": "Iran war: What\u2019s happening on day 64 as Trump rejects Tehran\u2019s proposal\u00a0 - Guyana Inquirer \u2013 Daily Guyana News",
+        "url": "https://guyanainquirer.com/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.362,
-      "scores": {
-        "High House War": 0.362,
-        "High House Coin": 0.134,
-        "High House Shadow": 0.082,
-        "High House Life": 0.096,
-        "High House Iron": -0.048,
-        "High House Words": 0.186,
-        "High House Chains": 0.338
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.539,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.979
-      },
-      "article": {
-        "title": "The little-known clause that Europe\u2019s security may now depend on",
-        "url": "https://www.theguardian.com/world/2026/apr/29/the-little-known-clause-that-europes-security-may-now-depend-on",
-        "source": "guardian",
-        "full_text": "Most people have heard of Nato\u2019s article 5. The \u201cone for all, all for one\u201d clause states an armed attack on one member country should be considered an attack on all, requiring member states to come to the victim\u2019s aid \u2013 including with \u201cthe use of armed force\u201d. Not so many, till this week, had heard of the EU\u2019s own mutual defence clause, article 42.7 (pdf), which says that if a member state comes under armed attack, the others \u201cshall have towards it an obligation of aid and assistance by all the means in their power\u201d. That\u2019s perhaps because there hadn\u2019t, until recently, been much need for Europeans to consult article 42.7. More than 40 US military bases and 85,000 troops across the EU (and UK) were testament to Washington\u2019s defence commitment to the old continent. But times have changed. Earlier this year Donald Trump threatened to invade Greenland \u2013 and Denmark, a Nato member state, took the threat seriously enough to prepare for war, sending explosives and bloodbags to its largely autonomous territory. Two months later, the US president attacked Iran, without consulting European allies \u2013 then demanded they join in, called them \u201ccowards\u201d when they declined to help reopen the strait of Hormuz, and dismissed Nato as a \u201cpaper tiger\u201d. He has said he is \u201cabsolutely\u201d considering pulling the US out of the alliance. And when European leaders were reluctant to allow US bases on their territory to be used for bombing missions in Iran, his secretary of state, Marco Rubio, questioned the point of keeping the bases there. It should, by now, be clear to even the most staunchly atlanticist European, in short, that the US defence umbrella that has sheltered them for the past 77 years has sprung more than a few leaks, and could very conceivably be blown away altogether. That is certainly the view of Donald Tusk, prime minister of perhaps the US\u2019s most fervent ally in Europe, Poland, who told the FT that the bloc\u2019s \u201cmost important question\u201d was whether the US would be \u201cloyal\u201d to its Nato pledge in the event of Russian attack. Hence the renewed interest in the EU\u2019s article 42.7. On the face of it, it offers a stronger guarantee even than Nato\u2019s, obliging EU states to aid their fellows \u201cby all the means in their power\u201d (the alliance stipulates only \u201cas they deem necessary\u201d). But what might that mean in practice? Unfortunately, the answer is: nobody quite knows. \u201cThe treaty is very clear about the what,\u201d said Ursula von der Leyen, the European Commission chief. \u201cIt is not clear about what happens when, and who does what.\u201d At last week\u2019s EU summit in Cyprus, leaders agreed the Commission would \u201cprepare a blueprint\u201d on how the bloc will respond if the clause is triggered. A \u201chandbook\u201d was being drawn up, said Ant\u00f3nio Costa, the president of the European Council. The push to \u201coperationalise\u201d 42.7 has been driven by Cyprus, one of the few EU members not in Nato, after it was targeted by drones seemingly launched by Lebanon\u2019s Hezbollah \u2013 one of which struck the UK\u2019s RAF Akrotiri airbase. The country\u2019s president, Nikos Christodoulides, called for bilateral assistance rather than invoking a clause widely acknowledged as poorly defined. Greece, France, Italy, Spain and the Netherlands mobilised assets, including jet fighters. But the incident showed the EU was far from being in a position \u201cto act as a credible guarantor of security\u201d, Christodoulides said, certainly in the event of a full-scale attack. Article 42.7, he said, urgently needed to become a practical operational tool. France is so far the only country to have formally triggered 42.7, after its 2015 terror attacks. Several EU states boosted troop numbers on EU and UN missions so France could recall its soldiers, while others provided intelligence and police support. Speaking in Athens at the weekend, its president, Emmanuel Macron, agreed with his Cypriot counterpart: clause 42.7 had to be \u201cmore than words\u201d now there was \u201cdoubt on Nato\u2019s article 5 \u2013 put on the table not by the Europeans, but by "
-      },
-      "position": "EMERGING"
     },
     {
       "house": "High House Life",
@@ -203,21 +174,85 @@
         "full_text": "Here\u2019s a confession that may alarm faithful readers of this newsletter: I am an environment reporter who does not love nature. Before I get cancelled, yes, I do care about the fate of the natural world \u2013 scientists are clear that wrecking it hurts us \u2013 but the weird wonders of wildlife have always occupied a smaller place in my heart than those of most people I interview. One reason for that, I realised last week, is that hay fever has seriously dampened the pleasure I get from ambling through forests or squelching through wetlands. Strangely, the same forces driving the destruction of nature have also contributed to my lack of appreciation for it. Climate breakdown has made the European pollen season one to two weeks longer than it was when I was born in the 1990s, a study in the Lancet medical journal found last week. How does global heating change our ability to relate to the great outdoors? Let\u2019s take a look, after the headlines. Essential reads BP profits more than double as oil and gas prices soar in Iran war Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia\u2019s war Nordic heatwave part of record year that saw temperatures scorch most of Europe, report finds In focus The start of spring is something I feel viscerally \u2013 my eyes itch, my nose runs and breathing becomes a chore. That\u2019s because my immune system thinks tiny particles of pollen are a threat to be fought. \u201cTouch grass\u201d \u2013 the internet\u2019s way of telling people to log off and reconnect with the outside world \u2013 is the exact opposite of what doctors advise people like me to do when the pollen count is high. Allergic rhinitis affects tens of millions of people in Europe alone and, unfortunately, climate breakdown is set to make it worse. Global heating has significantly lengthened the pollen season, the latest review of the continent\u2019s climate-health impacts found last week. The seasons for birch, alder and olive trees are now starting between one and two weeks earlier than they did in the 1990s. Separate research from the US has found that some plants release more pollen as a result of the extra carbon dioxide they breathe. Grumbling about allergies may seem self-indulgent compared to the extreme harms that fossil fuels inflict on us, but the cumulative impact \u2013 on everything from productivity to quality of life \u2013 shows how infuriatingly mundane climate damages can be. There is even something perverse about the process: big oil has unwittingly used nature to turn our bodies against us, hampering our ability to appreciate the very thing we\u2019re losing. Readers who enjoy nature when jetting off on summer holidays may have experienced an echo of these frustrations through the changing face of travel. Beach resorts choked by wildfire smoke and Alpine mountains deprived of snow are joining a growing list of examples of natural beauty clashing with climate breakdown. At the more extreme end is the impending demise of treasured ecosystems such as coral reefs, which will be wiped out if global heating rises 2C above preindustrial levels. We are on track for 2.6C by the end of the century. Well before that point, though, our access to Earth\u2019s natural wonders is likely to be hampered. One leading tourism researcher believes that climate-driven price spikes on everything from insurance to coffee have begun to push us from the era of mass tourism into the era of \u201cnon-tourism\u201d. Add in the flight shame that already deters some climate-conscious travellers from stepping on a plane, and the ability to explore the rich biodiversity on the planet first-hand \u2013 a privilege, it should be said, that was only ever enjoyed by a minority to begin with \u2013 shrinks even further. There isn\u2019t a huge amount to be done about pollen allergies, but encouraging people to seek natural beauty closer to home may be a compelling antidote to the loss of far-flung biodiversity. My colleagues have written movingly on the joys of nature that can be found in back gardens, national park"
       },
       "position": "WANING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.324,
+      "scores": {
+        "High House War": 0.049,
+        "High House Coin": 0.224,
+        "High House Shadow": 0.036,
+        "High House Life": 0.116,
+        "High House Iron": 0.047,
+        "High House Words": 0.269,
+        "High House Chains": 0.324
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.541,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.984
+      },
+      "article": {
+        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
+        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
-      "house_b": "High House Chains",
-      "actor_a": "TECH",
+      "house_a": "High House War",
+      "house_b": "High House Iron",
+      "actor_a": "THE AMERICAN NAVY",
+      "actor_b": "INTEL",
+      "relationship": "neutral",
+      "goldstein_avg": -0.361,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "THE AMERICAN NAVY",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.602,
+      "goldstein_avg": -3.268,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "INTEL",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.906,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.237,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.135,
+      "source": "gdelt_volume"
+    },
     "High House Life": {
       "trend": "falling",
       "trend_ratio": 0.0,
