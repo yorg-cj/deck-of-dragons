@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "cards": [
     {
       "house": "High House Coin",
@@ -34,15 +34,15 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.442,
+      "confidence": 0.456,
       "scores": {
-        "High House War": 0.156,
-        "High House Coin": 0.116,
-        "High House Shadow": 0.209,
-        "High House Life": 0.089,
-        "High House Iron": 0.02,
-        "High House Words": 0.442,
-        "High House Chains": 0.191
+        "High House War": 0.161,
+        "High House Coin": 0.118,
+        "High House Shadow": 0.216,
+        "High House Life": 0.057,
+        "High House Iron": 0.016,
+        "High House Words": 0.456,
+        "High House Chains": 0.187
       },
       "reversal": {
         "reversed": true,
@@ -51,71 +51,100 @@
           "propaganda"
         ],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.649
+        "sentiment_score": 0.77
       },
       "article": {
         "title": "Nato meetings with TV and film-makers prompt claims it is seeking \u2018propaganda\u2019",
         "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
         "source": "guardian",
-        "full_text": "Nato is holding closed-door meetings with film and TV screenwriters, directors and producers across Europe and the US, the Guardian can reveal, prompting accusations the alliance is seeking to use the arts to generate \u201cpropaganda\u201d for the bloc. The alliance has held three meetings with film and TV professionals in Los Angeles, Brussels and Paris and is due to continue its \u201cseries of intimate conservations\u201d next month in London, meeting with screenwriter members of the Writers\u2019 Guild of Great Britain (WGGB), which represents professional writers in the UK. The planned meeting in London has caused consternation among some of those invited, who felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. The topic of conversation at the meeting, to be held under the Chatham House rule \u2013 in which participants are free to use information received, but identities of attenders are not revealed \u2013 will be the \u201cevolving security situation in Europe and beyond\u201d. Former Nato spokesperson James Appathurai, who is now deputy assistant secretary general for hybrid, cyber and new technology, is understood to be planning to attend, along with other officials from the alliance. In a WGGB email seen by the Guardian, it was suggested that the meetings had already led to \u201cthree separate projects\u201d in development, which were \u201cinspired, at least in part, by these conversations\u201d. It also said that Nato was \u201cbuilt on the belief that cooperation and compromise, the nurturing of friendships and alliances, is the way forward\u201d, adding that \u201ceven if something so simple as that message finds its way into a future story, that will be enough\u201d, according to the organisers of the event. Alan O\u2019Gorman, writer of the film Christy, which won best film at the 2026 Irish Film &amp; Television Awards, called the planned meeting \u201coutrageous\u201d and \u201cclearly propaganda\u201d. \u201cI thought it was tone deaf and crazy to present this as some sort of positive opportunity. A lot of people, myself included, have friends and family or themselves come from countries that are not in Nato, that have suffered under wars that Nato has joined and propagated,\u201d he said. He thinks the meetings are an attempt by Nato to \u201cget some of its messaging out there in film and TV\u201d. \u201cI think there\u2019s fearmongering throughout Europe at the moment that our defences are down,\u201d he said. \u201cI see it in an Irish context, where there\u2019s been a push through some of the media and government to present Nato in a positive light and align ourselves more closely with them. I think the Irish people, for the most part, don\u2019t want anything to do with wars on foreign lands.\u201d O\u2019Gorman said other screenwriters invited to the meeting were \u201cpretty offended that art would be used in a way that was supporting war\u201d and felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. Faisal A Qureshi, a screenwriter and producer who has worked in the industry for more than 20 years, applied to attend the meeting \u201cto see what it would be like first-hand\u201d but had to pull out over a scheduling conflict. He said the \u201crisk for any creative who dips into this unattributable world of intelligence or military briefings is that they can get seduced into thinking they now have some secret knowledge. That there exists a world of greys where morality is stretched and human right abuses are acceptable when done for the greater good\u201d. Qureshi questions whether a creative would sufficiently \u201cchallenge or interrogate\u201d information passed along to them in such meetings. \u201cThey\u2019ve just been given something that has the veneer of truth given to it by an authority that rarely deals with the public and there is a sense of privilege about getting that access,\u201d he said. Supporters of Nato have advocated for greater relations with the arts. The Centre for European Reform thinktank released a report earlier this year calling on governments to engage with cultural leaders, including screenwriters and film producers, to build public support for "
+        "full_text": "Nato is holding closed-door meetings with film and TV screenwriters, directors and producers across Europe and the US, the Guardian can reveal, prompting accusations the alliance is seeking to use the arts to generate \u201cpropaganda\u201d for the bloc. The alliance has held three meetings with film and TV professionals in Los Angeles, Brussels and Paris and is due to continue its \u201cseries of intimate conversations\u201d next month in London, meeting with screenwriter members of the Writers\u2019 Guild of Great Britain (WGGB), which represents professional writers in the UK. The planned meeting in London has caused consternation among some of those invited, who felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. The topic of conversation at the meeting, to be held under the Chatham House rule \u2013 in which participants are free to use information received, but identities of attenders are not revealed \u2013 will be the \u201cevolving security situation in Europe and beyond\u201d. Former Nato spokesperson James Appathurai, who is now deputy assistant secretary general for hybrid, cyber and new technology, is understood to be planning to attend, along with other officials from the alliance. In a WGGB email seen by the Guardian, it was suggested that the meetings had already led to \u201cthree separate projects\u201d in development, which were \u201cinspired, at least in part, by these conversations\u201d. It also said that Nato was \u201cbuilt on the belief that cooperation and compromise, the nurturing of friendships and alliances, is the way forward\u201d, adding that \u201ceven if something so simple as that message finds its way into a future story, that will be enough\u201d, according to the organisers of the event. Alan O\u2019Gorman, writer of the film Christy, which won best film at the 2026 Irish Film &amp; Television Awards, called the planned meeting \u201coutrageous\u201d and \u201cclearly propaganda\u201d. \u201cI thought it was tone deaf and crazy to present this as some sort of positive opportunity. A lot of people, myself included, have friends and family or themselves come from countries that are not in Nato, that have suffered under wars that Nato has joined and propagated,\u201d he said. He thinks the meetings are an attempt by Nato to \u201cget some of its messaging out there in film and TV\u201d. \u201cI think there\u2019s fearmongering throughout Europe at the moment that our defences are down,\u201d he said. \u201cI see it in an Irish context, where there\u2019s been a push through some of the media and government to present Nato in a positive light and align ourselves more closely with them. I think the Irish people, for the most part, don\u2019t want anything to do with wars on foreign lands.\u201d Defence spending in Ireland has increased to record levels following the Russian invasion of Ukraine, which has received cross party support and broad approval from the public, though support for joining Nato remains low. An Ipsos poll last year found, should a united Ireland be formed, that 49% half of all voters in the Republic of Ireland are opposed to joining the alliance, with 19 per cent in favour and 22 per cent not sure. O\u2019Gorman said other screenwriters invited to the meeting were \u201cpretty offended that art would be used in a way that was supporting war\u201d and felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. Faisal A Qureshi, a screenwriter and producer who has worked in the industry for more than 20 years, applied to attend the meeting \u201cto see what it would be like first-hand\u201d but had to pull out over a scheduling conflict. He said the \u201crisk for any creative who dips into this unattributable world of intelligence or military briefings is that they can get seduced into thinking they now have some secret knowledge. That there exists a world of greys where morality is stretched and human right abuses are acceptable when done for the greater good\u201d. Qureshi questions whether a creative would sufficiently \u201cchallenge or interrogate\u201d information passed along to them in such meetings. \u201cThey\u2019ve just been given something that "
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.41,
+      "confidence": 0.399,
       "scores": {
-        "High House War": 0.108,
-        "High House Coin": 0.172,
-        "High House Shadow": 0.264,
-        "High House Life": 0.163,
-        "High House Iron": 0.41,
-        "High House Words": 0.116,
-        "High House Chains": 0.148
+        "High House War": -0.003,
+        "High House Coin": 0.206,
+        "High House Shadow": 0.399,
+        "High House Life": 0.158,
+        "High House Iron": 0.316,
+        "High House Words": 0.139,
+        "High House Chains": 0.068
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.537,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.976
       },
       "article": {
-        "title": "AI is ending era of \u2018job immunity\u2019 for young tech workers as it reshapes Israel's job market",
-        "url": "https://www.jpost.com/business-and-innovation/all-news/article-894745",
+        "title": "Commentary: Ungovernable billionaires may be our biggest global threat",
+        "url": "https://www.kansascity.com/opinion/us-viewpoints/article315623972.html",
         "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.379,
+      "confidence": 0.399,
       "scores": {
-        "High House War": 0.067,
-        "High House Coin": 0.061,
-        "High House Shadow": 0.379,
-        "High House Life": 0.152,
-        "High House Iron": 0.159,
-        "High House Words": 0.358,
-        "High House Chains": 0.077
+        "High House War": 0.399,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.16,
+        "High House Life": 0.107,
+        "High House Iron": 0.13,
+        "High House Words": 0.324,
+        "High House Chains": 0.232
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "UN warns women in public life face increasingly sophisticated online violence ",
-        "url": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
-        "source": "guardian",
-        "full_text": "Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators\u201d. Female rights campaigners, journalists and other public communicators face a deepening threat owing to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report published by UN Women found. Of more than 600 women in public life, 6% said they had been victims of deepfakes, while nearly a third said they had received unsolicited sexual advances online. About 12% said they had had images of themselves shared without their consent, including intimate or sexual content. \u201cArtificial intelligence is making abuse easier and more damaging,\u201d said Kalliopi Mingeirou, who leads UN Women\u2019s efforts to end violence against women. \u201cWhile anonymity, as well as the speed of how this information and narratives circulate in mainstream media, make this content more dangerous.\u201d Released on Thursday, the report adds to mounting evidence suggesting that, for millions of women and girls across the globe, the digital sphere has become a space synonymous with abuse. Many women have to choose between being online and accepting the threat of violence or self-censoring, perhaps even staying offline, and potentially paying a professional and personal cost for doing so, it found. \u201cWhen women in general, or journalists and human rights defenders, are driven out from digital spaces, we all lose,\u201d said Mingeirou. \u201cWe know that female journalists are essential to how truth is told and whose stories get told,\u201d she said. \u201cAnd when we have women human rights defenders, or more broadly, women in public life being pushed out of the digital spaces, we see an erosion of hard-won rights.\u201d This erosion was particularly concerning given that it was taking place against a broader backdrop of rising authoritarianism, democratic backsliding and networking misogyny such as the manosphere, the report noted. \u201cGender rights rollback is both enabled and exacerbated by technologies which \u2013 by design \u2013 amplify misogynistic hate speech for profit,\u201d it said, pointing to generative AI apps that are capable of stripping clothes from photos of women without their consent or simulating them being sexually assaulted. \u201cAI-assisted \u2018virtual rape\u2019 is now at the fingertips of perpetrators,\u201d it added. The result was a \u201csupercharging\u201d of threats against women in public life aimed at pushing women out of visible public roles and ushering in a broader rollback of gender rights, said Julie Posetti, the lead researcher and author of the report. \u201cSo if you call anybody a liar and a criminal frequently enough, broadly enough, and with as much fake evidence as you can, then you are likely to convince followers that this is in fact the reality,\u201d said Posetti, who is a professor of journalism and chair of the Centre for Journalism and Democracy at City St George\u2019s University of London. The pattern was similar to that of movements aligned with authoritarianism and that seek to undercut progress on women\u2019s rights, such as reproductive rights, she said. \u201cAnd we see these sorts of messages around, you know, women not being fit for leadership echoed not just online, but in the partisan press and within certain political circles. So it\u2019s all about reinforcing an environment which is creating permission for the rollback of gender rights.\u201d She said women who identified as LGBTQ+ were more likely to experience online violence, as were those who were racialised or from religious backgrounds, such as Muslim or Jewish women. \u201cSo being a woman makes you a target, but being a woman with intersectional identities makes you a bigger target,\u201d she said. \u201cAdd to that a woman who is perceived to be out of place, speaking her mind, speaking truth to power \u2013 particularly truth to power to men \u2013 these are all aspects of behaviour that tend to trigger the most malign misogynis"
+        "title": "From \"Epic Fury\" to Continuum Conflict: Power, Law, and Strategy in an Era Without Endings",
+        "url": "https://www.ibtimes.co.in/epic-fury-continuum-conflict-power-law-strategy-era-without-endings-901746",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.393,
+      "scores": {
+        "High House War": 0.031,
+        "High House Coin": 0.244,
+        "High House Shadow": 0.233,
+        "High House Life": -0.032,
+        "High House Iron": 0.393,
+        "High House Words": -0.01,
+        "High House Chains": 0.001
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Intel\u2019s Revenues Soar, Aided by A.I. Boom",
+        "url": "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WILD"
     },
@@ -123,30 +152,30 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.355,
+      "confidence": 0.338,
       "scores": {
-        "High House War": -0.0,
-        "High House Coin": 0.037,
-        "High House Shadow": -0.069,
-        "High House Life": 0.355,
-        "High House Iron": -0.091,
-        "High House Words": 0.038,
-        "High House Chains": 0.019
+        "High House War": 0.03,
+        "High House Coin": 0.128,
+        "High House Shadow": 0.07,
+        "High House Life": 0.338,
+        "High House Iron": 0.037,
+        "High House Words": 0.017,
+        "High House Chains": 0.093
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.924
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.97
       },
       "article": {
-        "title": "The climate crisis is making our hay fever worse \u2013 and affecting our enjoyment of nature",
-        "url": "https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature",
-        "source": "guardian",
-        "full_text": "Here\u2019s a confession that may alarm faithful readers of this newsletter: I am an environment reporter who does not love nature. Before I get cancelled, yes, I do care about the fate of the natural world \u2013 scientists are clear that wrecking it hurts us \u2013 but the weird wonders of wildlife have always occupied a smaller place in my heart than those of most people I interview. One reason for that, I realised last week, is that hay fever has seriously dampened the pleasure I get from ambling through forests or squelching through wetlands. Strangely, the same forces driving the destruction of nature have also contributed to my lack of appreciation for it. Climate breakdown has made the European pollen season one to two weeks longer than it was when I was born in the 1990s, a study in the Lancet medical journal found last week. How does global heating change our ability to relate to the great outdoors? Let\u2019s take a look, after the headlines. Essential reads BP profits more than double as oil and gas prices soar in Iran war Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia\u2019s war Nordic heatwave part of record year that saw temperatures scorch most of Europe, report finds In focus The start of spring is something I feel viscerally \u2013 my eyes itch, my nose runs and breathing becomes a chore. That\u2019s because my immune system thinks tiny particles of pollen are a threat to be fought. \u201cTouch grass\u201d \u2013 the internet\u2019s way of telling people to log off and reconnect with the outside world \u2013 is the exact opposite of what doctors advise people like me to do when the pollen count is high. Allergic rhinitis affects tens of millions of people in Europe alone and, unfortunately, climate breakdown is set to make it worse. Global heating has significantly lengthened the pollen season, the latest review of the continent\u2019s climate-health impacts found last week. The seasons for birch, alder and olive trees are now starting between one and two weeks earlier than they did in the 1990s. Separate research from the US has found that some plants release more pollen as a result of the extra carbon dioxide they breathe. Grumbling about allergies may seem self-indulgent compared to the extreme harms that fossil fuels inflict on us, but the cumulative impact \u2013 on everything from productivity to quality of life \u2013 shows how infuriatingly mundane climate damages can be. There is even something perverse about the process: big oil has unwittingly used nature to turn our bodies against us, hampering our ability to appreciate the very thing we\u2019re losing. Readers who enjoy nature when jetting off on summer holidays may have experienced an echo of these frustrations through the changing face of travel. Beach resorts choked by wildfire smoke and Alpine mountains deprived of snow are joining a growing list of examples of natural beauty clashing with climate breakdown. At the more extreme end is the impending demise of treasured ecosystems such as coral reefs, which will be wiped out if global heating rises 2C above preindustrial levels. We are on track for 2.6C by the end of the century. Well before that point, though, our access to Earth\u2019s natural wonders is likely to be hampered. One leading tourism researcher believes that climate-driven price spikes on everything from insurance to coffee have begun to push us from the era of mass tourism into the era of \u201cnon-tourism\u201d. Add in the flight shame that already deters some climate-conscious travellers from stepping on a plane, and the ability to explore the rich biodiversity on the planet first-hand \u2013 a privilege, it should be said, that was only ever enjoyed by a minority to begin with \u2013 shrinks even further. There isn\u2019t a huge amount to be done about pollen allergies, but encouraging people to seek natural beauty closer to home may be a compelling antidote to the loss of far-flung biodiversity. My colleagues have written movingly on the joys of nature that can be found in back gardens, national park"
+        "title": "Trump\u2019s Budget May Target Climate Programs. Here\u2019s What Still Survives.",
+        "url": "https://www.nytimes.com/2026/04/02/climate/trump-budget-climate-cuts-congress.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -175,69 +204,19 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.32,
-      "scores": {
-        "High House War": 0.32,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.073,
-        "High House Life": 0.199,
-        "High House Iron": 0.008,
-        "High House Words": 0.186,
-        "High House Chains": 0.219
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "Operation Timmy: International Rescue Mission Commences for Stranded Whale Off German Coast",
-        "url": "https://tuvalu-news.tv/operation-timmy-international-rescue-mission-commences-for-stranded-whale-off-german-coast",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Iron",
-      "actor_a": "NATO",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -2.283,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Chains",
-      "actor_a": "ISRAEL",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.224,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Life": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.363,
+      "trend_ratio": 0.482,
       "source": "gdelt_volume"
     },
     "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.273,
+      "trend_ratio": 1.155,
       "source": "gdelt_volume"
     }
   }
