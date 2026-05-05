@@ -1,34 +1,63 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "cards": [
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": true,
-      "confidence": 0.48,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.518,
       "scores": {
-        "High House War": -0.057,
-        "High House Coin": 0.48,
-        "High House Shadow": 0.109,
-        "High House Life": 0.076,
-        "High House Iron": 0.017,
-        "High House Words": 0.12,
-        "High House Chains": 0.201
+        "High House War": 0.086,
+        "High House Coin": 0.142,
+        "High House Shadow": 0.196,
+        "High House Life": 0.142,
+        "High House Iron": 0.518,
+        "High House Words": 0.097,
+        "High House Chains": 0.091
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.988
       },
       "article": {
-        "title": "The World\u2019s Central Banks Are Wrestling With a Gigantic Problem",
-        "url": "https://www.nytimes.com/2026/05/01/business/iran-war-interest-rates-central-banks.html",
-        "source": "nyt",
+        "title": "America builds AI, China uses it. That gap may decide the future",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3352235/america-builds-ai-china-uses-it-gap-may-decide-future",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.471,
+      "scores": {
+        "High House War": 0.227,
+        "High House Coin": 0.135,
+        "High House Shadow": 0.171,
+        "High House Life": 0.471,
+        "High House Iron": 0.076,
+        "High House Words": 0.133,
+        "High House Chains": 0.285
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Africa : Strengthening Cross - Border Coordination to Address Health Threats in Africa",
+        "url": "https://allafrica.com/stories/202605050078.html",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -59,123 +88,97 @@
         "source": "guardian",
         "full_text": "Nato is holding closed-door meetings with film and TV screenwriters, directors and producers across Europe and the US, the Guardian can reveal, prompting accusations the alliance is seeking to use the arts to generate \u201cpropaganda\u201d for the bloc. The alliance has held three meetings with film and TV professionals in Los Angeles, Brussels and Paris and is due to continue its \u201cseries of intimate conversations\u201d next month in London, meeting with screenwriter members of the Writers\u2019 Guild of Great Britain (WGGB), which represents professional writers in the UK. The planned meeting in London has caused consternation among some of those invited, who felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. The topic of conversation at the meeting, to be held under the Chatham House rule \u2013 in which participants are free to use information received, but identities of attenders are not revealed \u2013 will be the \u201cevolving security situation in Europe and beyond\u201d. Former Nato spokesperson James Appathurai, who is now deputy assistant secretary general for hybrid, cyber and new technology, is understood to be planning to attend, along with other officials from the alliance. In a WGGB email seen by the Guardian, it was suggested that the meetings had already led to \u201cthree separate projects\u201d in development, which were \u201cinspired, at least in part, by these conversations\u201d. It also said that Nato was \u201cbuilt on the belief that cooperation and compromise, the nurturing of friendships and alliances, is the way forward\u201d, adding that \u201ceven if something so simple as that message finds its way into a future story, that will be enough\u201d, according to the organisers of the event. Alan O\u2019Gorman, writer of the film Christy, which won best film at the 2026 Irish Film &amp; Television Awards, called the planned meeting \u201coutrageous\u201d and \u201cclearly propaganda\u201d. \u201cI thought it was tone deaf and crazy to present this as some sort of positive opportunity. A lot of people, myself included, have friends and family or themselves come from countries that are not in Nato, that have suffered under wars that Nato has joined and propagated,\u201d he said. He thinks the meetings are an attempt by Nato to \u201cget some of its messaging out there in film and TV\u201d. \u201cI think there\u2019s fearmongering throughout Europe at the moment that our defences are down,\u201d he said. \u201cI see it in an Irish context, where there\u2019s been a push through some of the media and government to present Nato in a positive light and align ourselves more closely with them. I think the Irish people, for the most part, don\u2019t want anything to do with wars on foreign lands.\u201d Defence spending in Ireland has increased to record levels following the Russian invasion of Ukraine, which has received cross party support and broad approval from the public, though support for joining Nato remains low. An Ipsos poll last year found, should a united Ireland be formed, that 49% half of all voters in the Republic of Ireland are opposed to joining the alliance, with 19 per cent in favour and 22 per cent not sure. O\u2019Gorman said other screenwriters invited to the meeting were \u201cpretty offended that art would be used in a way that was supporting war\u201d and felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. Faisal A Qureshi, a screenwriter and producer who has worked in the industry for more than 20 years, applied to attend the meeting \u201cto see what it would be like first-hand\u201d but had to pull out over a scheduling conflict. He said the \u201crisk for any creative who dips into this unattributable world of intelligence or military briefings is that they can get seduced into thinking they now have some secret knowledge. That there exists a world of greys where morality is stretched and human right abuses are acceptable when done for the greater good\u201d. Qureshi questions whether a creative would sufficiently \u201cchallenge or interrogate\u201d information passed along to them in such meetings. \u201cThey\u2019ve just been given something that "
       },
-      "position": "ASCENDING"
+      "position": "WILD"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.399,
+      "confidence": 0.383,
       "scores": {
-        "High House War": -0.003,
-        "High House Coin": 0.206,
-        "High House Shadow": 0.399,
-        "High House Life": 0.158,
-        "High House Iron": 0.316,
-        "High House Words": 0.139,
-        "High House Chains": 0.068
+        "High House War": 0.037,
+        "High House Coin": 0.383,
+        "High House Shadow": 0.231,
+        "High House Life": 0.08,
+        "High House Iron": -0.018,
+        "High House Words": 0.152,
+        "High House Chains": 0.149
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.537,
-        "matched_signals": [],
+        "confidence": 0.8,
+        "matched_signals": [
+          "collapse",
+          "fraud"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.976
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "Commentary: Ungovernable billionaires may be our biggest global threat",
-        "url": "https://www.kansascity.com/opinion/us-viewpoints/article315623972.html",
-        "source": "worldnews",
-        "full_text": null
+        "title": "HSBC profits fall amid $400m fraud-related charge and Iran war",
+        "url": "https://www.theguardian.com/business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war",
+        "source": "guardian",
+        "full_text": "HSBC has taken a $1.3bn (\u00a3961m) hit to profits, fuelled by the fallout from the US-Israel war on Iran and fraud in the troubled private credit sector. The London-headquartered bank said profits fell 4% in the first three months of the year, dropping $100m to $9.4bn, compared with the same period in 2025. Revenue increased 6% to $18.6bn. The profit decline was linked to a jump in the potential losses it could see on soured loans to $1.3bn, which included $300m specifically linked to the impact of the conflict in the Middle East. HSBC also reported a $400m \u201cfraud-related, secondary, securitisation exposure\u201d in the UK, related to its investment banking division. The bank\u2019s chief financial officer, Pam Kaur, explained that the charge involved loans that HSBC had made to an unnamed private equity group, which was then exposed to private credit-related loans. The case reportedly relates to the home loan lender Mortgage Financial Solutions (MFS), according to the Financial Times, which cited people familiar with the matter. HSBC refused to confirm the name of the firm involved in the suspected fraud. It comes days after HSBC\u2019s UK rival Barclays said it had taken a \u00a3228m hit from MFS, which collapsed in February amid allegations of fraud. The UK\u2019s financial regulator has since launched an investigation into the scandal. While related to fraud, the HSBC charge shines light on the way high street banks could be affected when things go wrong in the world of private credit, and compounds concerns about the opaque nature of the industry. Kaur said the case was \u201cidiosyncratic\u201d and insisted that the bank was careful in its dealings with the private credit sector. She added that HSBC\u2019s total exposure to the industry was worth $6bn, which she insisted was \u201cvery small\u201d compared with the bank\u2019s $1tn balance sheet. \u201cWe\u2019ve always been very mindful of private credit risks,\u201d she said. Kaur said: \u201cIn all such situations we do a broad read across, look at all high-risk concentrations and exposures across the board, and we don\u2019t see anything comparable there. But as a follow-up, of course \u2026 when we are even exposed in a secondary context to this kind of underlying business, we have seen what we can do more, in terms of the additional due diligence.\u201d The lender\u2019s shares dropped more than 5%, making it the biggest faller on the FTSE 100 on Tuesday morning."
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.399,
+      "confidence": 0.35,
       "scores": {
-        "High House War": 0.399,
-        "High House Coin": 0.195,
-        "High House Shadow": 0.16,
-        "High House Life": 0.107,
-        "High House Iron": 0.13,
-        "High House Words": 0.324,
-        "High House Chains": 0.232
+        "High House War": 0.35,
+        "High House Coin": 0.199,
+        "High House Shadow": 0.206,
+        "High House Life": 0.064,
+        "High House Iron": 0.043,
+        "High House Words": 0.229,
+        "High House Chains": 0.146
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.532,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.968
       },
       "article": {
-        "title": "From \"Epic Fury\" to Continuum Conflict: Power, Law, and Strategy in an Era Without Endings",
-        "url": "https://www.ibtimes.co.in/epic-fury-continuum-conflict-power-law-strategy-era-without-endings-901746",
+        "title": "US and Iran launch fresh attacks in Gulf as two sides wrestle control over Strait of Hormuz",
+        "url": "https://www.newsonair.gov.in/us-and-iran-launch-fresh-attacks-in-gulf-as-two-sides-wrestle-control-over-strait-of-hormuz",
         "source": "worldnews",
         "full_text": null
       },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.33,
+      "scores": {
+        "High House War": 0.213,
+        "High House Coin": 0.134,
+        "High House Shadow": 0.33,
+        "High House Life": -0.004,
+        "High House Iron": 0.188,
+        "High House Words": 0.254,
+        "High House Chains": 0.104
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "Despite Cease-Fire, Iran\u2019s Hackers Haven\u2019t Logged Off",
+        "url": "https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "EMERGING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.393,
-      "scores": {
-        "High House War": 0.031,
-        "High House Coin": 0.244,
-        "High House Shadow": 0.233,
-        "High House Life": -0.032,
-        "High House Iron": 0.393,
-        "High House Words": -0.01,
-        "High House Chains": 0.001
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Intel\u2019s Revenues Soar, Aided by A.I. Boom",
-        "url": "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.338,
-      "scores": {
-        "High House War": 0.03,
-        "High House Coin": 0.128,
-        "High House Shadow": 0.07,
-        "High House Life": 0.338,
-        "High House Iron": 0.037,
-        "High House Words": 0.017,
-        "High House Chains": 0.093
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.97
-      },
-      "article": {
-        "title": "Trump\u2019s Budget May Target Climate Programs. Here\u2019s What Still Survives.",
-        "url": "https://www.nytimes.com/2026/04/02/climate/trump-budget-climate-cuts-congress.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -207,16 +210,92 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.482,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "AMERICA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.309,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.155,
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
+      "actor_a": "AMERICA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.309,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Chains",
+      "actor_a": "AMERICA",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.109,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Coin",
+      "actor_a": "NATO",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.285,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Shadow",
+      "actor_a": "NATO",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.285,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.799,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Shadow",
+      "actor_a": "IRAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.799,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Shadow",
+      "actor_a": "IRAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.799,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
