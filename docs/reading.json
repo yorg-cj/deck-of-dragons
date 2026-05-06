@@ -1,114 +1,84 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.518,
+      "reversed": true,
+      "confidence": 0.423,
       "scores": {
-        "High House War": 0.086,
-        "High House Coin": 0.142,
-        "High House Shadow": 0.196,
-        "High House Life": 0.142,
-        "High House Iron": 0.518,
-        "High House Words": 0.097,
-        "High House Chains": 0.091
+        "High House War": 0.077,
+        "High House Coin": 0.12,
+        "High House Shadow": 0.381,
+        "High House Life": 0.135,
+        "High House Iron": 0.423,
+        "High House Words": 0.119,
+        "High House Chains": 0.095
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.548,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "America builds AI, China uses it. That gap may decide the future",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3352235/america-builds-ai-china-uses-it-gap-may-decide-future",
-        "source": "worldnews",
+        "title": "Behind the White House\u2019s Potential Rethink on A.I.",
+        "url": "https://www.nytimes.com/2026/05/05/business/dealbook/trump-ai-regulation.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.471,
-      "scores": {
-        "High House War": 0.227,
-        "High House Coin": 0.135,
-        "High House Shadow": 0.171,
-        "High House Life": 0.471,
-        "High House Iron": 0.076,
-        "High House Words": 0.133,
-        "High House Chains": 0.285
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Africa : Strengthening Cross - Border Coordination to Address Health Threats in Africa",
-        "url": "https://allafrica.com/stories/202605050078.html",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.456,
+      "confidence": 0.39,
       "scores": {
-        "High House War": 0.161,
-        "High House Coin": 0.118,
-        "High House Shadow": 0.216,
-        "High House Life": 0.057,
-        "High House Iron": 0.016,
-        "High House Words": 0.456,
-        "High House Chains": 0.187
+        "High House War": -0.105,
+        "High House Coin": 0.269,
+        "High House Shadow": 0.103,
+        "High House Life": 0.038,
+        "High House Iron": -0.023,
+        "High House Words": 0.263,
+        "High House Chains": 0.39
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "propaganda"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.77
+        "confidence": 0.54,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "Nato meetings with TV and film-makers prompt claims it is seeking \u2018propaganda\u2019",
-        "url": "https://www.theguardian.com/world/2026/may/03/nato-meets-tv-and-film-makers-causing-concerns-it-seeks-propaganda",
+        "title": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is \u2018over\u2019",
+        "url": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
         "source": "guardian",
-        "full_text": "Nato is holding closed-door meetings with film and TV screenwriters, directors and producers across Europe and the US, the Guardian can reveal, prompting accusations the alliance is seeking to use the arts to generate \u201cpropaganda\u201d for the bloc. The alliance has held three meetings with film and TV professionals in Los Angeles, Brussels and Paris and is due to continue its \u201cseries of intimate conversations\u201d next month in London, meeting with screenwriter members of the Writers\u2019 Guild of Great Britain (WGGB), which represents professional writers in the UK. The planned meeting in London has caused consternation among some of those invited, who felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. The topic of conversation at the meeting, to be held under the Chatham House rule \u2013 in which participants are free to use information received, but identities of attenders are not revealed \u2013 will be the \u201cevolving security situation in Europe and beyond\u201d. Former Nato spokesperson James Appathurai, who is now deputy assistant secretary general for hybrid, cyber and new technology, is understood to be planning to attend, along with other officials from the alliance. In a WGGB email seen by the Guardian, it was suggested that the meetings had already led to \u201cthree separate projects\u201d in development, which were \u201cinspired, at least in part, by these conversations\u201d. It also said that Nato was \u201cbuilt on the belief that cooperation and compromise, the nurturing of friendships and alliances, is the way forward\u201d, adding that \u201ceven if something so simple as that message finds its way into a future story, that will be enough\u201d, according to the organisers of the event. Alan O\u2019Gorman, writer of the film Christy, which won best film at the 2026 Irish Film &amp; Television Awards, called the planned meeting \u201coutrageous\u201d and \u201cclearly propaganda\u201d. \u201cI thought it was tone deaf and crazy to present this as some sort of positive opportunity. A lot of people, myself included, have friends and family or themselves come from countries that are not in Nato, that have suffered under wars that Nato has joined and propagated,\u201d he said. He thinks the meetings are an attempt by Nato to \u201cget some of its messaging out there in film and TV\u201d. \u201cI think there\u2019s fearmongering throughout Europe at the moment that our defences are down,\u201d he said. \u201cI see it in an Irish context, where there\u2019s been a push through some of the media and government to present Nato in a positive light and align ourselves more closely with them. I think the Irish people, for the most part, don\u2019t want anything to do with wars on foreign lands.\u201d Defence spending in Ireland has increased to record levels following the Russian invasion of Ukraine, which has received cross party support and broad approval from the public, though support for joining Nato remains low. An Ipsos poll last year found, should a united Ireland be formed, that 49% half of all voters in the Republic of Ireland are opposed to joining the alliance, with 19 per cent in favour and 22 per cent not sure. O\u2019Gorman said other screenwriters invited to the meeting were \u201cpretty offended that art would be used in a way that was supporting war\u201d and felt they were being asked to \u201ccontribute towards propaganda for Nato\u201d. Faisal A Qureshi, a screenwriter and producer who has worked in the industry for more than 20 years, applied to attend the meeting \u201cto see what it would be like first-hand\u201d but had to pull out over a scheduling conflict. He said the \u201crisk for any creative who dips into this unattributable world of intelligence or military briefings is that they can get seduced into thinking they now have some secret knowledge. That there exists a world of greys where morality is stretched and human right abuses are acceptable when done for the greater good\u201d. Qureshi questions whether a creative would sufficiently \u201cchallenge or interrogate\u201d information passed along to them in such meetings. \u201cThey\u2019ve just been given something that "
+        "full_text": "The Spanish prime minister, Pedro S\u00e1nchez, has asked the European Commission to activate its blocking statute to prevent compliance with US sanctions on the international criminal court (ICC) over its investigation into Israel\u2019s actions in Gaza. The EU blocking statute is a legal mechanism that would effectively allow European companies to ignore the US sanctions. In a post on X, S\u00e1nchez wrote: Spain does not look the other way. Sanctioning those who defend international justice puts the entire human rights system at risk. The EU cannot remain idle in the face of this persecution. That is why, today, we ask the Commission to activate the Blocking Statute, to protect the independence of the international criminal court and the United Nations, and their actions to end the genocide in Gaza. Donald Trump signed an executive order in February last year that authorises aggressive economic sanctions against the ICC, accusing the body of \u201cillegitimate and baseless actions\u201d targeting the US and Israel. The US president issued the order in response to the court\u2019s decision in 2024 to approve prosecutor Karim Khan\u2019s requests for arrest warrants against Israeli prime minister Benjamin Netanyahu and his former defence minister Yoav Gallant for alleged war crimes and crimes against humanity in Gaza. Iran\u2019s foreign minister, Abbas Araghchi, has spoken on the phone with Saudi Arabia\u2019s foreign minister, Prince Faisal bin Farhan Al Saud, according to a statement on the former\u2019s Telegram channel. The statement said: The parties in this conversation, whilst reviewing the latest regional developments, stressed the continuation of the path of diplomacy and cooperation between regional countries to prevent the emergence and escalation of tension. Iran and Saudi Arabia have long been deeply distrustful of each other, and regional tensions have escalated sharply since the US and Israel launched strikes against Tehran on 28 February. Iran has responded with retaliatory attacks against Israel as well as US allies in the Gulf. The UN has called on Israel to immediately release two activists taken from a Gaza aid flotilla, and demanded an investigation into \u201cdisturbing accounts\u201d they had been severely mistreated. Spanish national Saif Abu Keshek and Brazilian activist Thiago Avila were among dozens of activists on a flotilla attempting to transport aid to Gaza when it was intercepted by Israeli forces in international waters near Crete last Thursday. The two men are being held in a prison in Ashkelon in southern Israel. \u201cIsrael must immediately and unconditionally release Global Sumud Flotilla members Saif Abu Keshek and Thiago Avila, who were detained in international waters and brought to Israel where they continue to be held without charge,\u201d UN rights office spokesperson Thameen Al-Kheetan said in a statement. \u201cIt is not a crime to show solidarity and attempt to bring humanitarian aid to the Palestinian population in Gaza, who are in dire need of it.\u201d The flotilla\u2019s vessels set sail from France, Spain and Italy with the aim of delivering humanitarian aid to Gaza. Representatives for Avila and Abu Keshek have accused Israeli authorities of abusing the two men, who have been on hunger strike for the past six days. Kheetan decried the \u201cdisturbing accounts of severe mistreatment\u201d, calling for an investigation and insisting \u201cthose responsible must be brought to justice\u201d. \u201cWe call for an end to Israel\u2019s use of arbitrary detention and of broadly and vaguely defined terrorism legislation, inconsistent with international human rights law,\u201d he said. \u201cIsrael must also end its blockade on Gaza, and allow and facilitate the entry of humanitarian assistance to the besieged Palestinian strip, in sufficient amounts.\u201d We have more statements from Beijing following Araghchi and Wang\u2019s meeting. The Chinese foreign ministry said Wang had urged the US and Iran to heed international calls to reopen the strait of Hormuz, where an effective blockade has brought roughly 20% of "
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.383,
+      "confidence": 0.38,
       "scores": {
-        "High House War": 0.037,
-        "High House Coin": 0.383,
-        "High House Shadow": 0.231,
-        "High House Life": 0.08,
-        "High House Iron": -0.018,
-        "High House Words": 0.152,
-        "High House Chains": 0.149
+        "High House War": 0.03,
+        "High House Coin": 0.38,
+        "High House Shadow": 0.223,
+        "High House Life": 0.076,
+        "High House Iron": -0.019,
+        "High House Words": 0.133,
+        "High House Chains": 0.126
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "matched_signals": [
           "collapse",
+          "default",
           "fraud"
         ],
         "sentiment": "NEGATIVE",
@@ -118,81 +88,23 @@
         "title": "HSBC profits fall amid $400m fraud-related charge and Iran war",
         "url": "https://www.theguardian.com/business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war",
         "source": "guardian",
-        "full_text": "HSBC has taken a $1.3bn (\u00a3961m) hit to profits, fuelled by the fallout from the US-Israel war on Iran and fraud in the troubled private credit sector. The London-headquartered bank said profits fell 4% in the first three months of the year, dropping $100m to $9.4bn, compared with the same period in 2025. Revenue increased 6% to $18.6bn. The profit decline was linked to a jump in the potential losses it could see on soured loans to $1.3bn, which included $300m specifically linked to the impact of the conflict in the Middle East. HSBC also reported a $400m \u201cfraud-related, secondary, securitisation exposure\u201d in the UK, related to its investment banking division. The bank\u2019s chief financial officer, Pam Kaur, explained that the charge involved loans that HSBC had made to an unnamed private equity group, which was then exposed to private credit-related loans. The case reportedly relates to the home loan lender Mortgage Financial Solutions (MFS), according to the Financial Times, which cited people familiar with the matter. HSBC refused to confirm the name of the firm involved in the suspected fraud. It comes days after HSBC\u2019s UK rival Barclays said it had taken a \u00a3228m hit from MFS, which collapsed in February amid allegations of fraud. The UK\u2019s financial regulator has since launched an investigation into the scandal. While related to fraud, the HSBC charge shines light on the way high street banks could be affected when things go wrong in the world of private credit, and compounds concerns about the opaque nature of the industry. Kaur said the case was \u201cidiosyncratic\u201d and insisted that the bank was careful in its dealings with the private credit sector. She added that HSBC\u2019s total exposure to the industry was worth $6bn, which she insisted was \u201cvery small\u201d compared with the bank\u2019s $1tn balance sheet. \u201cWe\u2019ve always been very mindful of private credit risks,\u201d she said. Kaur said: \u201cIn all such situations we do a broad read across, look at all high-risk concentrations and exposures across the board, and we don\u2019t see anything comparable there. But as a follow-up, of course \u2026 when we are even exposed in a secondary context to this kind of underlying business, we have seen what we can do more, in terms of the additional due diligence.\u201d The lender\u2019s shares dropped more than 5%, making it the biggest faller on the FTSE 100 on Tuesday morning."
+        "full_text": "HSBC has taken a $1.3bn (\u00a3961m) hit to profits, amid the fallout from the US-Israel war on Iran and fraud in the troubled private credit sector. The London-headquartered bank said profits fell 4% in the first three months of the year, dropping $100m to $9.4bn, compared with the same period in 2025. Revenue increased 6% to $18.6bn. The profit decline was linked to a jump in the potential losses it could see on soured loans to $1.3bn, which included $300m specifically linked to the impact of the conflict in the Middle East. HSBC also reported a $400m \u201cfraud-related, secondary, securitisation exposure\u201d in the UK, related to its investment banking division. The bank\u2019s chief financial officer, Pam Kaur, explained that the charge involved loans that HSBC had made to an unnamed private equity group, which was then exposed to private credit-related loans. The case reportedly relates to the collapse of the home loan lender Mortgage Financial Solutions (MFS), to which HSBC was exposed through loans made to Apollo\u2019s asset-backed lending unit Atlas SP, according to the Financial Times, which cited people familiar with the matter. HSBC refused to confirm the names of the companies involved in the suspected fraud. It comes days after HSBC\u2019s UK rival Barclays said it had taken a \u00a3228m hit from MFS, which collapsed in February amid allegations of fraud. The UK\u2019s financial regulator has launched an investigation into the scandal. While related to fraud, the HSBC charge shines light on the way high street banks could be affected when things go wrong in private credit, and compounds concerns about the opaque nature of the industry. Kaur said the case was \u201cidiosyncratic\u201d and that the bank was careful in its dealings with the private credit sector. She added that HSBC\u2019s total exposure to the industry was worth $6bn, which was \u201cvery small\u201d compared with the bank\u2019s $1tn balance sheet. \u201cWe\u2019ve always been very mindful of private credit risks,\u201d she said. Kaur added: \u201cIn all such situations we do a broad read across, look at all high-risk concentrations and exposures across the board, and we don\u2019t see anything comparable there. But as a follow-up, of course \u2026 when we are even exposed in a secondary context to this kind of underlying business, we have seen what we can do more, in terms of the additional due diligence.\u201d The lender\u2019s shares dropped more than 5%, putting it among the biggest fallers on the FTSE 100 on Tuesday. Despite the $300m put aside to protect against defaults linked to the Iran war, Kaur downplayed the impact of the conflict on HSBC\u2019s operations. She said that while some clients were borrowing more money, business deals were still \u201cflowing through\u201d. \u201cIn terms of ongoing activity on the ground, we don\u2019t see as many changes. And more importantly, credit portfolio has remained resilient through this period as well,\u201d Kaur told reporters. \u201cThis is very similar to what we see in times of stress,\u201d she said, noting that some of the money put aside in the aftermath of Russia\u2019s full-scale invasion of Ukraine was eventually released. \u201cAnd this time around, obviously we\u2019d see how the conflict progresses and, and if we see stability in our books, we would release those reserves.\u201d The finance chief added that the bank would continue investing in its Middle Eastern wealth business, and that while some bank staff went abroad during recent holidays, most had returned to their desks. \u201cFor now, most people are back, and we just hope that things stay stable over the next few weeks.\u201d"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.35,
-      "scores": {
-        "High House War": 0.35,
-        "High House Coin": 0.199,
-        "High House Shadow": 0.206,
-        "High House Life": 0.064,
-        "High House Iron": 0.043,
-        "High House Words": 0.229,
-        "High House Chains": 0.146
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.532,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.968
-      },
-      "article": {
-        "title": "US and Iran launch fresh attacks in Gulf as two sides wrestle control over Strait of Hormuz",
-        "url": "https://www.newsonair.gov.in/us-and-iran-launch-fresh-attacks-in-gulf-as-two-sides-wrestle-control-over-strait-of-hormuz",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
+      "position": "WANING"
     },
     {
       "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.33,
-      "scores": {
-        "High House War": 0.213,
-        "High House Coin": 0.134,
-        "High House Shadow": 0.33,
-        "High House Life": -0.004,
-        "High House Iron": 0.188,
-        "High House Words": 0.254,
-        "High House Chains": 0.104
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "Despite Cease-Fire, Iran\u2019s Hackers Haven\u2019t Logged Off",
-        "url": "https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "title": "The Assassin",
       "reversed": true,
-      "confidence": 0.324,
+      "confidence": 0.371,
       "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.224,
-        "High House Shadow": 0.036,
-        "High House Life": 0.116,
-        "High House Iron": 0.047,
-        "High House Words": 0.269,
-        "High House Chains": 0.324
+        "High House War": 0.126,
+        "High House Coin": 0.147,
+        "High House Shadow": 0.371,
+        "High House Life": 0.06,
+        "High House Iron": 0.021,
+        "High House Words": 0.362,
+        "High House Chains": 0.211
       },
       "reversal": {
         "reversed": true,
@@ -202,92 +114,109 @@
         "sentiment_score": 0.984
       },
       "article": {
-        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
-        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
-        "source": "nyt",
+        "title": "Darknet Diaries Deutsch : Eine Frau , das Netz und der Terror ( Teil 1 ) ",
+        "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Eine-Frau-das-Netz-und-der-Terror-Teil-1-11256173.html",
+        "source": "gdelt_doc",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.369,
+      "scores": {
+        "High House War": 0.048,
+        "High House Coin": 0.045,
+        "High House Shadow": 0.201,
+        "High House Life": 0.138,
+        "High House Iron": -0.014,
+        "High House Words": 0.369,
+        "High House Chains": 0.041
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.543,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.987
+      },
+      "article": {
+        "title": "Political row as report calls for sweeping cuts to French public broadcasting",
+        "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
+        "source": "guardian",
+        "full_text": "French politicians on the left and centre have criticised a parliament inquiry report that recommends sweeping cuts to public broadcasting, with a row over culture wars building before next year\u2019s presidential election. State broadcasting is a key topic in the run-up to next April\u2019s vote. The far right, which is leading in the polls, is highly critical of public TV and radio and is vowing to privatise it. Charles Alloncle of the Union of the Right for the Republic (UDR) party, which is allied to Marine Le Pen\u2019s far-right, anti-immigration National Rally (RN), published a report on Tuesday after setting up a five-month parliament inquiry into the \u201cneutrality, workings and financing\u201d of public broadcasting, after far-right politicians claimed that state TV and radio were biased against them. Alloncle recommended that the French president should directly nominate the heads of public broadcasting, backed up by votes in parliament and the senate. He also suggested reducing the public broadcasting budget by 25%, merging several major channels, cutting youth broadcasting, cutting the gameshow and entertainment budget by 75%, and cutting the sport budget by 33%. Alloncle said that French state TV and radio was \u201cill-adapted to our era\u201d, faced a financial crisis, had \u201clost touch with what French people want\u201d, and must be completely reformed. But the report faced harsh criticism on the left and centre, after inquiry hearings were marred by heated rows and suspensions, with critics saying Alloncle\u2019s questioning was factually incorrect and biased towards the far right. Alloncle denied this. The Socialist MP Ayda Hadizadeh, who sat on the inquiry panel, said during the hearings that the process had turned into a \u201ctribunal\u201d by politicians who wanted \u201cto kill public broadcasting\u201d. RN MP Anne Sicard said her party was \u201ctreated like the enemy\u201d by the state broadcaster. Meanwhile, Le Pen praised the parliament inquiry, and said it had \u201cshone a light\u201d on what she called public broadcasting\u2019s \u201cdownward spiral, misguided financial management and multiple attacks on political neutrality\u201d. The public broadcaster France T\u00e9l\u00e9visions, which includes four national TV channels and 24 regional channels, is a key financier of films, drama and documentaries, as well as the country\u2019s top media outlet. Radio France has several national and local stations and dominates podcasting. The French president, Emmanuel Macron, has been critical of the public broadcaster in the past and scrapped the TV licence fee in 2022, while a long-term funding model is yet to be defined. Jordan Bardella, RN\u2019s party president and a potential presidential candidate, has reiterated that his party \u201cwould begin a process of privatisation\u201d if it wins the next election. The government is not obliged to adopt the recommendations in Alloncle\u2019s report. The prime minister, S\u00e9bastien Lecornu, said reform was necessary but brushed aside the report as a \u201cmissed opportunity\u201d. The head of France T\u00e9l\u00e9visions, Delphine Ernotte, who gave evidence in the hearings, said the report was a biased \u201cideological reading of the public service\u201d, and its recommendations would lead to a historic weakening of public broadcasting. The centre-right MP, J\u00e9r\u00e9mie Patrier-Leitus, who served as president of the inquiry hearings, said Alloncle had been \u201cdishonest\u201d and his report served only to \u201cprepare the mood\u201d for the privatisation of state media sought by the far right. Alloncle denied this, saying his report stopped short of recommending privatisation. Agn\u00e8s Pannier-Runacher, an MP in Macron\u2019s centrist party and a former minister, described the parliamentary inquiry as \u201cshameful\u201d. She said Alloncle\u2019s main problem with state TV and radio \u201cwas that it was not sufficiently promoting the ideas of the far right\u201d. She said this was an attack on media independence, like in Hungary under former prime minister Viktor Orb\u00e1n or the US under Donald Trump. The backdrop to the inquiry is the rising dominance in France of the priva"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.355,
+      "scores": {
+        "High House War": -0.023,
+        "High House Coin": 0.067,
+        "High House Shadow": -0.025,
+        "High House Life": 0.355,
+        "High House Iron": 0.011,
+        "High House Words": 0.0,
+        "High House Chains": 0.031
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.831
+      },
+      "article": {
+        "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
+        "url": "https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation",
+        "source": "guardian",
+        "full_text": "Food prices are on track to be 50% higher in November than at the start of the cost of living crisis in 2021, research suggests. Climate and energy shocks have driven an almost quadrupling of the pace of food price growth, according to research from the thinktank Energy and Climate Intelligence Unit (ECIU), with costs rising in five years at about the same rate as they had over the previous two decades. Anna Taylor, the executive director of the Food Foundation charity, said: \u201cFood prices rising this high and this fast leaves families on the lowest incomes with nowhere left to cut except the food on their plate. When that happens, people skip meals, children go hungry, and diet-related illness rises \u2013 taking parents out of work and piling pressure on an NHS that can least afford it.\u201d The research suggests that the cost of living crisis, which many voters blame on political elites and big business, is likely to continue to be an important political issue during 2026. Experts have said the war in the Middle East is likely to drive up inflation, which had previously been sent soaring by the Covid pandemic and Russia\u2019s invasion of Ukraine. The Bank of England has said food inflation is expected to rise to 7% by the end of the year because of higher prices for fertiliser, energy and transport. Foods including pasta, frozen vegetables, chocolate and eggs were all at least 50% more expensive than five years ago, while the price of beef was up 64% and olive oil had more than doubled, the ECIU said. The rises reflected the products\u2019 \u201csensitivity to volatile oil and gas prices, synthetic fertiliser costs, and climate impacts such as droughts, floods and heatwaves, both in the UK and in key import regions\u201d, the thinktank found. These forces pushed household food bills up by an average of \u00a3605 over 2022 and 2023, the report added, while recently five climate-affected foods \u2013 butter, milk, beef, chocolate and coffee \u2013 had been responsible for much of the continued pressure on food inflation. And inflation could potentially become more extreme in the near future, the thinktank added. Chris Jaccarini, a food and farming analyst at the ECIU, said: \u201cTrump\u2019s war in the Middle East is set to drive shopping bills higher as oil and gas prices spike. Scientists are predicting 2027 to be the hottest year on record with climate change combining with the El Ni\u00f1o effect kicking off this year. Three of England\u2019s worst harvests on record have been in the past five years.\u201d Adjusting for average wages, the ECIU said food prices had risen by 11% since the start of the cost of living crisis, compounding wage-adjusted rises experienced in other household costs that were difficult to mitigate, including energy and water bills."
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.324,
+      "scores": {
+        "High House War": 0.324,
+        "High House Coin": 0.095,
+        "High House Shadow": 0.224,
+        "High House Life": 0.112,
+        "High House Iron": 0.18,
+        "High House Words": 0.149,
+        "High House Chains": 0.178
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.539,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.979
+      },
+      "article": {
+        "title": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
+        "url": "https://www.theguardian.com/world/2026/may/06/ukraine-drone-supply-chain-taiwan",
+        "source": "guardian",
+        "full_text": "Over the four years that Ukraine has been fighting to repel Russian forces from its territory, its country\u2019s battlefields have become scarred by airstrikes, pockmarked by artillery fire, and littered with the wreckage of cheap aerial drones. The conflict has transformed the economics of modern warfare \u2013 with both sides now reliant on these unmanned aerial vehicles (UAVs) to monitor the battlefield, evade defences and strike deep into enemy territory. The fighting has so far kept Russia bogged down, trapped behind frozen frontlines, allowing Kyiv to remake the country\u2019s industrial base to meet the needs of the war. Now Ukraine has a new target \u2013 to free its drone supply chains of components from China, even as it attempts to ramp up production to meet its army\u2019s growing needs. Despite repeated denials from Beijing, Ukraine accuses China of aiding its ally Russia with military goods. Amid broader concerns about China\u2019s dominance of industrial supply chains and the security risks that could entail, Ukraine \u2013 as well as Europe, the US and other countries \u2013 have increasingly turned to Taiwan as an alternative supplier. Taiwan\u2019s reputation for excellence in technology and particular expertise in microelectronics, navigation systems and batteries \u2013 areas in which western suppliers have struggled to compete \u2013 make it a favoured alternative source for Ukrainian drone manufacturers, according to the Snake Island Institute (SII), an independent Ukrainian thinktank. Taiwan appears ready to meet the moment \u2013 with its president, Lai Ching-te, promoting a US$40bn supplementary defence budget that includes funding for drones and the integration of artificial intelligence. Taiwanese drone exports to Europe surged more than 40-fold in 2025, with Poland and Czechia among the largest markets, according to the Research Institute for Democracy, Society and Emerging Technology (DSET). The trend continues to grow \u2013 exports in the first quarter of 2026 have already surpassed last year\u2019s total. Most of the drones were intended for onward transfer to Ukraine, according to interviews conducted by DSET, with these countries acting as intermediaries. \u201cWe have components that are made in Taiwan, and that is not unusual in the industry now,\u201d says Bohdan Diorditsa, chief international alliances officer at Vyriy, one of Ukraine\u2019s leading drone makers that has been vocal in pushing for local production and reducing reliance on Chinese components that still dominate global supply chains. He says fears that China might further tighten export controls were behind the search for alternatives. Taiwan, with world-class strengths in semiconductors and electronics integration, is a \u201c100% a valuable partner\u201d, Diorditsa says. \u2018They test it, they like it\u2019 Ultimately, localisation remains Ukraine\u2019s primary focus, says Artur Savchii, an analyst at the SII thinktank. Each year of the war has pushed production further inward: from mainly importing Chinese finished drones to assembling them almost entirely domestically. By last year, Ukraine had more than 100 manufacturers of components on its shores, according to Ukraine\u2019s ministry of defence. Ukrainian companies are also tailoring systems specifically for frontline combat in ways that mass-market Chinese suppliers often cannot, Savchii says. But even as domestic assembly expands, Ukraine is unlikely to scale up drone production without any Chinese components in the near term, largely because Chinese-made parts remain significantly cheaper and more widely available. Even components produced elsewhere, including lithium batteries and rare-earth magnets, often still rely on Chinese materials. Taiwan is also hardly free from the same dependency problem. China remains its biggest source of drone imports, although the customs figures include civilian and commercial models rather than solely military systems. Taipei has pledged to build a fully \u201cnon-red\u201d drone industry by 2027 and wants to produce a third of the rare-earth magnets "
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "AMERICA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.309,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "AMERICA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.309,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Chains",
-      "actor_a": "AMERICA",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.109,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "NATO",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.285,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Shadow",
-      "actor_a": "NATO",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.285,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Coin",
       "house_b": "High House War",
       "actor_a": "IRAN",
-      "actor_b": "IRAN",
+      "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -2.799,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Shadow",
-      "actor_a": "IRAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.799,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Shadow",
-      "actor_a": "IRAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.799,
+      "goldstein_avg": -2.682,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -296,6 +225,11 @@
     "High House Chains": {
       "trend": "falling",
       "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.262,
       "source": "gdelt_volume"
     }
   }
