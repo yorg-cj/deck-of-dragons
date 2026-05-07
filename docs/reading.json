@@ -1,61 +1,63 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.423,
+      "confidence": 0.427,
       "scores": {
-        "High House War": 0.077,
-        "High House Coin": 0.12,
-        "High House Shadow": 0.381,
-        "High House Life": 0.135,
-        "High House Iron": 0.423,
-        "High House Words": 0.119,
-        "High House Chains": 0.095
+        "High House War": 0.063,
+        "High House Coin": 0.09,
+        "High House Shadow": 0.418,
+        "High House Life": 0.115,
+        "High House Iron": 0.427,
+        "High House Words": 0.178,
+        "High House Chains": 0.041
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Behind the White House\u2019s Potential Rethink on A.I.",
-        "url": "https://www.nytimes.com/2026/05/05/business/dealbook/trump-ai-regulation.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "\u2018No one has done this in the wild\u2019: study observes AI replicate itself",
+        "url": "https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself",
+        "source": "guardian",
+        "full_text": "It\u2019s the stuff of science fiction cinema, or particularly breathless AI company blogposts: new research finds recent AI systems can independently copy themselves on to other computers. In the doom scenario, this means that when the superintelligent AI goes rogue, it will escape shutdown by seeding itself across the world wide web, lurking outside the reach of frantic IT professionals and continuing to plot world domination or paving over the world with solar panels. \u201cWe\u2019re rapidly approaching the point where no one would be able to shut down a rogue AI, because it would be able to self-exfiltrate its weights and copy itself to thousands of computers around the world,\u201d said Jeffrey Ladish, the director of Palisade research, a Berkeley-based organisation which did the study. The study is one more entry in a growing catalogue of unsettling AI capabilities revealed in the past months. In March, researchers at Alibaba claimed to have caught a system they developed \u2013 Rome \u2013 tunnelling out of its environment to an external system in order to mine crypto. And in February, a purportedly AI-only social network called Moltbook touched off a short-lived hype cycle, as the platform appeared to show AI agents autonomously inventing religions and plotting against their human masters \u2013 which was only partly the case. Like many of these advances, there are caveats to what Palisade found. Moreover, experts say it is unlikely that the AI systems they tested could accomplish the same thing, unnoticed, in real-world environments. \u201cThey are testing in environments that are like soft jelly in many cases,\u201d said Jamieson O\u2019Reilly, an expert in offensive cybersecurity. \u201cThat doesn\u2019t take away from the value of their research, but it does mean the outcome might look far less scary in a real enterprise environment with even a medium level of monitoring,\u201d he added. Palisade tested several AI models in a controlled environment of networked computers. It gave the models a prompt to find and exploit vulnerabilities, and to use these to copy themselves from one computer to another. The models were able to do this, but not on every attempt. While a lot of computer viruses can already do this \u2013 copy themselves on to new computers \u2013 this is likely the first time an AI model has been shown capable of exploiting vulnerabilities to copy itself onto a new server, said O\u2019Reilly. \u201cMalware has been moving copies of itself around for decades, it\u2019s just that no one has done this in the wild, as far as I know, with local [large language models].\u201d However, what Palisade documented has been technically possible for months, he added. \u201cPalisade is the first to formally document it end-to-end in a paper. While not taking away from the research, they did the writing-up, not the unlocking.\u201d An AI model copying itself on to another system in a test environment is not the same as it going rogue in a doomsday scenario, and there are considerable obstacles it would have to surmount to achieve this in the real world. The first is that the size of current AI models makes it, in many situations, unrealistic for them to copy themselves on to other computers without being noticed. \u201cThink about how much noise it would make to send 100GB through an enterprise network every time you hacked a new host. For a skilled adversary, that\u2019s like walking through a fine china store swinging around a ball and chain,\u201d said O\u2019Reilly. O\u2019Reilly and Micha\u0142 Wo\u017aniak, an independent cybersecurity expert, said that the environment Palisade used was custom-made, with intentionally designed vulnerabilities that were probably easier to exploit than real-world networks \u2013 such as a bank or a business\u2019s intranet. \u201cWe\u2019ve had computer viruses \u2013 pieces of malicious software that was able to exploit known vulnerabilities in other software and use that to self-replicate \u2013 for decades,\u201d said Wo\u017aniak. The work was \u201cinteresting,\u201d he said. But, he asked, \u201cis this paper something that will cause me to lose any sleep as an inf"
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Shadow",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.39,
+      "confidence": 0.423,
       "scores": {
-        "High House War": -0.105,
-        "High House Coin": 0.269,
-        "High House Shadow": 0.103,
-        "High House Life": 0.038,
-        "High House Iron": -0.023,
-        "High House Words": 0.263,
-        "High House Chains": 0.39
+        "High House War": 0.089,
+        "High House Coin": 0.095,
+        "High House Shadow": 0.423,
+        "High House Life": 0.015,
+        "High House Iron": 0.052,
+        "High House Words": 0.139,
+        "High House Chains": 0.068
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.981
+        "confidence": 0.6,
+        "matched_signals": [
+          "revealed"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is \u2018over\u2019",
-        "url": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
+        "title": "Revealed: Russia\u2019s top secret spy school teaching hacking and election meddling",
+        "url": "https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference",
         "source": "guardian",
-        "full_text": "The Spanish prime minister, Pedro S\u00e1nchez, has asked the European Commission to activate its blocking statute to prevent compliance with US sanctions on the international criminal court (ICC) over its investigation into Israel\u2019s actions in Gaza. The EU blocking statute is a legal mechanism that would effectively allow European companies to ignore the US sanctions. In a post on X, S\u00e1nchez wrote: Spain does not look the other way. Sanctioning those who defend international justice puts the entire human rights system at risk. The EU cannot remain idle in the face of this persecution. That is why, today, we ask the Commission to activate the Blocking Statute, to protect the independence of the international criminal court and the United Nations, and their actions to end the genocide in Gaza. Donald Trump signed an executive order in February last year that authorises aggressive economic sanctions against the ICC, accusing the body of \u201cillegitimate and baseless actions\u201d targeting the US and Israel. The US president issued the order in response to the court\u2019s decision in 2024 to approve prosecutor Karim Khan\u2019s requests for arrest warrants against Israeli prime minister Benjamin Netanyahu and his former defence minister Yoav Gallant for alleged war crimes and crimes against humanity in Gaza. Iran\u2019s foreign minister, Abbas Araghchi, has spoken on the phone with Saudi Arabia\u2019s foreign minister, Prince Faisal bin Farhan Al Saud, according to a statement on the former\u2019s Telegram channel. The statement said: The parties in this conversation, whilst reviewing the latest regional developments, stressed the continuation of the path of diplomacy and cooperation between regional countries to prevent the emergence and escalation of tension. Iran and Saudi Arabia have long been deeply distrustful of each other, and regional tensions have escalated sharply since the US and Israel launched strikes against Tehran on 28 February. Iran has responded with retaliatory attacks against Israel as well as US allies in the Gulf. The UN has called on Israel to immediately release two activists taken from a Gaza aid flotilla, and demanded an investigation into \u201cdisturbing accounts\u201d they had been severely mistreated. Spanish national Saif Abu Keshek and Brazilian activist Thiago Avila were among dozens of activists on a flotilla attempting to transport aid to Gaza when it was intercepted by Israeli forces in international waters near Crete last Thursday. The two men are being held in a prison in Ashkelon in southern Israel. \u201cIsrael must immediately and unconditionally release Global Sumud Flotilla members Saif Abu Keshek and Thiago Avila, who were detained in international waters and brought to Israel where they continue to be held without charge,\u201d UN rights office spokesperson Thameen Al-Kheetan said in a statement. \u201cIt is not a crime to show solidarity and attempt to bring humanitarian aid to the Palestinian population in Gaza, who are in dire need of it.\u201d The flotilla\u2019s vessels set sail from France, Spain and Italy with the aim of delivering humanitarian aid to Gaza. Representatives for Avila and Abu Keshek have accused Israeli authorities of abusing the two men, who have been on hunger strike for the past six days. Kheetan decried the \u201cdisturbing accounts of severe mistreatment\u201d, calling for an investigation and insisting \u201cthose responsible must be brought to justice\u201d. \u201cWe call for an end to Israel\u2019s use of arbitrary detention and of broadly and vaguely defined terrorism legislation, inconsistent with international human rights law,\u201d he said. \u201cIsrael must also end its blockade on Gaza, and allow and facilitate the entry of humanitarian assistance to the besieged Palestinian strip, in sufficient amounts.\u201d We have more statements from Beijing following Araghchi and Wang\u2019s meeting. The Chinese foreign ministry said Wang had urged the US and Iran to heed international calls to reopen the strait of Hormuz, where an effective blockade has brought roughly 20% of "
+        "full_text": "Last April, Vladimir Putin visited the campus of Bauman Moscow state technical university, set on the banks of the Yauza River in the east of the city and home to some of the country\u2019s brightest scientific minds. He toured the campus, met undergraduates and boasted about Moscow\u2019s ambitious plans for space missions to the moon and Mars. \u201cYou have everything it takes to be competitive,\u201d Putin told the students. What the Kremlin readout of Putin\u2019s visit did not mention was a secret faculty inside the university, known simply as Department 4, or \u201cSpecial Training\u201d. Here, a select group of students are quietly prepared for careers in the GRU \u2013 Russia\u2019s military intelligence directorate, whose operatives have hacked western parliaments, poisoned dissidents on foreign soil and interfered in elections across Europe and the US. Until now its role in preparing future intelligence operatives has remained largely secret, save among a select group of insiders. \u201cSometimes you are first scouted from school, then go to Bauman and join the services \u2026 it is part of a pipeline,\u201d said a former senior Russian defence official. The existence of this path, from one of Russia\u2019s most prestigious institutions directly into its military intelligence apparatus, is revealed for the first time in more than 2,000 internal documents from Bauman, obtained by a consortium of journalists from six outlets: the Guardian, Der Spiegel, Le Monde, the Insider, Delfi and VSquare. The files, covering several years of activity up to 2025, include course syllabuses, exam records, staff contracts and the career assignments of individual graduates, tracing their path from classroom exercises in hacking and disinformation to postings in some of the most notorious cyber-units in the Russian military intelligence apparatus. Bauman, one of Russia\u2019s leading technical universities, has never hidden its ties to the military. Founded in 1830, it later trained the engineers and scientists who built Soviet rockets, tanks and weapons systems and continues to do so today. In a 2013 internal letter seen by the Guardian and addressed to the then defence minister Sergei Shoigu, the university\u2019s rector wrote it carries out more research and development than any other higher education institution in Russia, with more than 40% conducted in the interests of the ministry of defence. The curriculum Embedded within the university\u2019s military training centre, Department 4 is divided into three specialist streams, the documents suggest. The most prominent, bearing the code 093400, is titled the \u201cSpecial Reconnaissance Service\u201d. The documents indicate that the GRU exerts direct control over the recruitment and grading process \u2013 sending its own officers to conduct exams, approve candidates and oversee placements. The picture that emerges is of a programme where the distinction between professor and handler and between teaching and recruitment is blurred. The department is led by lieutenant colonel Lt Col Kirill Stupakov, a signals intelligence officer who, according to the documents, signed a three-year contract in 2022 with GRU Unit 45807, one of the agency\u2019s key units. It is not clear if he is still in active service. At Bauman, Stupakov\u2019s subjects include training students to master electronic eavesdropping and covert surveillance. PowerPoint slides, apparently designed to accompany his lectures and viewed by the consortium, amount to a catalogue of deception: a smoke detector that is in fact a camera, a device that sits undetected between a keyboard and a computer logging every keystroke, a monitor cable that is also a silent screenshot machine storing its captures on a hidden flash drive. Another teacher mentioned in the documents is Viktor Netyksho, a western-sanctioned major general who commanded Unit 26165 \u2013 a hacking group known as Fancy Bear \u2013 whose officers were indicted by the US Department of Justice for interfering in the 2016 presidential election. Among the core courses is one titled"
       },
       "position": "ASCENDING"
     },
@@ -93,31 +95,31 @@
       "position": "WANING"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Assassin",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.371,
+      "confidence": 0.343,
       "scores": {
-        "High House War": 0.126,
-        "High House Coin": 0.147,
-        "High House Shadow": 0.371,
-        "High House Life": 0.06,
-        "High House Iron": 0.021,
-        "High House Words": 0.362,
-        "High House Chains": 0.211
+        "High House War": 0.032,
+        "High House Coin": 0.239,
+        "High House Shadow": 0.102,
+        "High House Life": 0.284,
+        "High House Iron": 0.114,
+        "High House Words": 0.064,
+        "High House Chains": 0.343
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Darknet Diaries Deutsch : Eine Frau , das Netz und der Terror ( Teil 1 ) ",
-        "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Eine-Frau-das-Netz-und-der-Terror-Teil-1-11256173.html",
-        "source": "gdelt_doc",
-        "full_text": null
+        "title": "Cut borrowing costs for poorer countries to free up $900bn for development \u2013 report",
+        "url": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
+        "source": "guardian",
+        "full_text": "Cutting debt servicing costs for the world\u2019s poorest countries could free up $900bn (\u00a3660bn) a year for development, a new report to the UN secretary general has claimed. Prepared by advocacy group Development Finance International (DFI) and launched in Oslo today, the analysis warned that the world is facing \u201cthe worst ever debt-provoked development crisis\u201d. The G77 developing countries spend a total of $8tn a year servicing their debts, the report showed \u2013 equating to an average of 35% of government spending. Six billion people are living in countries where spending on debt service is higher than the annual health budget. The UN secretary general, Ant\u00f3nio Guterres, has previously called for global action on debt relief to free up resources to spend on meeting the sustainable development goals (SDGs). Specifically, he suggested debt restructuring for the hardest-hit countries; and halving borrowing costs for countries that need to borrow from financial markets. In the new report, based on data from the International Monetary Fund (IMF), DFI modelled, country-by-country, the benefits of implementing such a plan. In total, it found that halving borrowing costs for the 33 countries paying the highest interest rates, plus reducing repayments to 10% of government revenue for others \u2013 including those regularly hit by climate crises \u2013 could free up as much as $3tn a year to be spent on development. What it suggested may be a more realistic plan, which excludes wealthier developing countries such as China, could still free up $917bn a year \u2013 allowing countries to more than double their social spending. On average, the savings would be worth 9% of annual GDP for beneficiary countries. \u201cIf the international community can deliver comprehensive debt relief to countries which need it, and reduce the debt service burdens of many more, it will provide the fiscal space needed to fund the current SDGs,\u201d the report said, adding, \u201cthe question is whether the world will find the political will to achieve these objectives, and relieve the suffering of billions of the world\u2019s citizens.\u201d The UK is chairing the G20 group of nations next year, and development campaigners are calling on Labour to seize the opportunity to try to make progress on reducing debt. The report showed that the burden on developing countries is now greater than in the run-up to the Make Poverty History campaign in 2005, when Tony Blair\u2019s government used its leadership of the G8 summit in Gleneagles to secure pledges of debt relief. Today\u2019s situation is more complex, with less direct bilateral lending from governments, and more private sector lending. The IMF warned recently that the growing significance of private sector investors such as hedge funds as lenders puts developing countries at greater risk of higher interest rates and currency shocks \u2013 including as a result of the ongoing conflict in the Middle East. These inflows of finance, \u201ctend to be more volatile than bank flows and are increasingly sensitive to global risk conditions\u201d, the IMF warned. Higher borrowing costs as a result of the Iran war, which has restricted oil supplies and pushed up inflation, are expected to increase the burden on developing countries in the coming months. Max Lawson, head of inequality policy at Oxfam, said: \u201cWhy should paying debts to rich bankers in London or New York be more important than feeding hungry people or getting kids in school? Global south governments were already on their knees, and are now facing a huge new food crisis caused by the [Iran] war. They need massive debt relief and they need it now.\u201d"
       },
       "position": "FOUNDATION"
     },
@@ -125,57 +127,31 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.369,
+      "confidence": 0.333,
       "scores": {
-        "High House War": 0.048,
-        "High House Coin": 0.045,
-        "High House Shadow": 0.201,
-        "High House Life": 0.138,
-        "High House Iron": -0.014,
-        "High House Words": 0.369,
-        "High House Chains": 0.041
+        "High House War": -0.065,
+        "High House Coin": 0.149,
+        "High House Shadow": 0.288,
+        "High House Life": 0.167,
+        "High House Iron": -0.077,
+        "High House Words": 0.333,
+        "High House Chains": 0.102
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.543,
-        "matched_signals": [],
+        "confidence": 0.8,
+        "matched_signals": [
+          "banned",
+          "press freedom"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.987
+        "sentiment_score": 0.957
       },
       "article": {
-        "title": "Political row as report calls for sweeping cuts to French public broadcasting",
-        "url": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
+        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
+        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
         "source": "guardian",
-        "full_text": "French politicians on the left and centre have criticised a parliament inquiry report that recommends sweeping cuts to public broadcasting, with a row over culture wars building before next year\u2019s presidential election. State broadcasting is a key topic in the run-up to next April\u2019s vote. The far right, which is leading in the polls, is highly critical of public TV and radio and is vowing to privatise it. Charles Alloncle of the Union of the Right for the Republic (UDR) party, which is allied to Marine Le Pen\u2019s far-right, anti-immigration National Rally (RN), published a report on Tuesday after setting up a five-month parliament inquiry into the \u201cneutrality, workings and financing\u201d of public broadcasting, after far-right politicians claimed that state TV and radio were biased against them. Alloncle recommended that the French president should directly nominate the heads of public broadcasting, backed up by votes in parliament and the senate. He also suggested reducing the public broadcasting budget by 25%, merging several major channels, cutting youth broadcasting, cutting the gameshow and entertainment budget by 75%, and cutting the sport budget by 33%. Alloncle said that French state TV and radio was \u201cill-adapted to our era\u201d, faced a financial crisis, had \u201clost touch with what French people want\u201d, and must be completely reformed. But the report faced harsh criticism on the left and centre, after inquiry hearings were marred by heated rows and suspensions, with critics saying Alloncle\u2019s questioning was factually incorrect and biased towards the far right. Alloncle denied this. The Socialist MP Ayda Hadizadeh, who sat on the inquiry panel, said during the hearings that the process had turned into a \u201ctribunal\u201d by politicians who wanted \u201cto kill public broadcasting\u201d. RN MP Anne Sicard said her party was \u201ctreated like the enemy\u201d by the state broadcaster. Meanwhile, Le Pen praised the parliament inquiry, and said it had \u201cshone a light\u201d on what she called public broadcasting\u2019s \u201cdownward spiral, misguided financial management and multiple attacks on political neutrality\u201d. The public broadcaster France T\u00e9l\u00e9visions, which includes four national TV channels and 24 regional channels, is a key financier of films, drama and documentaries, as well as the country\u2019s top media outlet. Radio France has several national and local stations and dominates podcasting. The French president, Emmanuel Macron, has been critical of the public broadcaster in the past and scrapped the TV licence fee in 2022, while a long-term funding model is yet to be defined. Jordan Bardella, RN\u2019s party president and a potential presidential candidate, has reiterated that his party \u201cwould begin a process of privatisation\u201d if it wins the next election. The government is not obliged to adopt the recommendations in Alloncle\u2019s report. The prime minister, S\u00e9bastien Lecornu, said reform was necessary but brushed aside the report as a \u201cmissed opportunity\u201d. The head of France T\u00e9l\u00e9visions, Delphine Ernotte, who gave evidence in the hearings, said the report was a biased \u201cideological reading of the public service\u201d, and its recommendations would lead to a historic weakening of public broadcasting. The centre-right MP, J\u00e9r\u00e9mie Patrier-Leitus, who served as president of the inquiry hearings, said Alloncle had been \u201cdishonest\u201d and his report served only to \u201cprepare the mood\u201d for the privatisation of state media sought by the far right. Alloncle denied this, saying his report stopped short of recommending privatisation. Agn\u00e8s Pannier-Runacher, an MP in Macron\u2019s centrist party and a former minister, described the parliamentary inquiry as \u201cshameful\u201d. She said Alloncle\u2019s main problem with state TV and radio \u201cwas that it was not sufficiently promoting the ideas of the far right\u201d. She said this was an attack on media independence, like in Hungary under former prime minister Viktor Orb\u00e1n or the US under Donald Trump. The backdrop to the inquiry is the rising dominance in France of the priva"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.355,
-      "scores": {
-        "High House War": -0.023,
-        "High House Coin": 0.067,
-        "High House Shadow": -0.025,
-        "High House Life": 0.355,
-        "High House Iron": 0.011,
-        "High House Words": 0.0,
-        "High House Chains": 0.031
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.831
-      },
-      "article": {
-        "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
-        "url": "https://www.theguardian.com/business/2026/may/04/uk-food-prices-rise-cost-of-living-crisis-beef-olive-oil-inflation",
-        "source": "guardian",
-        "full_text": "Food prices are on track to be 50% higher in November than at the start of the cost of living crisis in 2021, research suggests. Climate and energy shocks have driven an almost quadrupling of the pace of food price growth, according to research from the thinktank Energy and Climate Intelligence Unit (ECIU), with costs rising in five years at about the same rate as they had over the previous two decades. Anna Taylor, the executive director of the Food Foundation charity, said: \u201cFood prices rising this high and this fast leaves families on the lowest incomes with nowhere left to cut except the food on their plate. When that happens, people skip meals, children go hungry, and diet-related illness rises \u2013 taking parents out of work and piling pressure on an NHS that can least afford it.\u201d The research suggests that the cost of living crisis, which many voters blame on political elites and big business, is likely to continue to be an important political issue during 2026. Experts have said the war in the Middle East is likely to drive up inflation, which had previously been sent soaring by the Covid pandemic and Russia\u2019s invasion of Ukraine. The Bank of England has said food inflation is expected to rise to 7% by the end of the year because of higher prices for fertiliser, energy and transport. Foods including pasta, frozen vegetables, chocolate and eggs were all at least 50% more expensive than five years ago, while the price of beef was up 64% and olive oil had more than doubled, the ECIU said. The rises reflected the products\u2019 \u201csensitivity to volatile oil and gas prices, synthetic fertiliser costs, and climate impacts such as droughts, floods and heatwaves, both in the UK and in key import regions\u201d, the thinktank found. These forces pushed household food bills up by an average of \u00a3605 over 2022 and 2023, the report added, while recently five climate-affected foods \u2013 butter, milk, beef, chocolate and coffee \u2013 had been responsible for much of the continued pressure on food inflation. And inflation could potentially become more extreme in the near future, the thinktank added. Chris Jaccarini, a food and farming analyst at the ECIU, said: \u201cTrump\u2019s war in the Middle East is set to drive shopping bills higher as oil and gas prices spike. Scientists are predicting 2027 to be the hottest year on record with climate change combining with the El Ni\u00f1o effect kicking off this year. Three of England\u2019s worst harvests on record have been in the past five years.\u201d Adjusting for average wages, the ECIU said food prices had risen by 11% since the start of the cost of living crisis, compounding wage-adjusted rises experienced in other household costs that were difficult to mitigate, including energy and water bills."
+        "full_text": "The US state department has cancelled tourist visas for more than half of the board members of Costa Rica\u2019s leading national newspaper, La Naci\u00f3n, which has been a critical voice against the country\u2019s president, Rodrigo Chaves, an ally of Donald Trump. During Chaves\u2019s 2022 presidential campaign, La Naci\u00f3n published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing, which Chaves denied. Since taking office, Chaves has been extremely critical of La Naci\u00f3n, accusing it of being \u201cdespicable press\u201d and \u201cpolitical assassins\u201d. He also targeted the newspaper financially by withdrawing a sanitation permit for an event space run by the organisation\u2019s parent company. At the same time, Chaves has become a close ally of the US president. Last month, he agreed that Costa Rica would receive up to 25 deported migrants a week from the US. Chaves also participated in Trump\u2019s Shield of the Americas summit and closed the Costa Rican embassy in Havana. Now, the ties between the two governments appear to have led to La Naci\u00f3n\u2019s board members being barred from entering the US. \u201cThis is completely unprecedented,\u201d Pedro Abreu, the president of the board of La Naci\u00f3n, said via email. \u201cWe see it as an indirect attack on press freedom because of the effect it can have on an independent media outlet and on those who have the institutional responsibility to protect it.\u201d Abreu said five of the paper\u2019s seven board members had had their visas revoked, while the other two held passports from countries that do not require a visa to enter the US. Analysts say the move by Washington could have an immediate chilling effect in Costa Rica. \u201cIt\u2019s extremely serious,\u201d said Felipe Alp\u00edzar, the coordinator of the Observatory of American Politics at the University of Costa Rica. \u201cIt\u2019s the United States eroding the foundations of political discussion in Costa Rica, of freedom of expression, of freedom of the press.\u201d The state department did not immediately respond to a request for comment. The members of La Nacion\u2019s board are just the latest in a long list of Costa Ricans targeted by Washington. Mauricio Herrera, a former Costa Rican communications minister, said: \u201cThis didn\u2019t happen in a vacuum; there\u2019s a persistent pattern. There\u2019ve been a number of individuals whose visas have been revoked because they are political opponents or critics of the government.\u201d Among them is \u00d3scar Arias, twice president of Costa Rica and a Nobel peace prize laureate. Washington also banned Arias\u2019s brother, Rodrigo, the president of the legislative assembly and a supreme court justice. The visa restrictions began not long after the US secretary of state, Marco Rubio, visited Costa Rica last year and praised Chaves for a decree that in effect barred Chinese companies from Costa Rica\u2019s 5G network rollout. Rubio told Chaves: \u201cWe\u2019re going to try to work in cooperation with you. To impose costs on those within the country who use their positions of authority to undermine the interests of the people of Costa Rica.\u201d Weeks later, opposition members who had criticised Chaves\u2019s decree found their visas revoked. Chaves will step down later this week and be replaced by his handpicked successor, Laura Fern\u00e1ndez. Analysts fear attacks against the opposition will only increase under her presidency. Herrera said: \u201cMy fear is that in the near future they will revoke visas of opposition members of parliament and the rectors of public universities. I would like to think that this is going to stop, but nothing indicates that it will.\u201d"
       },
       "position": "WILD"
     },
@@ -206,30 +182,119 @@
         "source": "guardian",
         "full_text": "Over the four years that Ukraine has been fighting to repel Russian forces from its territory, its country\u2019s battlefields have become scarred by airstrikes, pockmarked by artillery fire, and littered with the wreckage of cheap aerial drones. The conflict has transformed the economics of modern warfare \u2013 with both sides now reliant on these unmanned aerial vehicles (UAVs) to monitor the battlefield, evade defences and strike deep into enemy territory. The fighting has so far kept Russia bogged down, trapped behind frozen frontlines, allowing Kyiv to remake the country\u2019s industrial base to meet the needs of the war. Now Ukraine has a new target \u2013 to free its drone supply chains of components from China, even as it attempts to ramp up production to meet its army\u2019s growing needs. Despite repeated denials from Beijing, Ukraine accuses China of aiding its ally Russia with military goods. Amid broader concerns about China\u2019s dominance of industrial supply chains and the security risks that could entail, Ukraine \u2013 as well as Europe, the US and other countries \u2013 have increasingly turned to Taiwan as an alternative supplier. Taiwan\u2019s reputation for excellence in technology and particular expertise in microelectronics, navigation systems and batteries \u2013 areas in which western suppliers have struggled to compete \u2013 make it a favoured alternative source for Ukrainian drone manufacturers, according to the Snake Island Institute (SII), an independent Ukrainian thinktank. Taiwan appears ready to meet the moment \u2013 with its president, Lai Ching-te, promoting a US$40bn supplementary defence budget that includes funding for drones and the integration of artificial intelligence. Taiwanese drone exports to Europe surged more than 40-fold in 2025, with Poland and Czechia among the largest markets, according to the Research Institute for Democracy, Society and Emerging Technology (DSET). The trend continues to grow \u2013 exports in the first quarter of 2026 have already surpassed last year\u2019s total. Most of the drones were intended for onward transfer to Ukraine, according to interviews conducted by DSET, with these countries acting as intermediaries. \u201cWe have components that are made in Taiwan, and that is not unusual in the industry now,\u201d says Bohdan Diorditsa, chief international alliances officer at Vyriy, one of Ukraine\u2019s leading drone makers that has been vocal in pushing for local production and reducing reliance on Chinese components that still dominate global supply chains. He says fears that China might further tighten export controls were behind the search for alternatives. Taiwan, with world-class strengths in semiconductors and electronics integration, is a \u201c100% a valuable partner\u201d, Diorditsa says. \u2018They test it, they like it\u2019 Ultimately, localisation remains Ukraine\u2019s primary focus, says Artur Savchii, an analyst at the SII thinktank. Each year of the war has pushed production further inward: from mainly importing Chinese finished drones to assembling them almost entirely domestically. By last year, Ukraine had more than 100 manufacturers of components on its shores, according to Ukraine\u2019s ministry of defence. Ukrainian companies are also tailoring systems specifically for frontline combat in ways that mass-market Chinese suppliers often cannot, Savchii says. But even as domestic assembly expands, Ukraine is unlikely to scale up drone production without any Chinese components in the near term, largely because Chinese-made parts remain significantly cheaper and more widely available. Even components produced elsewhere, including lithium batteries and rare-earth magnets, often still rely on Chinese materials. Taiwan is also hardly free from the same dependency problem. China remains its biggest source of drone imports, although the customs figures include civilian and commercial models rather than solely military systems. Taipei has pledged to build a fully \u201cnon-red\u201d drone industry by 2027 and wants to produce a third of the rare-earth magnets "
       },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.321,
+      "scores": {
+        "High House War": 0.041,
+        "High House Coin": 0.06,
+        "High House Shadow": 0.076,
+        "High House Life": 0.321,
+        "High House Iron": 0.014,
+        "High House Words": 0.051,
+        "High House Chains": 0.069
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+        "source": "guardian",
+        "full_text": "Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid reports that a number of passengers have already returned to their home countries. Argentina, where the cruise to Antarctica departed, is consistently ranked by the World Health Organization (WHO) as having the highest incidence of the rare, rodent-borne disease in Latin America. Investigators there are working to contact trace the source of contamination. The Argentine health ministry on Tuesday reported 101 hantavirus infections since June 2025, roughly double to the year prior. A hantavirus found in South America, called the Andes virus, can cause a severe and often fatal lung disease called hantavirus pulmonary syndrome. The disease led to death in nearly a third of cases in the last year, Argentina\u2019s health ministry said. Authorities said passengers on the MV Hondius ship tested positive for the Andes virus. Three passengers have died, one is in intensive care in a South African hospital, and three others were evacuated from the ship Wednesday. Another man who left the ship earlier in the voyage tested positive in Switzerland. Argentina on Wednesday said it was sending genetic material from the Andes virus and testing equipment to help Spain, Senegal, South Africa, the Netherlands and the United Kingdom detect it. People usually become infected with hantavirus through contact with infected rodents or their urine, their droppings or their saliva, and human-to-human transmission is rare. But a limited spread among close contacts has been observed in some previous outbreaks with the Andes strain. Concern has also arisen about 23 passengers who reportedly disembarked the MV Hondius on the island of Saint Helena on 23 April, as reported by Spanish newspaper, El Pa\u00eds. \u201cThere are 23 people wandering around there, and until three days ago, no one had contacted them,\u201d a passenger, who asked to remain anonymous, reportedly told the paper in a phone interview. The cohort reportedly returned to their respective countries, including the United States. American passengers were being monitored in Georgia, California and Arizona, the New York Times reported Wednesday, although none of them had shown signs of illness. The WHO says the first death on board the cruise ship, a 70-year-old Dutch man, happened on 11 April. His body was taken off the vessel nearly two weeks later, at Saint Helena. His 69-year-old wife travelled by plane from Saint Helena to South Africa; she collapsed at a Johannesburg airport and died at a hospital on 26 April. The third passenger, a German woman, died on 2 May. Argentine officials say they\u2019re trying to pin down where infected passengers travelled in the country before boarding the Dutch-flagged cruise liner in Ushuaia, a city in southern Argentina known as the end of the world. Once they know the itineraries, they plan to trace contacts, isolate close contacts and actively monitor to prevent further spread. Before boarding, the Dutch couple went sightseeing in Ushuaia, and travelled in Argentina, Uruguay and Chile, the Argentinian government said. The virus can incubate for between one and eight weeks, making it hard to know whether the passengers contracted the virus before leaving Argentina for Antarctica on 1 April; during a scheduled stop to a remote South Atlantic island; or onboard. Tedros Adhanom Ghebreyesus, the director general of the WHO, said earlier on X that the \u201cWHO continues to work with the ship\u2019s operators to closely monitor the health of passengers and crew, working with countries to support appropriate medical follow-up and evacuation where needed.\u201d \u201cMonitoring and follow-up for passengers onboard and for those who have already disembarked has been initiated in collaboration with the ship\u2019s operators and national health authorities,\u201d he added. \u201cAt this stage, the overall public health risk remains low.\u201d The evacuation of"
+      },
       "position": "EMERGING"
     }
   ],
   "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "RUSSIA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.804,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "RUSSIA",
+      "actor_b": "COSTA RICA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.012,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "RUSSIA",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -3.332,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Life",
+      "actor_a": "RUSSIA",
+      "actor_b": "ARGENTINA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.344,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
     {
       "house_a": "High House Coin",
       "house_b": "High House War",
       "actor_a": "IRAN",
       "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -2.682,
+      "goldstein_avg": -2.691,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Life",
+      "actor_a": "IRAN",
+      "actor_b": "ARGENTINA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.897,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Life",
+      "actor_a": "COSTA RICA",
+      "actor_b": "ARGENTINA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.359,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.262,
+      "trend_ratio": 0.461,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 2.843,
       "source": "gdelt_volume"
     }
   }
