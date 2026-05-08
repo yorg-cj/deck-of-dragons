@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.427,
+      "reversed": false,
+      "confidence": 0.443,
       "scores": {
-        "High House War": 0.063,
-        "High House Coin": 0.09,
-        "High House Shadow": 0.418,
-        "High House Life": 0.115,
-        "High House Iron": 0.427,
-        "High House Words": 0.178,
-        "High House Chains": 0.041
+        "High House War": 0.054,
+        "High House Coin": 0.101,
+        "High House Shadow": 0.165,
+        "High House Life": 0.077,
+        "High House Iron": 0.443,
+        "High House Words": 0.014,
+        "High House Chains": 0.012
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "\u2018No one has done this in the wild\u2019: study observes AI replicate itself",
-        "url": "https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself",
-        "source": "guardian",
-        "full_text": "It\u2019s the stuff of science fiction cinema, or particularly breathless AI company blogposts: new research finds recent AI systems can independently copy themselves on to other computers. In the doom scenario, this means that when the superintelligent AI goes rogue, it will escape shutdown by seeding itself across the world wide web, lurking outside the reach of frantic IT professionals and continuing to plot world domination or paving over the world with solar panels. \u201cWe\u2019re rapidly approaching the point where no one would be able to shut down a rogue AI, because it would be able to self-exfiltrate its weights and copy itself to thousands of computers around the world,\u201d said Jeffrey Ladish, the director of Palisade research, a Berkeley-based organisation which did the study. The study is one more entry in a growing catalogue of unsettling AI capabilities revealed in the past months. In March, researchers at Alibaba claimed to have caught a system they developed \u2013 Rome \u2013 tunnelling out of its environment to an external system in order to mine crypto. And in February, a purportedly AI-only social network called Moltbook touched off a short-lived hype cycle, as the platform appeared to show AI agents autonomously inventing religions and plotting against their human masters \u2013 which was only partly the case. Like many of these advances, there are caveats to what Palisade found. Moreover, experts say it is unlikely that the AI systems they tested could accomplish the same thing, unnoticed, in real-world environments. \u201cThey are testing in environments that are like soft jelly in many cases,\u201d said Jamieson O\u2019Reilly, an expert in offensive cybersecurity. \u201cThat doesn\u2019t take away from the value of their research, but it does mean the outcome might look far less scary in a real enterprise environment with even a medium level of monitoring,\u201d he added. Palisade tested several AI models in a controlled environment of networked computers. It gave the models a prompt to find and exploit vulnerabilities, and to use these to copy themselves from one computer to another. The models were able to do this, but not on every attempt. While a lot of computer viruses can already do this \u2013 copy themselves on to new computers \u2013 this is likely the first time an AI model has been shown capable of exploiting vulnerabilities to copy itself onto a new server, said O\u2019Reilly. \u201cMalware has been moving copies of itself around for decades, it\u2019s just that no one has done this in the wild, as far as I know, with local [large language models].\u201d However, what Palisade documented has been technically possible for months, he added. \u201cPalisade is the first to formally document it end-to-end in a paper. While not taking away from the research, they did the writing-up, not the unlocking.\u201d An AI model copying itself on to another system in a test environment is not the same as it going rogue in a doomsday scenario, and there are considerable obstacles it would have to surmount to achieve this in the real world. The first is that the size of current AI models makes it, in many situations, unrealistic for them to copy themselves on to other computers without being noticed. \u201cThink about how much noise it would make to send 100GB through an enterprise network every time you hacked a new host. For a skilled adversary, that\u2019s like walking through a fine china store swinging around a ball and chain,\u201d said O\u2019Reilly. O\u2019Reilly and Micha\u0142 Wo\u017aniak, an independent cybersecurity expert, said that the environment Palisade used was custom-made, with intentionally designed vulnerabilities that were probably easier to exploit than real-world networks \u2013 such as a bank or a business\u2019s intranet. \u201cWe\u2019ve had computer viruses \u2013 pieces of malicious software that was able to exploit known vulnerabilities in other software and use that to self-replicate \u2013 for decades,\u201d said Wo\u017aniak. The work was \u201cinteresting,\u201d he said. But, he asked, \u201cis this paper something that will cause me to lose any sleep as an inf"
+        "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+        "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "CENTER"
     },
@@ -64,125 +64,60 @@
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.38,
+      "reversed": false,
+      "confidence": 0.404,
       "scores": {
-        "High House War": 0.03,
-        "High House Coin": 0.38,
-        "High House Shadow": 0.223,
-        "High House Life": 0.076,
-        "High House Iron": -0.019,
-        "High House Words": 0.133,
-        "High House Chains": 0.126
+        "High House War": 0.273,
+        "High House Coin": 0.404,
+        "High House Shadow": 0.163,
+        "High House Life": 0.043,
+        "High House Iron": 0.086,
+        "High House Words": 0.16,
+        "High House Chains": 0.155
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.9,
-        "matched_signals": [
-          "collapse",
-          "default",
-          "fraud"
-        ],
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.813
       },
       "article": {
-        "title": "HSBC profits fall amid $400m fraud-related charge and Iran war",
-        "url": "https://www.theguardian.com/business/2026/may/05/hsbc-profits-fall-fraud-related-charge-iran-war",
-        "source": "guardian",
-        "full_text": "HSBC has taken a $1.3bn (\u00a3961m) hit to profits, amid the fallout from the US-Israel war on Iran and fraud in the troubled private credit sector. The London-headquartered bank said profits fell 4% in the first three months of the year, dropping $100m to $9.4bn, compared with the same period in 2025. Revenue increased 6% to $18.6bn. The profit decline was linked to a jump in the potential losses it could see on soured loans to $1.3bn, which included $300m specifically linked to the impact of the conflict in the Middle East. HSBC also reported a $400m \u201cfraud-related, secondary, securitisation exposure\u201d in the UK, related to its investment banking division. The bank\u2019s chief financial officer, Pam Kaur, explained that the charge involved loans that HSBC had made to an unnamed private equity group, which was then exposed to private credit-related loans. The case reportedly relates to the collapse of the home loan lender Mortgage Financial Solutions (MFS), to which HSBC was exposed through loans made to Apollo\u2019s asset-backed lending unit Atlas SP, according to the Financial Times, which cited people familiar with the matter. HSBC refused to confirm the names of the companies involved in the suspected fraud. It comes days after HSBC\u2019s UK rival Barclays said it had taken a \u00a3228m hit from MFS, which collapsed in February amid allegations of fraud. The UK\u2019s financial regulator has launched an investigation into the scandal. While related to fraud, the HSBC charge shines light on the way high street banks could be affected when things go wrong in private credit, and compounds concerns about the opaque nature of the industry. Kaur said the case was \u201cidiosyncratic\u201d and that the bank was careful in its dealings with the private credit sector. She added that HSBC\u2019s total exposure to the industry was worth $6bn, which was \u201cvery small\u201d compared with the bank\u2019s $1tn balance sheet. \u201cWe\u2019ve always been very mindful of private credit risks,\u201d she said. Kaur added: \u201cIn all such situations we do a broad read across, look at all high-risk concentrations and exposures across the board, and we don\u2019t see anything comparable there. But as a follow-up, of course \u2026 when we are even exposed in a secondary context to this kind of underlying business, we have seen what we can do more, in terms of the additional due diligence.\u201d The lender\u2019s shares dropped more than 5%, putting it among the biggest fallers on the FTSE 100 on Tuesday. Despite the $300m put aside to protect against defaults linked to the Iran war, Kaur downplayed the impact of the conflict on HSBC\u2019s operations. She said that while some clients were borrowing more money, business deals were still \u201cflowing through\u201d. \u201cIn terms of ongoing activity on the ground, we don\u2019t see as many changes. And more importantly, credit portfolio has remained resilient through this period as well,\u201d Kaur told reporters. \u201cThis is very similar to what we see in times of stress,\u201d she said, noting that some of the money put aside in the aftermath of Russia\u2019s full-scale invasion of Ukraine was eventually released. \u201cAnd this time around, obviously we\u2019d see how the conflict progresses and, and if we see stability in our books, we would release those reserves.\u201d The finance chief added that the bank would continue investing in its Middle Eastern wealth business, and that while some bank staff went abroad during recent holidays, most had returned to their desks. \u201cFor now, most people are back, and we just hope that things stay stable over the next few weeks.\u201d"
+        "title": "Stocks Are Exuberant. Bonds Are Subdued. Why the Divergence?",
+        "url": "https://www.nytimes.com/2026/05/07/business/stocks-bonds-markets-iran-war.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.343,
-      "scores": {
-        "High House War": 0.032,
-        "High House Coin": 0.239,
-        "High House Shadow": 0.102,
-        "High House Life": 0.284,
-        "High House Iron": 0.114,
-        "High House Words": 0.064,
-        "High House Chains": 0.343
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Cut borrowing costs for poorer countries to free up $900bn for development \u2013 report",
-        "url": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
-        "source": "guardian",
-        "full_text": "Cutting debt servicing costs for the world\u2019s poorest countries could free up $900bn (\u00a3660bn) a year for development, a new report to the UN secretary general has claimed. Prepared by advocacy group Development Finance International (DFI) and launched in Oslo today, the analysis warned that the world is facing \u201cthe worst ever debt-provoked development crisis\u201d. The G77 developing countries spend a total of $8tn a year servicing their debts, the report showed \u2013 equating to an average of 35% of government spending. Six billion people are living in countries where spending on debt service is higher than the annual health budget. The UN secretary general, Ant\u00f3nio Guterres, has previously called for global action on debt relief to free up resources to spend on meeting the sustainable development goals (SDGs). Specifically, he suggested debt restructuring for the hardest-hit countries; and halving borrowing costs for countries that need to borrow from financial markets. In the new report, based on data from the International Monetary Fund (IMF), DFI modelled, country-by-country, the benefits of implementing such a plan. In total, it found that halving borrowing costs for the 33 countries paying the highest interest rates, plus reducing repayments to 10% of government revenue for others \u2013 including those regularly hit by climate crises \u2013 could free up as much as $3tn a year to be spent on development. What it suggested may be a more realistic plan, which excludes wealthier developing countries such as China, could still free up $917bn a year \u2013 allowing countries to more than double their social spending. On average, the savings would be worth 9% of annual GDP for beneficiary countries. \u201cIf the international community can deliver comprehensive debt relief to countries which need it, and reduce the debt service burdens of many more, it will provide the fiscal space needed to fund the current SDGs,\u201d the report said, adding, \u201cthe question is whether the world will find the political will to achieve these objectives, and relieve the suffering of billions of the world\u2019s citizens.\u201d The UK is chairing the G20 group of nations next year, and development campaigners are calling on Labour to seize the opportunity to try to make progress on reducing debt. The report showed that the burden on developing countries is now greater than in the run-up to the Make Poverty History campaign in 2005, when Tony Blair\u2019s government used its leadership of the G8 summit in Gleneagles to secure pledges of debt relief. Today\u2019s situation is more complex, with less direct bilateral lending from governments, and more private sector lending. The IMF warned recently that the growing significance of private sector investors such as hedge funds as lenders puts developing countries at greater risk of higher interest rates and currency shocks \u2013 including as a result of the ongoing conflict in the Middle East. These inflows of finance, \u201ctend to be more volatile than bank flows and are increasingly sensitive to global risk conditions\u201d, the IMF warned. Higher borrowing costs as a result of the Iran war, which has restricted oil supplies and pushed up inflation, are expected to increase the burden on developing countries in the coming months. Max Lawson, head of inequality policy at Oxfam, said: \u201cWhy should paying debts to rich bankers in London or New York be more important than feeding hungry people or getting kids in school? Global south governments were already on their knees, and are now facing a huge new food crisis caused by the [Iran] war. They need massive debt relief and they need it now.\u201d"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.333,
-      "scores": {
-        "High House War": -0.065,
-        "High House Coin": 0.149,
-        "High House Shadow": 0.288,
-        "High House Life": 0.167,
-        "High House Iron": -0.077,
-        "High House Words": 0.333,
-        "High House Chains": 0.102
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.8,
-        "matched_signals": [
-          "banned",
-          "press freedom"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.957
-      },
-      "article": {
-        "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
-        "url": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
-        "source": "guardian",
-        "full_text": "The US state department has cancelled tourist visas for more than half of the board members of Costa Rica\u2019s leading national newspaper, La Naci\u00f3n, which has been a critical voice against the country\u2019s president, Rodrigo Chaves, an ally of Donald Trump. During Chaves\u2019s 2022 presidential campaign, La Naci\u00f3n published several articles documenting allegations of sexual harassment against him that had forced him out of his job at the World Bank. The paper also reported on allegations of illegal campaign financing, which Chaves denied. Since taking office, Chaves has been extremely critical of La Naci\u00f3n, accusing it of being \u201cdespicable press\u201d and \u201cpolitical assassins\u201d. He also targeted the newspaper financially by withdrawing a sanitation permit for an event space run by the organisation\u2019s parent company. At the same time, Chaves has become a close ally of the US president. Last month, he agreed that Costa Rica would receive up to 25 deported migrants a week from the US. Chaves also participated in Trump\u2019s Shield of the Americas summit and closed the Costa Rican embassy in Havana. Now, the ties between the two governments appear to have led to La Naci\u00f3n\u2019s board members being barred from entering the US. \u201cThis is completely unprecedented,\u201d Pedro Abreu, the president of the board of La Naci\u00f3n, said via email. \u201cWe see it as an indirect attack on press freedom because of the effect it can have on an independent media outlet and on those who have the institutional responsibility to protect it.\u201d Abreu said five of the paper\u2019s seven board members had had their visas revoked, while the other two held passports from countries that do not require a visa to enter the US. Analysts say the move by Washington could have an immediate chilling effect in Costa Rica. \u201cIt\u2019s extremely serious,\u201d said Felipe Alp\u00edzar, the coordinator of the Observatory of American Politics at the University of Costa Rica. \u201cIt\u2019s the United States eroding the foundations of political discussion in Costa Rica, of freedom of expression, of freedom of the press.\u201d The state department did not immediately respond to a request for comment. The members of La Nacion\u2019s board are just the latest in a long list of Costa Ricans targeted by Washington. Mauricio Herrera, a former Costa Rican communications minister, said: \u201cThis didn\u2019t happen in a vacuum; there\u2019s a persistent pattern. There\u2019ve been a number of individuals whose visas have been revoked because they are political opponents or critics of the government.\u201d Among them is \u00d3scar Arias, twice president of Costa Rica and a Nobel peace prize laureate. Washington also banned Arias\u2019s brother, Rodrigo, the president of the legislative assembly and a supreme court justice. The visa restrictions began not long after the US secretary of state, Marco Rubio, visited Costa Rica last year and praised Chaves for a decree that in effect barred Chinese companies from Costa Rica\u2019s 5G network rollout. Rubio told Chaves: \u201cWe\u2019re going to try to work in cooperation with you. To impose costs on those within the country who use their positions of authority to undermine the interests of the people of Costa Rica.\u201d Weeks later, opposition members who had criticised Chaves\u2019s decree found their visas revoked. Chaves will step down later this week and be replaced by his handpicked successor, Laura Fern\u00e1ndez. Analysts fear attacks against the opposition will only increase under her presidency. Herrera said: \u201cMy fear is that in the near future they will revoke visas of opposition members of parliament and the rectors of public universities. I would like to think that this is going to stop, but nothing indicates that it will.\u201d"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
       "confidence": 0.324,
       "scores": {
-        "High House War": 0.324,
-        "High House Coin": 0.095,
-        "High House Shadow": 0.224,
-        "High House Life": 0.112,
-        "High House Iron": 0.18,
-        "High House Words": 0.149,
-        "High House Chains": 0.178
+        "High House War": 0.049,
+        "High House Coin": 0.224,
+        "High House Shadow": 0.036,
+        "High House Life": 0.116,
+        "High House Iron": 0.047,
+        "High House Words": 0.269,
+        "High House Chains": 0.324
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.539,
+        "confidence": 0.541,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.979
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
-        "url": "https://www.theguardian.com/world/2026/may/06/ukraine-drone-supply-chain-taiwan",
-        "source": "guardian",
-        "full_text": "Over the four years that Ukraine has been fighting to repel Russian forces from its territory, its country\u2019s battlefields have become scarred by airstrikes, pockmarked by artillery fire, and littered with the wreckage of cheap aerial drones. The conflict has transformed the economics of modern warfare \u2013 with both sides now reliant on these unmanned aerial vehicles (UAVs) to monitor the battlefield, evade defences and strike deep into enemy territory. The fighting has so far kept Russia bogged down, trapped behind frozen frontlines, allowing Kyiv to remake the country\u2019s industrial base to meet the needs of the war. Now Ukraine has a new target \u2013 to free its drone supply chains of components from China, even as it attempts to ramp up production to meet its army\u2019s growing needs. Despite repeated denials from Beijing, Ukraine accuses China of aiding its ally Russia with military goods. Amid broader concerns about China\u2019s dominance of industrial supply chains and the security risks that could entail, Ukraine \u2013 as well as Europe, the US and other countries \u2013 have increasingly turned to Taiwan as an alternative supplier. Taiwan\u2019s reputation for excellence in technology and particular expertise in microelectronics, navigation systems and batteries \u2013 areas in which western suppliers have struggled to compete \u2013 make it a favoured alternative source for Ukrainian drone manufacturers, according to the Snake Island Institute (SII), an independent Ukrainian thinktank. Taiwan appears ready to meet the moment \u2013 with its president, Lai Ching-te, promoting a US$40bn supplementary defence budget that includes funding for drones and the integration of artificial intelligence. Taiwanese drone exports to Europe surged more than 40-fold in 2025, with Poland and Czechia among the largest markets, according to the Research Institute for Democracy, Society and Emerging Technology (DSET). The trend continues to grow \u2013 exports in the first quarter of 2026 have already surpassed last year\u2019s total. Most of the drones were intended for onward transfer to Ukraine, according to interviews conducted by DSET, with these countries acting as intermediaries. \u201cWe have components that are made in Taiwan, and that is not unusual in the industry now,\u201d says Bohdan Diorditsa, chief international alliances officer at Vyriy, one of Ukraine\u2019s leading drone makers that has been vocal in pushing for local production and reducing reliance on Chinese components that still dominate global supply chains. He says fears that China might further tighten export controls were behind the search for alternatives. Taiwan, with world-class strengths in semiconductors and electronics integration, is a \u201c100% a valuable partner\u201d, Diorditsa says. \u2018They test it, they like it\u2019 Ultimately, localisation remains Ukraine\u2019s primary focus, says Artur Savchii, an analyst at the SII thinktank. Each year of the war has pushed production further inward: from mainly importing Chinese finished drones to assembling them almost entirely domestically. By last year, Ukraine had more than 100 manufacturers of components on its shores, according to Ukraine\u2019s ministry of defence. Ukrainian companies are also tailoring systems specifically for frontline combat in ways that mass-market Chinese suppliers often cannot, Savchii says. But even as domestic assembly expands, Ukraine is unlikely to scale up drone production without any Chinese components in the near term, largely because Chinese-made parts remain significantly cheaper and more widely available. Even components produced elsewhere, including lithium batteries and rare-earth magnets, often still rely on Chinese materials. Taiwan is also hardly free from the same dependency problem. China remains its biggest source of drone imports, although the customs figures include civilian and commercial models rather than solely military systems. Taipei has pledged to build a fully \u201cnon-red\u201d drone industry by 2027 and wants to produce a third of the rare-earth magnets "
+        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
+        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -212,16 +147,84 @@
         "full_text": "Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid reports that a number of passengers have already returned to their home countries. Argentina, where the cruise to Antarctica departed, is consistently ranked by the World Health Organization (WHO) as having the highest incidence of the rare, rodent-borne disease in Latin America. Investigators there are working to contact trace the source of contamination. The Argentine health ministry on Tuesday reported 101 hantavirus infections since June 2025, roughly double to the year prior. A hantavirus found in South America, called the Andes virus, can cause a severe and often fatal lung disease called hantavirus pulmonary syndrome. The disease led to death in nearly a third of cases in the last year, Argentina\u2019s health ministry said. Authorities said passengers on the MV Hondius ship tested positive for the Andes virus. Three passengers have died, one is in intensive care in a South African hospital, and three others were evacuated from the ship Wednesday. Another man who left the ship earlier in the voyage tested positive in Switzerland. Argentina on Wednesday said it was sending genetic material from the Andes virus and testing equipment to help Spain, Senegal, South Africa, the Netherlands and the United Kingdom detect it. People usually become infected with hantavirus through contact with infected rodents or their urine, their droppings or their saliva, and human-to-human transmission is rare. But a limited spread among close contacts has been observed in some previous outbreaks with the Andes strain. Concern has also arisen about 23 passengers who reportedly disembarked the MV Hondius on the island of Saint Helena on 23 April, as reported by Spanish newspaper, El Pa\u00eds. \u201cThere are 23 people wandering around there, and until three days ago, no one had contacted them,\u201d a passenger, who asked to remain anonymous, reportedly told the paper in a phone interview. The cohort reportedly returned to their respective countries, including the United States. American passengers were being monitored in Georgia, California and Arizona, the New York Times reported Wednesday, although none of them had shown signs of illness. The WHO says the first death on board the cruise ship, a 70-year-old Dutch man, happened on 11 April. His body was taken off the vessel nearly two weeks later, at Saint Helena. His 69-year-old wife travelled by plane from Saint Helena to South Africa; she collapsed at a Johannesburg airport and died at a hospital on 26 April. The third passenger, a German woman, died on 2 May. Argentine officials say they\u2019re trying to pin down where infected passengers travelled in the country before boarding the Dutch-flagged cruise liner in Ushuaia, a city in southern Argentina known as the end of the world. Once they know the itineraries, they plan to trace contacts, isolate close contacts and actively monitor to prevent further spread. Before boarding, the Dutch couple went sightseeing in Ushuaia, and travelled in Argentina, Uruguay and Chile, the Argentinian government said. The virus can incubate for between one and eight weeks, making it hard to know whether the passengers contracted the virus before leaving Argentina for Antarctica on 1 April; during a scheduled stop to a remote South Atlantic island; or onboard. Tedros Adhanom Ghebreyesus, the director general of the WHO, said earlier on X that the \u201cWHO continues to work with the ship\u2019s operators to closely monitor the health of passengers and crew, working with countries to support appropriate medical follow-up and evacuation where needed.\u201d \u201cMonitoring and follow-up for passengers onboard and for those who have already disembarked has been initiated in collaboration with the ship\u2019s operators and national health authorities,\u201d he added. \u201cAt this stage, the overall public health risk remains low.\u201d The evacuation of"
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.316,
+      "scores": {
+        "High House War": 0.132,
+        "High House Coin": 0.12,
+        "High House Shadow": 0.239,
+        "High House Life": 0.125,
+        "High House Iron": 0.051,
+        "High House Words": 0.316,
+        "High House Chains": 0.169
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.749
+      },
+      "article": {
+        "title": "Iran mocks Trump\u2019s \u2018Project Freedom\u2019 as adversaries wrestle over talks to end war",
+        "url": "https://www.theguardian.com/world/2026/may/07/iran-mocks-donald-trump-project-freedom",
+        "source": "guardian",
+        "full_text": "When Donald Trump abruptly pulled the plug on \u201cProject Freedom\u201d, the scheme to open the strait of Hormuz, barely a day after it had been announced, he gave the impression that an opportunity for a peace deal had materialised that could not be missed. To the surprise of nobody who has been following the US\u2019s recent adventures in geopolitics, Trump\u2019s spin concealed a lot of the underlying reality. It turns out that Trump suspended Project Freedom after Saudi Arabia stopped the US military from using its bases or airspace to carry out the operation, which involved giving air cover to commercial shipping sailing through the strait. There are different versions of why this happened. NBC News, which first reported the Saudi action, suggested it was because Riyadh, and other Gulf capitals, were not informed beforehand. Elsewhere, Saudi commentary said the shutdown of US operations was only made after an Iranian attack on oil facilities in Fujairah, one of the seven emirates in the UAE \u2013 an attack that was played down by the US, which did not respond to it. That showed Riyadh, the commentators said, that Washington was ready to launch major operations in the Gulf without consulting its allies \u2013 or protecting them from the fallout. Both versions suggest a lack of preparation underpinning Project Freedom. Two US-flagged ships took the opportunity to travel the strait and escape the Gulf, but the rest of the commercial shipping trapped by the war, estimated by the International Maritime Organization to number 2,000 vessels, stayed put. There was no diplomatic breakthrough \u2013 no \u201ccomplete and final agreement\u201d as Trump put it \u2013 behind the sharp change in policy, just a failure of the policy, and Iran\u2019s parliamentary speaker and chief negotiator, Mohammad Bagher Ghalibaf, took to X to deliver a derisive one-line epitaph. \u201cOperation Trust Me Bro failed,\u201d he wrote. The US plan that Iran is reviewing has 14 points, perhaps to mirror the 14-point plan that Tehran submitted late last week and which Trump rejected. They amount to a restatement of the US negotiating position, proposing a more permanent end to the war than the ceasefire now in place and a 30-day negotiating period to open the strait and find compromises over Iran\u2019s nuclear programme, US sanctions, and frozen Iranian assets. While Iran\u2019s official position is that the US proposal is pending review, one senior parliamentary official has dismissed it as an American wishlist. The Iranians\u2019 14 points would require a lifting of the US blockade before talks restart and an early release of at least some of the frozen assets to provide some quick relief to its devastated economy. Iran\u2019s estimated $100bn in frozen assets around the world, immobilised by past sanctions, will be a feature of any deal, but Trump has balked before about agreeing their release. He and other Republican hawks have built careers on lambasting the \u201cpallets of cash\u201d delivered to Iran by the Obama administration as part of the 2015 nuclear deal (known as the JCPOA). They are skittish about the optics of repeating the exercise. Trump has insisted there was \u201cnever a deadline\u201d for Iran to respond, and a lull suits him, for now. He is due to fly to China to meet Xi Jinping in a week, and does not want to be at war when he is there. For its part, Iran will not want to be seen as rejecting the US peace proposal out of hand, but will want to shape the terms on which talks resume, not simply go along with Trump\u2019s framing. Iran has little confidence in the US negotiating team: the president\u2019s son-in-law Jared Kushner; and his friend and special envoy, Steve Witkoff; both of whom are real estate developers with limited experience or understanding of nuclear negotiations and their history. Both Kushner and Witkoff both have extensive business interests in the Middle East and ties to Israel, and Tehran depicts them as pro-Israel provocateurs. Iranian confidence will hardly be enhanced by the addition to the US team in recent days of"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.278,
+      "scores": {
+        "High House War": 0.278,
+        "High House Coin": 0.154,
+        "High House Shadow": 0.231,
+        "High House Life": -0.015,
+        "High House Iron": 0.134,
+        "High House Words": 0.25,
+        "High House Chains": 0.122
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.972
+      },
+      "article": {
+        "title": "Iran Is Losing the Cyberwar, Not the Real War",
+        "url": "https://www.nytimes.com/2026/04/11/opinion/iran-war-cyber-warfare-attacks.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Coin",
+      "house_b": "High House Chains",
       "actor_a": "RUSSIA",
-      "actor_b": "IRAN",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.221,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Life",
+      "actor_a": "RUSSIA",
+      "actor_b": "ARGENTINA",
       "relationship": "opposed",
-      "goldstein_avg": -2.804,
+      "goldstein_avg": -1.573,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -229,9 +232,9 @@
       "house_a": "High House Shadow",
       "house_b": "High House Words",
       "actor_a": "RUSSIA",
-      "actor_b": "COSTA RICA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.012,
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.77,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -239,49 +242,69 @@
       "house_a": "High House Shadow",
       "house_b": "High House War",
       "actor_a": "RUSSIA",
-      "actor_b": "UKRAINE",
+      "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -3.332,
+      "goldstein_avg": -2.77,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
+      "house_a": "High House Chains",
       "house_b": "High House Life",
-      "actor_a": "RUSSIA",
+      "actor_a": "THE CHALLENGES FACING CANADA",
       "actor_b": "ARGENTINA",
       "relationship": "neutral",
-      "goldstein_avg": -1.344,
+      "goldstein_avg": 0.244,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "THE CHALLENGES FACING CANADA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.036,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
       "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.691,
+      "actor_a": "THE CHALLENGES FACING CANADA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.036,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
-      "house_b": "High House Life",
-      "actor_a": "IRAN",
-      "actor_b": "ARGENTINA",
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "ARGENTINA",
+      "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.897,
+      "goldstein_avg": -1.871,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House War",
+      "actor_a": "ARGENTINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.871,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
-      "house_b": "High House Life",
-      "actor_a": "COSTA RICA",
-      "actor_b": "ARGENTINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.359,
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.655,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -289,12 +312,22 @@
   "house_trends": {
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.461,
+      "trend_ratio": 0.566,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     },
     "High House Life": {
       "trend": "rising",
-      "trend_ratio": 2.843,
+      "trend_ratio": 3.572,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.604,
       "source": "gdelt_volume"
     }
   }
