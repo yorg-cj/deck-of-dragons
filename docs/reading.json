@@ -1,91 +1,149 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.443,
+      "confidence": 0.487,
       "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.101,
-        "High House Shadow": 0.165,
-        "High House Life": 0.077,
-        "High House Iron": 0.443,
-        "High House Words": 0.014,
-        "High House Chains": 0.012
+        "High House War": -0.012,
+        "High House Coin": 0.031,
+        "High House Shadow": 0.196,
+        "High House Life": 0.197,
+        "High House Iron": 0.487,
+        "High House Words": 0.037,
+        "High House Chains": 0.021
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
-        "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
-        "source": "nyt",
+        "title": "Beijing pushes AI data centres to adopt green energy under action plan",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3352983/beijing-pushes-ai-data-centres-adopt-green-energy-under-action-plan?module=latest&pgtype=homepage",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.423,
-      "scores": {
-        "High House War": 0.089,
-        "High House Coin": 0.095,
-        "High House Shadow": 0.423,
-        "High House Life": 0.015,
-        "High House Iron": 0.052,
-        "High House Words": 0.139,
-        "High House Chains": 0.068
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "revealed"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Revealed: Russia\u2019s top secret spy school teaching hacking and election meddling",
-        "url": "https://www.theguardian.com/world/2026/may/07/revealed-russia-top-secret-spy-school-hacking-western-electoral-interference",
-        "source": "guardian",
-        "full_text": "Last April, Vladimir Putin visited the campus of Bauman Moscow state technical university, set on the banks of the Yauza River in the east of the city and home to some of the country\u2019s brightest scientific minds. He toured the campus, met undergraduates and boasted about Moscow\u2019s ambitious plans for space missions to the moon and Mars. \u201cYou have everything it takes to be competitive,\u201d Putin told the students. What the Kremlin readout of Putin\u2019s visit did not mention was a secret faculty inside the university, known simply as Department 4, or \u201cSpecial Training\u201d. Here, a select group of students are quietly prepared for careers in the GRU \u2013 Russia\u2019s military intelligence directorate, whose operatives have hacked western parliaments, poisoned dissidents on foreign soil and interfered in elections across Europe and the US. Until now its role in preparing future intelligence operatives has remained largely secret, save among a select group of insiders. \u201cSometimes you are first scouted from school, then go to Bauman and join the services \u2026 it is part of a pipeline,\u201d said a former senior Russian defence official. The existence of this path, from one of Russia\u2019s most prestigious institutions directly into its military intelligence apparatus, is revealed for the first time in more than 2,000 internal documents from Bauman, obtained by a consortium of journalists from six outlets: the Guardian, Der Spiegel, Le Monde, the Insider, Delfi and VSquare. The files, covering several years of activity up to 2025, include course syllabuses, exam records, staff contracts and the career assignments of individual graduates, tracing their path from classroom exercises in hacking and disinformation to postings in some of the most notorious cyber-units in the Russian military intelligence apparatus. Bauman, one of Russia\u2019s leading technical universities, has never hidden its ties to the military. Founded in 1830, it later trained the engineers and scientists who built Soviet rockets, tanks and weapons systems and continues to do so today. In a 2013 internal letter seen by the Guardian and addressed to the then defence minister Sergei Shoigu, the university\u2019s rector wrote it carries out more research and development than any other higher education institution in Russia, with more than 40% conducted in the interests of the ministry of defence. The curriculum Embedded within the university\u2019s military training centre, Department 4 is divided into three specialist streams, the documents suggest. The most prominent, bearing the code 093400, is titled the \u201cSpecial Reconnaissance Service\u201d. The documents indicate that the GRU exerts direct control over the recruitment and grading process \u2013 sending its own officers to conduct exams, approve candidates and oversee placements. The picture that emerges is of a programme where the distinction between professor and handler and between teaching and recruitment is blurred. The department is led by lieutenant colonel Lt Col Kirill Stupakov, a signals intelligence officer who, according to the documents, signed a three-year contract in 2022 with GRU Unit 45807, one of the agency\u2019s key units. It is not clear if he is still in active service. At Bauman, Stupakov\u2019s subjects include training students to master electronic eavesdropping and covert surveillance. PowerPoint slides, apparently designed to accompany his lectures and viewed by the consortium, amount to a catalogue of deception: a smoke detector that is in fact a camera, a device that sits undetected between a keyboard and a computer logging every keystroke, a monitor cable that is also a silent screenshot machine storing its captures on a hidden flash drive. Another teacher mentioned in the documents is Viktor Netyksho, a western-sanctioned major general who commanded Unit 26165 \u2013 a hacking group known as Fancy Bear \u2013 whose officers were indicted by the US Department of Justice for interfering in the 2016 presidential election. Among the core courses is one titled"
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.404,
+      "confidence": 0.433,
       "scores": {
-        "High House War": 0.273,
-        "High House Coin": 0.404,
-        "High House Shadow": 0.163,
-        "High House Life": 0.043,
-        "High House Iron": 0.086,
-        "High House Words": 0.16,
-        "High House Chains": 0.155
+        "High House War": 0.227,
+        "High House Coin": 0.433,
+        "High House Shadow": 0.164,
+        "High House Life": 0.138,
+        "High House Iron": 0.146,
+        "High House Words": 0.267,
+        "High House Chains": 0.329
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.813
+        "sentiment_score": 0.901
       },
       "article": {
-        "title": "Stocks Are Exuberant. Bonds Are Subdued. Why the Divergence?",
-        "url": "https://www.nytimes.com/2026/05/07/business/stocks-bonds-markets-iran-war.html",
-        "source": "nyt",
+        "title": "The New Great Game: How Iran, America, Israel and the Gulf Are Rewriting the Financial Architecture of Global Power",
+        "url": "https://www.ibtimes.co.in/new-great-game-how-iran-america-israel-gulf-are-rewriting-financial-architecture-global-901891",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.418,
+      "scores": {
+        "High House War": 0.1,
+        "High House Coin": 0.164,
+        "High House Shadow": 0.418,
+        "High House Life": 0.131,
+        "High House Iron": 0.039,
+        "High House Words": 0.266,
+        "High House Chains": 0.161
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "UK issued dire China spies warning \u2013  na\u00efvety towards Communists must end ! | Politics | News",
+        "url": "https://www.express.co.uk/news/politics/2202965/hong-kong-chloe-cheung-china-spies",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.385,
+      "scores": {
+        "High House War": 0.077,
+        "High House Coin": 0.052,
+        "High House Shadow": 0.07,
+        "High House Life": 0.385,
+        "High House Iron": 0.023,
+        "High House Words": 0.095,
+        "High House Chains": 0.041
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare",
+        "url": "https://www.theguardian.com/science/2026/may/08/hantavirus-global-heath-scare",
+        "source": "guardian",
+        "full_text": "The outbreak of hantavirus on the Dutch cruise ship MV Hondius illuminates major gaps in the US public health system \u2013 a worrying sign for stopping this outbreak quickly and preparing for a potential pandemic of a more widespread pathogen in coming years, experts say. Passengers and their close contacts are at risk of hantavirus and need to follow public health guidance, but the danger for most people is near zero, officials and scientists say. Experts expect more cases in this outbreak to be identified, but they are emphatic that a hantavirus pandemic is highly unlikely. \u201cThis is not Covid, this is not influenza. It spreads very, very differently,\u201d Maria Van Kerkhove, director of epidemic and pandemic management at the World Health Organization (WHO), said at a briefing on Thursday. \u201cThis is not the same situation we were in six years ago \u2026 It\u2019s very different.\u201d The WHO has been coordinating a response with several countries. But Trump pulled out of the organization soon after taking office, and US leadership has been conspicuously absent in the global hantavirus response, experts say. While not a virus with pandemic potential, hantavirus is a warning sign that reveals how cuts to US capacity have severely limited the ability of officials and scientists to track and understand pathogens like these, with troubling implications for rare outbreaks and for pandemic preparedness writ large. There are now three suspected and five confirmed cases of Andes virus, a type of hantavirus that can sometimes spread with close, intimate contact but is typically spread by rodents. Three people have died, and three have been hospitalized, including in intensive care \u2013 though those patients are showing signs of improving, officials said on Thursday. One of the patients, a Dutch flight attendant, has tested negative for Andes virus, according to Inside Medicine. The risk to global health \u201cMy personal worry is essentially zero,\u201d said Bill Hanage, professor of epidemiology at the Harvard TH Chan School of Public Health. \u201cThe vast majority of the world has absolutely no worry at all \u2026 What they should be doing is paying attention to public health officials and acting appropriately if they are told their risk happens to be higher.\u201d Hanage is concerned that health leadership cuts, growing misinformation, and distrust of public health measures could complicate that process and contribute to some onward transmission. In the absence of trusted information, misinformation about the outbreak is swirling \u2013 including fears of another pandemic. The \u201cradio silence\u201d from officials is one of the most concerning parts of the outbreak for Boghuma Titanji, an infectious disease physician and assistant professor at the Emory School of Medicine, because \u201cit just fuels the public anxiety\u201d, she said. \u201cPeople are still reeling from the trauma that was Covid-19, and a lot of people who experienced that still have a degree of PTSD. So it\u2019s very hard to not spiral.\u201d The US Centers for Disease Control and Prevention (CDC) has not held a briefing or created a resource page for the public concerning the hantavirus; top officials haven\u2019t gone on TV shows and held interviews about the risk to the American public. That is a significant departure from how the US typically communicates about an outbreak like this, Titanji said. Two Dutch physicians and an infectious disease expert were deployed by the European Centre for Disease Prevention and Control to provide medical and psychosocial support on the cruise ship. \u201cA [US] CDC crew would have been with them, or at least been offered. Now they\u2019re nowhere to be found,\u201d Titanji said. On Friday afternoon, CNN reported that the CDC was dispatching staffers to meet the ship in the Canary Islands and had made \u201cplans to escort its American passengers back to the US aboard a charter flight\u201d. The network also reported that a separate CDC team was sent to Nebraska, where passengers are expected to be placed into quarantine to ensure that th"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.349,
+      "scores": {
+        "High House War": 0.349,
+        "High House Coin": 0.229,
+        "High House Shadow": 0.168,
+        "High House Life": 0.05,
+        "High House Iron": 0.037,
+        "High House Words": 0.308,
+        "High House Chains": 0.318
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "massacre"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "From ODA to OSA: Japan\u2019s warship diplomacy comes to Manila",
+        "url": "https://www.manilatimes.net/2026/05/09/opinion/columns/from-oda-to-osa-japans-warship-diplomacy-comes-to-manila/2339497",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -117,35 +175,6 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.321,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.06,
-        "High House Shadow": 0.076,
-        "High House Life": 0.321,
-        "High House Iron": 0.014,
-        "High House Words": 0.051,
-        "High House Chains": 0.069
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-        "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-        "source": "guardian",
-        "full_text": "Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid reports that a number of passengers have already returned to their home countries. Argentina, where the cruise to Antarctica departed, is consistently ranked by the World Health Organization (WHO) as having the highest incidence of the rare, rodent-borne disease in Latin America. Investigators there are working to contact trace the source of contamination. The Argentine health ministry on Tuesday reported 101 hantavirus infections since June 2025, roughly double to the year prior. A hantavirus found in South America, called the Andes virus, can cause a severe and often fatal lung disease called hantavirus pulmonary syndrome. The disease led to death in nearly a third of cases in the last year, Argentina\u2019s health ministry said. Authorities said passengers on the MV Hondius ship tested positive for the Andes virus. Three passengers have died, one is in intensive care in a South African hospital, and three others were evacuated from the ship Wednesday. Another man who left the ship earlier in the voyage tested positive in Switzerland. Argentina on Wednesday said it was sending genetic material from the Andes virus and testing equipment to help Spain, Senegal, South Africa, the Netherlands and the United Kingdom detect it. People usually become infected with hantavirus through contact with infected rodents or their urine, their droppings or their saliva, and human-to-human transmission is rare. But a limited spread among close contacts has been observed in some previous outbreaks with the Andes strain. Concern has also arisen about 23 passengers who reportedly disembarked the MV Hondius on the island of Saint Helena on 23 April, as reported by Spanish newspaper, El Pa\u00eds. \u201cThere are 23 people wandering around there, and until three days ago, no one had contacted them,\u201d a passenger, who asked to remain anonymous, reportedly told the paper in a phone interview. The cohort reportedly returned to their respective countries, including the United States. American passengers were being monitored in Georgia, California and Arizona, the New York Times reported Wednesday, although none of them had shown signs of illness. The WHO says the first death on board the cruise ship, a 70-year-old Dutch man, happened on 11 April. His body was taken off the vessel nearly two weeks later, at Saint Helena. His 69-year-old wife travelled by plane from Saint Helena to South Africa; she collapsed at a Johannesburg airport and died at a hospital on 26 April. The third passenger, a German woman, died on 2 May. Argentine officials say they\u2019re trying to pin down where infected passengers travelled in the country before boarding the Dutch-flagged cruise liner in Ushuaia, a city in southern Argentina known as the end of the world. Once they know the itineraries, they plan to trace contacts, isolate close contacts and actively monitor to prevent further spread. Before boarding, the Dutch couple went sightseeing in Ushuaia, and travelled in Argentina, Uruguay and Chile, the Argentinian government said. The virus can incubate for between one and eight weeks, making it hard to know whether the passengers contracted the virus before leaving Argentina for Antarctica on 1 April; during a scheduled stop to a remote South Atlantic island; or onboard. Tedros Adhanom Ghebreyesus, the director general of the WHO, said earlier on X that the \u201cWHO continues to work with the ship\u2019s operators to closely monitor the health of passengers and crew, working with countries to support appropriate medical follow-up and evacuation where needed.\u201d \u201cMonitoring and follow-up for passengers onboard and for those who have already disembarked has been initiated in collaboration with the ship\u2019s operators and national health authorities,\u201d he added. \u201cAt this stage, the overall public health risk remains low.\u201d The evacuation of"
-      },
       "position": "EMERGING"
     },
     {
@@ -175,159 +204,160 @@
         "source": "guardian",
         "full_text": "When Donald Trump abruptly pulled the plug on \u201cProject Freedom\u201d, the scheme to open the strait of Hormuz, barely a day after it had been announced, he gave the impression that an opportunity for a peace deal had materialised that could not be missed. To the surprise of nobody who has been following the US\u2019s recent adventures in geopolitics, Trump\u2019s spin concealed a lot of the underlying reality. It turns out that Trump suspended Project Freedom after Saudi Arabia stopped the US military from using its bases or airspace to carry out the operation, which involved giving air cover to commercial shipping sailing through the strait. There are different versions of why this happened. NBC News, which first reported the Saudi action, suggested it was because Riyadh, and other Gulf capitals, were not informed beforehand. Elsewhere, Saudi commentary said the shutdown of US operations was only made after an Iranian attack on oil facilities in Fujairah, one of the seven emirates in the UAE \u2013 an attack that was played down by the US, which did not respond to it. That showed Riyadh, the commentators said, that Washington was ready to launch major operations in the Gulf without consulting its allies \u2013 or protecting them from the fallout. Both versions suggest a lack of preparation underpinning Project Freedom. Two US-flagged ships took the opportunity to travel the strait and escape the Gulf, but the rest of the commercial shipping trapped by the war, estimated by the International Maritime Organization to number 2,000 vessels, stayed put. There was no diplomatic breakthrough \u2013 no \u201ccomplete and final agreement\u201d as Trump put it \u2013 behind the sharp change in policy, just a failure of the policy, and Iran\u2019s parliamentary speaker and chief negotiator, Mohammad Bagher Ghalibaf, took to X to deliver a derisive one-line epitaph. \u201cOperation Trust Me Bro failed,\u201d he wrote. The US plan that Iran is reviewing has 14 points, perhaps to mirror the 14-point plan that Tehran submitted late last week and which Trump rejected. They amount to a restatement of the US negotiating position, proposing a more permanent end to the war than the ceasefire now in place and a 30-day negotiating period to open the strait and find compromises over Iran\u2019s nuclear programme, US sanctions, and frozen Iranian assets. While Iran\u2019s official position is that the US proposal is pending review, one senior parliamentary official has dismissed it as an American wishlist. The Iranians\u2019 14 points would require a lifting of the US blockade before talks restart and an early release of at least some of the frozen assets to provide some quick relief to its devastated economy. Iran\u2019s estimated $100bn in frozen assets around the world, immobilised by past sanctions, will be a feature of any deal, but Trump has balked before about agreeing their release. He and other Republican hawks have built careers on lambasting the \u201cpallets of cash\u201d delivered to Iran by the Obama administration as part of the 2015 nuclear deal (known as the JCPOA). They are skittish about the optics of repeating the exercise. Trump has insisted there was \u201cnever a deadline\u201d for Iran to respond, and a lull suits him, for now. He is due to fly to China to meet Xi Jinping in a week, and does not want to be at war when he is there. For its part, Iran will not want to be seen as rejecting the US peace proposal out of hand, but will want to shape the terms on which talks resume, not simply go along with Trump\u2019s framing. Iran has little confidence in the US negotiating team: the president\u2019s son-in-law Jared Kushner; and his friend and special envoy, Steve Witkoff; both of whom are real estate developers with limited experience or understanding of nuclear negotiations and their history. Both Kushner and Witkoff both have extensive business interests in the Middle East and ties to Israel, and Tehran depicts them as pro-Israel provocateurs. Iranian confidence will hardly be enhanced by the addition to the US team in recent days of"
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.278,
-      "scores": {
-        "High House War": 0.278,
-        "High House Coin": 0.154,
-        "High House Shadow": 0.231,
-        "High House Life": -0.015,
-        "High House Iron": 0.134,
-        "High House Words": 0.25,
-        "High House Chains": 0.122
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.972
-      },
-      "article": {
-        "title": "Iran Is Losing the Cyberwar, Not the Real War",
-        "url": "https://www.nytimes.com/2026/04/11/opinion/iran-war-cyber-warfare-attacks.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "BEIJING",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.525,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
+      "actor_a": "BEIJING",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.167,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "BEIJING",
+      "actor_b": "JAPAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.843,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
       "house_b": "High House Chains",
-      "actor_a": "RUSSIA",
+      "actor_a": "BEIJING",
       "actor_b": "THE CHALLENGES FACING CANADA",
       "relationship": "neutral",
-      "goldstein_avg": -0.221,
+      "goldstein_avg": -0.051,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Life",
-      "actor_a": "RUSSIA",
-      "actor_b": "ARGENTINA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.573,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
+      "house_a": "High House Iron",
       "house_b": "High House Words",
-      "actor_a": "RUSSIA",
+      "actor_a": "BEIJING",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.77,
+      "goldstein_avg": -2.525,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
+      "house_a": "High House Coin",
+      "house_b": "High House Shadow",
+      "actor_a": "IRAN",
+      "actor_b": "CHINA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.509,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
       "house_b": "High House War",
-      "actor_a": "RUSSIA",
-      "actor_b": "IRAN",
+      "actor_a": "IRAN",
+      "actor_b": "JAPAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.77,
+      "goldstein_avg": -1.638,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
-      "house_b": "High House Life",
-      "actor_a": "THE CHALLENGES FACING CANADA",
-      "actor_b": "ARGENTINA",
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "THE CHALLENGES FACING CANADA",
       "relationship": "neutral",
-      "goldstein_avg": 0.244,
+      "goldstein_avg": -0.008,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
+      "house_a": "High House Coin",
       "house_b": "High House Words",
-      "actor_a": "THE CHALLENGES FACING CANADA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.036,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "THE CHALLENGES FACING CANADA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.036,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "ARGENTINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.871,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "ARGENTINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.871,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
       "actor_a": "IRAN",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.655,
+      "goldstein_avg": -2.649,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "JAPAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.528,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.113,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "JAPAN",
+      "actor_b": "THE CHALLENGES FACING CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.108,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "THE CHALLENGES FACING CANADA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.008,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.566,
-      "source": "gdelt_volume"
-    },
-    "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend": "rising",
+      "trend_ratio": 1.518,
       "source": "gdelt_volume"
     },
     "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 3.572,
+      "trend": "falling",
+      "trend_ratio": 0.359,
       "source": "gdelt_volume"
     },
     "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.604,
+      "trend_ratio": 0.737,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
