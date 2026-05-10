@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.487,
+      "confidence": 0.443,
       "scores": {
-        "High House War": -0.012,
-        "High House Coin": 0.031,
-        "High House Shadow": 0.196,
-        "High House Life": 0.197,
-        "High House Iron": 0.487,
-        "High House Words": 0.037,
-        "High House Chains": 0.021
+        "High House War": 0.054,
+        "High House Coin": 0.101,
+        "High House Shadow": 0.165,
+        "High House Life": 0.077,
+        "High House Iron": 0.443,
+        "High House Words": 0.014,
+        "High House Chains": 0.012
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Beijing pushes AI data centres to adopt green energy under action plan",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3352983/beijing-pushes-ai-data-centres-adopt-green-energy-under-action-plan?module=latest&pgtype=homepage",
-        "source": "worldnews",
+        "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+        "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -60,35 +60,6 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.418,
-      "scores": {
-        "High House War": 0.1,
-        "High House Coin": 0.164,
-        "High House Shadow": 0.418,
-        "High House Life": 0.131,
-        "High House Iron": 0.039,
-        "High House Words": 0.266,
-        "High House Chains": 0.161
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "UK issued dire China spies warning \u2013  na\u00efvety towards Communists must end ! | Politics | News",
-        "url": "https://www.express.co.uk/news/politics/2202965/hong-kong-chloe-cheung-china-spies",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
@@ -114,6 +85,64 @@
         "url": "https://www.theguardian.com/science/2026/may/08/hantavirus-global-heath-scare",
         "source": "guardian",
         "full_text": "The outbreak of hantavirus on the Dutch cruise ship MV Hondius illuminates major gaps in the US public health system \u2013 a worrying sign for stopping this outbreak quickly and preparing for a potential pandemic of a more widespread pathogen in coming years, experts say. Passengers and their close contacts are at risk of hantavirus and need to follow public health guidance, but the danger for most people is near zero, officials and scientists say. Experts expect more cases in this outbreak to be identified, but they are emphatic that a hantavirus pandemic is highly unlikely. \u201cThis is not Covid, this is not influenza. It spreads very, very differently,\u201d Maria Van Kerkhove, director of epidemic and pandemic management at the World Health Organization (WHO), said at a briefing on Thursday. \u201cThis is not the same situation we were in six years ago \u2026 It\u2019s very different.\u201d The WHO has been coordinating a response with several countries. But Trump pulled out of the organization soon after taking office, and US leadership has been conspicuously absent in the global hantavirus response, experts say. While not a virus with pandemic potential, hantavirus is a warning sign that reveals how cuts to US capacity have severely limited the ability of officials and scientists to track and understand pathogens like these, with troubling implications for rare outbreaks and for pandemic preparedness writ large. There are now three suspected and five confirmed cases of Andes virus, a type of hantavirus that can sometimes spread with close, intimate contact but is typically spread by rodents. Three people have died, and three have been hospitalized, including in intensive care \u2013 though those patients are showing signs of improving, officials said on Thursday. One of the patients, a Dutch flight attendant, has tested negative for Andes virus, according to Inside Medicine. The risk to global health \u201cMy personal worry is essentially zero,\u201d said Bill Hanage, professor of epidemiology at the Harvard TH Chan School of Public Health. \u201cThe vast majority of the world has absolutely no worry at all \u2026 What they should be doing is paying attention to public health officials and acting appropriately if they are told their risk happens to be higher.\u201d Hanage is concerned that health leadership cuts, growing misinformation, and distrust of public health measures could complicate that process and contribute to some onward transmission. In the absence of trusted information, misinformation about the outbreak is swirling \u2013 including fears of another pandemic. The \u201cradio silence\u201d from officials is one of the most concerning parts of the outbreak for Boghuma Titanji, an infectious disease physician and assistant professor at the Emory School of Medicine, because \u201cit just fuels the public anxiety\u201d, she said. \u201cPeople are still reeling from the trauma that was Covid-19, and a lot of people who experienced that still have a degree of PTSD. So it\u2019s very hard to not spiral.\u201d The US Centers for Disease Control and Prevention (CDC) has not held a briefing or created a resource page for the public concerning the hantavirus; top officials haven\u2019t gone on TV shows and held interviews about the risk to the American public. That is a significant departure from how the US typically communicates about an outbreak like this, Titanji said. Two Dutch physicians and an infectious disease expert were deployed by the European Centre for Disease Prevention and Control to provide medical and psychosocial support on the cruise ship. \u201cA [US] CDC crew would have been with them, or at least been offered. Now they\u2019re nowhere to be found,\u201d Titanji said. On Friday afternoon, CNN reported that the CDC was dispatching staffers to meet the ship in the Canary Islands and had made \u201cplans to escort its American passengers back to the US aboard a charter flight\u201d. The network also reported that a separate CDC team was sent to Nebraska, where passengers are expected to be placed into quarantine to ensure that th"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.376,
+      "scores": {
+        "High House War": -0.012,
+        "High House Coin": 0.198,
+        "High House Shadow": 0.376,
+        "High House Life": 0.037,
+        "High House Iron": -0.016,
+        "High House Words": 0.129,
+        "High House Chains": 0.15
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "He Offered a Lawmaker\u2019s Aide Quick Cash. Was He Spying for China?",
+        "url": "https://www.nytimes.com/2026/05/09/us/politics/china-us-spy-congressional-aide.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.368,
+      "scores": {
+        "High House War": 0.142,
+        "High House Coin": 0.116,
+        "High House Shadow": 0.257,
+        "High House Life": 0.144,
+        "High House Iron": 0.052,
+        "High House Words": 0.368,
+        "High House Chains": 0.209
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.963
+      },
+      "article": {
+        "title": "\u2018Watching us is like watching a cousin\u2019: the online creators reshaping Africa\u2019s news ecosphere ",
+        "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+        "source": "guardian",
+        "full_text": "Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days. This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a \u201cprofessional yapper and current affairs enthusiast\u201d, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media. According to the 2025 global Digital News Report by the Reuters Institute, social media users in South Africa, Kenya and Nigeria (the three African countries in the survey) were much more likely to report paying attention to news creators than their equivalents in much of northern Europe and Japan. In Nigeria, 61% of respondents said they paid attention to news creators, just ahead of Kenya (58%), which in turn was far ahead of Indonesia, which was third, at 44%. The figure for South Africa was 39%. The three African countries were also in the top four of those surveyed for a metric that aimed to assess the impact of news creators on social media users. Guardian correspondents spoke to news influencers and analysts in the three countries for their views on changing habits. South Africa Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised \u201cthe generation coming after me was very disinterested\u201d. \u201cThat was very concerning for me, because they are the next leaders,\u201d she said. Jaxa considers herself to be a translator of the news for younger generations, not a replacement: \u201cI don\u2019t exist if there is no traditional media, because \u2026 all the content I do is from traditional media.\u201d Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president\u2019s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content. News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. \u201cThe experience of the media being a place where people gather to watch the evening news, that has changed,\u201d she said. She expressed concern that the shift to online news was widening South Africa\u2019s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas. Kenya Valerie Keter got into news creation by chance in 2023 after watching Shaka iLembe, a South African historical drama series on King Shaka of the Zulu Kingdom. As a history buff who grew up watching international historical programmes, she was amazed by the production quality and accuracy and posted a reaction video on TikTok, describing the show as an example of how to preserve African stories for future generations. It blew up, with curious people asking in the comment section about other kingdoms from pre-colonial Africa. Keter took that as a challenge and started making videos on African history \u2013 including explainers and narrations of buried stories \u2013 from different countries across the continent and posting them online. She is part of a class of independent news creators in Kenya who, through the use of social and video platforms, are reaching audiences who are not engaging in traditional media. Their success is driven by Kenya\u2019s young population and high levels of social media use. A study released on 4 May by the Media Council of Kenya said most Kenyans rely on social media as their s"
       },
       "position": "WILD"
     },
@@ -146,7 +175,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -175,96 +204,17 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.316,
-      "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.12,
-        "High House Shadow": 0.239,
-        "High House Life": 0.125,
-        "High House Iron": 0.051,
-        "High House Words": 0.316,
-        "High House Chains": 0.169
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.749
-      },
-      "article": {
-        "title": "Iran mocks Trump\u2019s \u2018Project Freedom\u2019 as adversaries wrestle over talks to end war",
-        "url": "https://www.theguardian.com/world/2026/may/07/iran-mocks-donald-trump-project-freedom",
-        "source": "guardian",
-        "full_text": "When Donald Trump abruptly pulled the plug on \u201cProject Freedom\u201d, the scheme to open the strait of Hormuz, barely a day after it had been announced, he gave the impression that an opportunity for a peace deal had materialised that could not be missed. To the surprise of nobody who has been following the US\u2019s recent adventures in geopolitics, Trump\u2019s spin concealed a lot of the underlying reality. It turns out that Trump suspended Project Freedom after Saudi Arabia stopped the US military from using its bases or airspace to carry out the operation, which involved giving air cover to commercial shipping sailing through the strait. There are different versions of why this happened. NBC News, which first reported the Saudi action, suggested it was because Riyadh, and other Gulf capitals, were not informed beforehand. Elsewhere, Saudi commentary said the shutdown of US operations was only made after an Iranian attack on oil facilities in Fujairah, one of the seven emirates in the UAE \u2013 an attack that was played down by the US, which did not respond to it. That showed Riyadh, the commentators said, that Washington was ready to launch major operations in the Gulf without consulting its allies \u2013 or protecting them from the fallout. Both versions suggest a lack of preparation underpinning Project Freedom. Two US-flagged ships took the opportunity to travel the strait and escape the Gulf, but the rest of the commercial shipping trapped by the war, estimated by the International Maritime Organization to number 2,000 vessels, stayed put. There was no diplomatic breakthrough \u2013 no \u201ccomplete and final agreement\u201d as Trump put it \u2013 behind the sharp change in policy, just a failure of the policy, and Iran\u2019s parliamentary speaker and chief negotiator, Mohammad Bagher Ghalibaf, took to X to deliver a derisive one-line epitaph. \u201cOperation Trust Me Bro failed,\u201d he wrote. The US plan that Iran is reviewing has 14 points, perhaps to mirror the 14-point plan that Tehran submitted late last week and which Trump rejected. They amount to a restatement of the US negotiating position, proposing a more permanent end to the war than the ceasefire now in place and a 30-day negotiating period to open the strait and find compromises over Iran\u2019s nuclear programme, US sanctions, and frozen Iranian assets. While Iran\u2019s official position is that the US proposal is pending review, one senior parliamentary official has dismissed it as an American wishlist. The Iranians\u2019 14 points would require a lifting of the US blockade before talks restart and an early release of at least some of the frozen assets to provide some quick relief to its devastated economy. Iran\u2019s estimated $100bn in frozen assets around the world, immobilised by past sanctions, will be a feature of any deal, but Trump has balked before about agreeing their release. He and other Republican hawks have built careers on lambasting the \u201cpallets of cash\u201d delivered to Iran by the Obama administration as part of the 2015 nuclear deal (known as the JCPOA). They are skittish about the optics of repeating the exercise. Trump has insisted there was \u201cnever a deadline\u201d for Iran to respond, and a lull suits him, for now. He is due to fly to China to meet Xi Jinping in a week, and does not want to be at war when he is there. For its part, Iran will not want to be seen as rejecting the US peace proposal out of hand, but will want to shape the terms on which talks resume, not simply go along with Trump\u2019s framing. Iran has little confidence in the US negotiating team: the president\u2019s son-in-law Jared Kushner; and his friend and special envoy, Steve Witkoff; both of whom are real estate developers with limited experience or understanding of nuclear negotiations and their history. Both Kushner and Witkoff both have extensive business interests in the Middle East and ties to Israel, and Tehran depicts them as pro-Israel provocateurs. Iranian confidence will hardly be enhanced by the addition to the US team in recent days of"
-      },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "BEIJING",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.525,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "BEIJING",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.167,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "BEIJING",
-      "actor_b": "JAPAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.843,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Chains",
-      "actor_a": "BEIJING",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.051,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "BEIJING",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.525,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Coin",
       "house_b": "High House Shadow",
       "actor_a": "IRAN",
       "actor_b": "CHINA",
       "relationship": "opposed",
-      "goldstein_avg": -2.509,
+      "goldstein_avg": -2.345,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -273,28 +223,8 @@
       "house_b": "High House War",
       "actor_a": "IRAN",
       "actor_b": "JAPAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.638,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "THE CHALLENGES FACING CANADA",
       "relationship": "neutral",
-      "goldstein_avg": -0.008,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.649,
+      "goldstein_avg": -1.404,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -304,37 +234,7 @@
       "actor_a": "CHINA",
       "actor_b": "JAPAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.528,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "CHINA",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.113,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "JAPAN",
-      "actor_b": "THE CHALLENGES FACING CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.108,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "THE CHALLENGES FACING CANADA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.008,
+      "goldstein_avg": -0.39,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -342,22 +242,7 @@
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.518,
-      "source": "gdelt_volume"
-    },
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.359,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.737,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend_ratio": 1.604,
       "source": "gdelt_volume"
     }
   }
