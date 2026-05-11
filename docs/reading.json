@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,88 +31,88 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.433,
+      "confidence": 0.428,
       "scores": {
-        "High House War": 0.227,
-        "High House Coin": 0.433,
-        "High House Shadow": 0.164,
-        "High House Life": 0.138,
-        "High House Iron": 0.146,
-        "High House Words": 0.267,
-        "High House Chains": 0.329
+        "High House War": 0.325,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.428,
+        "High House Life": 0.2,
+        "High House Iron": 0.181,
+        "High House Words": 0.337,
+        "High House Chains": 0.157
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.901
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.726
       },
       "article": {
-        "title": "The New Great Game: How Iran, America, Israel and the Gulf Are Rewriting the Financial Architecture of Global Power",
-        "url": "https://www.ibtimes.co.in/new-great-game-how-iran-america-israel-gulf-are-rewriting-financial-architecture-global-901891",
+        "title": "Beyond the Battlefield: How the 2026 U.S. Counterterrorism Strategy Is Targeting Digital Extremist Networks",
+        "url": "https://indiaobservers.com/2026-us-counterterrorism-strategy-extremist-networks",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.385,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.408,
       "scores": {
-        "High House War": 0.077,
-        "High House Coin": 0.052,
-        "High House Shadow": 0.07,
-        "High House Life": 0.385,
-        "High House Iron": 0.023,
-        "High House Words": 0.095,
-        "High House Chains": 0.041
+        "High House War": 0.408,
+        "High House Coin": 0.078,
+        "High House Shadow": 0.149,
+        "High House Life": 0.165,
+        "High House Iron": 0.006,
+        "High House Words": 0.199,
+        "High House Chains": 0.194
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.968
       },
       "article": {
-        "title": "Hantavirus misinformation runs rampant as the US is unequipped to respond to infectious disease health scare",
-        "url": "https://www.theguardian.com/science/2026/may/08/hantavirus-global-heath-scare",
-        "source": "guardian",
-        "full_text": "The outbreak of hantavirus on the Dutch cruise ship MV Hondius illuminates major gaps in the US public health system \u2013 a worrying sign for stopping this outbreak quickly and preparing for a potential pandemic of a more widespread pathogen in coming years, experts say. Passengers and their close contacts are at risk of hantavirus and need to follow public health guidance, but the danger for most people is near zero, officials and scientists say. Experts expect more cases in this outbreak to be identified, but they are emphatic that a hantavirus pandemic is highly unlikely. \u201cThis is not Covid, this is not influenza. It spreads very, very differently,\u201d Maria Van Kerkhove, director of epidemic and pandemic management at the World Health Organization (WHO), said at a briefing on Thursday. \u201cThis is not the same situation we were in six years ago \u2026 It\u2019s very different.\u201d The WHO has been coordinating a response with several countries. But Trump pulled out of the organization soon after taking office, and US leadership has been conspicuously absent in the global hantavirus response, experts say. While not a virus with pandemic potential, hantavirus is a warning sign that reveals how cuts to US capacity have severely limited the ability of officials and scientists to track and understand pathogens like these, with troubling implications for rare outbreaks and for pandemic preparedness writ large. There are now three suspected and five confirmed cases of Andes virus, a type of hantavirus that can sometimes spread with close, intimate contact but is typically spread by rodents. Three people have died, and three have been hospitalized, including in intensive care \u2013 though those patients are showing signs of improving, officials said on Thursday. One of the patients, a Dutch flight attendant, has tested negative for Andes virus, according to Inside Medicine. The risk to global health \u201cMy personal worry is essentially zero,\u201d said Bill Hanage, professor of epidemiology at the Harvard TH Chan School of Public Health. \u201cThe vast majority of the world has absolutely no worry at all \u2026 What they should be doing is paying attention to public health officials and acting appropriately if they are told their risk happens to be higher.\u201d Hanage is concerned that health leadership cuts, growing misinformation, and distrust of public health measures could complicate that process and contribute to some onward transmission. In the absence of trusted information, misinformation about the outbreak is swirling \u2013 including fears of another pandemic. The \u201cradio silence\u201d from officials is one of the most concerning parts of the outbreak for Boghuma Titanji, an infectious disease physician and assistant professor at the Emory School of Medicine, because \u201cit just fuels the public anxiety\u201d, she said. \u201cPeople are still reeling from the trauma that was Covid-19, and a lot of people who experienced that still have a degree of PTSD. So it\u2019s very hard to not spiral.\u201d The US Centers for Disease Control and Prevention (CDC) has not held a briefing or created a resource page for the public concerning the hantavirus; top officials haven\u2019t gone on TV shows and held interviews about the risk to the American public. That is a significant departure from how the US typically communicates about an outbreak like this, Titanji said. Two Dutch physicians and an infectious disease expert were deployed by the European Centre for Disease Prevention and Control to provide medical and psychosocial support on the cruise ship. \u201cA [US] CDC crew would have been with them, or at least been offered. Now they\u2019re nowhere to be found,\u201d Titanji said. On Friday afternoon, CNN reported that the CDC was dispatching staffers to meet the ship in the Canary Islands and had made \u201cplans to escort its American passengers back to the US aboard a charter flight\u201d. The network also reported that a separate CDC team was sent to Nebraska, where passengers are expected to be placed into quarantine to ensure that th"
+        "title": "NGO Gav Lalochem seeks US Diaspora support to aid reintegration of IDF combat veterans",
+        "url": "https://www.jpost.com/diaspora/article-895765",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.376,
+      "confidence": 0.395,
       "scores": {
-        "High House War": -0.012,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.376,
-        "High House Life": 0.037,
-        "High House Iron": -0.016,
-        "High House Words": 0.129,
-        "High House Chains": 0.15
+        "High House War": 0.0,
+        "High House Coin": 0.092,
+        "High House Shadow": 0.048,
+        "High House Life": 0.395,
+        "High House Iron": 0.061,
+        "High House Words": 0.06,
+        "High House Chains": 0.09
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "He Offered a Lawmaker\u2019s Aide Quick Cash. Was He Spying for China?",
-        "url": "https://www.nytimes.com/2026/05/09/us/politics/china-us-spy-congressional-aide.html",
-        "source": "nyt",
+        "title": "\u2018Nobody is ready\u2019: Experts warn world is unprepared for Disease X, hasn\u2019t learnt lessons from Covid-19",
+        "url": "https://www.firstpost.com/world/covid-19-lessons-disease-x-who-global-health-challenges-experts-interview-anurag-agrawal-gautam-menon-14009952.html",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -144,38 +144,36 @@
         "source": "guardian",
         "full_text": "Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days. This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a \u201cprofessional yapper and current affairs enthusiast\u201d, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media. According to the 2025 global Digital News Report by the Reuters Institute, social media users in South Africa, Kenya and Nigeria (the three African countries in the survey) were much more likely to report paying attention to news creators than their equivalents in much of northern Europe and Japan. In Nigeria, 61% of respondents said they paid attention to news creators, just ahead of Kenya (58%), which in turn was far ahead of Indonesia, which was third, at 44%. The figure for South Africa was 39%. The three African countries were also in the top four of those surveyed for a metric that aimed to assess the impact of news creators on social media users. Guardian correspondents spoke to news influencers and analysts in the three countries for their views on changing habits. South Africa Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised \u201cthe generation coming after me was very disinterested\u201d. \u201cThat was very concerning for me, because they are the next leaders,\u201d she said. Jaxa considers herself to be a translator of the news for younger generations, not a replacement: \u201cI don\u2019t exist if there is no traditional media, because \u2026 all the content I do is from traditional media.\u201d Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president\u2019s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content. News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. \u201cThe experience of the media being a place where people gather to watch the evening news, that has changed,\u201d she said. She expressed concern that the shift to online news was widening South Africa\u2019s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas. Kenya Valerie Keter got into news creation by chance in 2023 after watching Shaka iLembe, a South African historical drama series on King Shaka of the Zulu Kingdom. As a history buff who grew up watching international historical programmes, she was amazed by the production quality and accuracy and posted a reaction video on TikTok, describing the show as an example of how to preserve African stories for future generations. It blew up, with curious people asking in the comment section about other kingdoms from pre-colonial Africa. Keter took that as a challenge and started making videos on African history \u2013 including explainers and narrations of buried stories \u2013 from different countries across the continent and posting them online. She is part of a class of independent news creators in Kenya who, through the use of social and video platforms, are reaching audiences who are not engaging in traditional media. Their success is driven by Kenya\u2019s young population and high levels of social media use. A study released on 4 May by the Media Council of Kenya said most Kenyans rely on social media as their s"
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.349,
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.353,
       "scores": {
-        "High House War": 0.349,
-        "High House Coin": 0.229,
-        "High House Shadow": 0.168,
-        "High House Life": 0.05,
-        "High House Iron": 0.037,
-        "High House Words": 0.308,
-        "High House Chains": 0.318
+        "High House War": 0.136,
+        "High House Coin": 0.353,
+        "High House Shadow": 0.034,
+        "High House Life": 0.041,
+        "High House Iron": 0.082,
+        "High House Words": 0.155,
+        "High House Chains": 0.191
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "massacre"
-        ],
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "From ODA to OSA: Japan\u2019s warship diplomacy comes to Manila",
-        "url": "https://www.manilatimes.net/2026/05/09/opinion/columns/from-oda-to-osa-japans-warship-diplomacy-comes-to-manila/2339497",
-        "source": "worldnews",
+        "title": "High Gas Prices Are Just the Beginning",
+        "url": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -204,45 +202,14 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Shadow",
-      "actor_a": "IRAN",
-      "actor_b": "CHINA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.345,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "JAPAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.404,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "JAPAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.39,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.604,
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
