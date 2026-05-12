@@ -1,6 +1,35 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "cards": [
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.495,
+      "scores": {
+        "High House War": 0.155,
+        "High House Coin": 0.156,
+        "High House Shadow": 0.495,
+        "High House Life": 0.235,
+        "High House Iron": 0.379,
+        "High House Words": 0.168,
+        "High House Chains": 0.108
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.957
+      },
+      "article": {
+        "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
+        "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+        "source": "guardian",
+        "full_text": "In just three months, AI-powered hacking has gone from a nascent problem to an industrial-scale threat, according to a report from Google. The findings from Google\u2019s threat intelligence group add to an intensifying, global discussion about how the newest AI models are extremely adept at coding \u2013 and becoming extremely powerful tools for exploiting vulnerabilities in a broad array of software systems. It finds that criminal groups, as well as state-linked actors from China, North Korea and Russia, appear to be widely using commercial models \u2013 including Gemini, Claude and tools from OpenAI \u2013 to refine and scale up attacks. \u201cThere\u2019s a misconception that the AI vulnerability race is imminent. The reality is that it\u2019s already begun,\u201d said John Hultquist, the group\u2019s chief analyst. \u201cThreat actors are using AI to boost the speed, scale, and sophistication of their attacks. It enables them to test their operations, persist against targets, build better malware and make many other improvements.\u201d Last month, the AI company Anthropic declined to release one of its newest models, Mythos, after asserting that it had extremely powerful capabilities and posed a threat to governments, financial institutions and the world generally if it fell into the wrong hands. Specifically, Anthropic said Mythos had found zero-day vulnerabilities in \u201cevery major operating system and every major web browser\u201d \u2013 the term for a flaw in a product previously unknown to its developers. The company said these discoveries necessitated \u201csubstantial coordinated defensive action across the industry\u201d. Google\u2019s report found, however, that a criminal group recently was on the verge of leveraging a zero-day vulnerability to conduct a \u201cmass exploitation\u201d campaign \u2013 and that this group appeared to be using an AI large language model (LLM) that was not Mythos. The report also found that groups were \u201cexperimenting\u201d with OpenClaw, an AI tool that went viral in February for offering its users the ability to hand over large chunks of their lives to an AI agent with no guardrails and an unfortunate tendency to mass-delete email inboxes. Steven Murdoch, a professor of security engineering at University College London, said AI tool could help the defensive side in cybersecurity \u2013 as well as the hackers. \u201cThat\u2019s why I\u2019m not panicking. In general we have reached a stage where the old way of discovering bugs is gone, and it will now all be LLM-assisted. It will take a little while before the consequences of this get shaken out,\u201d he said. However, if AI is helping ambitious hackers to reach their productivity goals, doubts remain as to whether it is bolstering the broader economy. The Ada Lovelace Institute (ALI), an independent AI research body, has cautioned against assumptions of a multibillion-pound public sector productivity boost from AI. The UK government has estimated a \u00a345bn gain in savings and productivity benefits from public sector investment in digital tools and AI. In a report published on Monday, the ALI said most studies of AI-related increases in productivity referred to time savings or cost reductions, but did not look at outcomes such as better services or improved worker-wellbeing. Other problematic aspects of such research include: whether projections of AI-related efficiency in a workplace really succeed in the real world; headline figures obscuring varying results for using AI in different tasks; and failing to account for the impact on public sector employment and service delivery. \u201cThe productivity estimates shaping major government decisions about AI sometimes rest on untested assumptions and rely on methodologies whose limitations are not always appreciated by those using figures in the wild,\u201d said the ALI report. \u201cThe result is a gap between the confidence with which productivity claims are presented and the strength of the evidence behind them.\u201d The report\u2019s recommendations include: encouraging future studies to reflect uncertainty over the impact of the te"
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Iron",
       "title": "The Merchant",
@@ -28,123 +57,65 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.428,
-      "scores": {
-        "High House War": 0.325,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.428,
-        "High House Life": 0.2,
-        "High House Iron": 0.181,
-        "High House Words": 0.337,
-        "High House Chains": 0.157
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.726
-      },
-      "article": {
-        "title": "Beyond the Battlefield: How the 2026 U.S. Counterterrorism Strategy Is Targeting Digital Extremist Networks",
-        "url": "https://indiaobservers.com/2026-us-counterterrorism-strategy-extremist-networks",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.408,
-      "scores": {
-        "High House War": 0.408,
-        "High House Coin": 0.078,
-        "High House Shadow": 0.149,
-        "High House Life": 0.165,
-        "High House Iron": 0.006,
-        "High House Words": 0.199,
-        "High House Chains": 0.194
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.968
-      },
-      "article": {
-        "title": "NGO Gav Lalochem seeks US Diaspora support to aid reintegration of IDF combat veterans",
-        "url": "https://www.jpost.com/diaspora/article-895765",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.395,
+      "confidence": 0.416,
       "scores": {
-        "High House War": 0.0,
-        "High House Coin": 0.092,
-        "High House Shadow": 0.048,
-        "High House Life": 0.395,
-        "High House Iron": 0.061,
-        "High House Words": 0.06,
-        "High House Chains": 0.09
+        "High House War": 0.022,
+        "High House Coin": 0.047,
+        "High House Shadow": -0.011,
+        "High House Life": 0.416,
+        "High House Iron": 0.009,
+        "High House Words": -0.032,
+        "High House Chains": 0.064
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "\u2018Nobody is ready\u2019: Experts warn world is unprepared for Disease X, hasn\u2019t learnt lessons from Covid-19",
-        "url": "https://www.firstpost.com/world/covid-19-lessons-disease-x-who-global-health-challenges-experts-interview-anurag-agrawal-gautam-menon-14009952.html",
+        "title": "Could wiping out all mosquitoes save lives without harming nature?",
+        "url": "https://punchng.com/could-wiping-out-all-mosquitoes-save-lives-without-harming-nature",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.368,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.393,
       "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.116,
-        "High House Shadow": 0.257,
-        "High House Life": 0.144,
-        "High House Iron": 0.052,
-        "High House Words": 0.368,
-        "High House Chains": 0.209
+        "High House War": 0.066,
+        "High House Coin": 0.36,
+        "High House Shadow": 0.075,
+        "High House Life": 0.063,
+        "High House Iron": -0.012,
+        "High House Words": 0.261,
+        "High House Chains": 0.393
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.963
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "\u2018Watching us is like watching a cousin\u2019: the online creators reshaping Africa\u2019s news ecosphere ",
-        "url": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media",
+        "title": "EU announces sanctions against violent Israel settlers",
+        "url": "https://www.theguardian.com/world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers",
         "source": "guardian",
-        "full_text": "Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days. This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a \u201cprofessional yapper and current affairs enthusiast\u201d, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media. According to the 2025 global Digital News Report by the Reuters Institute, social media users in South Africa, Kenya and Nigeria (the three African countries in the survey) were much more likely to report paying attention to news creators than their equivalents in much of northern Europe and Japan. In Nigeria, 61% of respondents said they paid attention to news creators, just ahead of Kenya (58%), which in turn was far ahead of Indonesia, which was third, at 44%. The figure for South Africa was 39%. The three African countries were also in the top four of those surveyed for a metric that aimed to assess the impact of news creators on social media users. Guardian correspondents spoke to news influencers and analysts in the three countries for their views on changing habits. South Africa Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised \u201cthe generation coming after me was very disinterested\u201d. \u201cThat was very concerning for me, because they are the next leaders,\u201d she said. Jaxa considers herself to be a translator of the news for younger generations, not a replacement: \u201cI don\u2019t exist if there is no traditional media, because \u2026 all the content I do is from traditional media.\u201d Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president\u2019s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content. News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. \u201cThe experience of the media being a place where people gather to watch the evening news, that has changed,\u201d she said. She expressed concern that the shift to online news was widening South Africa\u2019s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas. Kenya Valerie Keter got into news creation by chance in 2023 after watching Shaka iLembe, a South African historical drama series on King Shaka of the Zulu Kingdom. As a history buff who grew up watching international historical programmes, she was amazed by the production quality and accuracy and posted a reaction video on TikTok, describing the show as an example of how to preserve African stories for future generations. It blew up, with curious people asking in the comment section about other kingdoms from pre-colonial Africa. Keter took that as a challenge and started making videos on African history \u2013 including explainers and narrations of buried stories \u2013 from different countries across the continent and posting them online. She is part of a class of independent news creators in Kenya who, through the use of social and video platforms, are reaching audiences who are not engaging in traditional media. Their success is driven by Kenya\u2019s young population and high levels of social media use. A study released on 4 May by the Media Council of Kenya said most Kenyans rely on social media as their s"
+        "full_text": "The EU has agreed sanctions on violent Israeli settlers, ending a years-long deadlock over the issue but still taking only a \u201cbaby step\u201d according to one MEP. Kaja Kallas, the EU\u2019s foreign policy chief, said on Monday: \u201cViolence and extremism carry consequences.\u201d But there was still no consensus among the 27 member states on more hard-hitting trade sanctions. France\u2019s foreign minister, Jean-No\u00ebl Barrot, said the EU was \u201csanctioning the main Israeli organisations guilty of supporting the extremist and violent colonisation of the West Bank, as well as their leaders\u201d. \u201cThese most serious and intolerable acts must cease without delay,\u201d he wrote on social media. The full list of names has not been published following Monday\u2019s agreement in principle but is understood not to include two extremist Israeli ministers, Itamar Ben-Gvir and Bezalel Smotrich. The pair were put under UK sanctions last June for their \u201crepeated incitements of violence against Palestinian communities\u201d. The deadlock was broken after Hungary\u2019s new pro-EU government lifted its veto on the sanctions, which had been blocked by the previous prime minister, Viktor Orb\u00e1n. The EU would also sanction leading Hamas figures, Kallas said. Israel\u2019s foreign minister, Gideon Sa\u2019ar, said the EU had chosen in \u201can arbitrary and political manner, to impose sanctions on Israeli citizens and entities because of their political views and without any basis\u201d. The measures against a small number of settlers fall short of what some member states wanted. France and Sweden have called for tariffs on imported products from illegal settlements. \u201cWe believe that the EU urgently needs to increase the pressure on Israel to halt its settlement policy and practices,\u201d the two countries wrote in a joint paper. Sweden\u2019s foreign minister, Maria Malmer Stenergard, said putting tariffs on products from illegal settlements was \u201cthe most realistic proposal\u201d. Banning products requires unanimity among the 27 member states, whereas tariffs can be imposed by a majority vote. Under the EU-Israel association agreement, goods from the occupied territories miss out on preferential terms but trade is not prohibited. Kallas, who is also a vice-president of the European Commission, said she could not issue a draft law to impose tariffs on goods from illegal settlements: \u201cI raised this issue that member states wanted this proposal. I asked [for] this, but the proposal is not there. And I can\u2019t draft it.\u201d Barry Andrews, an Irish centrist MEP, who chairs the European parliament\u2019s development committee, said EU foreign ministers had taken a \u201cwelcome (baby) step\u201d. Writing on X he called for enforcement of labelling and banning of settler products, as well as ending research cooperation with Israel. He added: \u201cUltimately, only a review of the EU-Israel association agreement, with view to suspension, will have a major impact.\u201d Amid surging violence in the West Bank and the dire humanitarian situation in Gaza, the EU is under renewed pressure to use its leverage to push Israel\u2019s government to change course. Former senior EU diplomats and officials called last week for sanctions against all individuals and entities engaged in illegal settlements, including planners, lawyers, banks and other professionals involved in the proposed E1 settlement. The signatories say this illegal settlement of 3,400 illegal homes would cut the West Bank in two \u201cand so wreck any prospects of a viable Palestinian state\u201d. The declaration was signed by 452 former senior EU politicians, diplomats and officials, including two former prime ministers, Guy Verhofstadt of Belgium and Stefan L\u00f6fven of Sweden. Since the 7 October attacks by Hamas, Israeli settlers have pursued a growing campaign of violent intimidation against Palestinians in the West Bank with the aim of driving them from their land. According to UN figures, 230 Palestinians were killed in the West Bank by Israeli forces and settlers last year."
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -176,37 +147,117 @@
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
       "confidence": 0.324,
       "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.224,
-        "High House Shadow": 0.036,
-        "High House Life": 0.116,
-        "High House Iron": 0.047,
-        "High House Words": 0.269,
-        "High House Chains": 0.324
+        "High House War": 0.131,
+        "High House Coin": 0.164,
+        "High House Shadow": 0.098,
+        "High House Life": 0.056,
+        "High House Iron": -0.011,
+        "High House Words": 0.324,
+        "High House Chains": 0.254
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "The Challenges Facing Canada as It Inches Toward Trade Talks",
-        "url": "https://www.nytimes.com/2026/04/25/world/canada/carney-trump-canada-us-trade-usmca.html",
-        "source": "nyt",
+        "title": "Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays",
+        "url": "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire",
+        "source": "guardian",
+        "full_text": "Donald Trump has rejected an Iranian response to a US peace proposal as \u201ctotally unacceptable\u201d, on a day the month-old ceasefire showed signs of fraying as drone strikes were reported around the region and Benjamin Netanyahu warned the war was \u201cnot over\u201d. The Iranian counter-proposal was passed to Washington through Pakistani mediators. The semi-official Tasnim news agency, citing an informed source, said on Sunday night that Iran\u2019s proposed text for negotiations underlined the necessity of lifting US sanctions, ending the US naval blockade of the strait of Hormuz after the signing of initial understanding, and an immediate end to the war with guarantees against any renewed attack on the country. The US had presented a peace proposal a week ago, which was reported to consist of a one-page, 14-point memorandum of understanding that would reopen the strait while setting a framework for further talks on Iran\u2019s nuclear programme. The US parameters for nuclear talks reportedly included a moratorium on Iranian nuclear enrichment for up to 20 years; the transfer overseas, possibly to the US, of Iran\u2019s stockpile of highly enriched uranium (HEU), which could be used to make nuclear warheads; and the dismantling of Iranian nuclear facilities. According to the Wall Street Journal, the Iranian counter-proposal suggested a shorter moratorium, the export of part of the HEU stockpile and the dilution of the rest, and refusal to accept the dismantling of facilities. Trump responded shortly afterwards by saying: \u201cI have just read the response from Iran\u2019s so-called \u2018representatives\u2019. I don\u2019t like it \u2013 totally unacceptable.\u201d Earlier in the day Trump had posted a long statement on his online platform, Truth Social, alleging Iran \u201chas been playing games with the United States, and the rest of the World, for 47 years\u201d, adding that Tehran \u201cwill be laughing no longer\u201d. Trump was expected to talk to Netanyahu on Sunday. The Israeli prime minister had earlier warned the war would continue as long as Iran had a stockpile of HEU. \u201cIt\u2019s not over, because there\u2019s still nuclear material \u2013 enriched uranium \u2013 that has to be taken out of Iran. There\u2019s still enrichment sites that have to be dismantled,\u201d he told the CBS programme 60 Minutes, according an excerpt published before its broadcast. Asked how the HEU should be removed, Netanyahu said: \u201cYou go in and you take it out,\u201d adding that the best way would be to enter Iran to secure the fissile material as part of an agreement. He said Donald Trump had told him he wants \u201cto go in there\u201d. In a separate interview, Trump appeared to take a more relaxed view of the HEU stockpile, which the UN nuclear watchdog, the IAEA, says is buried deep under mountains in central Iran. The US president suggested that for the time being, satellite surveillance was sufficient to guarantee no one had access to it. Trump said on the Full Measure programme: \u201cWe\u2019ll get that at some point \u2026 We have it surveilled. I did a thing called Space Force, and they are watching that \u2026 If anybody got near the place, we will know about it \u2013 and we\u2019ll blow them up.\u201d As he has on numerous occasions since a ceasefire was declared a month ago, Trump said US attacks on Iran could be resumed. He said the US could \u201cgo in for two more weeks and do every single target. We have certain targets that we wanted, and we\u2019ve done probably 70% of them, but we have other targets that we could conceivably hit. \u201cBut even if we didn\u2019t do that, you know, that would just be final touches,\u201d he added. Trump is under heavy pressure to maintain the ceasefire, and potentially make a peace deal, before a scheduled visit this week to China, which is pushing for an end to hostilities and the opening of the strait. Two critical issues that will be at the heart of any future nuclear talks between the US and Iran are the disposal of Iran\u2019s 440kg of HEU enriched to 60% purity \u2013 close to weapons grade \u2013 and the suspension of uranium enrichment. In an interview on Iranian state medi"
+      },
+      "position": "WANING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.321,
+      "scores": {
+        "High House War": 0.321,
+        "High House Coin": 0.049,
+        "High House Shadow": 0.095,
+        "High House Life": -0.076,
+        "High House Iron": 0.024,
+        "High House Words": 0.148,
+        "High House Chains": 0.131
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.848
+      },
+      "article": {
+        "title": "Pakistan permitted Iranian military aircraft to be stationed at its airbases during US conflict: Report",
+        "url": "https://www.newsonair.gov.in/pakistan-permitted-iranian-military-aircraft-to-be-stationed-at-its-airbases-during-us-conflict-report",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "GOOGLE",
+      "actor_b": "ISRAEL",
+      "relationship": "neutral",
+      "goldstein_avg": -0.995,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "GOOGLE",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.055,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "GOOGLE",
+      "actor_b": "PAKISTAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.615,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "ISRAEL",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.161,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
+    "High House Shadow": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.55,
+      "source": "gdelt_volume"
+    },
     "High House Words": {
       "trend": "falling",
       "trend_ratio": 0.0,
