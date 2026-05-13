@@ -1,92 +1,92 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "cards": [
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.495,
-      "scores": {
-        "High House War": 0.155,
-        "High House Coin": 0.156,
-        "High House Shadow": 0.495,
-        "High House Life": 0.235,
-        "High House Iron": 0.379,
-        "High House Words": 0.168,
-        "High House Chains": 0.108
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.957
-      },
-      "article": {
-        "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
-        "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
-        "source": "guardian",
-        "full_text": "In just three months, AI-powered hacking has gone from a nascent problem to an industrial-scale threat, according to a report from Google. The findings from Google\u2019s threat intelligence group add to an intensifying, global discussion about how the newest AI models are extremely adept at coding \u2013 and becoming extremely powerful tools for exploiting vulnerabilities in a broad array of software systems. It finds that criminal groups, as well as state-linked actors from China, North Korea and Russia, appear to be widely using commercial models \u2013 including Gemini, Claude and tools from OpenAI \u2013 to refine and scale up attacks. \u201cThere\u2019s a misconception that the AI vulnerability race is imminent. The reality is that it\u2019s already begun,\u201d said John Hultquist, the group\u2019s chief analyst. \u201cThreat actors are using AI to boost the speed, scale, and sophistication of their attacks. It enables them to test their operations, persist against targets, build better malware and make many other improvements.\u201d Last month, the AI company Anthropic declined to release one of its newest models, Mythos, after asserting that it had extremely powerful capabilities and posed a threat to governments, financial institutions and the world generally if it fell into the wrong hands. Specifically, Anthropic said Mythos had found zero-day vulnerabilities in \u201cevery major operating system and every major web browser\u201d \u2013 the term for a flaw in a product previously unknown to its developers. The company said these discoveries necessitated \u201csubstantial coordinated defensive action across the industry\u201d. Google\u2019s report found, however, that a criminal group recently was on the verge of leveraging a zero-day vulnerability to conduct a \u201cmass exploitation\u201d campaign \u2013 and that this group appeared to be using an AI large language model (LLM) that was not Mythos. The report also found that groups were \u201cexperimenting\u201d with OpenClaw, an AI tool that went viral in February for offering its users the ability to hand over large chunks of their lives to an AI agent with no guardrails and an unfortunate tendency to mass-delete email inboxes. Steven Murdoch, a professor of security engineering at University College London, said AI tool could help the defensive side in cybersecurity \u2013 as well as the hackers. \u201cThat\u2019s why I\u2019m not panicking. In general we have reached a stage where the old way of discovering bugs is gone, and it will now all be LLM-assisted. It will take a little while before the consequences of this get shaken out,\u201d he said. However, if AI is helping ambitious hackers to reach their productivity goals, doubts remain as to whether it is bolstering the broader economy. The Ada Lovelace Institute (ALI), an independent AI research body, has cautioned against assumptions of a multibillion-pound public sector productivity boost from AI. The UK government has estimated a \u00a345bn gain in savings and productivity benefits from public sector investment in digital tools and AI. In a report published on Monday, the ALI said most studies of AI-related increases in productivity referred to time savings or cost reductions, but did not look at outcomes such as better services or improved worker-wellbeing. Other problematic aspects of such research include: whether projections of AI-related efficiency in a workplace really succeed in the real world; headline figures obscuring varying results for using AI in different tasks; and failing to account for the impact on public sector employment and service delivery. \u201cThe productivity estimates shaping major government decisions about AI sometimes rest on untested assumptions and rely on methodologies whose limitations are not always appreciated by those using figures in the wild,\u201d said the ALI report. \u201cThe result is a gap between the confidence with which productivity claims are presented and the strength of the evidence behind them.\u201d The report\u2019s recommendations include: encouraging future studies to reflect uncertainty over the impact of the te"
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.443,
+      "reversed": true,
+      "confidence": 0.481,
       "scores": {
         "High House War": 0.054,
-        "High House Coin": 0.101,
-        "High House Shadow": 0.165,
-        "High House Life": 0.077,
-        "High House Iron": 0.443,
-        "High House Words": 0.014,
-        "High House Chains": 0.012
+        "High House Coin": 0.051,
+        "High House Shadow": 0.233,
+        "High House Life": 0.135,
+        "High House Iron": 0.481,
+        "High House Words": 0.059,
+        "High House Chains": -0.009
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
-        "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
-        "source": "nyt",
+        "title": "Others Also Read",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/13/is-anthropics-new-ai-really-that-scary-it-depends-whom-you-ask",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.416,
+      "confidence": 0.476,
       "scores": {
-        "High House War": 0.022,
-        "High House Coin": 0.047,
-        "High House Shadow": -0.011,
-        "High House Life": 0.416,
-        "High House Iron": 0.009,
-        "High House Words": -0.032,
-        "High House Chains": 0.064
+        "High House War": 0.075,
+        "High House Coin": 0.038,
+        "High House Shadow": 0.051,
+        "High House Life": 0.476,
+        "High House Iron": 0.081,
+        "High House Words": -0.01,
+        "High House Chains": 0.055
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.536,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.981
+        "sentiment_score": 0.975
       },
       "article": {
-        "title": "Could wiping out all mosquitoes save lives without harming nature?",
-        "url": "https://punchng.com/could-wiping-out-all-mosquitoes-save-lives-without-harming-nature",
+        "title": "Millions of farmers in Africa\u2019s Great Lakes region face rising temperatures. Study predicts how crop disease and pests could spread",
+        "url": "https://theconversation.com/millions-of-farmers-in-africas-great-lakes-region-face-rising-temperatures-study-predicts-how-crop-disease-and-pests-could-spread-279912",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.457,
+      "scores": {
+        "High House War": 0.244,
+        "High House Coin": 0.226,
+        "High House Shadow": 0.457,
+        "High House Life": 0.192,
+        "High House Iron": 0.22,
+        "High House Words": 0.218,
+        "High House Chains": 0.148
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "I Ran the N.S.A. This Is How to Defeat China\u2019s Hacker Army.",
+        "url": "https://www.nytimes.com/2026/05/11/opinion/international-world/i-ran-the-nsa-this-is-how-to-defeat-chinas-hacker-army.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
@@ -110,38 +110,38 @@
         "sentiment_score": 0.995
       },
       "article": {
-        "title": "EU announces sanctions against violent Israel settlers",
+        "title": "EU announces sanctions against violent Israeli settlers",
         "url": "https://www.theguardian.com/world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers",
         "source": "guardian",
         "full_text": "The EU has agreed sanctions on violent Israeli settlers, ending a years-long deadlock over the issue but still taking only a \u201cbaby step\u201d according to one MEP. Kaja Kallas, the EU\u2019s foreign policy chief, said on Monday: \u201cViolence and extremism carry consequences.\u201d But there was still no consensus among the 27 member states on more hard-hitting trade sanctions. France\u2019s foreign minister, Jean-No\u00ebl Barrot, said the EU was \u201csanctioning the main Israeli organisations guilty of supporting the extremist and violent colonisation of the West Bank, as well as their leaders\u201d. \u201cThese most serious and intolerable acts must cease without delay,\u201d he wrote on social media. The full list of names has not been published following Monday\u2019s agreement in principle but is understood not to include two extremist Israeli ministers, Itamar Ben-Gvir and Bezalel Smotrich. The pair were put under UK sanctions last June for their \u201crepeated incitements of violence against Palestinian communities\u201d. The deadlock was broken after Hungary\u2019s new pro-EU government lifted its veto on the sanctions, which had been blocked by the previous prime minister, Viktor Orb\u00e1n. The EU would also sanction leading Hamas figures, Kallas said. Israel\u2019s foreign minister, Gideon Sa\u2019ar, said the EU had chosen in \u201can arbitrary and political manner, to impose sanctions on Israeli citizens and entities because of their political views and without any basis\u201d. The measures against a small number of settlers fall short of what some member states wanted. France and Sweden have called for tariffs on imported products from illegal settlements. \u201cWe believe that the EU urgently needs to increase the pressure on Israel to halt its settlement policy and practices,\u201d the two countries wrote in a joint paper. Sweden\u2019s foreign minister, Maria Malmer Stenergard, said putting tariffs on products from illegal settlements was \u201cthe most realistic proposal\u201d. Banning products requires unanimity among the 27 member states, whereas tariffs can be imposed by a majority vote. Under the EU-Israel association agreement, goods from the occupied territories miss out on preferential terms but trade is not prohibited. Kallas, who is also a vice-president of the European Commission, said she could not issue a draft law to impose tariffs on goods from illegal settlements: \u201cI raised this issue that member states wanted this proposal. I asked [for] this, but the proposal is not there. And I can\u2019t draft it.\u201d Barry Andrews, an Irish centrist MEP, who chairs the European parliament\u2019s development committee, said EU foreign ministers had taken a \u201cwelcome (baby) step\u201d. Writing on X he called for enforcement of labelling and banning of settler products, as well as ending research cooperation with Israel. He added: \u201cUltimately, only a review of the EU-Israel association agreement, with view to suspension, will have a major impact.\u201d Amid surging violence in the West Bank and the dire humanitarian situation in Gaza, the EU is under renewed pressure to use its leverage to push Israel\u2019s government to change course. Former senior EU diplomats and officials called last week for sanctions against all individuals and entities engaged in illegal settlements, including planners, lawyers, banks and other professionals involved in the proposed E1 settlement. The signatories say this illegal settlement of 3,400 illegal homes would cut the West Bank in two \u201cand so wreck any prospects of a viable Palestinian state\u201d. The declaration was signed by 452 former senior EU politicians, diplomats and officials, including two former prime ministers, Guy Verhofstadt of Belgium and Stefan L\u00f6fven of Sweden. Since the 7 October attacks by Hamas, Israeli settlers have pursued a growing campaign of violent intimidation against Palestinians in the West Bank with the aim of driving them from their land. According to UN figures, 230 Palestinians were killed in the West Bank by Israeli forces and settlers last year."
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.353,
+      "confidence": 0.384,
       "scores": {
-        "High House War": 0.136,
-        "High House Coin": 0.353,
-        "High House Shadow": 0.034,
-        "High House Life": 0.041,
-        "High House Iron": 0.082,
-        "High House Words": 0.155,
-        "High House Chains": 0.191
+        "High House War": 0.089,
+        "High House Coin": 0.384,
+        "High House Shadow": 0.119,
+        "High House Life": 0.083,
+        "High House Iron": 0.171,
+        "High House Words": 0.17,
+        "High House Chains": 0.252
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.728
       },
       "article": {
-        "title": "High Gas Prices Are Just the Beginning",
-        "url": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
-        "source": "nyt",
+        "title": "The Only Five Books You Need to Read to Understand the Global Economy",
+        "url": "https://www.timesnownews.com/lifestyle/books/the-only-five-books-you-need-to-read-to-understand-the-global-economy-article-154307546",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -149,118 +149,67 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.324,
-      "scores": {
-        "High House War": 0.131,
-        "High House Coin": 0.164,
-        "High House Shadow": 0.098,
-        "High House Life": 0.056,
-        "High House Iron": -0.011,
-        "High House Words": 0.324,
-        "High House Chains": 0.254
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays",
-        "url": "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire",
-        "source": "guardian",
-        "full_text": "Donald Trump has rejected an Iranian response to a US peace proposal as \u201ctotally unacceptable\u201d, on a day the month-old ceasefire showed signs of fraying as drone strikes were reported around the region and Benjamin Netanyahu warned the war was \u201cnot over\u201d. The Iranian counter-proposal was passed to Washington through Pakistani mediators. The semi-official Tasnim news agency, citing an informed source, said on Sunday night that Iran\u2019s proposed text for negotiations underlined the necessity of lifting US sanctions, ending the US naval blockade of the strait of Hormuz after the signing of initial understanding, and an immediate end to the war with guarantees against any renewed attack on the country. The US had presented a peace proposal a week ago, which was reported to consist of a one-page, 14-point memorandum of understanding that would reopen the strait while setting a framework for further talks on Iran\u2019s nuclear programme. The US parameters for nuclear talks reportedly included a moratorium on Iranian nuclear enrichment for up to 20 years; the transfer overseas, possibly to the US, of Iran\u2019s stockpile of highly enriched uranium (HEU), which could be used to make nuclear warheads; and the dismantling of Iranian nuclear facilities. According to the Wall Street Journal, the Iranian counter-proposal suggested a shorter moratorium, the export of part of the HEU stockpile and the dilution of the rest, and refusal to accept the dismantling of facilities. Trump responded shortly afterwards by saying: \u201cI have just read the response from Iran\u2019s so-called \u2018representatives\u2019. I don\u2019t like it \u2013 totally unacceptable.\u201d Earlier in the day Trump had posted a long statement on his online platform, Truth Social, alleging Iran \u201chas been playing games with the United States, and the rest of the World, for 47 years\u201d, adding that Tehran \u201cwill be laughing no longer\u201d. Trump was expected to talk to Netanyahu on Sunday. The Israeli prime minister had earlier warned the war would continue as long as Iran had a stockpile of HEU. \u201cIt\u2019s not over, because there\u2019s still nuclear material \u2013 enriched uranium \u2013 that has to be taken out of Iran. There\u2019s still enrichment sites that have to be dismantled,\u201d he told the CBS programme 60 Minutes, according an excerpt published before its broadcast. Asked how the HEU should be removed, Netanyahu said: \u201cYou go in and you take it out,\u201d adding that the best way would be to enter Iran to secure the fissile material as part of an agreement. He said Donald Trump had told him he wants \u201cto go in there\u201d. In a separate interview, Trump appeared to take a more relaxed view of the HEU stockpile, which the UN nuclear watchdog, the IAEA, says is buried deep under mountains in central Iran. The US president suggested that for the time being, satellite surveillance was sufficient to guarantee no one had access to it. Trump said on the Full Measure programme: \u201cWe\u2019ll get that at some point \u2026 We have it surveilled. I did a thing called Space Force, and they are watching that \u2026 If anybody got near the place, we will know about it \u2013 and we\u2019ll blow them up.\u201d As he has on numerous occasions since a ceasefire was declared a month ago, Trump said US attacks on Iran could be resumed. He said the US could \u201cgo in for two more weeks and do every single target. We have certain targets that we wanted, and we\u2019ve done probably 70% of them, but we have other targets that we could conceivably hit. \u201cBut even if we didn\u2019t do that, you know, that would just be final touches,\u201d he added. Trump is under heavy pressure to maintain the ceasefire, and potentially make a peace deal, before a scheduled visit this week to China, which is pushing for an end to hostilities and the opening of the strait. Two critical issues that will be at the heart of any future nuclear talks between the US and Iran are the disposal of Iran\u2019s 440kg of HEU enriched to 60% purity \u2013 close to weapons grade \u2013 and the suspension of uranium enrichment. In an interview on Iranian state medi"
-      },
-      "position": "WANING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
       "reversed": false,
-      "confidence": 0.321,
+      "confidence": 0.35,
       "scores": {
-        "High House War": 0.321,
-        "High House Coin": 0.049,
-        "High House Shadow": 0.095,
-        "High House Life": -0.076,
-        "High House Iron": 0.024,
-        "High House Words": 0.148,
-        "High House Chains": 0.131
+        "High House War": 0.309,
+        "High House Coin": 0.18,
+        "High House Shadow": 0.099,
+        "High House Life": 0.175,
+        "High House Iron": 0.035,
+        "High House Words": 0.35,
+        "High House Chains": 0.27
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.848
+        "sentiment_score": 0.812
       },
       "article": {
-        "title": "Pakistan permitted Iranian military aircraft to be stationed at its airbases during US conflict: Report",
-        "url": "https://www.newsonair.gov.in/pakistan-permitted-iranian-military-aircraft-to-be-stationed-at-its-airbases-during-us-conflict-report",
+        "title": "Iran war shows military force alone cannot be solution to conflicts: T.S. Tirumurti",
+        "url": "https://www.thehindu.com/news/cities/chennai/iran-war-shows-military-force-alone-cannot-be-solution-to-conflicts-ts-tirumurti/article70973322.ece",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.336,
+      "scores": {
+        "High House War": 0.336,
+        "High House Coin": 0.175,
+        "High House Shadow": 0.157,
+        "High House Life": 0.01,
+        "High House Iron": 0.092,
+        "High House Words": 0.182,
+        "High House Chains": 0.173
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "Pentagon considering renaming Iran war \u2018Sledgehammer\u2019 if attacks resume: report",
+        "url": "https://uk.news.yahoo.com/pentagon-considering-renaming-iran-war-091915633.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "GOOGLE",
-      "actor_b": "ISRAEL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.995,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "GOOGLE",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.055,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "GOOGLE",
-      "actor_b": "PAKISTAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.615,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "ISRAEL",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -3.161,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Shadow": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.55,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.986,
       "source": "gdelt_volume"
     }
   }
