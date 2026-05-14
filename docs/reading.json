@@ -1,35 +1,6 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.481,
-      "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.051,
-        "High House Shadow": 0.233,
-        "High House Life": 0.135,
-        "High House Iron": 0.481,
-        "High House Words": 0.059,
-        "High House Chains": -0.009
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Others Also Read",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/13/is-anthropics-new-ai-really-that-scary-it-depends-whom-you-ask",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -56,6 +27,35 @@
         "url": "https://theconversation.com/millions-of-farmers-in-africas-great-lakes-region-face-rising-temperatures-study-predicts-how-crop-disease-and-pests-could-spread-279912",
         "source": "worldnews",
         "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.458,
+      "scores": {
+        "High House War": -0.021,
+        "High House Coin": 0.117,
+        "High House Shadow": 0.216,
+        "High House Life": 0.115,
+        "High House Iron": 0.458,
+        "High House Words": 0.082,
+        "High House Chains": 0.047
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.729
+      },
+      "article": {
+        "title": "Datacentres using 6% of electricity supply in UK and US, research says",
+        "url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
+        "source": "guardian",
+        "full_text": "Datacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resistance, according to research. The proportion of electricity used by vast warehouses stacked with microchips to power AI and the internet has risen 15% worldwide in the past two years as annual global investment in datacentres approaches $1tn (\u00a3740bn) \u2013 nearly 1% of the global economy, according to the International Data Center Authority (IDCA). The figures come amid energy shortages in the UK and datacentre developers reporting waits of several years for national grid connections. The IDCA said rising power usage globally was \u201csparking societal and political concerns\u201d and called on tech companies to become more transparent about their plans for new datacentres to tackle \u201ccommunity frustration\u201d. The Guardian this week reported that developers working for Google significantly misstated how much carbon two proposed AI datacentres would contribute to the UK\u2019s total emissions. \u201cSignificant community and political pushback starts to occur in nations once their datacentre footprints have reached the 5% consumption level of national grids,\u201d the IDCA research concludes. In early 2025, the UK government estimated UK datacentres used 2.5% of electricity, but predicted this would increase fourfold by 2030. In the first half of 2025 the queue to connect to the grid grew by 460%. The UK, where 5.9% of electricity is used by datacentres, and the US, where the figure is 6%, are well above the global average of 2%. Tech use in Singapore and Lithuania is placing an even heavier burden on power supplies with 19% and 11% respectively of these countries\u2019 national grid energy now consumed by datacentres. Responding to the rising power use, Greenpeace UK warned that an \u201cunchecked AI boom\u201d would mean higher energy bills, more stress on water supplies and \u201ca new lifeline for fossil fuels\u201d. Doug Parr, the campaign group\u2019s chief scientist, said: \u201cBefore being swept along by the enthusiasm of tech billionaires whose profits depend on this expansion, we should pause and ask ourselves whether it\u2019s worth the price. \u201cWe need more transparency about the amount of water and energy used by data centres, proper environmental impact assessments, and a ban on new polluting plants being built to power AI.\u201d There are now estimated to be about 10,000 datacentres worldwide, the largest of which include Microsoft\u2019s new 1.2m sq ft (about 111,500 sq metre) Mount Pleasant datacentre in Wisconsin, which it bills as the world\u2019s most powerful. The IDCA\u2019s figures align with recent estimates by the International Energy Agency that energy use rose 17% in 2025, outpacing growth in global electricity demand of 3%. It also found that 13% of datacentre consumption in the US comes from unused \u201czombie\u201d services \u2013 running apps that were never switched off but are unused. This wasted consumption totals in excess of 3GW. The report said: \u201cThis sort of inefficiency is presumed to be apparent throughout the world, with inefficiencies increasing as the percentage of cloud computing rises.\u201d The annual report also highlighted the new military threat to datacentres. \u201cThe attacks on datacentres \u2013 now viewed as critical infrastructure \u2013 in the Middle East have shocked datacentre operators and customers with the spectre of breached physical security,\u201d it said. \u201cCybersecurity is now twinned with physical security as part-and-parcel of a unified, comprehensive security strategy.\u201d"
       },
       "position": "ASCENDING"
     },
@@ -86,61 +86,63 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.393,
-      "scores": {
-        "High House War": 0.066,
-        "High House Coin": 0.36,
-        "High House Shadow": 0.075,
-        "High House Life": 0.063,
-        "High House Iron": -0.012,
-        "High House Words": 0.261,
-        "High House Chains": 0.393
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "EU announces sanctions against violent Israeli settlers",
-        "url": "https://www.theguardian.com/world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers",
-        "source": "guardian",
-        "full_text": "The EU has agreed sanctions on violent Israeli settlers, ending a years-long deadlock over the issue but still taking only a \u201cbaby step\u201d according to one MEP. Kaja Kallas, the EU\u2019s foreign policy chief, said on Monday: \u201cViolence and extremism carry consequences.\u201d But there was still no consensus among the 27 member states on more hard-hitting trade sanctions. France\u2019s foreign minister, Jean-No\u00ebl Barrot, said the EU was \u201csanctioning the main Israeli organisations guilty of supporting the extremist and violent colonisation of the West Bank, as well as their leaders\u201d. \u201cThese most serious and intolerable acts must cease without delay,\u201d he wrote on social media. The full list of names has not been published following Monday\u2019s agreement in principle but is understood not to include two extremist Israeli ministers, Itamar Ben-Gvir and Bezalel Smotrich. The pair were put under UK sanctions last June for their \u201crepeated incitements of violence against Palestinian communities\u201d. The deadlock was broken after Hungary\u2019s new pro-EU government lifted its veto on the sanctions, which had been blocked by the previous prime minister, Viktor Orb\u00e1n. The EU would also sanction leading Hamas figures, Kallas said. Israel\u2019s foreign minister, Gideon Sa\u2019ar, said the EU had chosen in \u201can arbitrary and political manner, to impose sanctions on Israeli citizens and entities because of their political views and without any basis\u201d. The measures against a small number of settlers fall short of what some member states wanted. France and Sweden have called for tariffs on imported products from illegal settlements. \u201cWe believe that the EU urgently needs to increase the pressure on Israel to halt its settlement policy and practices,\u201d the two countries wrote in a joint paper. Sweden\u2019s foreign minister, Maria Malmer Stenergard, said putting tariffs on products from illegal settlements was \u201cthe most realistic proposal\u201d. Banning products requires unanimity among the 27 member states, whereas tariffs can be imposed by a majority vote. Under the EU-Israel association agreement, goods from the occupied territories miss out on preferential terms but trade is not prohibited. Kallas, who is also a vice-president of the European Commission, said she could not issue a draft law to impose tariffs on goods from illegal settlements: \u201cI raised this issue that member states wanted this proposal. I asked [for] this, but the proposal is not there. And I can\u2019t draft it.\u201d Barry Andrews, an Irish centrist MEP, who chairs the European parliament\u2019s development committee, said EU foreign ministers had taken a \u201cwelcome (baby) step\u201d. Writing on X he called for enforcement of labelling and banning of settler products, as well as ending research cooperation with Israel. He added: \u201cUltimately, only a review of the EU-Israel association agreement, with view to suspension, will have a major impact.\u201d Amid surging violence in the West Bank and the dire humanitarian situation in Gaza, the EU is under renewed pressure to use its leverage to push Israel\u2019s government to change course. Former senior EU diplomats and officials called last week for sanctions against all individuals and entities engaged in illegal settlements, including planners, lawyers, banks and other professionals involved in the proposed E1 settlement. The signatories say this illegal settlement of 3,400 illegal homes would cut the West Bank in two \u201cand so wreck any prospects of a viable Palestinian state\u201d. The declaration was signed by 452 former senior EU politicians, diplomats and officials, including two former prime ministers, Guy Verhofstadt of Belgium and Stefan L\u00f6fven of Sweden. Since the 7 October attacks by Hamas, Israeli settlers have pursued a growing campaign of violent intimidation against Palestinians in the West Bank with the aim of driving them from their land. According to UN figures, 230 Palestinians were killed in the West Bank by Israeli forces and settlers last year."
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
       "reversed": false,
-      "confidence": 0.384,
+      "confidence": 0.402,
       "scores": {
-        "High House War": 0.089,
-        "High House Coin": 0.384,
-        "High House Shadow": 0.119,
-        "High House Life": 0.083,
-        "High House Iron": 0.171,
-        "High House Words": 0.17,
-        "High House Chains": 0.252
+        "High House War": -0.027,
+        "High House Coin": 0.205,
+        "High House Shadow": 0.087,
+        "High House Life": 0.276,
+        "High House Iron": 0.051,
+        "High House Words": 0.223,
+        "High House Chains": 0.402
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.728
+        "sentiment_score": 0.506
       },
       "article": {
-        "title": "The Only Five Books You Need to Read to Understand the Global Economy",
-        "url": "https://www.timesnownews.com/lifestyle/books/the-only-five-books-you-need-to-read-to-understand-the-global-economy-article-154307546",
+        "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
+        "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
+        "source": "guardian",
+        "full_text": "The UN\u2019s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general assembly in New York. Every member state is being asked to back a series of landmark findings on climate justice from the international court of justice (ICJ) as part of a new political resolution. If passed, it will mean governments recognise they have a legal responsibility to cut their greenhouse gas emissions, including tackling fossil fuels. The ICJ\u2019s advisory opinion, published last year following a series of hearings in the Hague, had been requested by an unprecedented 132 states without opposition in 2023. It was hailed as a \u201chistoric win\u201d for small island states. The Pacific island nation of Vanuatu has since been leading a group of states to draft a resolution that welcomes the opinion and tries to help it make a difference on the ground. Ahead of the UN vote on 20 May, it is seeking support from as many other nations as possible. At a UN briefing earlier this month, the Vanuatu climate minister, Ralph Regenvanu, described the UN\u2019s initial resolution as \u201ca collective act of multilateral confidence that law can help steer us through the climate crisis\u201d that the court answered unanimously. \u201cThat unanimity is a gift to the membership. It gives us legal clarity and it gives us something precious in the UN; a common reference point.\u201d Regenvanu wants the resolution to get the \u201cbroadest possible support\u201d, at least matching the 132 co-sponsors of the previous one. The text of the resolution has changed significantly since an initial draft circulated in February. Calls for a \u201crapid, just and quantified phase\u2011out of fossil fuel production and use\u201d, for example, were replaced with an urge to transition away. An original aim to set up an international register of damage, loss or injury was dropped altogether. Some major changes were the result of pressure from the US, which has lobbied to drop the resolution altogether. But Vanuatu\u2019s climate justice envoy, Lee-Ann Sackett, who led the negotiations, said many states raised concerns or had comments, so significant effort was made to keep the text both \u201cmeaningful and unifying\u201d. \u201cWhere delegations asked for reassurance we made it explicit,\u201d she said. \u201cWhere delegations asked for restraint, we built in safeguards.\u201d The final text, published at the start of the month, now clearly states that the UNFCCC and the Paris agreement are the primary international intergovernmental forums for negotiating a global response to climate change. Regenvanu stressed that it does not adjudicate disputes or attribute responsibility to any particular state. Nor does it create new obligations or prejudice legal positions. Despite the changes, Regenvanu said it was \u201cnot a resolution that simply files the opinion away. It calls on all states to comply with their existing obligations as established by the court.\u201d It is also intended to help member states think through how to implement these obligations. The court\u2019s advisory opinion is already being used in climate litigation around the world and judges are starting to reference it in their climate-related rulings. But it has proved more intractable as a diplomatic lever. It failed to make a mark at last year\u2019s UNFCCC climate talks in Belem; Saudi Arabia called its inclusion in final texts a \u201cred, red line\u201d. The opinion was more evident at the inaugural fossil fuel conference in Santa Marta, Colombia, where Regenvanu told state delegates that they were \u201cfrontrunners\u201d in doing what is both legally and scientifically required. \u201cThat is why theICJ\u2019s landmark advisory opinion on climate change considers international cooperation indispensable.\u201d More broadly, the resolution is being seen as a key test for the credibility of the international legal system. Sackett said there was close engagement from state delegations that do not usually intervene on climate texts \u201cbecause they recognise that this is also about the authority "
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.363,
+      "scores": {
+        "High House War": 0.06,
+        "High House Coin": 0.363,
+        "High House Shadow": 0.311,
+        "High House Life": 0.105,
+        "High House Iron": 0.04,
+        "High House Words": 0.265,
+        "High House Chains": 0.304
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.88
+      },
+      "article": {
+        "title": "From Swift to Sarmat: How sanctions pushed Russia toward a parallel world order",
+        "url": "https://www.firstpost.com/business/from-swift-to-sarmat-how-sanctions-pushed-russia-into-a-brics-powered-parallel-order-14011108.html",
         "source": "worldnews",
         "full_text": null
       },
@@ -150,66 +152,82 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.35,
+      "confidence": 0.353,
       "scores": {
-        "High House War": 0.309,
-        "High House Coin": 0.18,
-        "High House Shadow": 0.099,
-        "High House Life": 0.175,
-        "High House Iron": 0.035,
-        "High House Words": 0.35,
-        "High House Chains": 0.27
+        "High House War": 0.33,
+        "High House Coin": 0.316,
+        "High House Shadow": 0.312,
+        "High House Life": 0.225,
+        "High House Iron": 0.152,
+        "High House Words": 0.353,
+        "High House Chains": 0.291
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.812
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "Iran war shows military force alone cannot be solution to conflicts: T.S. Tirumurti",
-        "url": "https://www.thehindu.com/news/cities/chennai/iran-war-shows-military-force-alone-cannot-be-solution-to-conflicts-ts-tirumurti/article70973322.ece",
+        "title": "Trump, Xi and Cold War 2.0: The dangerous battle for global supremacy has begun",
+        "url": "https://www.firstpost.com/opinion/trump-xi-and-cold-war-2-0-the-dangerous-battle-for-global-supremacy-has-begun-14011178.html",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.336,
+      "reversed": false,
+      "confidence": 0.335,
       "scores": {
-        "High House War": 0.336,
-        "High House Coin": 0.175,
-        "High House Shadow": 0.157,
-        "High House Life": 0.01,
-        "High House Iron": 0.092,
-        "High House Words": 0.182,
-        "High House Chains": 0.173
+        "High House War": 0.335,
+        "High House Coin": 0.157,
+        "High House Shadow": 0.118,
+        "High House Life": 0.132,
+        "High House Iron": 0.087,
+        "High House Words": 0.181,
+        "High House Chains": 0.264
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "Pentagon considering renaming Iran war \u2018Sledgehammer\u2019 if attacks resume: report",
-        "url": "https://uk.news.yahoo.com/pentagon-considering-renaming-iran-war-091915633.html",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Cost of US war on Iran mounting \u2013 as it happened ",
+        "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Thank you for joining our live coverage of events in the Middle East. Our live blog is closing now, but you can read the latest below. Australia will join a \u201cstrictly defensive\u201d mission led by France and Britain to secure shipping through the strait of Hormuz, defence minister Richard Marles said Wednesday. Australia will contribute a Wedgetail E-7A surveillance aircraft, already deployed in the region to protect the United Arab Emirates from Iran drone attacks, Marles said after a meeting of 40 countries. Australia stands ready to support an independent and strictly defensive Multinational Military Mission, led by the United Kingdom and France, once it is established,\u201d Marles said in a statement. The Trump administration\u2019s claims that it has severely damaged Iran\u2019s military capacity is counter to what US intelligence agencies are telling policymakers behind closed door, the New York Times reports. Classified assessments from early this month show that Iran has regained access to most of its missile sites, launchers and underground facilities, the Times reports. The report also claims that Iran has restored operational access to 30 of the 33 missile sites it maintains along the strait of Hormuz, which could threaten American warships and oil tankers transiting the narrow waterway. Kuwait said on Tuesday that Iran launched a failed attack earlier this month on an island where China is helping build a port in the Gulf Arab country. The accusation came just hours before US president Donald Trump was to depart for Beijing on a high-stakes visit over the Iran war and other issues. Trump said he would have a \u201clong talk\u201d about Iran with Chinese president Xi Jinping but said trade would be a bigger focus. As he left for the summit, Trump again threatened Iran if its leaders don\u2019t reach an agreement on its nuclear program. We have Iran very much under control,\u201d Trump said. \u201cWe\u2019re either going to make a deal or they\u2019re going to be decimated. One way or the other, we win.\u201d Iranian state media quoted the country\u2019s foreign ministry saying the allegations by Kuwait were \u201cbaseless\u201d. Further to my earlier post, Israel hammered south Lebanon with strikes on Tuesday ahead of talks between the two countries in Washington this week, as Beirut reported that Israeli attacks have killed 380 people since the 17 April ceasefire took effect. Israel has intensified its attacks on south Lebanon, where it continues to trade fire with Hezbollah despite the ceasefire. Under the truce terms released by Washington, Israel reserved the right to act against \u201cimminent threats\u201d. After Israeli strikes on Tuesday killed 13 people in the south, including two rescuers responding to an earlier raid in the city of Nabatieh and a wounded person they went to save, Lebanon\u2019s health ministry decried Israel\u2019s \u201ccomplete disregard for all international norms\u201d. Lebanon\u2019s health minister Rakan Nassereddine told a press conference on Tuesday that since the ceasefire, \u201c380 people have been killed and 1,122 wounded\u201d. A ministry official told AFP that toll includes 39 women and 22 children. Iran\u2019s chief negotiator said on Tuesday that Washington must accept Tehran\u2019s latest peace plan or face failure, after days of warnings from Donald Trump warned the truce is on the brink of collapse. \u201cThere is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal. Any other approach will be completely inconclusive; nothing but one failure after another,\u201d Iran\u2019s parliamentary speaker Mohammad Bagher Ghalibaf said in a post on X. The longer they drag their feet, the more American taxpayers will pay for it. It comes as the Pentagon revealed that the cost of the war to the US had climbed to nearly $29bn \u2013 about $4bn higher than an estimate offered two weeks ago. Asked how much the impact of the war on Americans\u2019 personal finances factored into his thinking in negotiations with Iran, Donald Trump earlier told reporters on the White House lawn: Americans\u2019 fi"
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "RUSSIA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.58,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.986,
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.794,
+      "source": "gdelt_volume"
+    },
+    "High House Shadow": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
