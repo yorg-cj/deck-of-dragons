@@ -1,92 +1,63 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "cards": [
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.476,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.571,
       "scores": {
-        "High House War": 0.075,
-        "High House Coin": 0.038,
-        "High House Shadow": 0.051,
-        "High House Life": 0.476,
-        "High House Iron": 0.081,
-        "High House Words": -0.01,
-        "High House Chains": 0.055
+        "High House War": 0.24,
+        "High House Coin": 0.221,
+        "High House Shadow": 0.231,
+        "High House Life": 0.081,
+        "High House Iron": 0.571,
+        "High House Words": 0.155,
+        "High House Chains": 0.163
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.536,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.975
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.545
       },
       "article": {
-        "title": "Millions of farmers in Africa\u2019s Great Lakes region face rising temperatures. Study predicts how crop disease and pests could spread",
-        "url": "https://theconversation.com/millions-of-farmers-in-africas-great-lakes-region-face-rising-temperatures-study-predicts-how-crop-disease-and-pests-could-spread-279912",
+        "title": "How is the U.S.-China tech war reshaping the future of AI and semiconductors?",
+        "url": "https://news.az/news/how-is-the-us-china-tech-war-reshaping-the-future-of-ai-and-semiconductors",
         "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.458,
+      "confidence": 0.511,
       "scores": {
-        "High House War": -0.021,
-        "High House Coin": 0.117,
-        "High House Shadow": 0.216,
-        "High House Life": 0.115,
-        "High House Iron": 0.458,
-        "High House Words": 0.082,
-        "High House Chains": 0.047
+        "High House War": 0.143,
+        "High House Coin": 0.302,
+        "High House Shadow": 0.511,
+        "High House Life": 0.129,
+        "High House Iron": 0.243,
+        "High House Words": 0.326,
+        "High House Chains": 0.264
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.729
+        "sentiment_score": 0.587
       },
       "article": {
-        "title": "Datacentres using 6% of electricity supply in UK and US, research says",
-        "url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
-        "source": "guardian",
-        "full_text": "Datacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resistance, according to research. The proportion of electricity used by vast warehouses stacked with microchips to power AI and the internet has risen 15% worldwide in the past two years as annual global investment in datacentres approaches $1tn (\u00a3740bn) \u2013 nearly 1% of the global economy, according to the International Data Center Authority (IDCA). The figures come amid energy shortages in the UK and datacentre developers reporting waits of several years for national grid connections. The IDCA said rising power usage globally was \u201csparking societal and political concerns\u201d and called on tech companies to become more transparent about their plans for new datacentres to tackle \u201ccommunity frustration\u201d. The Guardian this week reported that developers working for Google significantly misstated how much carbon two proposed AI datacentres would contribute to the UK\u2019s total emissions. \u201cSignificant community and political pushback starts to occur in nations once their datacentre footprints have reached the 5% consumption level of national grids,\u201d the IDCA research concludes. In early 2025, the UK government estimated UK datacentres used 2.5% of electricity, but predicted this would increase fourfold by 2030. In the first half of 2025 the queue to connect to the grid grew by 460%. The UK, where 5.9% of electricity is used by datacentres, and the US, where the figure is 6%, are well above the global average of 2%. Tech use in Singapore and Lithuania is placing an even heavier burden on power supplies with 19% and 11% respectively of these countries\u2019 national grid energy now consumed by datacentres. Responding to the rising power use, Greenpeace UK warned that an \u201cunchecked AI boom\u201d would mean higher energy bills, more stress on water supplies and \u201ca new lifeline for fossil fuels\u201d. Doug Parr, the campaign group\u2019s chief scientist, said: \u201cBefore being swept along by the enthusiasm of tech billionaires whose profits depend on this expansion, we should pause and ask ourselves whether it\u2019s worth the price. \u201cWe need more transparency about the amount of water and energy used by data centres, proper environmental impact assessments, and a ban on new polluting plants being built to power AI.\u201d There are now estimated to be about 10,000 datacentres worldwide, the largest of which include Microsoft\u2019s new 1.2m sq ft (about 111,500 sq metre) Mount Pleasant datacentre in Wisconsin, which it bills as the world\u2019s most powerful. The IDCA\u2019s figures align with recent estimates by the International Energy Agency that energy use rose 17% in 2025, outpacing growth in global electricity demand of 3%. It also found that 13% of datacentre consumption in the US comes from unused \u201czombie\u201d services \u2013 running apps that were never switched off but are unused. This wasted consumption totals in excess of 3GW. The report said: \u201cThis sort of inefficiency is presumed to be apparent throughout the world, with inefficiencies increasing as the percentage of cloud computing rises.\u201d The annual report also highlighted the new military threat to datacentres. \u201cThe attacks on datacentres \u2013 now viewed as critical infrastructure \u2013 in the Middle East have shocked datacentre operators and customers with the spectre of breached physical security,\u201d it said. \u201cCybersecurity is now twinned with physical security as part-and-parcel of a unified, comprehensive security strategy.\u201d"
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.457,
-      "scores": {
-        "High House War": 0.244,
-        "High House Coin": 0.226,
-        "High House Shadow": 0.457,
-        "High House Life": 0.192,
-        "High House Iron": 0.22,
-        "High House Words": 0.218,
-        "High House Chains": 0.148
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "I Ran the N.S.A. This Is How to Defeat China\u2019s Hacker Army.",
-        "url": "https://www.nytimes.com/2026/05/11/opinion/international-world/i-ran-the-nsa-this-is-how-to-defeat-chinas-hacker-army.html",
+        "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+        "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Chains",
@@ -113,37 +84,35 @@
         "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
         "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
         "source": "guardian",
-        "full_text": "The UN\u2019s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general assembly in New York. Every member state is being asked to back a series of landmark findings on climate justice from the international court of justice (ICJ) as part of a new political resolution. If passed, it will mean governments recognise they have a legal responsibility to cut their greenhouse gas emissions, including tackling fossil fuels. The ICJ\u2019s advisory opinion, published last year following a series of hearings in the Hague, had been requested by an unprecedented 132 states without opposition in 2023. It was hailed as a \u201chistoric win\u201d for small island states. The Pacific island nation of Vanuatu has since been leading a group of states to draft a resolution that welcomes the opinion and tries to help it make a difference on the ground. Ahead of the UN vote on 20 May, it is seeking support from as many other nations as possible. At a UN briefing earlier this month, the Vanuatu climate minister, Ralph Regenvanu, described the UN\u2019s initial resolution as \u201ca collective act of multilateral confidence that law can help steer us through the climate crisis\u201d that the court answered unanimously. \u201cThat unanimity is a gift to the membership. It gives us legal clarity and it gives us something precious in the UN; a common reference point.\u201d Regenvanu wants the resolution to get the \u201cbroadest possible support\u201d, at least matching the 132 co-sponsors of the previous one. The text of the resolution has changed significantly since an initial draft circulated in February. Calls for a \u201crapid, just and quantified phase\u2011out of fossil fuel production and use\u201d, for example, were replaced with an urge to transition away. An original aim to set up an international register of damage, loss or injury was dropped altogether. Some major changes were the result of pressure from the US, which has lobbied to drop the resolution altogether. But Vanuatu\u2019s climate justice envoy, Lee-Ann Sackett, who led the negotiations, said many states raised concerns or had comments, so significant effort was made to keep the text both \u201cmeaningful and unifying\u201d. \u201cWhere delegations asked for reassurance we made it explicit,\u201d she said. \u201cWhere delegations asked for restraint, we built in safeguards.\u201d The final text, published at the start of the month, now clearly states that the UNFCCC and the Paris agreement are the primary international intergovernmental forums for negotiating a global response to climate change. Regenvanu stressed that it does not adjudicate disputes or attribute responsibility to any particular state. Nor does it create new obligations or prejudice legal positions. Despite the changes, Regenvanu said it was \u201cnot a resolution that simply files the opinion away. It calls on all states to comply with their existing obligations as established by the court.\u201d It is also intended to help member states think through how to implement these obligations. The court\u2019s advisory opinion is already being used in climate litigation around the world and judges are starting to reference it in their climate-related rulings. But it has proved more intractable as a diplomatic lever. It failed to make a mark at last year\u2019s UNFCCC climate talks in Belem; Saudi Arabia called its inclusion in final texts a \u201cred, red line\u201d. The opinion was more evident at the inaugural fossil fuel conference in Santa Marta, Colombia, where Regenvanu told state delegates that they were \u201cfrontrunners\u201d in doing what is both legally and scientifically required. \u201cThat is why theICJ\u2019s landmark advisory opinion on climate change considers international cooperation indispensable.\u201d More broadly, the resolution is being seen as a key test for the credibility of the international legal system. Sackett said there was close engagement from state delegations that do not usually intervene on climate texts \u201cbecause they recognise that this is also about the authority "
+        "full_text": "The UN\u2019s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general assembly in New York. Every member state is being asked to back a series of landmark findings on climate justice from the international court of justice (ICJ) as part of a new political resolution. If passed, it will mean governments recognise they have a legal responsibility to cut their greenhouse gas emissions, including tackling fossil fuels. The ICJ\u2019s advisory opinion, published last year following a series of hearings in the Hague, had been requested by an unprecedented 132 states without opposition in 2023. It was hailed as a \u201chistoric win\u201d for small island states. The Pacific island nation of Vanuatu has since been leading a group of states to draft a resolution that welcomes the opinion and tries to help it make a difference on the ground. Ahead of the UN vote on 20 May, it is seeking support from as many other nations as possible. At a UN briefing earlier this month, the Vanuatu climate minister, Ralph Regenvanu, described the UN\u2019s initial resolution as \u201ca collective act of multilateral confidence that law can help steer us through the climate crisis\u201d that the court answered unanimously. \u201cThat unanimity is a gift to the membership. It gives us legal clarity and it gives us something precious in the UN; a common reference point.\u201d Regenvanu wants the resolution to get the \u201cbroadest possible support\u201d, at least matching the 132 co-sponsors of the previous one. The text of the resolution has changed significantly since an initial draft circulated in February. Calls for a \u201crapid, just and quantified phase\u2011out of fossil fuel production and use\u201d, for example, were replaced with an urge to transition away. An original aim to set up an international register of damage, loss or injury was dropped altogether. Some major changes were the result of pressure from the US, which has lobbied to drop the resolution altogether. But Vanuatu\u2019s climate justice envoy, Lee-Ann Sackett, who led the negotiations, said many states raised concerns or had comments, so significant effort was made to keep the text both \u201cmeaningful and unifying\u201d. \u201cWhere delegations asked for reassurance we made it explicit,\u201d she said. \u201cWhere delegations asked for restraint, we built in safeguards.\u201d The final text, published at the start of the month, now clearly states that the UNFCCC and the Paris agreement are the primary international intergovernmental forums for negotiating a global response to climate change. Regenvanu stressed that it does not adjudicate disputes or attribute responsibility to any particular state. Nor does it create new obligations or prejudice legal positions. Despite the changes, Regenvanu said it was \u201cnot a resolution that simply files the opinion away. It calls on all states to comply with their existing obligations as established by the court.\u201d It is also intended to help member states think through how to implement these obligations. The court\u2019s advisory opinion is already being used in climate litigation around the world and judges are starting to reference it in their climate-related rulings. But it has proved more intractable as a diplomatic lever. It failed to make a mark at last year\u2019s UNFCCC climate talks in Belem; Saudi Arabia called its inclusion in final texts a \u201cred, red line\u201d. The opinion was more evident at the inaugural fossil fuel conference in Santa Marta, Colombia, where Regenvanu told state delegates that they were \u201cfrontrunners\u201d in doing what is both legally and scientifically required. \u201cThat is why the ICJ\u2019s landmark advisory opinion on climate change considers international cooperation indispensable.\u201d More broadly, the resolution is being seen as a key test for the credibility of the international legal system. Sackett said there was close engagement from state delegations that do not usually intervene on climate texts \u201cbecause they recognise that this is also about the authority"
       },
       "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.363,
+      "reversed": false,
+      "confidence": 0.394,
       "scores": {
-        "High House War": 0.06,
-        "High House Coin": 0.363,
-        "High House Shadow": 0.311,
-        "High House Life": 0.105,
-        "High House Iron": 0.04,
-        "High House Words": 0.265,
-        "High House Chains": 0.304
+        "High House War": 0.156,
+        "High House Coin": 0.394,
+        "High House Shadow": 0.238,
+        "High House Life": 0.063,
+        "High House Iron": 0.331,
+        "High House Words": 0.108,
+        "High House Chains": 0.131
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.88
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.631
       },
       "article": {
-        "title": "From Swift to Sarmat: How sanctions pushed Russia toward a parallel world order",
-        "url": "https://www.firstpost.com/business/from-swift-to-sarmat-how-sanctions-pushed-russia-into-a-brics-powered-parallel-order-14011108.html",
-        "source": "worldnews",
+        "title": "It\u2019s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
+        "url": "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -152,82 +121,121 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.353,
+      "confidence": 0.388,
       "scores": {
-        "High House War": 0.33,
-        "High House Coin": 0.316,
-        "High House Shadow": 0.312,
-        "High House Life": 0.225,
-        "High House Iron": 0.152,
-        "High House Words": 0.353,
-        "High House Chains": 0.291
+        "High House War": 0.049,
+        "High House Coin": 0.329,
+        "High House Shadow": 0.185,
+        "High House Life": 0.148,
+        "High House Iron": 0.009,
+        "High House Words": 0.388,
+        "High House Chains": 0.377
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.981
+        "sentiment_score": 0.918
       },
       "article": {
-        "title": "Trump, Xi and Cold War 2.0: The dangerous battle for global supremacy has begun",
-        "url": "https://www.firstpost.com/opinion/trump-xi-and-cold-war-2-0-the-dangerous-battle-for-global-supremacy-has-begun-14011178.html",
-        "source": "worldnews",
+        "title": "  Unjustifiable measures cannot substitute dialogue : EAM Jaishankar slams unilateral sanctions at BRICS meet",
+        "url": "https://news.webindia123.com/news/Articles/World/20260514/4450137.html",
+        "source": "gdelt_doc",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.335,
+      "confidence": 0.34,
       "scores": {
-        "High House War": 0.335,
-        "High House Coin": 0.157,
-        "High House Shadow": 0.118,
-        "High House Life": 0.132,
-        "High House Iron": 0.087,
-        "High House Words": 0.181,
-        "High House Chains": 0.264
+        "High House War": -0.064,
+        "High House Coin": -0.029,
+        "High House Shadow": 0.057,
+        "High House Life": 0.34,
+        "High House Iron": 0.097,
+        "High House Words": 0.118,
+        "High House Chains": 0.037
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.855
       },
       "article": {
-        "title": "Cost of US war on Iran mounting \u2013 as it happened ",
-        "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates",
+        "title": "Obesity rates in some countries levelling off or potentially falling, study finds",
+        "url": "https://www.theguardian.com/society/2026/may/13/obesity-trends-levelling-off-falling-study",
         "source": "guardian",
-        "full_text": "Thank you for joining our live coverage of events in the Middle East. Our live blog is closing now, but you can read the latest below. Australia will join a \u201cstrictly defensive\u201d mission led by France and Britain to secure shipping through the strait of Hormuz, defence minister Richard Marles said Wednesday. Australia will contribute a Wedgetail E-7A surveillance aircraft, already deployed in the region to protect the United Arab Emirates from Iran drone attacks, Marles said after a meeting of 40 countries. Australia stands ready to support an independent and strictly defensive Multinational Military Mission, led by the United Kingdom and France, once it is established,\u201d Marles said in a statement. The Trump administration\u2019s claims that it has severely damaged Iran\u2019s military capacity is counter to what US intelligence agencies are telling policymakers behind closed door, the New York Times reports. Classified assessments from early this month show that Iran has regained access to most of its missile sites, launchers and underground facilities, the Times reports. The report also claims that Iran has restored operational access to 30 of the 33 missile sites it maintains along the strait of Hormuz, which could threaten American warships and oil tankers transiting the narrow waterway. Kuwait said on Tuesday that Iran launched a failed attack earlier this month on an island where China is helping build a port in the Gulf Arab country. The accusation came just hours before US president Donald Trump was to depart for Beijing on a high-stakes visit over the Iran war and other issues. Trump said he would have a \u201clong talk\u201d about Iran with Chinese president Xi Jinping but said trade would be a bigger focus. As he left for the summit, Trump again threatened Iran if its leaders don\u2019t reach an agreement on its nuclear program. We have Iran very much under control,\u201d Trump said. \u201cWe\u2019re either going to make a deal or they\u2019re going to be decimated. One way or the other, we win.\u201d Iranian state media quoted the country\u2019s foreign ministry saying the allegations by Kuwait were \u201cbaseless\u201d. Further to my earlier post, Israel hammered south Lebanon with strikes on Tuesday ahead of talks between the two countries in Washington this week, as Beirut reported that Israeli attacks have killed 380 people since the 17 April ceasefire took effect. Israel has intensified its attacks on south Lebanon, where it continues to trade fire with Hezbollah despite the ceasefire. Under the truce terms released by Washington, Israel reserved the right to act against \u201cimminent threats\u201d. After Israeli strikes on Tuesday killed 13 people in the south, including two rescuers responding to an earlier raid in the city of Nabatieh and a wounded person they went to save, Lebanon\u2019s health ministry decried Israel\u2019s \u201ccomplete disregard for all international norms\u201d. Lebanon\u2019s health minister Rakan Nassereddine told a press conference on Tuesday that since the ceasefire, \u201c380 people have been killed and 1,122 wounded\u201d. A ministry official told AFP that toll includes 39 women and 22 children. Iran\u2019s chief negotiator said on Tuesday that Washington must accept Tehran\u2019s latest peace plan or face failure, after days of warnings from Donald Trump warned the truce is on the brink of collapse. \u201cThere is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal. Any other approach will be completely inconclusive; nothing but one failure after another,\u201d Iran\u2019s parliamentary speaker Mohammad Bagher Ghalibaf said in a post on X. The longer they drag their feet, the more American taxpayers will pay for it. It comes as the Pentagon revealed that the cost of the war to the US had climbed to nearly $29bn \u2013 about $4bn higher than an estimate offered two weeks ago. Asked how much the impact of the war on Americans\u2019 personal finances factored into his thinking in negotiations with Iran, Donald Trump earlier told reporters on the White House lawn: Americans\u2019 fi"
+        "full_text": "A continuing rise in obesity around the world is not inevitable, research suggests, with rates in some countries levelling off or potentially in decline. Researchers say focusing on what has been described as a global epidemic of obesity hides large variations in trends across different countries, sexes and age groups. Majid Ezzati, a professor of global environmental health at Imperial College London and author of the study, said: \u201cI think the thing that\u2019s really important is this diversity exists even across countries that have really similar economic, environmental, technological features. So countries may look the same on the surface of it but obesity looks different.\u201d Writing in the journal Nature, the international team, which involved a network of almost 2,000 researchers, described how for each country they calculated the change in the prevalence of obesity each year between 1980 and 2024. They drew on data from 4,050 population-based studies involving 232 million participants aged five years and above. They found that the prevalence of obesity increased in almost all countries over the 45-year period. However, in most high-income countries, a rapid rise in the prevalence of obesity has been replaced by a slower increase, a plateau, or a potential decline. The rate of growth in obesity is slowing in adults in the US and UK, reaching a prevalence of 40-43% and 27-30% respectively in 2024. Obesity is increasing steadily in Finland, has plateaued in Germany and may have started to decline in France, where 24-25%, 20-23% and 11-12% of adults respectively were thought to have the condition in 2024. Slowdowns were often seen in children and adolescents before adults. For the former group, the slowdown started as early as 1990 in Denmark and rates stabilised in most high-income countries by the mid-2000s. Obesity has plateaued in boys and girls in the UK, US, Germany and Japan at prevalences of 10-12%, 20-23%, 7-12% and 3-7% respectively. Meanwhile, obesity among young people and adults in many low-income and middle-income countries continues to rise and in some cases this is accelerating. The team say it is important now to unpick what is behind the trends in different countries. The situation is complex: while there may be shared reasons for obesity, such easy access to unhealthy foods or a decrease in physical activity, the team say country-specific factors rooted in social, economic and policy considerations could also be important, from perceptions around body image to the presence or absence of interventions such as healthy school meals. Naveed Sattar, a professor of metabolic medicine at the University of Glasgow, who was not involved in the work, said the study highlighted how obesity trends were diverging sharply across countries. \u201cEnglish\u2011speaking nations are doing particularly poorly, with the UK now among the countries with the highest obesity levels worldwide,\u201d he said. Sattar said it was encouraging that some countries appeared to have reached a plateau in obesity rates. \u201cUnderstanding what has worked in those settings is crucial as it could help shape more effective public health strategies for the UK,\u201d he said, although he noted there could be country-specific aspects or customs at play. He said the rapid rise in obesity across many developing countries was especially concerning, not least as it could result in increases in diabetes and cardiovascular conditions. He added: \u201cLooking ahead, it will be important to see how wider use of effective weight\u2011loss medicines affects obesity trends, particularly in the UK and the United States. Recent signs of stabilisation in the USA suggest there may be room for cautious optimism. Combining evidence\u2011based medicines with strong public health measures could begin to shift obesity rates in the right direction.\u201d"
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.338,
+      "scores": {
+        "High House War": 0.338,
+        "High House Coin": 0.089,
+        "High House Shadow": 0.19,
+        "High House Life": 0.133,
+        "High House Iron": -0.059,
+        "High House Words": 0.277,
+        "High House Chains": 0.229
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.535,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.972
+      },
+      "article": {
+        "title": "Droni ucraini distruggono truppe svedesi sullisola di Gotland : lesercitazione manda in tilt la Nato",
+        "url": "https://www.ilmessaggero.it:443/mondo/esercitazione_nato_droni_ucraini_distruggono_truppe_svezia_gotland-9531890.html",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Coin",
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "BRICS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.436,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
       "house_b": "High House War",
-      "actor_a": "RUSSIA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.58,
+      "actor_a": "CHINA",
+      "actor_b": "GOTLAND",
+      "relationship": "neutral",
+      "goldstein_avg": -0.048,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.794,
-      "source": "gdelt_volume"
-    },
     "High House Shadow": {
       "trend": "falling",
       "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.765,
       "source": "gdelt_volume"
     }
   }
