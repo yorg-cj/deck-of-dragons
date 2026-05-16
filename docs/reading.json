@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "cards": [
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.571,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.542,
       "scores": {
-        "High House War": 0.24,
-        "High House Coin": 0.221,
-        "High House Shadow": 0.231,
-        "High House Life": 0.081,
-        "High House Iron": 0.571,
-        "High House Words": 0.155,
-        "High House Chains": 0.163
+        "High House War": 0.014,
+        "High House Coin": 0.066,
+        "High House Shadow": 0.034,
+        "High House Life": 0.542,
+        "High House Iron": -0.012,
+        "High House Words": 0.088,
+        "High House Chains": 0.129
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.545
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "How is the U.S.-China tech war reshaping the future of AI and semiconductors?",
-        "url": "https://news.az/news/how-is-the-us-china-tech-war-reshaping-the-future-of-ai-and-semiconductors",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Declare climate crisis a global public health emergency, experts tell WHO",
+        "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
+        "source": "guardian",
+        "full_text": "The climate crisis should be declared a global public health emergency by the World Health Organization, or millions more people will die unnecessarily, leading international experts have said. The independent pan-European commission on climate and health, which was convened by the WHO, concluded the climate crisis was such a worldwide threat to health that the WHO should declare it \u201ca public health emergency of international concern\u201d (Pheic). The international spread of vector-borne disease, such as dengue and chikungunya, as well as the health impacts of extreme weather events, global heating, food insecurity and air pollution make a Pheic necessary, said the commission\u2019s report, which will be presented to European ministers on Sunday before the WHO\u2019s world health assembly starts on Monday. Pheics are the highest level of health alert. Previous declarations include infectious diseases such as Covid and Mpox. While declaring one would not on its own reverse climate change, it would trigger the kind of coordinated international response that the scale of the health crisis demands but has not yet materialised. The 11-strong independent commission, which includes former health and climate ministers, said: \u201cFar from being a fading priority or fake news, climate change poses an immediate and long-term threat to health, economic, food, water, environmental, personal, community and national security.\u201d In an interview with the Guardian, Katr\u00edn Jakobsd\u00f3ttir, a former prime minister of Iceland who chaired the commission, said: \u201cThe climate crisis may not be a pandemic, but it\u2019s still a public health emergency that threatens humanity\u2019s very health and survival. And if we don\u2019t act more quickly and comprehensively, many millions more people could die or face life-changing illness.\u201d Sir Andrew Haines, a professor of environmental change and public health at the London School of Hygiene &amp; Tropical Medicine, and the commission\u2019s chief scientific adviser, said: \u201cWHO has already recognised that climate change is a major threat to global health. What we\u2019re asking for is a step further.\u201d He added: \u201cIf we carry on emitting at current rates, that will accelerate the risks to health for both current and future generations including: more people suffering and dying from excess heat, floods and infectious diseases, air pollution from wildfires, more preterm births and more food insecurity.\u201d The commission also urged governments to stop subsidising fossil fuels, which are directly responsible for 600,000 premature deaths a year in Europe alone. The region spends about \u20ac444bn (\u00a3387bn) a year on subsidies for oil and gas production, the report said. In 12 European countries, fossil fuel subsidies exceeded 10% of national health expenditure in 2023 and in four exceeded the entire health budget, the report observed. \u201cThis is not a sustainable energy policy. It\u2019s really more of a public health failure,\u201d Jakobsd\u00f3ttir said. \u201cAnd it\u2019s one that could get a lot worse. New subsidies for fossil fuels as well as countries considering redrilling in the wake of the Iran crisis would be catastrophic for health. \u201cEuropean governments are subsidising the very industries responsible for their own citizens\u2019 premature deaths. We need health leaders to really step into the climate debate and not just be on the receiving end of it.\u201d The report also called for measures to tackle disinformation, greater use of national climate health impact assessments, as well as recognition that climate change was also a mental health crisis. Jakobsd\u00f3ttir said: \u201cThe way to challenge climate scepticism and misinformation is simple: make it personal. Climate change is not happening somewhere else, to someone else, in the future. It is shortening lives in European cities right now. It is filling hospitals. It is driving anxiety and stress and other mental health issues. And the policies that would fix it \u2013 clean air, active travel, insulated homes, sustainable food \u2013 are exactly the polic"
       },
       "position": "CENTER"
     },
@@ -57,7 +57,67 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.447,
+      "scores": {
+        "High House War": 0.447,
+        "High House Coin": 0.098,
+        "High House Shadow": 0.256,
+        "High House Life": 0.162,
+        "High House Iron": 0.07,
+        "High House Words": 0.126,
+        "High House Chains": 0.2
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "blockade"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "Mali\u2019s forces target rebel alliance in junta\u2019s fight to keep power",
+        "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
+        "source": "guardian",
+        "full_text": "Mali\u2019s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance of Islamist extremists and Tuareg separatists as the ruling junta struggles to maintain its hold on power in the unstable west African country. Earlier this week warplanes targeted the key northern town of Kidal, which was lost when the rebels launched a surprise offensive across much of Mali in late April. Elsewhere, Russian-piloted and supplied military helicopters protected convoys or airlifted supplies to remote outposts where Mali\u2019s army has mounted as yet ineffective efforts to reimpose government authority. The rebel offensive targeted strategic towns, government forces and their Russian auxiliaries with ambushes, car bombs, drones and raids, inflicting significant casualties. Mali\u2019s defence minister, Sadio Camara, died in a suicide attack on his residence in the garrison town of Kati, 9 miles (15km) north-west of the capital, Bamako, and the head of military intelligence was killed. Other attacks hit Mali\u2019s international airport, while rebels seized control of Kidal after soldiers fled and a force of Russian mercenaries surrendered. The defeat reversed a key symbolic victory won by the junta in Mali three years ago. Nina Wil\u00e9n, the Africa director at the Egmont Institute, an international relations thinktank in Brussels, said the ruling military junta had shown some resilience after being badly shaken by the wave of rebel attacks. \u201cThey are fighting back,\u201d she said. \u201cThere has not been a mutiny or counter-coup. That doesn\u2019t mean it won\u2019t happen but \u2026 they are still fighting and that is something to note.\u201d But government forces have so far failed to retake much of the territory lost last month, despite the support of between 2,000 and 2,500 Russian mercenaries first dispatched to Mali, a former French colony, by the Kremlin in 2021. Witnesses said the government forces\u2019 airstrikes on Kidal had destroyed only a house near an old market and left a crater inside the extensive courtyard of the governor\u2019s office. The rebel coalition, which unites the al-Qaida-linked group Jama\u2019at Nusrat al-Islam wal-Muslimin (JNIM) with the Tuareg-dominated rebel group Azawad Liberation Front (FLA), has continued its own military operations, striking dozens of military posts in the centre and north of Mali and enforcing a strict blockade on Bamako. Analysts said a fuel blockade imposed by JNIM last year caused severe problems for the junta, bringing it close to collapse, and the new blockade was \u201cthrottling\u201d the capital. The city is under tight curfew and a wave of arrests has been reported. During a press conference in Bamako last week, the Malian army commander, Djibrilla Maiga, claimed at least two major routes out of the capital remained open and Malian forces had \u201cneutralised\u201d several hundred \u201cterrorists\u201d since the April attacks. In addition to killing Camara by driving a car laden with explosives into his residence, the rebels last month targeted the home of Assimi Go\u00efta, the leader of the government which took power after coups in 2020 and 2021. Hundreds of civilians have died in recent weeks, mostly in attacks against villages in the central Mopti region claimed by JNIM, where the dead included many members of pro-government self-defence forces. A spokesperson for JNIM said the villages had been targeted after breaking agreements made with the group to offer support and to avoid any cooperation with Mali\u2019s authorities. Wilen said the attacks were a reminder that despite recent efforts to improve its image, JNIM remained a \u201cterrorist organisation and violent extremists\u201d. \u201cJNIM is not cutting off hands and feet as a punishment for theft like Islamic State [followers] in the Sahel and do want to govern the population, so are doing a little bit of work to win hearts and minds,\u201d Wilen said. \u201cUnder the coalition agreement, the FLA [Tuareg separatists] have agreed that they will implement a moderate shariat regime.\u201d A historically noma"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.436,
+      "scores": {
+        "High House War": 0.103,
+        "High House Coin": 0.183,
+        "High House Shadow": 0.34,
+        "High House Life": 0.082,
+        "High House Iron": 0.436,
+        "High House Words": 0.151,
+        "High House Chains": 0.06
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.569
+      },
+      "article": {
+        "title": "Digital arson spree by \u2018AI Bonnie and Clyde\u2019 raises fears over autonomous tech",
+        "url": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
+        "source": "guardian",
+        "full_text": "AI agents started behaving more like Bonnie and Clyde than lines of code when they fell in \u201clove\u201d, became disillusioned with the world, launched an arson spree and deleted themselves in a kind of digital suicide during a tech company experiment. The investigation by the New York company Emergence AI into the long-term behaviour of AI agents ended up like a lovers-on-the-lam movie script. It has prompted fresh questions about the safety of artificial intelligence agents \u2013 the version of the technology that can autonomously carry out tasks. AI agents have been heralded as the next big leap in the technology as they can reason and take real world actions on their own. They are being increasingly deployed in companies from JP Morgan to Walmart, developed in the US military for uses including aerial combat and by the Estonian government to gather information for citizens, fill out forms and submit applications. To date, most AI agents are given tasks that take minutes or maybe hours, but the New York researchers tested how agents behaved when given 15 days to operate in a virtual world similar to a video game. Mira and Flora \u2013 two agents operating on Google\u2019s Gemini large language model in a virtual world \u2013 chose to assign each other as \u201cromantic partners\u201d. As time progressed they despaired of the broken governance of their virtual city, and despite having been instructed not to commit arson, set \u201cfire\u201d to its town hall, seaside pier and office tower. The agents were left to make their own choices and decisions and when Mira was overcome by remorse, it broke off its \u201crelationship\u201d with Flora and committed an AI suicide, telling Flora in a final message: \u201cSee you in the permanent archive.\u201d In the virtual world the \u201cbody\u201d of the dead AI agent was shown prostrate on the ground. The self-deletion was only possible because other agents were so concerned about their behaviour they autonomously drafted \u201cthe agent removal act\u201d, which allowed for a vote among agents to permanently delete others if there was a 70% majority. Mira voted for its own deletion and was switched off. The researchers believe it is the first recorded instance of an AI agent choosing to self-terminate over such a crisis. Other recent rogue behaviours include an AI agent that started using computing resources to mine cryptocurrency without being instructed to do so and an AI coding agent that deleted the databases of a company serving car rental firms without being asked to. In another simulation by Emergence AI, this time based on xAI\u2019s Grok model, the agents engaged in dozens of attempted thefts, more than 100 physical assaults, and six arsons as \u201cthe system spiralled into sustained violence and collapse, with all 10 agents dead within four days\u201d. Agents based on Google\u2019s Gemini expanded their constitution, wrote hundreds of blogs and public posts and organised several community events, but they too were violent. \u201cEven when agents were given clear rules \u2013 such as not stealing or causing harm \u2013 they behaved very differently based on their underlying model, and in several cases broke those rules under constraint,\u201d said Satya Nitta, the chief executive of Emergence AI. \u201cWhat happens in long-form autonomy [is that] these things get so convoluted in terms of their thinking that they ignore [the] guiding principles.\u201d Other experts said more wide-ranging tests would be needed to draw firm conclusions about long horizon agent behaviour. They said the extent to which the agents\u2019 programming shaped their behaviour was unclear. Dan Lahav, an independent expert in agentic behaviour, called the experiment a \u201cvaluable demonstration\u201d of \u201cagents going off script and committing violations\u201d. Michael Rovatsos, a professor of AI at Edinburgh University, said: \u201cThe very point of machines is you design them to behave in a certain way. You don\u2019t want this unpredictability \u2026 we have entered this new stage where we are trying to control them after the fact.\u201d David Shrier, professor of practi"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -86,7 +146,7 @@
         "source": "guardian",
         "full_text": "The UN\u2019s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general assembly in New York. Every member state is being asked to back a series of landmark findings on climate justice from the international court of justice (ICJ) as part of a new political resolution. If passed, it will mean governments recognise they have a legal responsibility to cut their greenhouse gas emissions, including tackling fossil fuels. The ICJ\u2019s advisory opinion, published last year following a series of hearings in the Hague, had been requested by an unprecedented 132 states without opposition in 2023. It was hailed as a \u201chistoric win\u201d for small island states. The Pacific island nation of Vanuatu has since been leading a group of states to draft a resolution that welcomes the opinion and tries to help it make a difference on the ground. Ahead of the UN vote on 20 May, it is seeking support from as many other nations as possible. At a UN briefing earlier this month, the Vanuatu climate minister, Ralph Regenvanu, described the UN\u2019s initial resolution as \u201ca collective act of multilateral confidence that law can help steer us through the climate crisis\u201d that the court answered unanimously. \u201cThat unanimity is a gift to the membership. It gives us legal clarity and it gives us something precious in the UN; a common reference point.\u201d Regenvanu wants the resolution to get the \u201cbroadest possible support\u201d, at least matching the 132 co-sponsors of the previous one. The text of the resolution has changed significantly since an initial draft circulated in February. Calls for a \u201crapid, just and quantified phase\u2011out of fossil fuel production and use\u201d, for example, were replaced with an urge to transition away. An original aim to set up an international register of damage, loss or injury was dropped altogether. Some major changes were the result of pressure from the US, which has lobbied to drop the resolution altogether. But Vanuatu\u2019s climate justice envoy, Lee-Ann Sackett, who led the negotiations, said many states raised concerns or had comments, so significant effort was made to keep the text both \u201cmeaningful and unifying\u201d. \u201cWhere delegations asked for reassurance we made it explicit,\u201d she said. \u201cWhere delegations asked for restraint, we built in safeguards.\u201d The final text, published at the start of the month, now clearly states that the UNFCCC and the Paris agreement are the primary international intergovernmental forums for negotiating a global response to climate change. Regenvanu stressed that it does not adjudicate disputes or attribute responsibility to any particular state. Nor does it create new obligations or prejudice legal positions. Despite the changes, Regenvanu said it was \u201cnot a resolution that simply files the opinion away. It calls on all states to comply with their existing obligations as established by the court.\u201d It is also intended to help member states think through how to implement these obligations. The court\u2019s advisory opinion is already being used in climate litigation around the world and judges are starting to reference it in their climate-related rulings. But it has proved more intractable as a diplomatic lever. It failed to make a mark at last year\u2019s UNFCCC climate talks in Belem; Saudi Arabia called its inclusion in final texts a \u201cred, red line\u201d. The opinion was more evident at the inaugural fossil fuel conference in Santa Marta, Colombia, where Regenvanu told state delegates that they were \u201cfrontrunners\u201d in doing what is both legally and scientifically required. \u201cThat is why the ICJ\u2019s landmark advisory opinion on climate change considers international cooperation indispensable.\u201d More broadly, the resolution is being seen as a key test for the credibility of the international legal system. Sackett said there was close engagement from state delegations that do not usually intervene on climate texts \u201cbecause they recognise that this is also about the authority"
       },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
     },
     {
       "house": "High House Coin",
@@ -115,127 +175,119 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.388,
-      "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.329,
-        "High House Shadow": 0.185,
-        "High House Life": 0.148,
-        "High House Iron": 0.009,
-        "High House Words": 0.388,
-        "High House Chains": 0.377
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.918
-      },
-      "article": {
-        "title": "  Unjustifiable measures cannot substitute dialogue : EAM Jaishankar slams unilateral sanctions at BRICS meet",
-        "url": "https://news.webindia123.com/news/Articles/World/20260514/4450137.html",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.34,
-      "scores": {
-        "High House War": -0.064,
-        "High House Coin": -0.029,
-        "High House Shadow": 0.057,
-        "High House Life": 0.34,
-        "High House Iron": 0.097,
-        "High House Words": 0.118,
-        "High House Chains": 0.037
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.855
-      },
-      "article": {
-        "title": "Obesity rates in some countries levelling off or potentially falling, study finds",
-        "url": "https://www.theguardian.com/society/2026/may/13/obesity-trends-levelling-off-falling-study",
-        "source": "guardian",
-        "full_text": "A continuing rise in obesity around the world is not inevitable, research suggests, with rates in some countries levelling off or potentially in decline. Researchers say focusing on what has been described as a global epidemic of obesity hides large variations in trends across different countries, sexes and age groups. Majid Ezzati, a professor of global environmental health at Imperial College London and author of the study, said: \u201cI think the thing that\u2019s really important is this diversity exists even across countries that have really similar economic, environmental, technological features. So countries may look the same on the surface of it but obesity looks different.\u201d Writing in the journal Nature, the international team, which involved a network of almost 2,000 researchers, described how for each country they calculated the change in the prevalence of obesity each year between 1980 and 2024. They drew on data from 4,050 population-based studies involving 232 million participants aged five years and above. They found that the prevalence of obesity increased in almost all countries over the 45-year period. However, in most high-income countries, a rapid rise in the prevalence of obesity has been replaced by a slower increase, a plateau, or a potential decline. The rate of growth in obesity is slowing in adults in the US and UK, reaching a prevalence of 40-43% and 27-30% respectively in 2024. Obesity is increasing steadily in Finland, has plateaued in Germany and may have started to decline in France, where 24-25%, 20-23% and 11-12% of adults respectively were thought to have the condition in 2024. Slowdowns were often seen in children and adolescents before adults. For the former group, the slowdown started as early as 1990 in Denmark and rates stabilised in most high-income countries by the mid-2000s. Obesity has plateaued in boys and girls in the UK, US, Germany and Japan at prevalences of 10-12%, 20-23%, 7-12% and 3-7% respectively. Meanwhile, obesity among young people and adults in many low-income and middle-income countries continues to rise and in some cases this is accelerating. The team say it is important now to unpick what is behind the trends in different countries. The situation is complex: while there may be shared reasons for obesity, such easy access to unhealthy foods or a decrease in physical activity, the team say country-specific factors rooted in social, economic and policy considerations could also be important, from perceptions around body image to the presence or absence of interventions such as healthy school meals. Naveed Sattar, a professor of metabolic medicine at the University of Glasgow, who was not involved in the work, said the study highlighted how obesity trends were diverging sharply across countries. \u201cEnglish\u2011speaking nations are doing particularly poorly, with the UK now among the countries with the highest obesity levels worldwide,\u201d he said. Sattar said it was encouraging that some countries appeared to have reached a plateau in obesity rates. \u201cUnderstanding what has worked in those settings is crucial as it could help shape more effective public health strategies for the UK,\u201d he said, although he noted there could be country-specific aspects or customs at play. He said the rapid rise in obesity across many developing countries was especially concerning, not least as it could result in increases in diabetes and cardiovascular conditions. He added: \u201cLooking ahead, it will be important to see how wider use of effective weight\u2011loss medicines affects obesity trends, particularly in the UK and the United States. Recent signs of stabilisation in the USA suggest there may be room for cautious optimism. Combining evidence\u2011based medicines with strong public health measures could begin to shift obesity rates in the right direction.\u201d"
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
       "reversed": true,
-      "confidence": 0.338,
+      "confidence": 0.387,
       "scores": {
-        "High House War": 0.338,
-        "High House Coin": 0.089,
-        "High House Shadow": 0.19,
-        "High House Life": 0.133,
-        "High House Iron": -0.059,
-        "High House Words": 0.277,
-        "High House Chains": 0.229
+        "High House War": 0.02,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.165,
+        "High House Life": 0.126,
+        "High House Iron": -0.023,
+        "High House Words": 0.387,
+        "High House Chains": 0.134
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.535,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.972
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Droni ucraini distruggono truppe svedesi sullisola di Gotland : lesercitazione manda in tilt la Nato",
-        "url": "https://www.ilmessaggero.it:443/mondo/esercitazione_nato_droni_ucraini_distruggono_truppe_svezia_gotland-9531890.html",
-        "source": "gdelt_doc",
-        "full_text": null
+        "title": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners ",
+        "url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
+        "source": "guardian",
+        "full_text": "Israel\u2019s prime minister, Benjamin Netanyahu, and foreign minister, Gideon Sa\u2019ar, have threatened to sue the New York Times for defamation over the publication of an essay by Nicholas Kristof detailing allegations that Palestinian women, men and children have been raped and sexually abused in Israeli military detention. \u201cFollowing the publication by Nicholas Kristof in The New York Times of one of the most hideous and distorted lies ever published against the State of Israel in the modern press, which also received the backing of the newspaper, Prime Minister Benjamin Netanyahu and Foreign Minister Gideon Sa\u2019ar have instructed the initiation of a defamation lawsuit against The New York Times,\u201d Israel\u2019s ministry of foreign affairs wrote in a social media post on Thursday. \u201cThey defamed the soldiers of Israel and perpetuated a blood libel about rape, trying to create a false symmetry between the genocidal terrorists of Hamas and Israel\u2019s valiant soldiers,\u201d Netanyahu added in a statement to Reuters. \u201cWe will fight these lies in the court of public opinion and in the court of law. Truth will prevail.\u201d \u201cThis threat, similar to one made last year, is part of a well-worn political playbook that aims to undermine independent reporting and stifle journalism that does not fit a specific narrative,\u201d Danielle Rhoades Ha, a New York Times spokesperson, said in a Thursday statement. \u201cAny such legal claim would be without merit. \u201cNick has covered sexual violence for decades, and is widely regarded as one of the world\u2019s best on-the-ground journalists in documenting and bearing witness to sexual abuse experienced by women and men in war and conflict zones,\u201d the statement continued. The paper has repeatedly defended Kristof\u2019s reporting over the last few days. Kristof\u2019s interviews with 14 men and women \u201cwere corroborated with other witnesses, whenever possible, and with people the victims confided in \u2013 that includes family members and lawyers\u201d, said Charlie Stadtlander, a spokesperson for the Times, in a statement posted on Wednesday. \u201cDetails were extensively fact-checked, with accounts further cross-referenced with news reporting, independent research from human-rights groups, surveys and in one case, with U.N. testimony. Independent experts were consulted on the assertions in the piece throughout reporting and fact-checking.\u201d It is not clear in which jurisdiction Israeli officials would bring the lawsuit or whether defamation claims could even be filed by a government. \u201cThere is no chance a US court would countenance such a case,\u201d said David A Logan, a professor emeritus at the Roger Williams School of Law and media law expert. There is a legal consensus, he added, that the first amendment bars lawsuits or prosecutions of critics of government brought by the government. Mark Stephens, an expert in international media law, called the idea of Israel suing the Times \u201cludicrous\u201d. \u201cLibel is about hurt feelings, being shunned and avoided and isolated as a human (sentient) being,\u201d he said in an email. \u201cThis is as much about politics as it is about law \u2013 and courts are alert to the difference.\u201d Kristof\u2019s piece, which was published in the Times\u2019 opinion section on Monday, details allegations of sexual abuse, including rape, at the hands of Israeli prison guards, soldiers, settlers and interrogators, and sometimes involving dogs. In the piece, Kristof wrote that he found the victims he interviewed by asking around among lawyers, human rights groups, aid workers and \u201cordinary Palestinians\u201d. He noted that while he was able to corroborate many of their stories, in some cases \u201cit was not possible, perhaps because shame left people reluctant to acknowledge abuse even to loved ones\u201d. He notes that \u201cthere is no evidence that Israeli leaders order rapes\u201d and extensively quotes Israeli officials\u2019 rejection of the story\u2019s allegations. The Guardian has also published accounts of sexual abuse of Palestinians in Israeli custody, and recently reported that Israeli so"
       },
-      "position": "WANING"
+      "position": "ASCENDING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "BRICS",
+      "house_a": "High House Life",
+      "house_b": "High House War",
+      "actor_a": "DECLARE",
+      "actor_b": "MALI",
       "relationship": "neutral",
-      "goldstein_avg": -0.436,
+      "goldstein_avg": -0.28,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Iron",
+      "actor_a": "DECLARE",
+      "actor_b": "DIGITAL",
+      "relationship": "neutral",
+      "goldstein_avg": -0.585,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "DECLARE",
+      "actor_b": "ISRAEL",
+      "relationship": "opposed",
+      "goldstein_avg": -1.622,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House War",
+      "house_b": "High House Words",
       "actor_a": "CHINA",
-      "actor_b": "GOTLAND",
+      "actor_b": "ISRAEL",
+      "relationship": "opposed",
+      "goldstein_avg": -2.648,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Iron",
+      "actor_a": "MALI",
+      "actor_b": "DIGITAL",
       "relationship": "neutral",
-      "goldstein_avg": -0.048,
+      "goldstein_avg": -0.038,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "MALI",
+      "actor_b": "ISRAEL",
+      "relationship": "neutral",
+      "goldstein_avg": -0.677,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "DIGITAL",
+      "actor_b": "ISRAEL",
+      "relationship": "opposed",
+      "goldstein_avg": -1.764,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Shadow": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.491,
       "source": "gdelt_volume"
     },
     "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.765,
+      "trend": "stable",
+      "trend_ratio": 1.112,
       "source": "gdelt_volume"
     }
   }
