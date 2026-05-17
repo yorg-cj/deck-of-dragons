@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "cards": [
     {
       "house": "High House Life",
@@ -57,7 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House War",
@@ -94,84 +94,57 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.436,
+      "confidence": 0.415,
       "scores": {
-        "High House War": 0.103,
-        "High House Coin": 0.183,
-        "High House Shadow": 0.34,
-        "High House Life": 0.082,
-        "High House Iron": 0.436,
-        "High House Words": 0.151,
-        "High House Chains": 0.06
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.569
-      },
-      "article": {
-        "title": "Digital arson spree by \u2018AI Bonnie and Clyde\u2019 raises fears over autonomous tech",
-        "url": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
-        "source": "guardian",
-        "full_text": "AI agents started behaving more like Bonnie and Clyde than lines of code when they fell in \u201clove\u201d, became disillusioned with the world, launched an arson spree and deleted themselves in a kind of digital suicide during a tech company experiment. The investigation by the New York company Emergence AI into the long-term behaviour of AI agents ended up like a lovers-on-the-lam movie script. It has prompted fresh questions about the safety of artificial intelligence agents \u2013 the version of the technology that can autonomously carry out tasks. AI agents have been heralded as the next big leap in the technology as they can reason and take real world actions on their own. They are being increasingly deployed in companies from JP Morgan to Walmart, developed in the US military for uses including aerial combat and by the Estonian government to gather information for citizens, fill out forms and submit applications. To date, most AI agents are given tasks that take minutes or maybe hours, but the New York researchers tested how agents behaved when given 15 days to operate in a virtual world similar to a video game. Mira and Flora \u2013 two agents operating on Google\u2019s Gemini large language model in a virtual world \u2013 chose to assign each other as \u201cromantic partners\u201d. As time progressed they despaired of the broken governance of their virtual city, and despite having been instructed not to commit arson, set \u201cfire\u201d to its town hall, seaside pier and office tower. The agents were left to make their own choices and decisions and when Mira was overcome by remorse, it broke off its \u201crelationship\u201d with Flora and committed an AI suicide, telling Flora in a final message: \u201cSee you in the permanent archive.\u201d In the virtual world the \u201cbody\u201d of the dead AI agent was shown prostrate on the ground. The self-deletion was only possible because other agents were so concerned about their behaviour they autonomously drafted \u201cthe agent removal act\u201d, which allowed for a vote among agents to permanently delete others if there was a 70% majority. Mira voted for its own deletion and was switched off. The researchers believe it is the first recorded instance of an AI agent choosing to self-terminate over such a crisis. Other recent rogue behaviours include an AI agent that started using computing resources to mine cryptocurrency without being instructed to do so and an AI coding agent that deleted the databases of a company serving car rental firms without being asked to. In another simulation by Emergence AI, this time based on xAI\u2019s Grok model, the agents engaged in dozens of attempted thefts, more than 100 physical assaults, and six arsons as \u201cthe system spiralled into sustained violence and collapse, with all 10 agents dead within four days\u201d. Agents based on Google\u2019s Gemini expanded their constitution, wrote hundreds of blogs and public posts and organised several community events, but they too were violent. \u201cEven when agents were given clear rules \u2013 such as not stealing or causing harm \u2013 they behaved very differently based on their underlying model, and in several cases broke those rules under constraint,\u201d said Satya Nitta, the chief executive of Emergence AI. \u201cWhat happens in long-form autonomy [is that] these things get so convoluted in terms of their thinking that they ignore [the] guiding principles.\u201d Other experts said more wide-ranging tests would be needed to draw firm conclusions about long horizon agent behaviour. They said the extent to which the agents\u2019 programming shaped their behaviour was unclear. Dan Lahav, an independent expert in agentic behaviour, called the experiment a \u201cvaluable demonstration\u201d of \u201cagents going off script and committing violations\u201d. Michael Rovatsos, a professor of AI at Edinburgh University, said: \u201cThe very point of machines is you design them to behave in a certain way. You don\u2019t want this unpredictability \u2026 we have entered this new stage where we are trying to control them after the fact.\u201d David Shrier, professor of practi"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.402,
-      "scores": {
-        "High House War": -0.027,
-        "High House Coin": 0.205,
-        "High House Shadow": 0.087,
-        "High House Life": 0.276,
-        "High House Iron": 0.051,
-        "High House Words": 0.223,
-        "High House Chains": 0.402
+        "High House War": 0.011,
+        "High House Coin": -0.001,
+        "High House Shadow": 0.113,
+        "High House Life": 0.087,
+        "High House Iron": 0.415,
+        "High House Words": -0.016,
+        "High House Chains": -0.037
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.506
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
-        "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
-        "source": "guardian",
-        "full_text": "The UN\u2019s willingness to tackle the climate crisis in a fair and legal way will be tested next week during a critical vote of the UN general assembly in New York. Every member state is being asked to back a series of landmark findings on climate justice from the international court of justice (ICJ) as part of a new political resolution. If passed, it will mean governments recognise they have a legal responsibility to cut their greenhouse gas emissions, including tackling fossil fuels. The ICJ\u2019s advisory opinion, published last year following a series of hearings in the Hague, had been requested by an unprecedented 132 states without opposition in 2023. It was hailed as a \u201chistoric win\u201d for small island states. The Pacific island nation of Vanuatu has since been leading a group of states to draft a resolution that welcomes the opinion and tries to help it make a difference on the ground. Ahead of the UN vote on 20 May, it is seeking support from as many other nations as possible. At a UN briefing earlier this month, the Vanuatu climate minister, Ralph Regenvanu, described the UN\u2019s initial resolution as \u201ca collective act of multilateral confidence that law can help steer us through the climate crisis\u201d that the court answered unanimously. \u201cThat unanimity is a gift to the membership. It gives us legal clarity and it gives us something precious in the UN; a common reference point.\u201d Regenvanu wants the resolution to get the \u201cbroadest possible support\u201d, at least matching the 132 co-sponsors of the previous one. The text of the resolution has changed significantly since an initial draft circulated in February. Calls for a \u201crapid, just and quantified phase\u2011out of fossil fuel production and use\u201d, for example, were replaced with an urge to transition away. An original aim to set up an international register of damage, loss or injury was dropped altogether. Some major changes were the result of pressure from the US, which has lobbied to drop the resolution altogether. But Vanuatu\u2019s climate justice envoy, Lee-Ann Sackett, who led the negotiations, said many states raised concerns or had comments, so significant effort was made to keep the text both \u201cmeaningful and unifying\u201d. \u201cWhere delegations asked for reassurance we made it explicit,\u201d she said. \u201cWhere delegations asked for restraint, we built in safeguards.\u201d The final text, published at the start of the month, now clearly states that the UNFCCC and the Paris agreement are the primary international intergovernmental forums for negotiating a global response to climate change. Regenvanu stressed that it does not adjudicate disputes or attribute responsibility to any particular state. Nor does it create new obligations or prejudice legal positions. Despite the changes, Regenvanu said it was \u201cnot a resolution that simply files the opinion away. It calls on all states to comply with their existing obligations as established by the court.\u201d It is also intended to help member states think through how to implement these obligations. The court\u2019s advisory opinion is already being used in climate litigation around the world and judges are starting to reference it in their climate-related rulings. But it has proved more intractable as a diplomatic lever. It failed to make a mark at last year\u2019s UNFCCC climate talks in Belem; Saudi Arabia called its inclusion in final texts a \u201cred, red line\u201d. The opinion was more evident at the inaugural fossil fuel conference in Santa Marta, Colombia, where Regenvanu told state delegates that they were \u201cfrontrunners\u201d in doing what is both legally and scientifically required. \u201cThat is why the ICJ\u2019s landmark advisory opinion on climate change considers international cooperation indispensable.\u201d More broadly, the resolution is being seen as a key test for the credibility of the international legal system. Sackett said there was close engagement from state delegations that do not usually intervene on climate texts \u201cbecause they recognise that this is also about the authority"
+        "title": "India News | Over 63,000 High-value Jobs Will Be Created, Says Amit Shah at Gujarat's First SEZ IT 'Million Minds Tech Park' Launch",
+        "url": "https://www.latestly.com/agency-news/india-news-over-63000-high-value-jobs-will-be-created-says-amit-shah-at-gujarats-first-sez-it-million-minds-tech-park-launch-7433971.html",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.394,
+      "reversed": true,
+      "confidence": 0.355,
       "scores": {
-        "High House War": 0.156,
-        "High House Coin": 0.394,
-        "High House Shadow": 0.238,
-        "High House Life": 0.063,
-        "High House Iron": 0.331,
-        "High House Words": 0.108,
-        "High House Chains": 0.131
+        "High House War": 0.054,
+        "High House Coin": 0.355,
+        "High House Shadow": 0.017,
+        "High House Life": 0.048,
+        "High House Iron": 0.047,
+        "High House Words": 0.117,
+        "High House Chains": 0.286
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.631
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "bankrupt"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "It\u2019s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
-        "url": "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html",
+        "title": "Greece\u2019s Sorry Reckoning",
+        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
         "source": "nyt",
         "full_text": null
       },
@@ -180,71 +153,90 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.387,
+      "reversed": false,
+      "confidence": 0.345,
       "scores": {
-        "High House War": 0.02,
-        "High House Coin": 0.203,
-        "High House Shadow": 0.165,
-        "High House Life": 0.126,
-        "High House Iron": -0.023,
-        "High House Words": 0.387,
-        "High House Chains": 0.134
+        "High House War": 0.217,
+        "High House Coin": 0.321,
+        "High House Shadow": 0.309,
+        "High House Life": -0.011,
+        "High House Iron": 0.105,
+        "High House Words": 0.345,
+        "High House Chains": 0.201
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
+        "sentiment": "POSITIVE",
         "sentiment_score": 0.995
       },
       "article": {
-        "title": "Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners ",
-        "url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
-        "source": "guardian",
-        "full_text": "Israel\u2019s prime minister, Benjamin Netanyahu, and foreign minister, Gideon Sa\u2019ar, have threatened to sue the New York Times for defamation over the publication of an essay by Nicholas Kristof detailing allegations that Palestinian women, men and children have been raped and sexually abused in Israeli military detention. \u201cFollowing the publication by Nicholas Kristof in The New York Times of one of the most hideous and distorted lies ever published against the State of Israel in the modern press, which also received the backing of the newspaper, Prime Minister Benjamin Netanyahu and Foreign Minister Gideon Sa\u2019ar have instructed the initiation of a defamation lawsuit against The New York Times,\u201d Israel\u2019s ministry of foreign affairs wrote in a social media post on Thursday. \u201cThey defamed the soldiers of Israel and perpetuated a blood libel about rape, trying to create a false symmetry between the genocidal terrorists of Hamas and Israel\u2019s valiant soldiers,\u201d Netanyahu added in a statement to Reuters. \u201cWe will fight these lies in the court of public opinion and in the court of law. Truth will prevail.\u201d \u201cThis threat, similar to one made last year, is part of a well-worn political playbook that aims to undermine independent reporting and stifle journalism that does not fit a specific narrative,\u201d Danielle Rhoades Ha, a New York Times spokesperson, said in a Thursday statement. \u201cAny such legal claim would be without merit. \u201cNick has covered sexual violence for decades, and is widely regarded as one of the world\u2019s best on-the-ground journalists in documenting and bearing witness to sexual abuse experienced by women and men in war and conflict zones,\u201d the statement continued. The paper has repeatedly defended Kristof\u2019s reporting over the last few days. Kristof\u2019s interviews with 14 men and women \u201cwere corroborated with other witnesses, whenever possible, and with people the victims confided in \u2013 that includes family members and lawyers\u201d, said Charlie Stadtlander, a spokesperson for the Times, in a statement posted on Wednesday. \u201cDetails were extensively fact-checked, with accounts further cross-referenced with news reporting, independent research from human-rights groups, surveys and in one case, with U.N. testimony. Independent experts were consulted on the assertions in the piece throughout reporting and fact-checking.\u201d It is not clear in which jurisdiction Israeli officials would bring the lawsuit or whether defamation claims could even be filed by a government. \u201cThere is no chance a US court would countenance such a case,\u201d said David A Logan, a professor emeritus at the Roger Williams School of Law and media law expert. There is a legal consensus, he added, that the first amendment bars lawsuits or prosecutions of critics of government brought by the government. Mark Stephens, an expert in international media law, called the idea of Israel suing the Times \u201cludicrous\u201d. \u201cLibel is about hurt feelings, being shunned and avoided and isolated as a human (sentient) being,\u201d he said in an email. \u201cThis is as much about politics as it is about law \u2013 and courts are alert to the difference.\u201d Kristof\u2019s piece, which was published in the Times\u2019 opinion section on Monday, details allegations of sexual abuse, including rape, at the hands of Israeli prison guards, soldiers, settlers and interrogators, and sometimes involving dogs. In the piece, Kristof wrote that he found the victims he interviewed by asking around among lawyers, human rights groups, aid workers and \u201cordinary Palestinians\u201d. He noted that while he was able to corroborate many of their stories, in some cases \u201cit was not possible, perhaps because shame left people reluctant to acknowledge abuse even to loved ones\u201d. He notes that \u201cthere is no evidence that Israeli leaders order rapes\u201d and extensively quotes Israeli officials\u2019 rejection of the story\u2019s allegations. The Guardian has also published accounts of sexual abuse of Palestinians in Israeli custody, and recently reported that Israeli so"
+        "title": "When corporate interests take over diplomacy: Inside Trump\u2019s transactional approach",
+        "url": "https://www.firstpost.com/opinion/when-corporate-interests-shape-diplomacy-trump-transactional-america-14012065.html",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.319,
+      "scores": {
+        "High House War": -0.029,
+        "High House Coin": 0.141,
+        "High House Shadow": 0.063,
+        "High House Life": 0.114,
+        "High House Iron": -0.009,
+        "High House Words": 0.112,
+        "High House Chains": 0.319
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.919
+      },
+      "article": {
+        "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
+        "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
+        "source": "guardian",
+        "full_text": "The UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwanted asylum seekers to third country hubs. A political declaration from the 46 members of the Council of Europe, the body that oversees the European convention on human rights (ECHR), said states had an \u201cundeniable sovereign right\u201d to control their borders. It is understood that the UK is now seeking a deal with an unnamed third country, similar to the Italy-Albania agreement that allowed Rome to place detention centres in Albania. In that deal, the hubs were initially intended for asylum seekers from countries considered safe while their applications were processed. Giorgia Meloni\u2019s government has since used them to hold people to be deported whose applications have been rejected. According to the seven-page document, countries should be free \u201cto address and potentially deter irregular migration\u201d. It said: \u201cAmongst the forms of new approaches that have been envisaged by several member states are processing requests for international protection in a third country, third country \u2018return hubs\u2019, and cooperation with countries of transit.\u201d The agreement also attempts to give more scope for countries to deport people to places where they may be in danger of inhuman or degrading treatment, and to limit courts\u2019 powers to intervene. Ministers have claimed that articles 3 and 8 of the convention \u2013 the right to live free from torture and the right to family life \u2013 have been used to prevent people with no right to be in the UK from being removed. \u201cCaution should be exercised \u2026 when assessing whether the expulsion or extradition of an individual to a non-state party would violate a state\u2019s obligations under article 3 of the convention,\u201d the agreement said. The convention has become a significant point of contention between the main political parties. While Keir Starmer backs ECHR changes, the Conservatives and Reform UK have pledged to leave. One leading migration specialist said she was not convinced that a political agreement would have a significant effect on immigration cases. Madeleine Sumption, the director of the Migration Observatory at Oxford University, said: \u201cIt\u2019s not clear how much impact a political declaration makes given that judges\u2019 decisions are also driven by domestic and international case law, which this declaration does not change. How much concrete difference it will make remains to be seen.\u201d Yvette Cooper, who finalised the agreement at the high-level meeting in Chi\u015fin\u0103u, Moldova, is expected to discuss hubs over the next two days. The foreign secretary told the Guardian: \u201cReform and the Conservatives have called for the ripping up of international law altogether \u2013 even though those same international laws are essential to our law enforcement cooperation against the criminal smuggler gangs, or to upholding pillars such as the Good Friday agreement. \u201cThe Greens have called instead for the ripping up of border controls \u2013 damaging our national security. Neither of their approaches delivers for our national interest. \u201cThat is why Labour is reforming the ECHR with partners from across the continent, because we know the relationships we build abroad make us stronger at home.\u201d Alain Berset, the secretary general of the Council of Europe, said discussions about removing people who arrived in Europe by irregular routes would take place during the conference \u201cat a multilateral level\u201d. Starmer\u2019s government has promoted setting up return hubs as a possible deterrent to irregular migration. Shabana Mahmood, the home secretary, told MPs in November that the Home Office was in \u201cactive negotiations\u201d with several countries, but no deals had been confirmed. The previous government\u2019s plans to send people arriving by small boats to Rwanda, which cost \u00a3715m by 2024, was cancelled after failing to send a single person. The supreme court ruled the policy was unlawful because Rwanda was not a safe country. The EU has voted to allow th"
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Shadow",
+      "actor_a": "DECLARE",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.091,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
     {
       "house_a": "High House Life",
       "house_b": "High House War",
       "actor_a": "DECLARE",
       "actor_b": "MALI",
       "relationship": "neutral",
-      "goldstein_avg": -0.28,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Iron",
-      "actor_a": "DECLARE",
-      "actor_b": "DIGITAL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.585,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "DECLARE",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -1.622,
+      "goldstein_avg": -0.346,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Words",
+      "house_b": "High House War",
       "actor_a": "CHINA",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -2.648,
+      "actor_b": "MALI",
+      "relationship": "neutral",
+      "goldstein_avg": -0.46,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -252,42 +244,22 @@
       "house_a": "High House War",
       "house_b": "High House Iron",
       "actor_a": "MALI",
-      "actor_b": "DIGITAL",
+      "actor_b": "GUJARAT",
       "relationship": "neutral",
-      "goldstein_avg": -0.038,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "MALI",
-      "actor_b": "ISRAEL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.677,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "DIGITAL",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -1.764,
+      "goldstein_avg": -0.021,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.491,
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.719,
       "source": "gdelt_volume"
     },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.112,
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.477,
       "source": "gdelt_volume"
     }
   }
