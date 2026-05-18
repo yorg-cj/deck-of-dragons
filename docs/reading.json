@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "cards": [
     {
       "house": "High House Life",
@@ -57,154 +57,150 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.447,
-      "scores": {
-        "High House War": 0.447,
-        "High House Coin": 0.098,
-        "High House Shadow": 0.256,
-        "High House Life": 0.162,
-        "High House Iron": 0.07,
-        "High House Words": 0.126,
-        "High House Chains": 0.2
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "blockade"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "Mali\u2019s forces target rebel alliance in junta\u2019s fight to keep power",
-        "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
-        "source": "guardian",
-        "full_text": "Mali\u2019s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance of Islamist extremists and Tuareg separatists as the ruling junta struggles to maintain its hold on power in the unstable west African country. Earlier this week warplanes targeted the key northern town of Kidal, which was lost when the rebels launched a surprise offensive across much of Mali in late April. Elsewhere, Russian-piloted and supplied military helicopters protected convoys or airlifted supplies to remote outposts where Mali\u2019s army has mounted as yet ineffective efforts to reimpose government authority. The rebel offensive targeted strategic towns, government forces and their Russian auxiliaries with ambushes, car bombs, drones and raids, inflicting significant casualties. Mali\u2019s defence minister, Sadio Camara, died in a suicide attack on his residence in the garrison town of Kati, 9 miles (15km) north-west of the capital, Bamako, and the head of military intelligence was killed. Other attacks hit Mali\u2019s international airport, while rebels seized control of Kidal after soldiers fled and a force of Russian mercenaries surrendered. The defeat reversed a key symbolic victory won by the junta in Mali three years ago. Nina Wil\u00e9n, the Africa director at the Egmont Institute, an international relations thinktank in Brussels, said the ruling military junta had shown some resilience after being badly shaken by the wave of rebel attacks. \u201cThey are fighting back,\u201d she said. \u201cThere has not been a mutiny or counter-coup. That doesn\u2019t mean it won\u2019t happen but \u2026 they are still fighting and that is something to note.\u201d But government forces have so far failed to retake much of the territory lost last month, despite the support of between 2,000 and 2,500 Russian mercenaries first dispatched to Mali, a former French colony, by the Kremlin in 2021. Witnesses said the government forces\u2019 airstrikes on Kidal had destroyed only a house near an old market and left a crater inside the extensive courtyard of the governor\u2019s office. The rebel coalition, which unites the al-Qaida-linked group Jama\u2019at Nusrat al-Islam wal-Muslimin (JNIM) with the Tuareg-dominated rebel group Azawad Liberation Front (FLA), has continued its own military operations, striking dozens of military posts in the centre and north of Mali and enforcing a strict blockade on Bamako. Analysts said a fuel blockade imposed by JNIM last year caused severe problems for the junta, bringing it close to collapse, and the new blockade was \u201cthrottling\u201d the capital. The city is under tight curfew and a wave of arrests has been reported. During a press conference in Bamako last week, the Malian army commander, Djibrilla Maiga, claimed at least two major routes out of the capital remained open and Malian forces had \u201cneutralised\u201d several hundred \u201cterrorists\u201d since the April attacks. In addition to killing Camara by driving a car laden with explosives into his residence, the rebels last month targeted the home of Assimi Go\u00efta, the leader of the government which took power after coups in 2020 and 2021. Hundreds of civilians have died in recent weeks, mostly in attacks against villages in the central Mopti region claimed by JNIM, where the dead included many members of pro-government self-defence forces. A spokesperson for JNIM said the villages had been targeted after breaking agreements made with the group to offer support and to avoid any cooperation with Mali\u2019s authorities. Wilen said the attacks were a reminder that despite recent efforts to improve its image, JNIM remained a \u201cterrorist organisation and violent extremists\u201d. \u201cJNIM is not cutting off hands and feet as a punishment for theft like Islamic State [followers] in the Sahel and do want to govern the population, so are doing a little bit of work to win hearts and minds,\u201d Wilen said. \u201cUnder the coalition agreement, the FLA [Tuareg separatists] have agreed that they will implement a moderate shariat regime.\u201d A historically noma"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.415,
-      "scores": {
-        "High House War": 0.011,
-        "High House Coin": -0.001,
-        "High House Shadow": 0.113,
-        "High House Life": 0.087,
-        "High House Iron": 0.415,
-        "High House Words": -0.016,
-        "High House Chains": -0.037
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "India News | Over 63,000 High-value Jobs Will Be Created, Says Amit Shah at Gujarat's First SEZ IT 'Million Minds Tech Park' Launch",
-        "url": "https://www.latestly.com/agency-news/india-news-over-63000-high-value-jobs-will-be-created-says-amit-shah-at-gujarats-first-sez-it-million-minds-tech-park-launch-7433971.html",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.355,
-      "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.355,
-        "High House Shadow": 0.017,
-        "High House Life": 0.048,
-        "High House Iron": 0.047,
-        "High House Words": 0.117,
-        "High House Chains": 0.286
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "bankrupt"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Greece\u2019s Sorry Reckoning",
-        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.345,
+      "confidence": 0.436,
       "scores": {
-        "High House War": 0.217,
-        "High House Coin": 0.321,
-        "High House Shadow": 0.309,
-        "High House Life": -0.011,
-        "High House Iron": 0.105,
-        "High House Words": 0.345,
-        "High House Chains": 0.201
+        "High House War": 0.223,
+        "High House Coin": 0.436,
+        "High House Shadow": 0.196,
+        "High House Life": 0.128,
+        "High House Iron": 0.099,
+        "High House Words": 0.2,
+        "High House Chains": 0.385
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.89
       },
       "article": {
-        "title": "When corporate interests take over diplomacy: Inside Trump\u2019s transactional approach",
-        "url": "https://www.firstpost.com/opinion/when-corporate-interests-shape-diplomacy-trump-transactional-america-14012065.html",
+        "title": "G7 finance chiefs seek to tackle imbalances as trade strains unity",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity/articleshow/131164269.cms",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Iron",
+      "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.319,
+      "confidence": 0.4,
       "scores": {
-        "High House War": -0.029,
-        "High House Coin": 0.141,
-        "High House Shadow": 0.063,
-        "High House Life": 0.114,
-        "High House Iron": -0.009,
-        "High House Words": 0.112,
-        "High House Chains": 0.319
+        "High House War": -0.03,
+        "High House Coin": 0.186,
+        "High House Shadow": 0.174,
+        "High House Life": 0.03,
+        "High House Iron": 0.4,
+        "High House Words": -0.025,
+        "High House Chains": -0.02
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.919
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
-        "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
+        "title": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up",
+        "url": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.38,
+      "scores": {
+        "High House War": 0.265,
+        "High House Coin": 0.134,
+        "High House Shadow": 0.287,
+        "High House Life": 0.053,
+        "High House Iron": 0.094,
+        "High House Words": 0.38,
+        "High House Chains": 0.149
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.708
+      },
+      "article": {
+        "title": "Trump Doesn\u2019t Know What Power Is",
+        "url": "https://www.nytimes.com/2026/05/18/opinion/trump-xi-iran-war.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.329,
+      "scores": {
+        "High House War": 0.186,
+        "High House Coin": 0.199,
+        "High House Shadow": 0.218,
+        "High House Life": 0.242,
+        "High House Iron": 0.009,
+        "High House Words": 0.324,
+        "High House Chains": 0.329
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "The UAE must be held responsible for its part in Sudan\u2019s crisis",
+        "url": "https://www.theguardian.com/world/2026/may/17/the-uae-must-be-held-responsible-for-its-part-in-sudans-crisis",
         "source": "guardian",
-        "full_text": "The UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwanted asylum seekers to third country hubs. A political declaration from the 46 members of the Council of Europe, the body that oversees the European convention on human rights (ECHR), said states had an \u201cundeniable sovereign right\u201d to control their borders. It is understood that the UK is now seeking a deal with an unnamed third country, similar to the Italy-Albania agreement that allowed Rome to place detention centres in Albania. In that deal, the hubs were initially intended for asylum seekers from countries considered safe while their applications were processed. Giorgia Meloni\u2019s government has since used them to hold people to be deported whose applications have been rejected. According to the seven-page document, countries should be free \u201cto address and potentially deter irregular migration\u201d. It said: \u201cAmongst the forms of new approaches that have been envisaged by several member states are processing requests for international protection in a third country, third country \u2018return hubs\u2019, and cooperation with countries of transit.\u201d The agreement also attempts to give more scope for countries to deport people to places where they may be in danger of inhuman or degrading treatment, and to limit courts\u2019 powers to intervene. Ministers have claimed that articles 3 and 8 of the convention \u2013 the right to live free from torture and the right to family life \u2013 have been used to prevent people with no right to be in the UK from being removed. \u201cCaution should be exercised \u2026 when assessing whether the expulsion or extradition of an individual to a non-state party would violate a state\u2019s obligations under article 3 of the convention,\u201d the agreement said. The convention has become a significant point of contention between the main political parties. While Keir Starmer backs ECHR changes, the Conservatives and Reform UK have pledged to leave. One leading migration specialist said she was not convinced that a political agreement would have a significant effect on immigration cases. Madeleine Sumption, the director of the Migration Observatory at Oxford University, said: \u201cIt\u2019s not clear how much impact a political declaration makes given that judges\u2019 decisions are also driven by domestic and international case law, which this declaration does not change. How much concrete difference it will make remains to be seen.\u201d Yvette Cooper, who finalised the agreement at the high-level meeting in Chi\u015fin\u0103u, Moldova, is expected to discuss hubs over the next two days. The foreign secretary told the Guardian: \u201cReform and the Conservatives have called for the ripping up of international law altogether \u2013 even though those same international laws are essential to our law enforcement cooperation against the criminal smuggler gangs, or to upholding pillars such as the Good Friday agreement. \u201cThe Greens have called instead for the ripping up of border controls \u2013 damaging our national security. Neither of their approaches delivers for our national interest. \u201cThat is why Labour is reforming the ECHR with partners from across the continent, because we know the relationships we build abroad make us stronger at home.\u201d Alain Berset, the secretary general of the Council of Europe, said discussions about removing people who arrived in Europe by irregular routes would take place during the conference \u201cat a multilateral level\u201d. Starmer\u2019s government has promoted setting up return hubs as a possible deterrent to irregular migration. Shabana Mahmood, the home secretary, told MPs in November that the Home Office was in \u201cactive negotiations\u201d with several countries, but no deals had been confirmed. The previous government\u2019s plans to send people arriving by small boats to Rwanda, which cost \u00a3715m by 2024, was cancelled after failing to send a single person. The supreme court ruled the policy was unlawful because Rwanda was not a safe country. The EU has voted to allow th"
+        "full_text": "Nesrine Malik\u2019s article is timely, highlighting how evidence of the United Arab Emirates\u2019 complicity in Sudan\u2019s war has begun to prompt calls for action to be taken (The UAE tries hard to keep its reputation spotless. But with the war in Sudan, how can it?, 13 May). What is now needed is a concerted international response. The UN and African fact-finding bodies have to date largely focused on the responsibility of Sudan\u2019s warring parties for international law violations committed. It is time to complement this focus, by documenting and investigating the UAE\u2019s involvement in the war with a view to establishing possible state and individual responsibility. This ranges from a failure to prevent both genocide in Darfur and international humanitarian law violations across the country to liability for the commission of international crimes. Such an inquiry ought not to be confined to the UAE. Multiple reports have pointed to the involvement of several states in the region and beyond in support of both sides, which has fuelled the war, particularly drone warfare. Foreign businesses and other actors have also reportedly been pivotal in sustaining and benefiting from Sudan\u2019s war economy. Having an official report documenting violations by external actors might spur states and others into adopting overdue measures in response. It might also influence the political calculus of influential states such as the UAE which have not faced any accountability to date. If that were to happen, diminished support for and pressure on the warring parties might well raise the prospects for an end to the fighting in Sudan. In turn, this would bring into focus who should provide reparations to the victims of the war and pay for the reconstruction of the country. Sudan\u2019s people have a right to freedom, peace and justice. This entails an end to the interference with their rights, be it from within or outside their country. Dr Lutz Oette Professor of international human rights law, Soas University of London \u2022 Nesrine Malik rightly draws attention to the fact that \u201csuccessive British governments have studiously looked away from one of the primary sponsors of the Sudan calamity\u201d, that is to say the United Arab Emirates, which, despite its repeated denials, has long supported the Rapid Support Forces with money, weapons and mercenaries. It is now nearly two years since the Guardian reported on claims that the Foreign Office was actively trying to suppress criticism of the UAE, even as the RSF was besieging the city of El Fasher in Darfur (UK \u2018tried to suppress criticism\u2019 of alleged UAE role in arming Sudan\u2019s RSF militia, 24 June). This too was denied. The UK is the designated UN security council \u201cpenholder\u201d for Sudan, and also for the UN\u2019s women, peace and security file, and must do more if this devastating war is to be brought to an end. I am a trustee of a UK charity, Women\u2019s Education Partnership, which enables disadvantaged women and girls in Sudan and South Sudan to access education. Since the war started, we have not had local staff on the ground, and the students are now displaced, trying to follow their degree courses online. Some are too traumatised to study; others have disappeared from contact lists. Most, however, are persevering despite three years of war. Sudanese women played a major role in the inspiring revolution of 2018-19. Let us hope that they will be able to flourish when peace eventually returns. Anna Snowdon Cambridge \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.303,
+      "scores": {
+        "High House War": 0.303,
+        "High House Coin": 0.067,
+        "High House Shadow": 0.251,
+        "High House Life": 0.223,
+        "High House Iron": 0.134,
+        "High House Words": 0.176,
+        "High House Chains": 0.071
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.535,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.972
+      },
+      "article": {
+        "title": "Drone attacks spread fear across Colombia as civilian casualties rise",
+        "url": "https://news.az/news/drone-attacks-spread-fear-across-colombia-as-civilian-casualties-rise",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "EMERGING"
     }
@@ -212,11 +208,31 @@
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House Shadow",
+      "house_b": "High House Iron",
       "actor_a": "DECLARE",
-      "actor_b": "CHINA",
+      "actor_b": "MARKET DEBUT",
       "relationship": "neutral",
-      "goldstein_avg": -1.091,
+      "goldstein_avg": 0.04,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "DECLARE",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -1.844,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Chains",
+      "actor_a": "DECLARE",
+      "actor_b": "SUDAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.863,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -224,9 +240,39 @@
       "house_a": "High House Life",
       "house_b": "High House War",
       "actor_a": "DECLARE",
-      "actor_b": "MALI",
+      "actor_b": "COLOMBIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.346,
+      "goldstein_avg": -0.207,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "CHINA",
+      "actor_b": "MARKET DEBUT",
+      "relationship": "allied",
+      "goldstein_avg": 2.46,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "TRUMP",
+      "relationship": "neutral",
+      "goldstein_avg": -1.348,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "SUDAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.711,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -234,32 +280,67 @@
       "house_a": "High House Shadow",
       "house_b": "High House War",
       "actor_a": "CHINA",
-      "actor_b": "MALI",
+      "actor_b": "COLOMBIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.46,
+      "goldstein_avg": 0.073,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House War",
-      "house_b": "High House Iron",
-      "actor_a": "MALI",
-      "actor_b": "GUJARAT",
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "MARKET DEBUT",
+      "actor_b": "TRUMP",
       "relationship": "neutral",
-      "goldstein_avg": -0.021,
+      "goldstein_avg": -0.114,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Chains",
+      "actor_a": "MARKET DEBUT",
+      "actor_b": "SUDAN",
+      "relationship": "neutral",
+      "goldstein_avg": 0.032,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "TRUMP",
+      "actor_b": "SUDAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.276,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "COLOMBIA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.24,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "SUDAN",
+      "actor_b": "COLOMBIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.991,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.719,
-      "source": "gdelt_volume"
-    },
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.477,
+      "trend_ratio": 0.363,
       "source": "gdelt_volume"
     }
   }
