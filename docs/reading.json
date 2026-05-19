@@ -1,35 +1,6 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "cards": [
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.542,
-      "scores": {
-        "High House War": 0.014,
-        "High House Coin": 0.066,
-        "High House Shadow": 0.034,
-        "High House Life": 0.542,
-        "High House Iron": -0.012,
-        "High House Words": 0.088,
-        "High House Chains": 0.129
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "Declare climate crisis a global public health emergency, experts tell WHO",
-        "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
-        "source": "guardian",
-        "full_text": "The climate crisis should be declared a global public health emergency by the World Health Organization, or millions more people will die unnecessarily, leading international experts have said. The independent pan-European commission on climate and health, which was convened by the WHO, concluded the climate crisis was such a worldwide threat to health that the WHO should declare it \u201ca public health emergency of international concern\u201d (Pheic). The international spread of vector-borne disease, such as dengue and chikungunya, as well as the health impacts of extreme weather events, global heating, food insecurity and air pollution make a Pheic necessary, said the commission\u2019s report, which will be presented to European ministers on Sunday before the WHO\u2019s world health assembly starts on Monday. Pheics are the highest level of health alert. Previous declarations include infectious diseases such as Covid and Mpox. While declaring one would not on its own reverse climate change, it would trigger the kind of coordinated international response that the scale of the health crisis demands but has not yet materialised. The 11-strong independent commission, which includes former health and climate ministers, said: \u201cFar from being a fading priority or fake news, climate change poses an immediate and long-term threat to health, economic, food, water, environmental, personal, community and national security.\u201d In an interview with the Guardian, Katr\u00edn Jakobsd\u00f3ttir, a former prime minister of Iceland who chaired the commission, said: \u201cThe climate crisis may not be a pandemic, but it\u2019s still a public health emergency that threatens humanity\u2019s very health and survival. And if we don\u2019t act more quickly and comprehensively, many millions more people could die or face life-changing illness.\u201d Sir Andrew Haines, a professor of environmental change and public health at the London School of Hygiene &amp; Tropical Medicine, and the commission\u2019s chief scientific adviser, said: \u201cWHO has already recognised that climate change is a major threat to global health. What we\u2019re asking for is a step further.\u201d He added: \u201cIf we carry on emitting at current rates, that will accelerate the risks to health for both current and future generations including: more people suffering and dying from excess heat, floods and infectious diseases, air pollution from wildfires, more preterm births and more food insecurity.\u201d The commission also urged governments to stop subsidising fossil fuels, which are directly responsible for 600,000 premature deaths a year in Europe alone. The region spends about \u20ac444bn (\u00a3387bn) a year on subsidies for oil and gas production, the report said. In 12 European countries, fossil fuel subsidies exceeded 10% of national health expenditure in 2023 and in four exceeded the entire health budget, the report observed. \u201cThis is not a sustainable energy policy. It\u2019s really more of a public health failure,\u201d Jakobsd\u00f3ttir said. \u201cAnd it\u2019s one that could get a lot worse. New subsidies for fossil fuels as well as countries considering redrilling in the wake of the Iran crisis would be catastrophic for health. \u201cEuropean governments are subsidising the very industries responsible for their own citizens\u2019 premature deaths. We need health leaders to really step into the climate debate and not just be on the receiving end of it.\u201d The report also called for measures to tackle disinformation, greater use of national climate health impact assessments, as well as recognition that climate change was also a mental health crisis. Jakobsd\u00f3ttir said: \u201cThe way to challenge climate scepticism and misinformation is simple: make it personal. Climate change is not happening somewhere else, to someone else, in the future. It is shortening lives in European cities right now. It is filling hospitals. It is driving anxiety and stress and other mental health issues. And the policies that would fix it \u2013 clean air, active travel, insulated homes, sustainable food \u2013 are exactly the polic"
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,94 +28,123 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.436,
-      "scores": {
-        "High House War": 0.223,
-        "High House Coin": 0.436,
-        "High House Shadow": 0.196,
-        "High House Life": 0.128,
-        "High House Iron": 0.099,
-        "High House Words": 0.2,
-        "High House Chains": 0.385
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.89
-      },
-      "article": {
-        "title": "G7 finance chiefs seek to tackle imbalances as trade strains unity",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity/articleshow/131164269.cms",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WANING"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.4,
+      "confidence": 0.48,
       "scores": {
-        "High House War": -0.03,
-        "High House Coin": 0.186,
-        "High House Shadow": 0.174,
-        "High House Life": 0.03,
-        "High House Iron": 0.4,
-        "High House Words": -0.025,
-        "High House Chains": -0.02
+        "High House War": 0.02,
+        "High House Coin": 0.153,
+        "High House Shadow": 0.221,
+        "High House Life": 0.149,
+        "High House Iron": 0.48,
+        "High House Words": 0.144,
+        "High House Chains": 0.047
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up",
-        "url": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
-        "source": "nyt",
+        "title": "AI will affect industries from fashion to electricity: Deloitte",
+        "url": "https://www.nbr.co.nz/tech/ai-will-affect-industries-from-fashion-to-electricity-deloitte",
+        "source": "worldnews",
         "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.422,
+      "scores": {
+        "High House War": 0.025,
+        "High House Coin": 0.042,
+        "High House Shadow": 0.134,
+        "High House Life": 0.422,
+        "High House Iron": -0.029,
+        "High House Words": 0.051,
+        "High House Chains": 0.017
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "WHO says Ebola outbreak in DRC and Uganda is \u2018emergency\u2019 of international concern",
+        "url": "https://www.theguardian.com/world/2026/may/17/who-ebola-outbreak-congo-uganda-global-health-emergency",
+        "source": "guardian",
+        "full_text": "An Ebola outbreak in the Democratic Republic of the Congo and Uganda is a \u201cpublic health emergency of international concern\u201d, the World Health Organization has said. The WHO made its declaration on Sunday after 88 deaths and more than 300 suspected cases linked to the outbreak of the Bundibugyo virus, prompting Africa\u2019s top health official to say he was \u201con panic mode\u201d. Dr Tedros Adhanom Ghebreyesus, the director general of the WHO, announced the decision before convening a formal emergency committee at the organisation. Experts said the speed was likely to reflect the gravity of the situation. The Bundibugyo virus is one of three strains that can cause Ebola virus disease, and the least common. There are no approved vaccines or treatments for the strain, or specific tests. Ebola is a highly contagious disease, spread via bodily fluids such as blood and vomit. It has a high fatality rate, particularly in low-resourced settings that are unable to provide the supportive care typically available in the intensive care units of a high-income country. Africa Centres for Disease Control and Prevention (Africa CDC) announced the outbreak publicly on Friday, but said it was not yet clear when it had begun. It is convening experts and likely to announce a continental public health emergency in the coming days. Dr Jean Kaseya, the director general of Africa CDC, told Sky News: \u201cCurrently, I\u2019m on panic mode because people are dying. I don\u2019t have medicines. I don\u2019t have [a] vaccine to support countries.\u201d He said the outbreak pointed to the need for vaccine and medicine manufacturing capacity on the continent, describing it as an \u201cequity issue\u201d and warning: \u201cWestern countries, they don\u2019t understand that when Africa is affected, they are also at risk because people are flying every day.\u201d Kaseya was due to be in Geneva this week for meetings at the annual World Health Assembly, but said he would return to Africa tomorrow in order to support the response. He said officials were in talks with companies who had potential tests, vaccines and treatments at an early stage of development, to see whether any could be safely used or trialled during the outbreak \u2013 expressing a hope that some would become available in the \u201ccoming weeks\u201d. Kaseya stressed the importance of basic infection control measures such as gloves and handwashing at an earlier press briefing, although officials said many informal health facilities in the affected regions may have limited supplies of that equipment. There have been 80 suspected deaths, eight laboratory-confirmed cases and 246 suspected cases in the DRC\u2019s Ituri province, which is in the east of the country, bordering Uganda and South Sudan, and about five days\u2019 travel from the capital. Two cases, including one death, have also been reported in Uganda\u2019s capital, Kampala, apparently in people who had travelled from the DRC. A suspected case in the DRC\u2019s capital, Kinshasa, had been previously reported, but the WHO later said the individual had \u201ctested negative for Bundibugyo virus on confirmatory testing\u201d. There were \u201csignificant uncertainties as to the true number of infected persons and geographic spread associated with this event at the present time\u201d, the WHO said. It said that the signs, however, \u201call point towards a potentially much larger outbreak than what is currently being detected and reported, with significant local and regional risk of spread\u201d. The US Centers for Disease Control and Prevention (CDC) said on Sunday it was supporting interagency partners who were coordinating the safe withdrawal of a small number of Americans directly affected by the outbreak. CDC officials told reporters that the agency had activated its emergency response center for the outbreak and planned to send more people to its offices in the DRC and Uganda. The WHO stressed that, unlike for the Zaire strain of Ebola, which has caused multiple outbreaks in the DRC, \u201cthere are currently no approved Bundibugyo virus-specific therapeutics "
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": false,
+      "confidence": 0.365,
+      "scores": {
+        "High House War": 0.053,
+        "High House Coin": 0.365,
+        "High House Shadow": 0.011,
+        "High House Life": 0.131,
+        "High House Iron": -0.009,
+        "High House Words": 0.057,
+        "High House Chains": 0.311
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "IMF urges UK to \u2018stay the course\u2019 on borrowing amid Starmer uncertainty",
+        "url": "https://www.theguardian.com/business/2026/may/18/imf-uk-borrowing-keir-starmer-rachel-reeves-andy-burnham",
+        "source": "guardian",
+        "full_text": "The International Monetary Fund has urged Britain to \u201cstay the course\u201d to cut government borrowing amid growing bond market concerns over a Labour leadership challenge. As Keir Starmer battles to cling on to power, the Washington-based fund said it was important to continue reducing the budget deficit \u201cgiven market pressures and elevated implementation risks\u201d. In its annual health check on the UK economy, the IMF praised the chancellor, Rachel Reeves, for striking \u201ca good balance between deficit reduction and growth-friendly spending\u201d as it upgraded its growth forecasts for 2026. After sounding the alarm last month that Britain would suffer the heaviest economic blow from the Iran war, it increased its forecasts for growth of 0.8% to 1% to reflect the UK\u2019s \u201cstrong prewar momentum\u201d and a robust performance in the first quarter of the year. Reeves said the upgrade showed the government had the \u201cright economic plan\u201d after official figures released last week showed the economy grew at a stronger rate than first anticipated at the start of the year. In a thinly veiled rebuke to Labour MPs considering toppling Starmer, she said: \u201cPutting our stability at risk when signs of progress are emerging would leave families and businesses worse off.\u201d The IMF intervention comes amid a sharp rise in government borrowing costs worldwide amid the mounting economic fallout from the Iran war. Investors also fret that a Labour leadership challenge could topple Starmer and lead to a successor increasing borrowing levels. Investors have highlighted comments by Andy Burnham, the favourite to replace Starmer should he win a byelection to return to parliament, that Britain was too \u201cin hock to the bond markets\u201d. The Greater Manchester mayor has since softened his stance, suggesting at the weekend he was committed to the government\u2019s current fiscal rules and reducing the UK\u2019s debt levels. However, he has also called for a more radical policy stance, including borrowing to fund defence and the nationalisation of leading utilities including water and energy. Against a volatile backdrop in global markets, the yield \u2013 in effect the interest rate \u2013 on UK government bonds, or gilts, rose on Monday before falling back. The yield on 30-year UK government bonds, or gilts, reached 5.8% last week, the highest level since 1998, before slipping back after a challenge failed to immediately materialise. In its annual \u201carticle IV\u201d health check, the IMF warned the risks to the British economy were tilted to the downside and the risk that \u201cdomestic uncertainty could also add to the already volatile global environment\u201d. Although stopping short of highlighting the pressure on Starmer, the fund said that Britain was hemmed in by tough \u201ceconomic realities\u201d that would limit the government\u2019s capacity for a radical shift. Luc Eyraud, the IMF mission chief to the UK, said: \u201cToday\u2019s policymaking is constrained by a more volatile external environment with more frequent and overlapping shocks; a rising public interest bill in part reflecting market concerns with countries\u2019 elevated debt, and the longstanding challenge of weak productivity growth. \u201cThese structural realities define the limits of policy choices and must be fully recognised in designing future policies.\u201d With Britons contemplating the prospect of a sixth prime minister in seven years, Eyraud said the economy could benefit from a period of stability and the implementation of the government\u2019s current policies. \u201cIn a more shock-prone world, there is a premium on policy predictability and on measures that strengthen confidence and resilience,\u201d he said. Britain\u2019s rising borrowing costs are expected to add to the government\u2019s debt servicing costs, adding to an already \u00a3100bn-a-year interest bill \u2013 a sum representing about \u00a31 out of every \u00a310 spent by the Treasury. Eyraud said that as a consequence the government had \u201climited fiscal space\u201d to respond to the economic shock from the Iran war, which he warned would stoke inflatio"
       },
       "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.38,
+      "reversed": true,
+      "confidence": 0.338,
       "scores": {
-        "High House War": 0.265,
-        "High House Coin": 0.134,
-        "High House Shadow": 0.287,
-        "High House Life": 0.053,
-        "High House Iron": 0.094,
-        "High House Words": 0.38,
-        "High House Chains": 0.149
+        "High House War": 0.039,
+        "High House Coin": 0.025,
+        "High House Shadow": 0.279,
+        "High House Life": 0.079,
+        "High House Iron": 0.161,
+        "High House Words": 0.338,
+        "High House Chains": 0.098
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.708
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Trump Doesn\u2019t Know What Power Is",
-        "url": "https://www.nytimes.com/2026/05/18/opinion/trump-xi-iran-war.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Tech firms face tougher UK rules on intimate image abuse",
+        "url": "https://www.theguardian.com/technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse",
+        "source": "guardian",
+        "full_text": "Social media, messaging platforms and online forums that publish intimate image abuse \u2013 often intended to humiliate women and girls \u2013 are being instructed to follow new guidelines to stop it spreading. Ofcom said it would change its codes of practice to force service providers to detect and quash intimate image abuse \u2013 sometimes called \u201crevenge porn\u201d \u2013 and crack down on AI-generated deepfakes. A wave of deepfakes emerged in January when Elon Musk\u2019s Grok AI was widely used to create sexualised videos of women in bikinis. Women and girls have long complained of the difficulty of getting distressing images and videos shared without their consent taken down from public sites. Ofcom warned that such images were increasing in prevalence, with generative AI only making things worse, and said there was an \u201curgent need to reduce the spread of intimate image abuse online\u201d. The new code follows a threatened legal challenge against the regulator by the campaign group End Violence Against Women (EVAW), whose lawyers complained Ofcom was \u201cfailing to tackle these sites and failing in its obligations to protect women and girls\u201d. Intimate images are classed as those that show nudity or a sexual act, a person\u2019s genitals, buttocks or breasts covered only with underwear, or a person going to the toilet. In February, Keir Starmer said deepfake nudes and \u201crevenge porn\u201d must be removed from the internet within 48 hours or technology firms risked being blocked in the UK, calling it a \u201cnational emergency\u201d that the government must confront. Ofcom is now urging sites to use \u201chash-matching\u201d technology, which detects violating intimate images shared without consent and automatically stops them being circulated further. The guidelines aim to prevent what the technology secretary, Liz Kendall, on Monday called a \u201cnever-ending nightmare\u201d for victims of intimate image abuse. A particular concern for campaigners is niche online forums where people trade intimate images taken without consent. These forums often group women by location, for example village or university hall of residence, creating serious safety risks. The code is expected to come into force in the autumn, subject to parliamentary process. Ofcom\u2019s move has been welcomed by campaigners, but they said the regulator should go further and mandate the use of technology to block the posting of such damaging content. Kendall said: \u201cExisting technology must now be used to put a permanent stop to intimate image abuse, by recognising illegal images and blocking them before they can cause further harm. No more excuses.\u201d EVAW\u2019s head of policy and campaigns, Rebecca Hitchen, said it welcomed Ofcom\u2019s move to strengthen its illegal content codes but that \u201cits new recommendation ... is just that: a recommendation\u201d. \u201cWe need to see the regulator take proactive action that has teeth, requiring tech companies to implement preventative measures or face consequences,\u201d she said. Claire Powell, a lawyer at Leigh Day representing a survivor of intimate image abuse, said: \u201cThis is a recommendation rather than the concrete enforcement action that is needed. These forums are already consistently in breach of the Online Safety Act, but this won\u2019t shut them down. Further action by Ofcom is clearly needed.\u201d"
       },
-      "position": "ASCENDING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -173,96 +173,46 @@
         "source": "guardian",
         "full_text": "Nesrine Malik\u2019s article is timely, highlighting how evidence of the United Arab Emirates\u2019 complicity in Sudan\u2019s war has begun to prompt calls for action to be taken (The UAE tries hard to keep its reputation spotless. But with the war in Sudan, how can it?, 13 May). What is now needed is a concerted international response. The UN and African fact-finding bodies have to date largely focused on the responsibility of Sudan\u2019s warring parties for international law violations committed. It is time to complement this focus, by documenting and investigating the UAE\u2019s involvement in the war with a view to establishing possible state and individual responsibility. This ranges from a failure to prevent both genocide in Darfur and international humanitarian law violations across the country to liability for the commission of international crimes. Such an inquiry ought not to be confined to the UAE. Multiple reports have pointed to the involvement of several states in the region and beyond in support of both sides, which has fuelled the war, particularly drone warfare. Foreign businesses and other actors have also reportedly been pivotal in sustaining and benefiting from Sudan\u2019s war economy. Having an official report documenting violations by external actors might spur states and others into adopting overdue measures in response. It might also influence the political calculus of influential states such as the UAE which have not faced any accountability to date. If that were to happen, diminished support for and pressure on the warring parties might well raise the prospects for an end to the fighting in Sudan. In turn, this would bring into focus who should provide reparations to the victims of the war and pay for the reconstruction of the country. Sudan\u2019s people have a right to freedom, peace and justice. This entails an end to the interference with their rights, be it from within or outside their country. Dr Lutz Oette Professor of international human rights law, Soas University of London \u2022 Nesrine Malik rightly draws attention to the fact that \u201csuccessive British governments have studiously looked away from one of the primary sponsors of the Sudan calamity\u201d, that is to say the United Arab Emirates, which, despite its repeated denials, has long supported the Rapid Support Forces with money, weapons and mercenaries. It is now nearly two years since the Guardian reported on claims that the Foreign Office was actively trying to suppress criticism of the UAE, even as the RSF was besieging the city of El Fasher in Darfur (UK \u2018tried to suppress criticism\u2019 of alleged UAE role in arming Sudan\u2019s RSF militia, 24 June). This too was denied. The UK is the designated UN security council \u201cpenholder\u201d for Sudan, and also for the UN\u2019s women, peace and security file, and must do more if this devastating war is to be brought to an end. I am a trustee of a UK charity, Women\u2019s Education Partnership, which enables disadvantaged women and girls in Sudan and South Sudan to access education. Since the war started, we have not had local staff on the ground, and the students are now displaced, trying to follow their degree courses online. Some are too traumatised to study; others have disappeared from contact lists. Most, however, are persevering despite three years of war. Sudanese women played a major role in the inspiring revolution of 2018-19. Let us hope that they will be able to flourish when peace eventually returns. Anna Snowdon Cambridge \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.303,
+      "reversed": false,
+      "confidence": 0.269,
       "scores": {
-        "High House War": 0.303,
-        "High House Coin": 0.067,
-        "High House Shadow": 0.251,
-        "High House Life": 0.223,
-        "High House Iron": 0.134,
-        "High House Words": 0.176,
-        "High House Chains": 0.071
+        "High House War": 0.269,
+        "High House Coin": 0.201,
+        "High House Shadow": 0.162,
+        "High House Life": 0.08,
+        "High House Iron": 0.158,
+        "High House Words": 0.232,
+        "High House Chains": 0.182
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.535,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.972
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.648
       },
       "article": {
-        "title": "Drone attacks spread fear across Colombia as civilian casualties rise",
-        "url": "https://news.az/news/drone-attacks-spread-fear-across-colombia-as-civilian-casualties-rise",
-        "source": "worldnews",
+        "title": "For Xi, Trump\u2019s Embrace of War Proves China Needs More Power",
+        "url": "https://www.nytimes.com/2026/03/07/world/asia/china-iran-power.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Life",
-      "house_b": "High House Iron",
-      "actor_a": "DECLARE",
-      "actor_b": "MARKET DEBUT",
-      "relationship": "neutral",
-      "goldstein_avg": 0.04,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "DECLARE",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -1.844,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "DECLARE",
-      "actor_b": "SUDAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.863,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "DECLARE",
-      "actor_b": "COLOMBIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.207,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Shadow",
-      "house_b": "High House Iron",
+      "house_b": "High House Life",
       "actor_a": "CHINA",
-      "actor_b": "MARKET DEBUT",
-      "relationship": "allied",
-      "goldstein_avg": 2.46,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "TRUMP",
+      "actor_b": "UGANDA",
       "relationship": "neutral",
-      "goldstein_avg": -1.348,
+      "goldstein_avg": -0.799,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -272,76 +222,40 @@
       "actor_a": "CHINA",
       "actor_b": "SUDAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.711,
+      "goldstein_avg": -0.934,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "COLOMBIA",
+      "house_a": "High House Life",
+      "house_b": "High House Coin",
+      "actor_a": "UGANDA",
+      "actor_b": "STARMER",
       "relationship": "neutral",
-      "goldstein_avg": 0.073,
+      "goldstein_avg": -0.26,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "MARKET DEBUT",
-      "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.114,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
+      "house_a": "High House Life",
       "house_b": "High House Chains",
-      "actor_a": "MARKET DEBUT",
-      "actor_b": "SUDAN",
-      "relationship": "neutral",
-      "goldstein_avg": 0.032,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "TRUMP",
+      "actor_a": "UGANDA",
       "actor_b": "SUDAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.276,
+      "goldstein_avg": -4.158,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "COLOMBIA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.24,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "SUDAN",
-      "actor_b": "COLOMBIA",
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "STARMER",
+      "actor_b": "SUDAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.991,
+      "goldstein_avg": -0.346,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.363,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
