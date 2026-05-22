@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Magi",
-      "reversed": true,
-      "confidence": 0.483,
-      "scores": {
-        "High House War": 0.102,
-        "High House Coin": 0.058,
-        "High House Shadow": 0.198,
-        "High House Life": 0.099,
-        "High House Iron": 0.483,
-        "High House Words": 0.046,
-        "High House Chains": 0.037
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "Jamie Dimon\u2019s AI shake-up: More tech workers, fewer humans",
-        "url": "https://www.independent.co.uk/bulletin/news/jamie-dimon-ai-jpmorgan-b2981055.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
@@ -89,31 +60,89 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.429,
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.036,
-        "High House Coin": 0.333,
-        "High House Shadow": 0.211,
-        "High House Life": 0.068,
-        "High House Iron": 0.01,
-        "High House Words": 0.316,
-        "High House Chains": 0.429
+        "High House War": 0.112,
+        "High House Coin": 0.426,
+        "High House Shadow": 0.208,
+        "High House Life": 0.022,
+        "High House Iron": 0.064,
+        "High House Words": 0.123,
+        "High House Chains": 0.305
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.543,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.986
+        "sentiment_score": 0.871
       },
       "article": {
-        "title": "Europe Sanctions Analysis: What Actually Works?",
-        "url": "https://europeantimes.news/2026/05/europe-sanctions-analysis-what-actually-works",
+        "title": "Iran moved billions through Binance to fund regime\u2014continuing into this month",
+        "url": "https://www.livemint.com/global/iran-moved-billions-through-binance-to-fund-regime-continuing-into-this-month-11779413153476.html",
         "source": "worldnews",
         "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.422,
+      "scores": {
+        "High House War": -0.016,
+        "High House Coin": 0.228,
+        "High House Shadow": 0.127,
+        "High House Life": 0.134,
+        "High House Iron": 0.422,
+        "High House Words": -0.097,
+        "High House Chains": -0.003
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "Nvidia\u2019s revenue blows past Wall Street expectations as AI boom accelerates",
+        "url": "https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom",
+        "source": "guardian",
+        "full_text": "Nvidia continued its years-long streak of beating Wall Street\u2019s expectations for growth on Wednesday, reassuring most investors that the AI boom, particularly the global explosion of datacenters, will continue apace. \u201cThe buildout of AI factories \u2013 the largest infrastructure expansion in human history \u2013 is accelerating at extraordinary speed,\u201d said Nvidia\u2019s CEO, Jensen Huang, in a statement. \u201cAgentic AI has arrived, doing productive work, generating real value, and scaling rapidly across companies and industries.\u201d Many analysts view Nvidia\u2019s financial performance as a broader referendum on the AI buildout. The most valuable company in the world, Nvidia, with a $5.4tn market cap, reigns supreme in the semiconductor chip market and has cashed in on big tech\u2019s AI aspirations by providing key components, software and infrastructure to fuel that expansion. US tech giants are collectively planning to spend some $750bn this year on AI infrastructure, a significant portion of which will go towards chips for datacenters. Huang said on Wednesday that he expected Nvidia would grow faster than the capital expenditure of hyper-scaled datacenters. A major portion of Nvidia\u2019s revenue comes from its datacenter business. On Wednesday, the chip maker reported 92% year-over-year growth of this vertical to a record $75.2bn. The company is facing some competition in producing chips from other tech giants, though, such as Amazon and Google. Still, Nvidia blew past analysts\u2019 expectations of $78.86bn in revenue for the first quarter of 2026, securing $81.62bn for the quarter. The chip maker also exceeded Wall Street expectations of $1.76 per share and reported earnings of $1.87 per share. Huang joined Elon Musk and Donald Trump on Air Force One for a trip to China last week. Huang has expressed some hope that Nvidia will be able to expand into China, although it was unclear whether Chinese officials will agree to use American technology. In December, the Trump administration allowed Nvidia to export H200 AI chips to China, with the US collecting a 25% fee on these sales. \u201cThe Chinese government has to decide: how much of their local market do they want to protect?\u201d Huang said in an interview last week with Bloomberg Television. \u201cMy sense is that over time the market will open.\u201d Nvidia said in its outlook on Wednesday that it was not currently expecting datacenter compute revenue from China. Nvidia\u2019s CFO, Colette Kress, reiterated on Wednesday\u2019s earnings call that Nvidia has not generated any revenue from sales of these chips to China and that it is unclear whether any imports will be allowed into the country. Sales of the company\u2019s chips there have been in limbo. Trump has approved sales of Nvidia\u2019s chips in China but said that Xi Jinping had blocked them. Nvidia was also trying to expand its footprint in south-east Asia. On Wednesday, Singapore announced that Nvidia will be launching a research hub in the country, focused on increasing the efficiency of AI infrastructure. Nvidia announced a new AI system earlier this year, which is expected to roll out in the second half of 2026. The chip maker has claimed that the Vera Rubin platform will be a \u201cgenerational leap\u201d that\u2019s going to be \u201ckicking off the greatest infrastructure buildout in history\u201d. \u201cMy sense is we will be supply-constrained throughout the entire life of Vera Rubin,\u201d Huang said on Wednesday. The CEOs of OpenAI and Anthropic have said Nvidia\u2019s infrastructure \u2013 and ability to keep pace \u2013 was key for their ability to run powerful models safely and at scale. \u201cThe world is rebuilding computing for agentic AI and robotic physical AI. Nvidia sits at the center of these transitions,\u201d Huang said."
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.36,
+      "scores": {
+        "High House War": 0.36,
+        "High House Coin": -0.003,
+        "High House Shadow": 0.224,
+        "High House Life": 0.041,
+        "High House Iron": 0.1,
+        "High House Words": 0.096,
+        "High House Chains": -0.007
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "South Korea hosts America\u2019s biggest overseas military base \u2013 but what does its future look like under Trump?",
+        "url": "https://www.theguardian.com/world/2026/may/22/camp-humphreys-south-korea-us-military-base",
+        "source": "guardian",
+        "full_text": "There are school bus routes, baseball diamonds and American football fields. Soldiers queue for lunch at Taco Bell, Pizza Hut and Arby\u2019s outlets. A postbox stamped with the logo of the US postal service stands outside the commissary stocked with American groceries. The signage is all in English and the US dollar is the currency in use. Beyond the perimeter fence, military helicopters rise above the airfield and cut across the blue sky. The scene is a slice of contemporary America, despite being more than 5,000km from the US mainland. Camp Humphreys, located in the South Korean city of Pyeongtaek, is the largest American military base outside the US: 1,372 hectares (3,390 acres), nearly a thousand buildings and with a population of roughly 41,000, including American service members, their families and Korean nationals. It serves as headquarters for United States Forces Korea (USFK), the clearest physical expression of the alliance between Washington and Seoul that has underpinned stability on the Korean peninsula since the Korean war ended in an armistice in 1953. Yet the alliance that planted this piece of America in South Korea is now being tested. From trade tensions to security guarantees, relations under President Donald Trump are increasingly transactional in a way that has unsettled Seoul, which has long depended on Washington as a guarantor in its defence against North Korea. \u201cReliability and credibility issues are worse than they were before,\u201d says Mason Richey, a professor of international politics at Hankuk University of Foreign Studies in Seoul. The alliance retains deep operational ties, he says, but the political surface has become far more fraught. When Trump announced earlier this month that he would withdraw 5,000 troops from Germany after the country\u2019s chancellor, Friedrich Merz, said Washington was being \u201chumiliated\u201d by Iran \u2013 with the US president also threatening reductions elsewhere in Europe \u2013 Korean media raised the question of whether South Korea would be next, reviving speculation that has persisted throughout Trump\u2019s presidency. The defence ministry and presidential office moved quickly to deny that any troop reduction discussions were under way. Asked about reported adjustments to troop numbers and assets, USFK said the current 28,500 troops was \u201ca baseline, not a limit or a ceiling\u201d, and that the command\u2019s focus was on capabilities rather than fixed numbers. But under Trump, tensions in the alliance \u2013 including an immigration raid at a Hyundai-LG battery plant in Georgia last year, and threats to hike tariffs on South Korean goods to 25% \u2013 have begun to spill out into national security. The US reportedly partly restricted intelligence sharing after a South Korean minister publicly identified a suspected North Korean nuclear site. And in April, fallout from a US-incorporated company\u2019s data breach stalled talks on the development of nuclear-powered submarines. Amid these tensions, South Korea is debating how dependent it can remain on American protection. An advantage \u2018no other US ally can replicate\u2019 Behind the suburban veneer of Camp Humphreys is a military installation training for war. At the state-of-the-art Vandal Training Center, US and Korean soldiers run water-survival drills in a massive pool designed to simulate a helicopter crashing into the sea. In a darkened medical room filled with artificial smoke and the piped-in sounds of combat, troops wearing night-vision goggles practise battlefield evacuations on $400,000 mannequins with severed limbs that are rigged to bleed on command. Upstairs, virtual-reality simulators allow units to run combat scenarios in almost any country or terrain in the world. An official at the base says the readiness standard is \u201cfight tonight\u201d. For years, their focus has been across the northern border. North Korea possesses nuclear weapons and ballistic missiles theoretically capable of reaching the US mainland. In late 2024 it deployed more than 12,000 troops to s"
       },
       "position": "WILD"
     },
@@ -121,84 +150,55 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.353,
+      "confidence": 0.352,
       "scores": {
-        "High House War": 0.117,
-        "High House Coin": 0.138,
-        "High House Shadow": 0.277,
-        "High House Life": -0.005,
-        "High House Iron": -0.007,
-        "High House Words": 0.353,
-        "High House Chains": 0.164
+        "High House War": -0.029,
+        "High House Coin": -0.061,
+        "High House Shadow": 0.13,
+        "High House Life": 0.061,
+        "High House Iron": -0.124,
+        "High House Words": 0.352,
+        "High House Chains": -0.075
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.534,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.971
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "US warns Russia after Moscow threatens Latvia \u2013 as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
+        "title": "Broadcasters too reliant on vox pop interviews and failing to challenge politicians, says study",
+        "url": "https://www.theguardian.com/politics/2026/may/20/broadcasters-reliant-vox-pop-interviews-failing-challenge-politicians-study",
         "source": "guardian",
-        "full_text": "\u2026 and on that note, it\u2019s a wrap for today! Senior EU and US diplomats condemned Russia\u2019s threats against Latvia and the Baltic countries after Russia\u2019s representative told the UN security council that \u201cNato membership will not protect\u201d them from retaliation if Ukraine launches drones against Russia from their territory (17:58, 18:24). Russia\u2019s Vasily Nebenzya aggressively floated Moscow\u2019s allegations that Ukraine is looking into using the Baltic countries as a launch pad for attacks on Russia (17:55), despite repeated denials from all parties (12:38, 17:57, 18:10). Latvia\u2019s UN representative dismissed the allegations as \u201cpure fiction and pure lies,\u201d with Ukraine\u2019s representative calling them \u201cfairytales\u201d (17:57). The tense exchanges come hours after a Nato fighter jet shot down a stray Ukrainian drone over Estonia (12:10, 12:47), which Kyiv said had been jammed and detoured by Russia (14:10). At least two air alerts were also separately issued in Latvia. The incidents come just days before a key meeting of Nato\u2019s foreign ministers in Sweden on Friday. In other news, Top Nato commanders confirmed that 5,000 US troops will be withdrawn from Europe but insisted these \u201cadjustments\u201d do not impact their ability to deter attacks, even as they warned the continent could see more \u201credeployment\u201d of US forces in the future, and urged European leaders to ramp up their defence spending (16:18, 16:25, 16:30, 16:41). Troels Lund Poulsen, the leader of the centre-right Danish Liberal Party has announced plans to form a right-leaning minority government (10:55, 11:47), despite no clear political backing for his proposal (12:26). The former Spanish prime minister Jos\u00e9 Luis Rodr\u00edguez Zapatero has been placed under investigation for alleged influence-peddling and other offences by a judge examining the state bailout of a Venezuela-linked airline during the Covid pandemic (10:26). Hungarian prime minister P\u00e9ter Magyar has landed in Poland as his first foreign trip since taking office earlier this month, where he is due to meet with Poland\u2019s political leaders on Wednesday as he wants to restore bilateral relations after years of tensions with the previous prime minister, Viktor Orb\u00e1n (15:19, 17:28). If you have any tips, comments or suggestions, email me at jakub.krupa@theguardian.com. I am also on Bluesky at @jakubkrupa.bsky.social and on X at @jakubkrupa. The EU permanent representative ends on a stronger note as he says that Russia\u2019s aggression is \u201cunacceptable under international law,\u201d and the aggressor \u201cwill face accountability and will never be allowed to change borders by force.\u201d He says that \u201cthe future of Ukraine and its citizens lies within the European Union. \u201cThe Ukrainian people have a right to choose their own destiny, including a path towards EU membership. No former imperial power, however irredentist or aggressive, should be allowed to change that or can change that.\u201d That ends the meeting. The EU\u2019s UN representative, Stavros Lambrinidis, also offered strong backing for Ukraine as he says \u201cRussia must take full responsibility for the full effect and the consequences of its actions.\u201d \u201cThere should be no doubt in distinguishing between an aggressor and a victim.\u201d He particularly condemns Russia\u2019s move to \u201cthreaten a member of the Security Council and an EU member state\u201d in Latvia (17:55), saying Moscow lost \u201call pretence of reason, measure, modesty and dignity.\u201d He adds: \u201cAccusations, which we often hear in this chamber from the aggressor, that the European Union is prolonging the conflict are a head spinning distortion of the reality on the ground.\u201d Ukraine\u2019s UN representative Andriy Melnyk is speaking next, outlining the persistent Russian attacks on Ukrainian cities, saying \u201cthe first half of May has been one of the deadliest periods for Ukrainian civilians\u201d since the start of the war. He says Russia should \u201cstop complaining about the suffering of poor Russians,\u201d as what it is witnessing is just the reaction to it\u2019s continued aggr"
+        "full_text": "Broadcasters are letting down voters by relying on so-called vox pop interviews and failing to scrutinise political claims during election campaigns, according to researchers. The study by Cardiff University looked at how this year\u2019s national elections in Wales and Scotland, alongside the local elections in England, were reported on UK-wide television news between 2 March and 6 May. The report, written by Stephen Cushion, Keighley Perkins and Maxwell Modell at the School of Journalism, Media and Culture, found that strict rules requiring balanced coverage directly undermined the media\u2019s ability to thoroughly examine political pledges. For the first time, the BBC\u2019s election guidelines labelled Labour, Conservatives, Reform, the Liberal Democrats, the Greens, Plaid Cymru and the SNP as \u201cmajor parties\u201d, so it is expected that they all broadly receive similar levels of coverage. The researchers found that \u201clarge chunks of airtime were dedicated to vox pops\u201d, which featured in 26.3% of all Welsh television news items covering the election, at the expense of coverage of actual policy or political claims. Cushion, who led the project, said: \u201cIn an age of multiparty politics, our new research raises serious questions about whether the UK\u2019s current due impartiality rules are fit for purpose during an election campaign period. This does not mean impartiality should be abandoned in a Fox News-style way, but the rules need to be rethought to give broadcasters the flexibility to provide greater scrutiny in day-to-day news reporting. \u201cThe public expect broadcasters not only to cover political parties during a campaign, but to scrutinise their promises and challenge false or misleading claims.\u201d Because \u201celection rules require broadcasters to broadly provide roughly equivalent coverage of parties during the campaign\u201d, the media\u2019s ability to \u201cinterrogate specific policies in-depth\u201d was severely restricted, the authors said. While broadcasters successfully provided the six main parties with relatively balanced visibility across TV and digital platforms, the report concluded that \u201cthe breadth of coverage limited sustained scrutiny of party claims, policies or campaign messages\u201d. By \u201cprioritising the breadth of party-political perspectives, coverage did not consistently interrogate the depth or credibility of competing claims\u201d, the report said. As a result \u201cover 70% of claims by politicians on TV news received no or limited scrutiny\u201d, the researchers said. In television news items specifically focusing on party policy, candidate interviews or political claims, 49% featured zero scrutiny, 22% offered only brief scrutiny and just 29% provided substantial scrutiny. Instead of substantive policy debate, a significant proportion of the coverage focused on the \u201chorse race\u201d elements of the election, such as \u201ccampaign events, party competition, public opinion and electoral process\u201d. The study also revealed that this lack of rigorous political interrogation was compounded by a heavy reliance on \u201cvox pop\u201d interviews with the general public. The report stressed that the voices of ordinary citizens were featured \u201cfar more than the perspectives of political candidates\u201d, with 164 individual vox pops broadcast in total. While the researchers acknowledged the value of understanding voters\u2019 real-life anxieties, they argued that relying on vox pops \u201con this scale, they took up valuable airtime at the expense of policy coverage, scrutiny of political claims and explanation of the workings of the Welsh political system\u201d. Furthermore, the report said that the short format of these interviews made them a \u201crelatively blunt tool\u201d. They were highly effective at capturing general \u201csnapshots of opinion\u201d and recurring political apathy, but they were \u201cless able to explain the deeper reasons behind their views\u201d. Despite these interviews frequently highlighting voter apathy and an intention not to vote, the researchers note the vox pops \u201cdid not appear to accurately capture th"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.353,
+      "confidence": 0.31,
       "scores": {
-        "High House War": 0.136,
-        "High House Coin": 0.353,
-        "High House Shadow": 0.034,
-        "High House Life": 0.041,
-        "High House Iron": 0.082,
-        "High House Words": 0.155,
-        "High House Chains": 0.191
+        "High House War": 0.205,
+        "High House Coin": 0.243,
+        "High House Shadow": 0.091,
+        "High House Life": 0.023,
+        "High House Iron": 0.227,
+        "High House Words": 0.137,
+        "High House Chains": 0.31
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.963
       },
       "article": {
-        "title": "High Gas Prices Are Just the Beginning",
-        "url": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.351,
-      "scores": {
-        "High House War": 0.351,
-        "High House Coin": 0.173,
-        "High House Shadow": 0.198,
-        "High House Life": 0.058,
-        "High House Iron": 0.151,
-        "High House Words": 0.273,
-        "High House Chains": 0.21
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "From Asia to the Middle East, US Bombs Are a Failed Foreign Policy Choice",
-        "url": "https://truthout.org/articles/from-southeast-asia-to-middle-east-us-bombs-are-a-failed-foreign-policy-choice",
+        "title": "Critical Analysis of IFSCA Framework for Ship Leasing",
+        "url": "https://abclive.in/2026/05/22/critical-analysis-of-ifscas-framework-for-ship-leasing",
         "source": "worldnews",
         "full_text": null
       },
@@ -212,57 +212,97 @@
       "actor_a": "CHINA",
       "actor_b": "VACCINE",
       "relationship": "neutral",
-      "goldstein_avg": -1.268,
+      "goldstein_avg": -1.072,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Chains",
+      "house_b": "High House Coin",
       "actor_a": "CHINA",
-      "actor_b": "EUROPE SANCTIONS ANALYSIS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.658,
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.862,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Words",
+      "house_b": "High House Iron",
       "actor_a": "CHINA",
-      "actor_b": "RUSSIA",
+      "actor_b": "NVIDIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.611,
+      "goldstein_avg": -0.437,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.153,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
-      "house_b": "High House Chains",
+      "house_b": "High House Coin",
       "actor_a": "VACCINE",
-      "actor_b": "EUROPE SANCTIONS ANALYSIS",
+      "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.014,
+      "goldstein_avg": -1.289,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
-      "house_b": "High House Words",
+      "house_b": "High House Iron",
       "actor_a": "VACCINE",
-      "actor_b": "RUSSIA",
+      "actor_b": "NVIDIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.917,
+      "goldstein_avg": -0.01,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "EUROPE SANCTIONS ANALYSIS",
-      "actor_b": "RUSSIA",
+      "house_a": "High House Life",
+      "house_b": "High House War",
+      "actor_a": "VACCINE",
+      "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -1.124,
+      "goldstein_avg": -0.509,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Iron",
+      "actor_a": "IRAN",
+      "actor_b": "NVIDIA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.435,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.247,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "NVIDIA",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.466,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -270,12 +310,12 @@
   "house_trends": {
     "High House Coin": {
       "trend": "stable",
-      "trend_ratio": 1.077,
+      "trend_ratio": 1.067,
       "source": "gdelt_volume"
     },
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 1.106,
+      "trend_ratio": 0.957,
       "source": "gdelt_volume"
     }
   }
