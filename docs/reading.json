@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,60 +31,62 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.45,
-      "scores": {
-        "High House War": 0.111,
-        "High House Coin": 0.025,
-        "High House Shadow": 0.186,
-        "High House Life": 0.45,
-        "High House Iron": -0.01,
-        "High House Words": 0.08,
-        "High House Chains": 0.022
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.777
-      },
-      "article": {
-        "title": "Vaccine to tackle Ebola outbreak will take six to nine months, says WHO",
-        "url": "https://www.theguardian.com/world/2026/may/20/vaccine-bundibugyo-ebola-outbreak-six-to-nine-months-who",
-        "source": "guardian",
-        "full_text": "Doses of the \u201cmost promising\u201d potential vaccine against the Bundibugyo virus that is causing an Ebola outbreak in central Africa will not be available for six to nine months, the World Health Organization said on Wednesday, as the number of suspected cases rose to 600. Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, told a press briefing on the outbreak in the Democratic Republic of the Congo and Uganda, that there had been 139 deaths, with numbers expected to rise. Officials said they believe the disease may have started its spread \u201ca couple of months ago\u201d, aided by a \u201csuper-spreader event\u201d, possibly a funeral, in early May. The security situation in Ituri province, where more than 100,000 people have been displaced in recent months because of armed conflict, had complicated detection efforts, Tedros said. Health facilities could not provide care or surveillance for disease outbreaks if health workers were fleeing, he said. Other illnesses endemic to the region, such as malaria and typhoid, have the same early symptoms as Ebola which can also delay diagnosis, he added. Tedros said criticism of the organisation by US secretary of state Marco Rubio, who said the WHO had declared the outbreak \u201ca little late\u201d, was probably based on \u201ca lack of understanding\u201d. \u201cMaybe on what the secretary said, it could be from a lack of understanding of how IHR [international health regulations] works, and the responsibilities of WHO and other entities. We don\u2019t replace the country\u2019s work, we only support them,\u201d said Tedros. The Trump administration withdrew the US from the WHO earlier this year. Dr Vasee Moorthy, who leads the WHO\u2019s research and development blueprint, said the most promising potential vaccine against Bundibugyo uses the same basis as Ebola vaccines that target the Zaire strain. \u201cThere are no doses of this which are currently available for clinical trial \u2026 The information that we have is this is likely to take six to nine months,\u201d he said. Doses of an alternative, which uses the same platform developed by Oxford University as AstraZeneca\u2019s Covid jabs, could be available for clinical trials in two to three months, he said \u2013 but there is \u201ca lot of uncertainty\u201d as data from animal tests of efficacy are not yet available. The outbreak was made public by African health officials on Friday, and the WHO declared it a public health emergency of international concern early on Sunday morning. Tedros said: \u201cWHO assesses the risk of the epidemic as high at the national and regional levels, and low at the global level.\u201d Modelling from Imperial College London suggests there could already be more than 1,000 cases of Ebola in the affected region. Officials told the briefing that access issues, including frequently cancelled flights, were complicating efforts to get tests and other supplies to Ituri province. \u201cOur absolute priority now is to identify all the existing chains of transmission,\u201d said Chikwe Ihekweazu, the WHO emergencies lead. \u201cThat will then enable us to really define the scale of the outbreak and be able to provide care.\u201d"
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.426,
+      "reversed": true,
+      "confidence": 0.476,
       "scores": {
-        "High House War": 0.112,
-        "High House Coin": 0.426,
-        "High House Shadow": 0.208,
-        "High House Life": 0.022,
-        "High House Iron": 0.064,
-        "High House Words": 0.123,
-        "High House Chains": 0.305
+        "High House War": 0.129,
+        "High House Coin": 0.476,
+        "High House Shadow": 0.18,
+        "High House Life": 0.046,
+        "High House Iron": 0.093,
+        "High House Words": 0.18,
+        "High House Chains": 0.307
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.542,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.871
+        "sentiment_score": 0.985
       },
       "article": {
-        "title": "Iran moved billions through Binance to fund regime\u2014continuing into this month",
-        "url": "https://www.livemint.com/global/iran-moved-billions-through-binance-to-fund-regime-continuing-into-this-month-11779413153476.html",
+        "title": "Macroscope | Can Europe and Asia break the grip of US bond markets?",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3354373/can-europe-and-asia-break-grip-us-bond-markets?module=opinion&pgtype=homepage",
         "source": "worldnews",
         "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.458,
+      "scores": {
+        "High House War": 0.158,
+        "High House Coin": 0.111,
+        "High House Shadow": 0.208,
+        "High House Life": 0.458,
+        "High House Iron": 0.066,
+        "High House Words": 0.131,
+        "High House Chains": 0.17
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "contaminated"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "\u2018Every health facility said they were full\u2019: alarm over rapid spread of Ebola in DRC",
+        "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+        "source": "guardian",
+        "full_text": "The warnings from aid groups and healthcare workers in the Democratic Republic of Congo have been stark, their calls for coordinated international action impassioned. As the country reels from the return of Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that experts say goes well beyond the number of confirmed cases. \u201cThe speed at which this Ebola outbreak is spreading is deeply worrying,\u201d said Rose Tchwenko, the DRC country director at the NGO Mercy Corps, on Thursday. \u201cThe risk of wider spread is real, and more regional and global support is urgently needed.\u201d Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, warned that the virus was gaining momentum and spreading in many areas. \u201cEveryone must mobilise,\u201d he told Associated Press on the same day. \u201cWe are still far from saying that the situation is under control.\u201d It has been a week since the DRC reported its 17th outbreak of Ebola, a viral disease with a mortality rate of between about 25% and 90% that spreads through body fluids or contaminated materials and causes organ damage, blood vessel impairment and sometimes severe internal and external bleeding. Nearly 750 suspected cases and 177 suspected deaths have been recorded since the first known victim died in Bunia, the capital of Ituri province in the country\u2019s north-west, on 24 April. Mourners touched him during a funeral in the nearby town of Mongbwalu, and the virus spread from there. Hospitals and other healthcare facilities have quickly become overwhelmed. Trish Newport, an emergency programme manager at M\u00e9decins Sans Fronti\u00e8res, said a team had identified suspected cases over the weekend at Bunia\u2019s Salama hospital but found no available isolation ward in the area. \u201cEvery health facility they called said: \u2018We\u2019re full of suspect cases. We don\u2019t have any space,\u2019\u201d she said on social media. \u201cThis gives you a vision of how crazy it is right now.\u201d *** Several factors are impeding the aid response, including the strain of the virus, for which there is no approved treatment or vaccine, the remote and conflict-scarred location of the outbreak, and local funeral customs at odds with strict disease-control practice. All this is set against the backdrop of big shortfalls in aid budgets, driven in large part by the Trump administration\u2019s decision to slash foreign aid. According to a study by the International Committee of the Red Cross (ICRC) earlier this year, more than half of health facilities surveyed in North and South Kivu provinces \u2013 where cases have also been reported \u2013 suffered physical damage or destruction and nearly half had reported significant staff departures since January 2025 due to conflict and insecurity. Two incidents this week laid bare some of the aggravating factors. On Tuesday, at least 17 people were killed in an attack by the Allied Democratic Forces (ADF), a militant group operating in eastern DRC and parts of Uganda, on several villages near the town of Mambasa in Ituri. \u201cWe are facing a double war: one of weapons and another of the disease outbreak,\u201d said Zawadi Jeanne, a woman from the town who lost her brother and uncle in an ADF attack a month ago. On Thursday, a crowd set fire to a treatment centre in Rwampara, near Bunia, after authorities refused to give them the dead body of a victim they wanted to bury themselves. The process of burying the bodies, which can be highly contagious, is handled by authorities for containment of the disease, but some families prefer traditional burials, which involve washing and touching the body and have in previous outbreaks been proven to be key drivers of the disease\u2019s spread. The incident highlighted the struggle that authorities in the DRC can face in enforcing safe burials. Batakura Zamundu Mugeni, a local customary chief who was present at the scene in Rwampara, told Agence France-Presse that authorities were working with health officials to track down any patients w"
       },
       "position": "ASCENDING"
     },
@@ -92,30 +94,30 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.422,
+      "confidence": 0.4,
       "scores": {
-        "High House War": -0.016,
-        "High House Coin": 0.228,
-        "High House Shadow": 0.127,
-        "High House Life": 0.134,
-        "High House Iron": 0.422,
-        "High House Words": -0.097,
-        "High House Chains": -0.003
+        "High House War": 0.0,
+        "High House Coin": 0.037,
+        "High House Shadow": 0.125,
+        "High House Life": 0.156,
+        "High House Iron": 0.4,
+        "High House Words": -0.012,
+        "High House Chains": 0.039
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.845
       },
       "article": {
-        "title": "Nvidia\u2019s revenue blows past Wall Street expectations as AI boom accelerates",
-        "url": "https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom",
+        "title": "AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder",
+        "url": "https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic",
         "source": "guardian",
-        "full_text": "Nvidia continued its years-long streak of beating Wall Street\u2019s expectations for growth on Wednesday, reassuring most investors that the AI boom, particularly the global explosion of datacenters, will continue apace. \u201cThe buildout of AI factories \u2013 the largest infrastructure expansion in human history \u2013 is accelerating at extraordinary speed,\u201d said Nvidia\u2019s CEO, Jensen Huang, in a statement. \u201cAgentic AI has arrived, doing productive work, generating real value, and scaling rapidly across companies and industries.\u201d Many analysts view Nvidia\u2019s financial performance as a broader referendum on the AI buildout. The most valuable company in the world, Nvidia, with a $5.4tn market cap, reigns supreme in the semiconductor chip market and has cashed in on big tech\u2019s AI aspirations by providing key components, software and infrastructure to fuel that expansion. US tech giants are collectively planning to spend some $750bn this year on AI infrastructure, a significant portion of which will go towards chips for datacenters. Huang said on Wednesday that he expected Nvidia would grow faster than the capital expenditure of hyper-scaled datacenters. A major portion of Nvidia\u2019s revenue comes from its datacenter business. On Wednesday, the chip maker reported 92% year-over-year growth of this vertical to a record $75.2bn. The company is facing some competition in producing chips from other tech giants, though, such as Amazon and Google. Still, Nvidia blew past analysts\u2019 expectations of $78.86bn in revenue for the first quarter of 2026, securing $81.62bn for the quarter. The chip maker also exceeded Wall Street expectations of $1.76 per share and reported earnings of $1.87 per share. Huang joined Elon Musk and Donald Trump on Air Force One for a trip to China last week. Huang has expressed some hope that Nvidia will be able to expand into China, although it was unclear whether Chinese officials will agree to use American technology. In December, the Trump administration allowed Nvidia to export H200 AI chips to China, with the US collecting a 25% fee on these sales. \u201cThe Chinese government has to decide: how much of their local market do they want to protect?\u201d Huang said in an interview last week with Bloomberg Television. \u201cMy sense is that over time the market will open.\u201d Nvidia said in its outlook on Wednesday that it was not currently expecting datacenter compute revenue from China. Nvidia\u2019s CFO, Colette Kress, reiterated on Wednesday\u2019s earnings call that Nvidia has not generated any revenue from sales of these chips to China and that it is unclear whether any imports will be allowed into the country. Sales of the company\u2019s chips there have been in limbo. Trump has approved sales of Nvidia\u2019s chips in China but said that Xi Jinping had blocked them. Nvidia was also trying to expand its footprint in south-east Asia. On Wednesday, Singapore announced that Nvidia will be launching a research hub in the country, focused on increasing the efficiency of AI infrastructure. Nvidia announced a new AI system earlier this year, which is expected to roll out in the second half of 2026. The chip maker has claimed that the Vera Rubin platform will be a \u201cgenerational leap\u201d that\u2019s going to be \u201ckicking off the greatest infrastructure buildout in history\u201d. \u201cMy sense is we will be supply-constrained throughout the entire life of Vera Rubin,\u201d Huang said on Wednesday. The CEOs of OpenAI and Anthropic have said Nvidia\u2019s infrastructure \u2013 and ability to keep pace \u2013 was key for their ability to run powerful models safely and at scale. \u201cThe world is rebuilding computing for agentic AI and robotic physical AI. Nvidia sits at the center of these transitions,\u201d Huang said."
+        "full_text": "An AI system will work with humans to make a Nobel prize-winning discovery within 12 months and tradespeople will be helped by bipedal robots in two years, according to the co-founder of Anthropic. Jack Clark described a \u201cvertiginous sense of progress\u201d in the technology and made a series of predictions, including that companies run solely by AIs would be generating millions of dollars in revenue within 18 months, and that by the end of 2028, AI systems would be able to design their own successors. In a lecture at Oxford University on Wednesday, he also said there remained plausible scenarios in which the technology had \u201ca non-zero chance of killing everyone on the planet\u201d and that it was \u201cimportant to clearly state that that risk hasn\u2019t gone away\u201d. Anthropic\u2019s most popular model is called Claude, but it recently launched a version called Mythos that proved alarmingly capable at exploiting cybersecurity weaknesses. Clark told students it would be better if humans could slow the development of the technology \u201cto give ourselves more time as a species\u201d to deal with the implications of its powers. But he said this wouldn\u2019t happen, in the breakneck development \u201cby a variety of actors and a variety of countries, locked in a competition with one another, where commercial and geopolitical rivalries are often drowning out the larger existential-to-the-species aspects of the technology being built\u201d. This was \u201cnot ideal\u201d, he said. Clark is one of the most senior figures at Anthropic, which was established by AI researchers who quit the rival firm OpenAI over disagreements on safety. The $900bn (\u00a3670bn) company has been accused by Donald Trump\u2019s White House and other AI accelerationists of \u201cfear-mongering\u201d to encourage regulation that could cement its competitive position. Anthropic disputes this, and Clark said many people appeared to be in denial about AI\u2019s progress. He said he wanted to encourage humanity to prepare for a technology that would \u201csoon be more capable than all of us collectively\u201d. Comparing the failure to prepare for AI to the failure to prepare for pandemics such as Covid, he said: \u201cIf we stand by and let synthetic intelligence multiply, then we\u2019ll eventually be forced into reactivity.\u201d Critics of the frontier AI companies such as Anthropic, OpenAI and Google fear over-reliance on their few AI models \u2013 which have been backed by huge amounts of profit-seeking capital \u2013 could create a \u201csingle point of failure\u201d in global systems. Prof Edward Harcourt, the director of the Institute for Ethics in AI, which co-hosted Clark\u2019s lecture, separately warned that the rise of AIs that did more and more things for humans risked creating \u201ccognitive atrophy\u201d which could weaken humans\u2019 decision-making and powers of judgment. He advocated for alternative AI models that ask humans to do more of the thinking, sometimes called \u201cSocratic\u201d AI. Clark said his most conservative prediction was that \u201cvast swathes of the economy and society will go through profound changes\u201d \u2013 which could include a machine economy decoupling from the human economy, robots gaining brains, science progressing without humans, and scientific equipment that people hadn\u2019t conceived of but which worked. He admitted some of this sounded \u201ccrazy\u201d."
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -144,62 +146,62 @@
         "source": "guardian",
         "full_text": "There are school bus routes, baseball diamonds and American football fields. Soldiers queue for lunch at Taco Bell, Pizza Hut and Arby\u2019s outlets. A postbox stamped with the logo of the US postal service stands outside the commissary stocked with American groceries. The signage is all in English and the US dollar is the currency in use. Beyond the perimeter fence, military helicopters rise above the airfield and cut across the blue sky. The scene is a slice of contemporary America, despite being more than 5,000km from the US mainland. Camp Humphreys, located in the South Korean city of Pyeongtaek, is the largest American military base outside the US: 1,372 hectares (3,390 acres), nearly a thousand buildings and with a population of roughly 41,000, including American service members, their families and Korean nationals. It serves as headquarters for United States Forces Korea (USFK), the clearest physical expression of the alliance between Washington and Seoul that has underpinned stability on the Korean peninsula since the Korean war ended in an armistice in 1953. Yet the alliance that planted this piece of America in South Korea is now being tested. From trade tensions to security guarantees, relations under President Donald Trump are increasingly transactional in a way that has unsettled Seoul, which has long depended on Washington as a guarantor in its defence against North Korea. \u201cReliability and credibility issues are worse than they were before,\u201d says Mason Richey, a professor of international politics at Hankuk University of Foreign Studies in Seoul. The alliance retains deep operational ties, he says, but the political surface has become far more fraught. When Trump announced earlier this month that he would withdraw 5,000 troops from Germany after the country\u2019s chancellor, Friedrich Merz, said Washington was being \u201chumiliated\u201d by Iran \u2013 with the US president also threatening reductions elsewhere in Europe \u2013 Korean media raised the question of whether South Korea would be next, reviving speculation that has persisted throughout Trump\u2019s presidency. The defence ministry and presidential office moved quickly to deny that any troop reduction discussions were under way. Asked about reported adjustments to troop numbers and assets, USFK said the current 28,500 troops was \u201ca baseline, not a limit or a ceiling\u201d, and that the command\u2019s focus was on capabilities rather than fixed numbers. But under Trump, tensions in the alliance \u2013 including an immigration raid at a Hyundai-LG battery plant in Georgia last year, and threats to hike tariffs on South Korean goods to 25% \u2013 have begun to spill out into national security. The US reportedly partly restricted intelligence sharing after a South Korean minister publicly identified a suspected North Korean nuclear site. And in April, fallout from a US-incorporated company\u2019s data breach stalled talks on the development of nuclear-powered submarines. Amid these tensions, South Korea is debating how dependent it can remain on American protection. An advantage \u2018no other US ally can replicate\u2019 Behind the suburban veneer of Camp Humphreys is a military installation training for war. At the state-of-the-art Vandal Training Center, US and Korean soldiers run water-survival drills in a massive pool designed to simulate a helicopter crashing into the sea. In a darkened medical room filled with artificial smoke and the piped-in sounds of combat, troops wearing night-vision goggles practise battlefield evacuations on $400,000 mannequins with severed limbs that are rigged to bleed on command. Upstairs, virtual-reality simulators allow units to run combat scenarios in almost any country or terrain in the world. An official at the base says the readiness standard is \u201cfight tonight\u201d. For years, their focus has been across the northern border. North Korea possesses nuclear weapons and ballistic missiles theoretically capable of reaching the US mainland. In late 2024 it deployed more than 12,000 troops to s"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.352,
-      "scores": {
-        "High House War": -0.029,
-        "High House Coin": -0.061,
-        "High House Shadow": 0.13,
-        "High House Life": 0.061,
-        "High House Iron": -0.124,
-        "High House Words": 0.352,
-        "High House Chains": -0.075
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Broadcasters too reliant on vox pop interviews and failing to challenge politicians, says study",
-        "url": "https://www.theguardian.com/politics/2026/may/20/broadcasters-reliant-vox-pop-interviews-failing-challenge-politicians-study",
-        "source": "guardian",
-        "full_text": "Broadcasters are letting down voters by relying on so-called vox pop interviews and failing to scrutinise political claims during election campaigns, according to researchers. The study by Cardiff University looked at how this year\u2019s national elections in Wales and Scotland, alongside the local elections in England, were reported on UK-wide television news between 2 March and 6 May. The report, written by Stephen Cushion, Keighley Perkins and Maxwell Modell at the School of Journalism, Media and Culture, found that strict rules requiring balanced coverage directly undermined the media\u2019s ability to thoroughly examine political pledges. For the first time, the BBC\u2019s election guidelines labelled Labour, Conservatives, Reform, the Liberal Democrats, the Greens, Plaid Cymru and the SNP as \u201cmajor parties\u201d, so it is expected that they all broadly receive similar levels of coverage. The researchers found that \u201clarge chunks of airtime were dedicated to vox pops\u201d, which featured in 26.3% of all Welsh television news items covering the election, at the expense of coverage of actual policy or political claims. Cushion, who led the project, said: \u201cIn an age of multiparty politics, our new research raises serious questions about whether the UK\u2019s current due impartiality rules are fit for purpose during an election campaign period. This does not mean impartiality should be abandoned in a Fox News-style way, but the rules need to be rethought to give broadcasters the flexibility to provide greater scrutiny in day-to-day news reporting. \u201cThe public expect broadcasters not only to cover political parties during a campaign, but to scrutinise their promises and challenge false or misleading claims.\u201d Because \u201celection rules require broadcasters to broadly provide roughly equivalent coverage of parties during the campaign\u201d, the media\u2019s ability to \u201cinterrogate specific policies in-depth\u201d was severely restricted, the authors said. While broadcasters successfully provided the six main parties with relatively balanced visibility across TV and digital platforms, the report concluded that \u201cthe breadth of coverage limited sustained scrutiny of party claims, policies or campaign messages\u201d. By \u201cprioritising the breadth of party-political perspectives, coverage did not consistently interrogate the depth or credibility of competing claims\u201d, the report said. As a result \u201cover 70% of claims by politicians on TV news received no or limited scrutiny\u201d, the researchers said. In television news items specifically focusing on party policy, candidate interviews or political claims, 49% featured zero scrutiny, 22% offered only brief scrutiny and just 29% provided substantial scrutiny. Instead of substantive policy debate, a significant proportion of the coverage focused on the \u201chorse race\u201d elements of the election, such as \u201ccampaign events, party competition, public opinion and electoral process\u201d. The study also revealed that this lack of rigorous political interrogation was compounded by a heavy reliance on \u201cvox pop\u201d interviews with the general public. The report stressed that the voices of ordinary citizens were featured \u201cfar more than the perspectives of political candidates\u201d, with 164 individual vox pops broadcast in total. While the researchers acknowledged the value of understanding voters\u2019 real-life anxieties, they argued that relying on vox pops \u201con this scale, they took up valuable airtime at the expense of policy coverage, scrutiny of political claims and explanation of the workings of the Welsh political system\u201d. Furthermore, the report said that the short format of these interviews made them a \u201crelatively blunt tool\u201d. They were highly effective at capturing general \u201csnapshots of opinion\u201d and recurring political apathy, but they were \u201cless able to explain the deeper reasons behind their views\u201d. Despite these interviews frequently highlighting voter apathy and an intention not to vote, the researchers note the vox pops \u201cdid not appear to accurately capture th"
-      },
       "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.31,
+      "confidence": 0.342,
       "scores": {
-        "High House War": 0.205,
-        "High House Coin": 0.243,
-        "High House Shadow": 0.091,
-        "High House Life": 0.023,
-        "High House Iron": 0.227,
-        "High House Words": 0.137,
-        "High House Chains": 0.31
+        "High House War": 0.017,
+        "High House Coin": 0.196,
+        "High House Shadow": 0.039,
+        "High House Life": 0.288,
+        "High House Iron": 0.103,
+        "High House Words": 0.217,
+        "High House Chains": 0.342
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.963
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Critical Analysis of IFSCA Framework for Ship Leasing",
-        "url": "https://abclive.in/2026/05/22/critical-analysis-of-ifscas-framework-for-ship-leasing",
-        "source": "worldnews",
+        "title": "UN\u2019s climate crisis vote shows political momentum is growing, say experts",
+        "url": "https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
+        "source": "guardian",
+        "full_text": "When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu\u2019s prime minister hailed the result as the start of \u201ca new chapter\u201d in climate action. \u201cThe task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,\u201d said Jotham Napat. The recognition by states that they have a legal responsibility to address climate breakdown by cutting their greenhouse gas emissions, including tackling fossil fuels, could prove a boost for climate diplomacy and litigation, according to experts. While the international court of justice\u2019s (ICJ) 2025 advisory opinion was at the time hailed as a \u201chistoric win\u201d for small island states particularly vulnerable to the effects of the climate crisis, it has so far proved weak as a diplomatic lever. To try to help it make a difference on the ground, Vanuatu led negotiations on a new UN resolution, a lengthy process that required numerous compromises. The final version, co-sponsored by 90 countries, urges states to transition away from fossil fuels in a \u201cjust, orderly and equitable manner\u201d to reach net zero by 2050, and to phase out \u201cinefficient fossil fuel subsidies that do not address energy poverty or just transitions as soon as possible\u201d. But the resolution explicitly does not attribute responsibility to any particular state. Although the final resolution did not achieve the unanimity Vanuatu had sought, 141 countries voted in favour, with 28 abstentions. Eight states voted against it, including some of the world\u2019s biggest producers of oil and gas: the US, Saudi Arabia, Russia, Belarus, Iran, Israel, Yemen and Liberia. The advisory opinion has so far had more impact domestically than diplomatically. Harj Narulla, a barrister at Doughty Street Chambers in London who was counsel for Solomon Islands during the ICJ proceedings, said it had already proved transformative for domestic litigation. \u201cThis resolution won\u2019t change that, but it does add great political weight behind the opinion which judges take notice of, even if they won\u2019t say it publicly.\u201d It may also support domestic lawmakers trying to introduce new legislation and setting climate goals. Joie Chowdhury, the climate justice and accountability manager at the Center for International Environmental Law, said: \u201cOne of the important spaces where we have already seen uptake of the ICJ\u2019s legal conclusions is in nationally determined contributions. The resolution can further encourage national climate plans to integrate the advisory opinion\u2019s findings.\u201d But Narulla said the new resolution was likely to have the greatest influence on climate diplomacy. \u201cThe international community is showing that Cop is not the only forum that matters and, if progress stalls there, then climate action will be pursued through the general assembly and in other multilateral spaces.\u201d Rebecca Newsom, the global political lead at Greenpeace International, said the timing of the vote, after the inaugural fossil fuel phaseout conference in Santa Marta, Colombia, last month and the impact of the energy crisis on the fossil fuel industry, showed \u201cpolitical momentum is clearly growing\u201d. \u201cGovernments must now translate this resolution into tangible roadmaps to equitably phase out fossil fuel exploitation, production and consumption,\u201d said Newsom. Tuvalu is due to host a meeting of world leaders in October, before the Cop31 global climate talks in Turkey the following month. It has also agreed to co-host the second fossil fuel phaseout conference early next year. Meanwhile the world\u2019s biggest oil and gas producers remain opposed to any suggestion that they have legal obligations to mitigate their greenhouse gas emissions. The US, for example, reportedly lobbied to drop the UN resolution altogether. Before the vote, the US ambassador Tammy Bruce criticised the text for singling out \u201ccertain groups for prefer"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.321,
+      "scores": {
+        "High House War": 0.174,
+        "High House Coin": 0.216,
+        "High House Shadow": 0.317,
+        "High House Life": 0.006,
+        "High House Iron": 0.019,
+        "High House Words": 0.321,
+        "High House Chains": 0.232
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.798
+      },
+      "article": {
+        "title": "How Two Criminal Cases Reflect America\u2019s Tense Relations With China",
+        "url": "https://www.nytimes.com/2026/05/15/us/politics/trump-xi-chinese-americans-foreign-agents-discrimination.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
@@ -210,29 +212,9 @@
       "house_a": "High House Shadow",
       "house_b": "High House Life",
       "actor_a": "CHINA",
-      "actor_b": "VACCINE",
-      "relationship": "neutral",
-      "goldstein_avg": -1.072,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
+      "actor_b": "EBOLA",
       "relationship": "opposed",
-      "goldstein_avg": -1.862,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Iron",
-      "actor_a": "CHINA",
-      "actor_b": "NVIDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.437,
+      "goldstein_avg": -2.009,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -242,67 +224,17 @@
       "actor_a": "CHINA",
       "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -0.153,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Coin",
-      "actor_a": "VACCINE",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.289,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Iron",
-      "actor_a": "VACCINE",
-      "actor_b": "NVIDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.01,
+      "goldstein_avg": -0.138,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "VACCINE",
+      "actor_a": "EBOLA",
       "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -0.509,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Iron",
-      "actor_a": "IRAN",
-      "actor_b": "NVIDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.435,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.247,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "NVIDIA",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.466,
+      "goldstein_avg": -0.887,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -310,12 +242,12 @@
   "house_trends": {
     "High House Coin": {
       "trend": "stable",
-      "trend_ratio": 1.067,
+      "trend_ratio": 0.889,
       "source": "gdelt_volume"
     },
     "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.957,
+      "trend": "rising",
+      "trend_ratio": 1.559,
       "source": "gdelt_volume"
     }
   }
