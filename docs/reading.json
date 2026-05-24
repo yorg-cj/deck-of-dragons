@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,47 +31,18 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.476,
-      "scores": {
-        "High House War": 0.129,
-        "High House Coin": 0.476,
-        "High House Shadow": 0.18,
-        "High House Life": 0.046,
-        "High House Iron": 0.093,
-        "High House Words": 0.18,
-        "High House Chains": 0.307
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.542,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.985
-      },
-      "article": {
-        "title": "Macroscope | Can Europe and Asia break the grip of US bond markets?",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3354373/can-europe-and-asia-break-grip-us-bond-markets?module=opinion&pgtype=homepage",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
       "confidence": 0.458,
       "scores": {
-        "High House War": 0.158,
-        "High House Coin": 0.111,
-        "High House Shadow": 0.208,
+        "High House War": 0.127,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.198,
         "High House Life": 0.458,
-        "High House Iron": 0.066,
-        "High House Words": 0.131,
-        "High House Chains": 0.17
+        "High House Iron": 0.073,
+        "High House Words": 0.095,
+        "High House Chains": 0.153
       },
       "reversal": {
         "reversed": true,
@@ -80,15 +51,46 @@
           "contaminated"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.989
+        "sentiment_score": 0.993
       },
       "article": {
         "title": "\u2018Every health facility said they were full\u2019: alarm over rapid spread of Ebola in DRC",
         "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
         "source": "guardian",
-        "full_text": "The warnings from aid groups and healthcare workers in the Democratic Republic of Congo have been stark, their calls for coordinated international action impassioned. As the country reels from the return of Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that experts say goes well beyond the number of confirmed cases. \u201cThe speed at which this Ebola outbreak is spreading is deeply worrying,\u201d said Rose Tchwenko, the DRC country director at the NGO Mercy Corps, on Thursday. \u201cThe risk of wider spread is real, and more regional and global support is urgently needed.\u201d Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, warned that the virus was gaining momentum and spreading in many areas. \u201cEveryone must mobilise,\u201d he told Associated Press on the same day. \u201cWe are still far from saying that the situation is under control.\u201d It has been a week since the DRC reported its 17th outbreak of Ebola, a viral disease with a mortality rate of between about 25% and 90% that spreads through body fluids or contaminated materials and causes organ damage, blood vessel impairment and sometimes severe internal and external bleeding. Nearly 750 suspected cases and 177 suspected deaths have been recorded since the first known victim died in Bunia, the capital of Ituri province in the country\u2019s north-west, on 24 April. Mourners touched him during a funeral in the nearby town of Mongbwalu, and the virus spread from there. Hospitals and other healthcare facilities have quickly become overwhelmed. Trish Newport, an emergency programme manager at M\u00e9decins Sans Fronti\u00e8res, said a team had identified suspected cases over the weekend at Bunia\u2019s Salama hospital but found no available isolation ward in the area. \u201cEvery health facility they called said: \u2018We\u2019re full of suspect cases. We don\u2019t have any space,\u2019\u201d she said on social media. \u201cThis gives you a vision of how crazy it is right now.\u201d *** Several factors are impeding the aid response, including the strain of the virus, for which there is no approved treatment or vaccine, the remote and conflict-scarred location of the outbreak, and local funeral customs at odds with strict disease-control practice. All this is set against the backdrop of big shortfalls in aid budgets, driven in large part by the Trump administration\u2019s decision to slash foreign aid. According to a study by the International Committee of the Red Cross (ICRC) earlier this year, more than half of health facilities surveyed in North and South Kivu provinces \u2013 where cases have also been reported \u2013 suffered physical damage or destruction and nearly half had reported significant staff departures since January 2025 due to conflict and insecurity. Two incidents this week laid bare some of the aggravating factors. On Tuesday, at least 17 people were killed in an attack by the Allied Democratic Forces (ADF), a militant group operating in eastern DRC and parts of Uganda, on several villages near the town of Mambasa in Ituri. \u201cWe are facing a double war: one of weapons and another of the disease outbreak,\u201d said Zawadi Jeanne, a woman from the town who lost her brother and uncle in an ADF attack a month ago. On Thursday, a crowd set fire to a treatment centre in Rwampara, near Bunia, after authorities refused to give them the dead body of a victim they wanted to bury themselves. The process of burying the bodies, which can be highly contagious, is handled by authorities for containment of the disease, but some families prefer traditional burials, which involve washing and touching the body and have in previous outbreaks been proven to be key drivers of the disease\u2019s spread. The incident highlighted the struggle that authorities in the DRC can face in enforcing safe burials. Batakura Zamundu Mugeni, a local customary chief who was present at the scene in Rwampara, told Agence France-Presse that authorities were working with health officials to track down any patients w"
+        "full_text": "The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls for coordinated international action impassioned. As the country reels from the return of the Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that experts say goes well beyond the number of confirmed cases. \u201cThe speed at which this Ebola outbreak is spreading is deeply worrying,\u201d said Rose Tchwenko, the DRC country director at the NGO Mercy Corps. \u201cThe risk of wider spread is real, and more regional and global support is urgently needed.\u201d Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, said the virus was gaining momentum and spreading in many areas. \u201cEveryone must mobilise,\u201d he told Associated Press on Thursday. \u201cWe are still far from saying that the situation is under control.\u201d It has been a week since the DRC reported its 17th outbreak of Ebola, a viral disease with a mortality rate of between 25% and 90% that is spread through body fluids or contaminated materials and causes organ damage, blood vessel impairment and sometimes severe internal and external bleeding. Nearly 750 suspected cases and 177 suspected deaths have been recorded since the first known victim died in Bunia, the capital of Ituri province in north-western DRC, on 24 April. Mourners touched him during a funeral in the nearby town of Mongbwalu, contributing to the spread of the virus. Hospitals and other healthcare facilities have quickly become overwhelmed. Trish Newport, an emergency programme manager at M\u00e9decins Sans Fronti\u00e8res, said a team had identified suspected cases over the weekend at Bunia\u2019s Salama hospital but found no available isolation ward in the area. \u201cEvery health facility they called said: \u2018We\u2019re full of suspect cases. We don\u2019t have any space,\u2019\u201d she said on social media. \u201cThis gives you a vision of how crazy it is right now.\u201d *** Several factors are impeding the aid response, including the strain of the virus, for which there is no approved treatment or vaccine; the remote and conflict-scarred location of the outbreak; and local funeral customs which are at odds with strict disease-control practice. All this is set against the backdrop of big shortfalls in aid budgets, driven largely by the Trump administration\u2019s cuts to foreign aid. According to a study by the International Committee of the Red Cross (ICRC) this year, more than half of health facilities surveyed in North and South Kivu provinces \u2013 where cases have also been reported \u2013 were damaged or destroyed, and nearly half had reported significant staff departures since January 2025 owing to conflict and insecurity. Two incidents this week laid bare some of the aggravating factors. On Tuesday, at least 17 people were killed in an attack by the Allied Democratic Forces, a militant group operating in eastern DRC and parts of Uganda, on several villages near the town of Mambasa, in Ituri. \u201cWe are facing a double war: one of weapons and another of the disease outbreak,\u201d said Zawadi Jeanne, a woman from the town who lost her brother and uncle in an ADF attack last month. On Thursday, a crowd set fire to a treatment centre in Rwampara, near Bunia, after authorities refused to give them the body of a victim they wanted to bury themselves. The burial of bodies, which can be highly contagious, is handled by authorities for containment of the disease, but some families prefer traditional burials, which involve washing and touching the body. In previous outbreaks this has proven to be a key driver of the disease\u2019s spread. Batakura Zamundu Mugeni, a customary chief who was at the scene in Rwampara, told Agence France-Presse that authorities were working with health officials to track down any patients who may have fled, as well as contact cases. He blamed the unrest on \u201cyoung people who do not grasp the reality of the disease\u201d. On Friday, the province banned funeral wakes and said buria"
       },
       "position": "ASCENDING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.453,
+      "scores": {
+        "High House War": 0.105,
+        "High House Coin": 0.453,
+        "High House Shadow": 0.167,
+        "High House Life": 0.026,
+        "High House Iron": 0.061,
+        "High House Words": 0.208,
+        "High House Chains": 0.327
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.988
+      },
+      "article": {
+        "title": "US Urges G7 to Adopt Tougher Sanctions on Iran, While Europe Pushes to End the War",
+        "url": "https://www.theepochtimes.com/world/us-urges-g7-to-adopt-tougher-sanctions-on-iran-while-europe-pushes-to-end-the-war-6031594",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Iron",
@@ -96,26 +98,26 @@
       "reversed": false,
       "confidence": 0.4,
       "scores": {
-        "High House War": 0.0,
-        "High House Coin": 0.037,
-        "High House Shadow": 0.125,
-        "High House Life": 0.156,
+        "High House War": -0.03,
+        "High House Coin": 0.186,
+        "High House Shadow": 0.174,
+        "High House Life": 0.03,
         "High House Iron": 0.4,
-        "High House Words": -0.012,
-        "High House Chains": 0.039
+        "High House Words": -0.025,
+        "High House Chains": -0.02
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.845
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder",
-        "url": "https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic",
-        "source": "guardian",
-        "full_text": "An AI system will work with humans to make a Nobel prize-winning discovery within 12 months and tradespeople will be helped by bipedal robots in two years, according to the co-founder of Anthropic. Jack Clark described a \u201cvertiginous sense of progress\u201d in the technology and made a series of predictions, including that companies run solely by AIs would be generating millions of dollars in revenue within 18 months, and that by the end of 2028, AI systems would be able to design their own successors. In a lecture at Oxford University on Wednesday, he also said there remained plausible scenarios in which the technology had \u201ca non-zero chance of killing everyone on the planet\u201d and that it was \u201cimportant to clearly state that that risk hasn\u2019t gone away\u201d. Anthropic\u2019s most popular model is called Claude, but it recently launched a version called Mythos that proved alarmingly capable at exploiting cybersecurity weaknesses. Clark told students it would be better if humans could slow the development of the technology \u201cto give ourselves more time as a species\u201d to deal with the implications of its powers. But he said this wouldn\u2019t happen, in the breakneck development \u201cby a variety of actors and a variety of countries, locked in a competition with one another, where commercial and geopolitical rivalries are often drowning out the larger existential-to-the-species aspects of the technology being built\u201d. This was \u201cnot ideal\u201d, he said. Clark is one of the most senior figures at Anthropic, which was established by AI researchers who quit the rival firm OpenAI over disagreements on safety. The $900bn (\u00a3670bn) company has been accused by Donald Trump\u2019s White House and other AI accelerationists of \u201cfear-mongering\u201d to encourage regulation that could cement its competitive position. Anthropic disputes this, and Clark said many people appeared to be in denial about AI\u2019s progress. He said he wanted to encourage humanity to prepare for a technology that would \u201csoon be more capable than all of us collectively\u201d. Comparing the failure to prepare for AI to the failure to prepare for pandemics such as Covid, he said: \u201cIf we stand by and let synthetic intelligence multiply, then we\u2019ll eventually be forced into reactivity.\u201d Critics of the frontier AI companies such as Anthropic, OpenAI and Google fear over-reliance on their few AI models \u2013 which have been backed by huge amounts of profit-seeking capital \u2013 could create a \u201csingle point of failure\u201d in global systems. Prof Edward Harcourt, the director of the Institute for Ethics in AI, which co-hosted Clark\u2019s lecture, separately warned that the rise of AIs that did more and more things for humans risked creating \u201ccognitive atrophy\u201d which could weaken humans\u2019 decision-making and powers of judgment. He advocated for alternative AI models that ask humans to do more of the thinking, sometimes called \u201cSocratic\u201d AI. Clark said his most conservative prediction was that \u201cvast swathes of the economy and society will go through profound changes\u201d \u2013 which could include a machine economy decoupling from the human economy, robots gaining brains, science progressing without humans, and scientific equipment that people hadn\u2019t conceived of but which worked. He admitted some of this sounded \u201ccrazy\u201d."
+        "title": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up",
+        "url": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "FOUNDATION"
     },
@@ -146,7 +148,7 @@
         "source": "guardian",
         "full_text": "There are school bus routes, baseball diamonds and American football fields. Soldiers queue for lunch at Taco Bell, Pizza Hut and Arby\u2019s outlets. A postbox stamped with the logo of the US postal service stands outside the commissary stocked with American groceries. The signage is all in English and the US dollar is the currency in use. Beyond the perimeter fence, military helicopters rise above the airfield and cut across the blue sky. The scene is a slice of contemporary America, despite being more than 5,000km from the US mainland. Camp Humphreys, located in the South Korean city of Pyeongtaek, is the largest American military base outside the US: 1,372 hectares (3,390 acres), nearly a thousand buildings and with a population of roughly 41,000, including American service members, their families and Korean nationals. It serves as headquarters for United States Forces Korea (USFK), the clearest physical expression of the alliance between Washington and Seoul that has underpinned stability on the Korean peninsula since the Korean war ended in an armistice in 1953. Yet the alliance that planted this piece of America in South Korea is now being tested. From trade tensions to security guarantees, relations under President Donald Trump are increasingly transactional in a way that has unsettled Seoul, which has long depended on Washington as a guarantor in its defence against North Korea. \u201cReliability and credibility issues are worse than they were before,\u201d says Mason Richey, a professor of international politics at Hankuk University of Foreign Studies in Seoul. The alliance retains deep operational ties, he says, but the political surface has become far more fraught. When Trump announced earlier this month that he would withdraw 5,000 troops from Germany after the country\u2019s chancellor, Friedrich Merz, said Washington was being \u201chumiliated\u201d by Iran \u2013 with the US president also threatening reductions elsewhere in Europe \u2013 Korean media raised the question of whether South Korea would be next, reviving speculation that has persisted throughout Trump\u2019s presidency. The defence ministry and presidential office moved quickly to deny that any troop reduction discussions were under way. Asked about reported adjustments to troop numbers and assets, USFK said the current 28,500 troops was \u201ca baseline, not a limit or a ceiling\u201d, and that the command\u2019s focus was on capabilities rather than fixed numbers. But under Trump, tensions in the alliance \u2013 including an immigration raid at a Hyundai-LG battery plant in Georgia last year, and threats to hike tariffs on South Korean goods to 25% \u2013 have begun to spill out into national security. The US reportedly partly restricted intelligence sharing after a South Korean minister publicly identified a suspected North Korean nuclear site. And in April, fallout from a US-incorporated company\u2019s data breach stalled talks on the development of nuclear-powered submarines. Amid these tensions, South Korea is debating how dependent it can remain on American protection. An advantage \u2018no other US ally can replicate\u2019 Behind the suburban veneer of Camp Humphreys is a military installation training for war. At the state-of-the-art Vandal Training Center, US and Korean soldiers run water-survival drills in a massive pool designed to simulate a helicopter crashing into the sea. In a darkened medical room filled with artificial smoke and the piped-in sounds of combat, troops wearing night-vision goggles practise battlefield evacuations on $400,000 mannequins with severed limbs that are rigged to bleed on command. Upstairs, virtual-reality simulators allow units to run combat scenarios in almost any country or terrain in the world. An official at the base says the readiness standard is \u201cfight tonight\u201d. For years, their focus has been across the northern border. North Korea possesses nuclear weapons and ballistic missiles theoretically capable of reaching the US mainland. In late 2024 it deployed more than 12,000 troops to s"
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -175,7 +177,7 @@
         "source": "guardian",
         "full_text": "When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu\u2019s prime minister hailed the result as the start of \u201ca new chapter\u201d in climate action. \u201cThe task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,\u201d said Jotham Napat. The recognition by states that they have a legal responsibility to address climate breakdown by cutting their greenhouse gas emissions, including tackling fossil fuels, could prove a boost for climate diplomacy and litigation, according to experts. While the international court of justice\u2019s (ICJ) 2025 advisory opinion was at the time hailed as a \u201chistoric win\u201d for small island states particularly vulnerable to the effects of the climate crisis, it has so far proved weak as a diplomatic lever. To try to help it make a difference on the ground, Vanuatu led negotiations on a new UN resolution, a lengthy process that required numerous compromises. The final version, co-sponsored by 90 countries, urges states to transition away from fossil fuels in a \u201cjust, orderly and equitable manner\u201d to reach net zero by 2050, and to phase out \u201cinefficient fossil fuel subsidies that do not address energy poverty or just transitions as soon as possible\u201d. But the resolution explicitly does not attribute responsibility to any particular state. Although the final resolution did not achieve the unanimity Vanuatu had sought, 141 countries voted in favour, with 28 abstentions. Eight states voted against it, including some of the world\u2019s biggest producers of oil and gas: the US, Saudi Arabia, Russia, Belarus, Iran, Israel, Yemen and Liberia. The advisory opinion has so far had more impact domestically than diplomatically. Harj Narulla, a barrister at Doughty Street Chambers in London who was counsel for Solomon Islands during the ICJ proceedings, said it had already proved transformative for domestic litigation. \u201cThis resolution won\u2019t change that, but it does add great political weight behind the opinion which judges take notice of, even if they won\u2019t say it publicly.\u201d It may also support domestic lawmakers trying to introduce new legislation and setting climate goals. Joie Chowdhury, the climate justice and accountability manager at the Center for International Environmental Law, said: \u201cOne of the important spaces where we have already seen uptake of the ICJ\u2019s legal conclusions is in nationally determined contributions. The resolution can further encourage national climate plans to integrate the advisory opinion\u2019s findings.\u201d But Narulla said the new resolution was likely to have the greatest influence on climate diplomacy. \u201cThe international community is showing that Cop is not the only forum that matters and, if progress stalls there, then climate action will be pursued through the general assembly and in other multilateral spaces.\u201d Rebecca Newsom, the global political lead at Greenpeace International, said the timing of the vote, after the inaugural fossil fuel phaseout conference in Santa Marta, Colombia, last month and the impact of the energy crisis on the fossil fuel industry, showed \u201cpolitical momentum is clearly growing\u201d. \u201cGovernments must now translate this resolution into tangible roadmaps to equitably phase out fossil fuel exploitation, production and consumption,\u201d said Newsom. Tuvalu is due to host a meeting of world leaders in October, before the Cop31 global climate talks in Turkey the following month. It has also agreed to co-host the second fossil fuel phaseout conference early next year. Meanwhile the world\u2019s biggest oil and gas producers remain opposed to any suggestion that they have legal obligations to mitigate their greenhouse gas emissions. The US, for example, reportedly lobbied to drop the UN resolution altogether. Before the vote, the US ambassador Tammy Bruce criticised the text for singling out \u201ccertain groups for prefer"
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Words",
@@ -204,7 +206,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
@@ -214,7 +216,27 @@
       "actor_a": "CHINA",
       "actor_b": "EBOLA",
       "relationship": "opposed",
-      "goldstein_avg": -2.009,
+      "goldstein_avg": -2.205,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.885,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "CHINA",
+      "actor_b": "MARKET DEBUT",
+      "relationship": "allied",
+      "goldstein_avg": 2.804,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -224,7 +246,17 @@
       "actor_a": "CHINA",
       "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -0.138,
+      "goldstein_avg": -0.084,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Coin",
+      "actor_a": "EBOLA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.42,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -234,20 +266,55 @@
       "actor_a": "EBOLA",
       "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -0.887,
+      "goldstein_avg": -0.924,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Iron",
+      "actor_a": "IRAN",
+      "actor_b": "MARKET DEBUT",
+      "relationship": "neutral",
+      "goldstein_avg": -0.152,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.209,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "MARKET DEBUT",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "allied",
+      "goldstein_avg": 1.129,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 0.889,
+      "trend": "falling",
+      "trend_ratio": 0.848,
       "source": "gdelt_volume"
     },
     "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.559,
+      "trend": "stable",
+      "trend_ratio": 1.103,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.521,
       "source": "gdelt_volume"
     }
   }
