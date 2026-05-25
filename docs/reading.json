@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "cards": [
     {
       "house": "High House Shadow",
@@ -59,38 +59,7 @@
         "source": "guardian",
         "full_text": "The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls for coordinated international action impassioned. As the country reels from the return of the Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that experts say goes well beyond the number of confirmed cases. \u201cThe speed at which this Ebola outbreak is spreading is deeply worrying,\u201d said Rose Tchwenko, the DRC country director at the NGO Mercy Corps. \u201cThe risk of wider spread is real, and more regional and global support is urgently needed.\u201d Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, said the virus was gaining momentum and spreading in many areas. \u201cEveryone must mobilise,\u201d he told Associated Press on Thursday. \u201cWe are still far from saying that the situation is under control.\u201d It has been a week since the DRC reported its 17th outbreak of Ebola, a viral disease with a mortality rate of between 25% and 90% that is spread through body fluids or contaminated materials and causes organ damage, blood vessel impairment and sometimes severe internal and external bleeding. Nearly 750 suspected cases and 177 suspected deaths have been recorded since the first known victim died in Bunia, the capital of Ituri province in north-western DRC, on 24 April. Mourners touched him during a funeral in the nearby town of Mongbwalu, contributing to the spread of the virus. Hospitals and other healthcare facilities have quickly become overwhelmed. Trish Newport, an emergency programme manager at M\u00e9decins Sans Fronti\u00e8res, said a team had identified suspected cases over the weekend at Bunia\u2019s Salama hospital but found no available isolation ward in the area. \u201cEvery health facility they called said: \u2018We\u2019re full of suspect cases. We don\u2019t have any space,\u2019\u201d she said on social media. \u201cThis gives you a vision of how crazy it is right now.\u201d *** Several factors are impeding the aid response, including the strain of the virus, for which there is no approved treatment or vaccine; the remote and conflict-scarred location of the outbreak; and local funeral customs which are at odds with strict disease-control practice. All this is set against the backdrop of big shortfalls in aid budgets, driven largely by the Trump administration\u2019s cuts to foreign aid. According to a study by the International Committee of the Red Cross (ICRC) this year, more than half of health facilities surveyed in North and South Kivu provinces \u2013 where cases have also been reported \u2013 were damaged or destroyed, and nearly half had reported significant staff departures since January 2025 owing to conflict and insecurity. Two incidents this week laid bare some of the aggravating factors. On Tuesday, at least 17 people were killed in an attack by the Allied Democratic Forces, a militant group operating in eastern DRC and parts of Uganda, on several villages near the town of Mambasa, in Ituri. \u201cWe are facing a double war: one of weapons and another of the disease outbreak,\u201d said Zawadi Jeanne, a woman from the town who lost her brother and uncle in an ADF attack last month. On Thursday, a crowd set fire to a treatment centre in Rwampara, near Bunia, after authorities refused to give them the body of a victim they wanted to bury themselves. The burial of bodies, which can be highly contagious, is handled by authorities for containment of the disease, but some families prefer traditional burials, which involve washing and touching the body. In previous outbreaks this has proven to be a key driver of the disease\u2019s spread. Batakura Zamundu Mugeni, a customary chief who was at the scene in Rwampara, told Agence France-Presse that authorities were working with health officials to track down any patients who may have fled, as well as contact cases. He blamed the unrest on \u201cyoung people who do not grasp the reality of the disease\u201d. On Friday, the province banned funeral wakes and said buria"
       },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.453,
-      "scores": {
-        "High House War": 0.105,
-        "High House Coin": 0.453,
-        "High House Shadow": 0.167,
-        "High House Life": 0.026,
-        "High House Iron": 0.061,
-        "High House Words": 0.208,
-        "High House Chains": 0.327
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
-      },
-      "article": {
-        "title": "US Urges G7 to Adopt Tougher Sanctions on Iran, While Europe Pushes to End the War",
-        "url": "https://www.theepochtimes.com/world/us-urges-g7-to-adopt-tougher-sanctions-on-iran-while-europe-pushes-to-end-the-war-6031594",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Iron",
@@ -119,92 +88,125 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.36,
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.375,
       "scores": {
-        "High House War": 0.36,
-        "High House Coin": -0.003,
-        "High House Shadow": 0.224,
-        "High House Life": 0.041,
+        "High House War": 0.045,
+        "High House Coin": 0.375,
+        "High House Shadow": 0.197,
+        "High House Life": 0.285,
         "High House Iron": 0.1,
-        "High House Words": 0.096,
-        "High House Chains": -0.007
+        "High House Words": 0.105,
+        "High House Chains": 0.178
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "collapse"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "South Korea hosts America\u2019s biggest overseas military base \u2013 but what does its future look like under Trump?",
-        "url": "https://www.theguardian.com/world/2026/may/22/camp-humphreys-south-korea-us-military-base",
+        "title": "The world is heading toward a financial crisis \u2013 the state of US politics has left us ill-prepared",
+        "url": "https://www.theguardian.com/business/2026/may/25/financial-crisis-trump-economics",
         "source": "guardian",
-        "full_text": "There are school bus routes, baseball diamonds and American football fields. Soldiers queue for lunch at Taco Bell, Pizza Hut and Arby\u2019s outlets. A postbox stamped with the logo of the US postal service stands outside the commissary stocked with American groceries. The signage is all in English and the US dollar is the currency in use. Beyond the perimeter fence, military helicopters rise above the airfield and cut across the blue sky. The scene is a slice of contemporary America, despite being more than 5,000km from the US mainland. Camp Humphreys, located in the South Korean city of Pyeongtaek, is the largest American military base outside the US: 1,372 hectares (3,390 acres), nearly a thousand buildings and with a population of roughly 41,000, including American service members, their families and Korean nationals. It serves as headquarters for United States Forces Korea (USFK), the clearest physical expression of the alliance between Washington and Seoul that has underpinned stability on the Korean peninsula since the Korean war ended in an armistice in 1953. Yet the alliance that planted this piece of America in South Korea is now being tested. From trade tensions to security guarantees, relations under President Donald Trump are increasingly transactional in a way that has unsettled Seoul, which has long depended on Washington as a guarantor in its defence against North Korea. \u201cReliability and credibility issues are worse than they were before,\u201d says Mason Richey, a professor of international politics at Hankuk University of Foreign Studies in Seoul. The alliance retains deep operational ties, he says, but the political surface has become far more fraught. When Trump announced earlier this month that he would withdraw 5,000 troops from Germany after the country\u2019s chancellor, Friedrich Merz, said Washington was being \u201chumiliated\u201d by Iran \u2013 with the US president also threatening reductions elsewhere in Europe \u2013 Korean media raised the question of whether South Korea would be next, reviving speculation that has persisted throughout Trump\u2019s presidency. The defence ministry and presidential office moved quickly to deny that any troop reduction discussions were under way. Asked about reported adjustments to troop numbers and assets, USFK said the current 28,500 troops was \u201ca baseline, not a limit or a ceiling\u201d, and that the command\u2019s focus was on capabilities rather than fixed numbers. But under Trump, tensions in the alliance \u2013 including an immigration raid at a Hyundai-LG battery plant in Georgia last year, and threats to hike tariffs on South Korean goods to 25% \u2013 have begun to spill out into national security. The US reportedly partly restricted intelligence sharing after a South Korean minister publicly identified a suspected North Korean nuclear site. And in April, fallout from a US-incorporated company\u2019s data breach stalled talks on the development of nuclear-powered submarines. Amid these tensions, South Korea is debating how dependent it can remain on American protection. An advantage \u2018no other US ally can replicate\u2019 Behind the suburban veneer of Camp Humphreys is a military installation training for war. At the state-of-the-art Vandal Training Center, US and Korean soldiers run water-survival drills in a massive pool designed to simulate a helicopter crashing into the sea. In a darkened medical room filled with artificial smoke and the piped-in sounds of combat, troops wearing night-vision goggles practise battlefield evacuations on $400,000 mannequins with severed limbs that are rigged to bleed on command. Upstairs, virtual-reality simulators allow units to run combat scenarios in almost any country or terrain in the world. An official at the base says the readiness standard is \u201cfight tonight\u201d. For years, their focus has been across the northern border. North Korea possesses nuclear weapons and ballistic missiles theoretically capable of reaching the US mainland. In late 2024 it deployed more than 12,000 troops to s"
+        "full_text": "A bona fide financial crisis has not broken out since the US housing meltdown of 2007. Even the Covid pandemic and subsequent upsurge in inflation didn\u2019t lead to financial upheaval. The jitters produced by the collapse of Silicon Valley Bank in 2023 were soon forgotten. Given this stability, it might take some effort to convince financial markets that another big one is around the corner. But it is. Financial markets and their regulating governments may believe they have acquired immunity, but the world is careening toward a moment of financial upheaval that could well dwarf the damage caused by the last one. What\u2019s most scary about this approaching moment is not the specific nature of the crisis, but the incompetence with which it will be handled. Current US politics practically guarantee that Washington\u2019s policy response will be misguided, steered by Donald Trump\u2019s incontinent appetites and animosities. In a world where mistrust has strangled space for collective action, damages are likely to be compounded by similarly blinkered responses around the globe. As Maurice Obstfeld, former chief economist at the International Monetary Fund noted: \u201cThe political fundamentals are really bad.\u201d We\u2019ll never know exactly when and how a crisis will hit. But one can envisage plausible pathways. Perhaps a financial bubble pops: stocks buoyed up by the current euphoria over the prospects of artificial intelligence could be downgraded sharply in light of disappointing returns, sending the stock market tumbling, shrinking consumer spending and damaging balance sheets of companies that have piled into the AI dream, as well as their financiers. The largest risk, at this moment, revolves around the federal government\u2019s accumulation of debt, now in excess of 120% of the nation\u2019s gross domestic product, a near unprecedented level. It is likely to keep on growing at a fast clip given massive built in budget deficits for the next decade. Both of these scenarios live in a global context: the US\u2019s insatiable appetite for capital \u2013 to finance datacenters or the federal deficit \u2013 is met by China\u2019s export of capital to recycle its huge trade surplus. A coarse, schematic way to think of it is China sells stuff to the US and invests the proceeds in the US. Then, Americans take money from China and use it to buy Chinese stuff. A win-win fix would be for China to spend more on their own stuff while Americans, especially the federal government, splurged somewhat less. Given politics in Washington and Beijing, this arrangement seems exceedingly unlikely. It is unclear what would detonate a sell-off of US government debt. Treasury bonds still provide the largest, most liquid pool of safe investable assets. But markets were in a tizzy last week, sending rates on government bonds sharply higher over worries about the Iran war and inflation. One must only think back to 3 April last year, when Trump\u2019s tariffs on everything sent the price of treasury bonds briefly into a tailspin, to realize that Washington\u2019s increasingly idiosyncratic decisions could send investors running for the exit. The world is not that of 15 years ago, when real interest rates neared zero and central banks in China and many developing countries held massive amounts of treasury bonds, providing a stable source of financing for US deficits. Today, investors buying treasuries want yield and diversification. They will mercilessly dump US assets if the tide turns sour. The US\u2019s dysfunctional politics can still do a lot of damage. Say Trump starts bombing Iran again, or invades Cuba, or Greenland. Say he manages to take control of the Federal Reserve, and strong-arm it to cut interest rates. Or say he further increases the deficit via some orgy of military spending. He shows no concern over growing federal debt. And Republicans in Congress show no interest in stopping him. Which of them will stand in the way of his appetites, given his ability \u2013 well on display last week \u2013 to take down anyone who d"
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.342,
+      "reversed": true,
+      "confidence": 0.338,
       "scores": {
-        "High House War": 0.017,
-        "High House Coin": 0.196,
-        "High House Shadow": 0.039,
-        "High House Life": 0.288,
-        "High House Iron": 0.103,
-        "High House Words": 0.217,
-        "High House Chains": 0.342
+        "High House War": 0.075,
+        "High House Coin": 0.307,
+        "High House Shadow": 0.135,
+        "High House Life": 0.049,
+        "High House Iron": 0.051,
+        "High House Words": 0.143,
+        "High House Chains": 0.338
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.545,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "UN\u2019s climate crisis vote shows political momentum is growing, say experts",
-        "url": "https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
-        "source": "guardian",
-        "full_text": "When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu\u2019s prime minister hailed the result as the start of \u201ca new chapter\u201d in climate action. \u201cThe task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,\u201d said Jotham Napat. The recognition by states that they have a legal responsibility to address climate breakdown by cutting their greenhouse gas emissions, including tackling fossil fuels, could prove a boost for climate diplomacy and litigation, according to experts. While the international court of justice\u2019s (ICJ) 2025 advisory opinion was at the time hailed as a \u201chistoric win\u201d for small island states particularly vulnerable to the effects of the climate crisis, it has so far proved weak as a diplomatic lever. To try to help it make a difference on the ground, Vanuatu led negotiations on a new UN resolution, a lengthy process that required numerous compromises. The final version, co-sponsored by 90 countries, urges states to transition away from fossil fuels in a \u201cjust, orderly and equitable manner\u201d to reach net zero by 2050, and to phase out \u201cinefficient fossil fuel subsidies that do not address energy poverty or just transitions as soon as possible\u201d. But the resolution explicitly does not attribute responsibility to any particular state. Although the final resolution did not achieve the unanimity Vanuatu had sought, 141 countries voted in favour, with 28 abstentions. Eight states voted against it, including some of the world\u2019s biggest producers of oil and gas: the US, Saudi Arabia, Russia, Belarus, Iran, Israel, Yemen and Liberia. The advisory opinion has so far had more impact domestically than diplomatically. Harj Narulla, a barrister at Doughty Street Chambers in London who was counsel for Solomon Islands during the ICJ proceedings, said it had already proved transformative for domestic litigation. \u201cThis resolution won\u2019t change that, but it does add great political weight behind the opinion which judges take notice of, even if they won\u2019t say it publicly.\u201d It may also support domestic lawmakers trying to introduce new legislation and setting climate goals. Joie Chowdhury, the climate justice and accountability manager at the Center for International Environmental Law, said: \u201cOne of the important spaces where we have already seen uptake of the ICJ\u2019s legal conclusions is in nationally determined contributions. The resolution can further encourage national climate plans to integrate the advisory opinion\u2019s findings.\u201d But Narulla said the new resolution was likely to have the greatest influence on climate diplomacy. \u201cThe international community is showing that Cop is not the only forum that matters and, if progress stalls there, then climate action will be pursued through the general assembly and in other multilateral spaces.\u201d Rebecca Newsom, the global political lead at Greenpeace International, said the timing of the vote, after the inaugural fossil fuel phaseout conference in Santa Marta, Colombia, last month and the impact of the energy crisis on the fossil fuel industry, showed \u201cpolitical momentum is clearly growing\u201d. \u201cGovernments must now translate this resolution into tangible roadmaps to equitably phase out fossil fuel exploitation, production and consumption,\u201d said Newsom. Tuvalu is due to host a meeting of world leaders in October, before the Cop31 global climate talks in Turkey the following month. It has also agreed to co-host the second fossil fuel phaseout conference early next year. Meanwhile the world\u2019s biggest oil and gas producers remain opposed to any suggestion that they have legal obligations to mitigate their greenhouse gas emissions. The US, for example, reportedly lobbied to drop the UN resolution altogether. Before the vote, the US ambassador Tammy Bruce criticised the text for singling out \u201ccertain groups for prefer"
+        "title": "Airlines risk disruptions as NCAA enforces debt sanctions",
+        "url": "https://punchng.com/airlines-risk-disruptions-as-ncaa-enforces-debt-sanctions",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.321,
+      "confidence": 0.337,
       "scores": {
-        "High House War": 0.174,
-        "High House Coin": 0.216,
-        "High House Shadow": 0.317,
-        "High House Life": 0.006,
-        "High House Iron": 0.019,
-        "High House Words": 0.321,
-        "High House Chains": 0.232
+        "High House War": 0.229,
+        "High House Coin": 0.122,
+        "High House Shadow": 0.296,
+        "High House Life": 0.081,
+        "High House Iron": 0.132,
+        "High House Words": 0.337,
+        "High House Chains": 0.203
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.798
+        "sentiment_score": 0.614
       },
       "article": {
-        "title": "How Two Criminal Cases Reflect America\u2019s Tense Relations With China",
-        "url": "https://www.nytimes.com/2026/05/15/us/politics/trump-xi-chinese-americans-foreign-agents-discrimination.html",
-        "source": "nyt",
+        "title": "Cuba , los drones y la f\u00e1brica medi\u00e1tica imperial - Tercera Informaci\u00f3n",
+        "url": "https://www.tercerainformacion.es/opinion/23/05/2026/cuba-los-drones-y-la-fabrica-mediatica-imperial/",
+        "source": "gdelt_doc",
         "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.287,
+      "scores": {
+        "High House War": 0.287,
+        "High House Coin": 0.148,
+        "High House Shadow": 0.109,
+        "High House Life": 0.069,
+        "High House Iron": 0.003,
+        "High House Words": 0.192,
+        "High House Chains": 0.129
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "blockade"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Republican lawmakers warn of \u2018disastrous mistake\u2019 as Trump nears deal with Iran",
+        "url": "https://www.theguardian.com/world/2026/may/24/republican-hawks-trump-deal-iran",
+        "source": "guardian",
+        "full_text": "Republican hawks have issued a rare rebuke of Donald Trump over his planned peace deal with Iran, describing it as a \u201cdisaster\u201d and questioning why the US president launched the war in the first place. Allies of Trump who strongly backed his controversial decision to order war on Iran alongside Israel urged him to \u201chold the line\u201d this weekend, despite mounting economic costs and no sign of progress on many of the the initial objectives set out by his administration. With the Iranian government apparently in jubilant mood, members of Trump\u2019s own party responded furiously to reports that a proposed deal contained major concessions from Washington. Roger Wicker, who chairs the Senate armed services committee, said the \u201crumored 60-day ceasefire\u201d would be a \u201cdisaster\u201d in a post on social media. \u201cEverything accomplished by Operation Epic Fury would be for naught,\u201d he added. After suggesting on Saturday that a deal was within reach, Trump seemed to row back on Sunday morning, after the angry response from some corners of his party. Talks were progressing in an \u201corderly and constructive\u201d manner, the president insisted, adding: \u201cI have informed my representatives not to rush into a deal in that time is on our side.\u201d Stressing that a \u201cgood and proper\u201d deal was on the way, he later claimed \u201cnobody has seen it\u201d in a bid to quell criticism. \u201cIt isn\u2019t even fully negotiated yet,\u201d he said. \u201cSo don\u2019t listen to the losers, who are critical about something they know nothing about.\u201d Trump had claimed on Saturday that a memorandum of understanding to end the war had been \u201clargely negotiated\u201d and was waiting to be finalized. The US president said on his Truth Social platform that the agreement would include opening of the strait of Hormuz, a crucial chokepoint for global trade, which Iran has effectively shut since the US and Israel started the war in February. But the US president did not mention Iran\u2019s nuclear program and highly enriched uranium, despite repeatedly insisting that Tehran renounce any nuclear ambitions was a \u201cred line\u201d in negotiations to end the war. Iranian officials have sought to negotiate those matters at a later date. The peace draft includes a 60-day ceasefire extension, during which the strait of Hormuz would be reopened, according to Axios. Iran would agree to clear mines it deployed in the strait and allow ships to pass freely, and in exchange, the US would lift its naval blockade on Iranian ports. During that time Iran would also be able to freely sell oil and negotiations would be held on the nuclear issue. The apparent concessions from Washington have triggered alarm among several Republican foreign policy hawks. Senator Lindsey Graham, a close ally of Trump, warned: \u201cIf a deal is struck to end the Iranian conflict because it is believed that the strait of Hormuz cannot be protected from Iranian terrorism and Iran still possesses the capability to destroy major Gulf oil infrastructure, then Iran will be perceived as being a dominate force requiring a diplomatic solution.\u201d The perception of Iran being able to \u201cterrorize\u201d the strait of Hormuz, and its ability to damage oil infrastructure across the Gulf, amounts to a \u201cmajor shift of the balance of power in the region and over time will be a nightmare for Israel\u201d, Graham argued. \u201cAlso, it makes one wonder why the war started to begin with if these perceptions are accurate,\u201d he added, stressing the need for the US to \u201cget this right\u201d. Tom Cotton, who chairs the Senate intelligence committee reposted Graham\u2019s comments, while Texas senator Ted Cruz said he was \u201cdeeply concerned\u201d by reports about the emerging agreement. \u201cIf the result of all that is to be an Iranian regime \u2013 still run by Islamists who chant \u2018death to America\u2019 \u2013 now receiving billions of dollars, being able to enrich uranium &amp; develop nuclear weapons, and having effective control over the Strait of Hormuz, then that outcome would be a disastrous mistake,\u201d Cruz wrote on X. Trump, he said, \u201cshould continue to"
       },
       "position": "EMERGING"
     }
@@ -216,17 +218,7 @@
       "actor_a": "CHINA",
       "actor_b": "EBOLA",
       "relationship": "opposed",
-      "goldstein_avg": -2.205,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.885,
+      "goldstein_avg": -2.223,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -236,7 +228,27 @@
       "actor_a": "CHINA",
       "actor_b": "MARKET DEBUT",
       "relationship": "allied",
-      "goldstein_avg": 2.804,
+      "goldstein_avg": 2.844,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "NCAA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.021,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "CUBA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.547,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -244,49 +256,69 @@
       "house_a": "High House Shadow",
       "house_b": "High House War",
       "actor_a": "CHINA",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.084,
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.726,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
-      "house_b": "High House Coin",
+      "house_b": "High House Iron",
+      "actor_a": "EBOLA",
+      "actor_b": "MARKET DEBUT",
+      "relationship": "neutral",
+      "goldstein_avg": -0.052,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Chains",
+      "actor_a": "EBOLA",
+      "actor_b": "NCAA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.027,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "EBOLA",
+      "actor_b": "CUBA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.412,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House War",
       "actor_a": "EBOLA",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.42,
+      "goldstein_avg": -2.384,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "EBOLA",
-      "actor_b": "SOUTH KOREA",
+      "house_a": "High House Iron",
+      "house_b": "High House Chains",
+      "actor_a": "MARKET DEBUT",
+      "actor_b": "NCAA",
       "relationship": "neutral",
-      "goldstein_avg": -0.924,
+      "goldstein_avg": 0.029,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
-      "house_b": "High House Iron",
-      "actor_a": "IRAN",
-      "actor_b": "MARKET DEBUT",
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "MARKET DEBUT",
+      "actor_b": "CUBA",
       "relationship": "neutral",
-      "goldstein_avg": -0.152,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.209,
+      "goldstein_avg": 0.001,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -294,27 +326,57 @@
       "house_a": "High House Iron",
       "house_b": "High House War",
       "actor_a": "MARKET DEBUT",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "allied",
-      "goldstein_avg": 1.129,
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.112,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "NCAA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.038,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "CUBA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.277,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
+    "High House Shadow": {
       "trend": "falling",
-      "trend_ratio": 0.848,
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.103,
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.587,
       "source": "gdelt_volume"
     },
     "High House Chains": {
       "trend": "falling",
-      "trend_ratio": 0.521,
+      "trend_ratio": 0.774,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.869,
       "source": "gdelt_volume"
     }
   }
