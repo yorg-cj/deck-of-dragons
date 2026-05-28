@@ -1,6 +1,35 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "cards": [
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.644,
+      "scores": {
+        "High House War": 0.026,
+        "High House Coin": 0.015,
+        "High House Shadow": 0.066,
+        "High House Life": 0.644,
+        "High House Iron": 0.024,
+        "High House Words": 0.108,
+        "High House Chains": 0.117
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "The WHO is at it Again : Climate Change Repackaged as a Health Emergency",
+        "url": "https://wattsupwiththat.com/2026/05/27/the-who-is-at-it-again-climate-change-repackaged-as-a-health-emergency/",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,96 +57,123 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "ASCENDING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.463,
+      "confidence": 0.391,
       "scores": {
-        "High House War": 0.06,
-        "High House Coin": 0.12,
-        "High House Shadow": 0.234,
-        "High House Life": 0.071,
-        "High House Iron": 0.463,
-        "High House Words": 0.013,
-        "High House Chains": -0.067
+        "High House War": -0.023,
+        "High House Coin": 0.391,
+        "High House Shadow": 0.055,
+        "High House Life": -0.025,
+        "High House Iron": 0.171,
+        "High House Words": -0.018,
+        "High House Chains": 0.12
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.915
+        "sentiment_score": 0.738
       },
       "article": {
-        "title": "9 In 10 CEOs Say AI May Cut Nearly 20% Jobs Within Two Years",
-        "url": "https://www.timesnownews.com/technology-science/9-in-10-ceos-say-ai-may-cut-nearly-20-jobs-within-two-years-article-154409421",
+        "title": "JPMorgan CEO Says Company Could Spend $20 Billion on Acquisitions",
+        "url": "https://www.ibtimes.com/jpmorgan-ceo-says-company-could-spend-20-billion-acquisitions-3803379",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.444,
+      "confidence": 0.39,
       "scores": {
-        "High House War": -0.02,
-        "High House Coin": 0.027,
-        "High House Shadow": 0.042,
-        "High House Life": 0.444,
-        "High House Iron": 0.053,
-        "High House Words": 0.032,
-        "High House Chains": -0.002
+        "High House War": 0.165,
+        "High House Coin": 0.371,
+        "High House Shadow": 0.133,
+        "High House Life": 0.192,
+        "High House Iron": 0.011,
+        "High House Words": 0.35,
+        "High House Chains": 0.39
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.845
+        "sentiment_score": 0.795
       },
       "article": {
-        "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
-        "url": "https://www.theguardian.com/society/2026/may/26/climate-crisis-accelerating-antibiotic-resistance-across-world-salmonella-study",
-        "source": "guardian",
-        "full_text": "The climate crisis is accelerating a global increase in antibiotic resistance that poses a serious threat to human health, experts have said as figures show a rise in salmonella antibiotic resistant genes. Antibiotic resistance is one of the fastest-growing threats to global health. It can affect people of any age in any country and already kills more than 1 million people a year, according to estimates. Now a study, led by researchers from the UK, France, Australia, Switzerland and China, has revealed how climate change is linked to rising antibiotic resistance in salmonella, one of the world\u2019s most common bacterial diseases. Climate change is associated with a 10% global increase in salmonella antibiotic resistance genes between 1940 and 2023, according to the first-of-its-kind study, which has been published in the Lancet Planetary Health journal. The main drivers of antibiotic resistance are still the misuse and overuse of antibiotics, which are used to treat infections. But the research suggested the problem is being worsened by climate change. \u201cThe accumulated evidence suggests that climate change is an accelerating force behind the global spread of antimicrobial resistance,\u201d the study authors wrote. \u201cOur findings provide supporting evidence that rising temperatures and altered precipitation patterns non-linearly amplify the abundance and dissemination of antimicrobial resistance genes in bacterial pathogens such as salmonella. \u201cThese findings reinforce the idea that climate change alters microbial ecological stability and accelerates resistance evolution across human, animal, and environmental reservoirs. \u201cUrgent integration of climate change-mitigation policies, particularly those aligned with the Paris agreement \u2013 with enhanced antimicrobial stewardship and One Health surveillance \u2013 is essential to curtail the future burden of antimicrobial resistance.\u201d Antimicrobial resistance is mainly driven by the overuse and misuse of antibiotics, which allows resistant bacteria to survive and spread. However, rising temperatures and changing rainfall patterns can influence how bacteria survive, mutate and spread, potentially increasing the exchange of antibiotic resistance genes, the researchers said. Previous studies have linked higher temperatures to greater levels of resistant bacteria, but until now global quantitative studies on the link have been limited. The new study analysed the genomes of more than 480,000 salmonella samples from 139 countries collected between 1940 and 2023. Levels of antibiotic resistance genes were compared with changes in average temperature and rainfall over time. Using a model to study the relationship, the researchers found that antibiotic resistance does not just increase steadily as temperatures rise, but that the number of resistance genes changes over time in a more complicated way depending on both temperature and rainfall. This suggests that environmental changes can speed up how bacteria adapt to antibiotics, according to the researchers. The study found that 82% of countries studied had increases in antibiotic resistance genes in salmonella. The strongest climate-associated increases were found to be in the Middle East and north Africa, followed by south Asia, and sub-Saharan Africa. The study showed a link between climate change and antibiotic resistance genes in salmonella, but did not prove that climate change was directly causing the increase. However, the authors said their findings highlight the need to consider climate change when it comes to global efforts in tackling antibiotic resistance. Urgent action, alongside responsible antibiotic use and improved disease surveillance, will be key to limiting the future spread of antibiotic resistance, they added. Their study provided \u201crobust evidence\u201d that climate change is associated with a heightened risk of antibiotic resistance, they said. \u201cThe findings emphasise that combining climate change-mitigation efforts and antibiotic stewards"
+        "title": "Editorial . Un mundo en tensi\u00f3n : guerras , econom\u00eda e incertidumbre global marcan la agenda internacional",
+        "url": "https://xornalgalicia.com/gente/columna-editorial/editorial-un-mundo-en-tension-guerras-economia-e-incertidumbre-global-marcan-la-agenda-internacional",
+        "source": "gdelt_doc",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": true,
-      "confidence": 0.375,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.384,
       "scores": {
-        "High House War": 0.045,
-        "High House Coin": 0.375,
-        "High House Shadow": 0.197,
-        "High House Life": 0.285,
-        "High House Iron": 0.1,
-        "High House Words": 0.105,
-        "High House Chains": 0.178
+        "High House War": -0.01,
+        "High House Coin": 0.031,
+        "High House Shadow": 0.187,
+        "High House Life": -0.007,
+        "High House Iron": 0.384,
+        "High House Words": 0.068,
+        "High House Chains": -0.055
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.848
+      },
+      "article": {
+        "title": "US students on why they booed their pro-AI graduation speakers: \u2018They\u2019re not reading the room\u2019",
+        "url": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+        "source": "guardian",
+        "full_text": "When Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about artificial intelligence already had him questioning the value of his degree. Then a music executive started preaching about AI\u2019s transformative power during a commencement speech. \u201cThis industry will change on you in a heartbeat. It has already changed more in the last 10 years than in the 50 years prior \u2026 AI is rewriting production as we sit here,\u201d said Scott Borchetta, CEO of the record label Big Machine. After a few stray boos from graduates, he doubled down: \u201cDeal with it.\u201d The students\u2019 jeering grew louder, but Borchetta barreled through: \u201cYou can hear me now or you can pay me later \u2026 then do something about it. It\u2019s a tool. Make it work for you.\u201d He continued: \u201cThe things you learned in your first year here may already be obsolete.\u201d Borchetta\u2019s remarks were \u201ca knife to the chest\u201d, says Pagel, who studied political science and human development family sciences. He felt the boos reflected how annoyed students were about what they saw as out-of-touch executives downplaying their anxieties about AI. A 2025 Harvard poll of young people in the US found that a majority see AI as a threat to their career prospects. Pagel and his peers are entering a job market where AI\u2019s efficiency is already being used to justify mass layoffs. While it\u2019s unclear which jobs may be entirely replaced by AI \u2013 and whether AI could eventually create more career pathways than it destroys \u2013 recent graduates are feeling betrayed. \u201cWe\u2019ve been pushed our entire lives to get our diplomas. Then you pulled the rug out from underneath us, and said: \u2018Oh, you know those four years you spent learning how to do very specific things, you don\u2019t need to do it any more,\u2019\u201d Pagel says. \u201cWe can get a computer to do it for two-thirds the price.\u201d Borchetta\u2019s speech is one of several at commencement ceremonies this spring that have revealed a disconnect between the executives championing AI and students, eliciting derision in real time even for Google\u2019s former CEO. Recent graduates at the University of Central Florida and the University of Arizona booed speakers who compared the advent of AI to the Industrial Revolution and the development of the laptop and smartphone. Sarah Kreps, a Cornell University professor who has studied societies\u2019 reactions to new technology, says: \u201cThese tech executives are not reading the room \u2026 These kids have spent hundreds of thousands of dollars on a degree that they don\u2019t know will serve them well.\u201d The students at these ceremonies \u201care a mouthpiece for the population at large\u201d, Kreps adds. While they may feel AI\u2019s disruptive effects acutely as entry-level job seekers, AI has proved unpopular among the general US public. A national survey conducted for NBC News earlier this year polled 1,000 registered voters and found only 26% view AI positively and 46% view it negatively. AI scored worse than US Immigration and Customs Enforcement (ICE), Donald Trump and Kamala Harris on the same poll, but better than the Democratic party and Iran. Anger against AI is palpable across the country \u2013 from communities protesting against datacenters powering the AI boom, to workers disputing their CEOs\u2019 claims that AI can, effectively, replace them. Pagel is considering a career in helping children undergoing medical treatment, or entering politics \u2013 perhaps running for office, or working as a liaison for federal agencies. \u201cThat sphere depends on human face-to-face interaction. No computer can take that,\u201d he says, calling AI-generated campaign ads \u201cthe cheap route\u201d. Pagel is not an absolutist though. He does use Grammarly, he says, \u201cbecause I can\u2019t goddamn spell\u201d. \u201cDyslexia for the win,\u201d he adds. Borchetta did not respond to a request for comment. But MTSU said in a statement that the university \u201cunderstands and remains compassionate about our students\u2019 concerns and questions about AI affecting their careers\u201d. CEOs\u2019 graduation speeches about AI have become a prevent"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Warlord",
+      "reversed": true,
+      "confidence": 0.383,
+      "scores": {
+        "High House War": 0.383,
+        "High House Coin": 0.015,
+        "High House Shadow": 0.143,
+        "High House Life": 0.199,
+        "High House Iron": -0.014,
+        "High House Words": 0.138,
+        "High House Chains": 0.043
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "collapse"
-        ],
+        "confidence": 0.526,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.956
       },
       "article": {
-        "title": "The world is heading toward a financial crisis \u2013 the state of US politics has left us ill-prepared",
-        "url": "https://www.theguardian.com/business/2026/may/25/financial-crisis-trump-economics",
-        "source": "guardian",
-        "full_text": "A bona fide financial crisis has not broken out since the US housing meltdown of 2007. Even the Covid pandemic and subsequent upsurge in inflation didn\u2019t lead to financial upheaval. The jitters produced by the collapse of Silicon Valley Bank in 2023 were soon forgotten. Given this stability, it might take some effort to convince financial markets that another big one is around the corner. But it is. Financial markets and their regulating governments may believe they have acquired immunity, but the world is careening toward a moment of financial upheaval that could well dwarf the damage caused by the last one. What\u2019s most scary about this approaching moment is not the specific nature of the crisis, but the incompetence with which it will be handled. Current US politics practically guarantee that Washington\u2019s policy response will be misguided, steered by Donald Trump\u2019s incontinent appetites and animosities. In a world where mistrust has strangled space for collective action, damages are likely to be compounded by similarly blinkered responses around the globe. As Maurice Obstfeld, former chief economist at the International Monetary Fund noted: \u201cThe political fundamentals are really bad.\u201d We\u2019ll never know exactly when and how a crisis will hit. But one can envisage plausible pathways. Perhaps a financial bubble pops: stocks buoyed up by the current euphoria over the prospects of artificial intelligence could be downgraded sharply in light of disappointing returns, sending the stock market tumbling, shrinking consumer spending and damaging balance sheets of companies that have piled into the AI dream, as well as their financiers. The largest risk, at this moment, revolves around the federal government\u2019s accumulation of debt, now in excess of 120% of the nation\u2019s gross domestic product, a near unprecedented level. It is likely to keep on growing at a fast clip given massive built in budget deficits for the next decade. Both of these scenarios live in a global context: the US\u2019s insatiable appetite for capital \u2013 to finance datacenters or the federal deficit \u2013 is met by China\u2019s export of capital to recycle its huge trade surplus. A coarse, schematic way to think of it is China sells stuff to the US and invests the proceeds in the US. Then, Americans take money from China and use it to buy Chinese stuff. A win-win fix would be for China to spend more on their own stuff while Americans, especially the federal government, splurged somewhat less. Given politics in Washington and Beijing, this arrangement seems exceedingly unlikely. It is unclear what would detonate a sell-off of US government debt. Treasury bonds still provide the largest, most liquid pool of safe investable assets. But markets were in a tizzy last week, sending rates on government bonds sharply higher over worries about the Iran war and inflation. One must only think back to 3 April last year, when Trump\u2019s tariffs on everything sent the price of treasury bonds briefly into a tailspin, to realize that Washington\u2019s increasingly idiosyncratic decisions could send investors running for the exit. The world is not that of 15 years ago, when real interest rates neared zero and central banks in China and many developing countries held massive amounts of treasury bonds, providing a stable source of financing for US deficits. Today, investors buying treasuries want yield and diversification. They will mercilessly dump US assets if the tide turns sour. The US\u2019s dysfunctional politics can still do a lot of damage. Say Trump starts bombing Iran again, or invades Cuba, or Greenland. Say he manages to take control of the Federal Reserve, and strong-arm it to cut interest rates. Or say he further increases the deficit via some orgy of military spending. He shows no concern over growing federal debt. And Republicans in Congress show no interest in stopping him. Which of them will stand in the way of his appetites, given his ability \u2013 well on display last week \u2013 to take down anyone who d"
+        "title": "Donald Trump Snubs Wounded Heroes of War He Started",
+        "url": "https://www.thedailybeast.com/donald-trump-snubs-wounded-heroes-of-war-he-started/",
+        "source": "gdelt_doc",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
@@ -146,75 +202,17 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.312,
-      "scores": {
-        "High House War": 0.248,
-        "High House Coin": 0.2,
-        "High House Shadow": 0.131,
-        "High House Life": 0.247,
-        "High House Iron": 0.123,
-        "High House Words": 0.239,
-        "High House Chains": 0.312
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.749
-      },
-      "article": {
-        "title": "DPM Dar warns prolonged Middle East conflict could threaten global order",
-        "url": "https://www.geo.tv/latest/666213-dpm-dar-warns-prolonged-middle-east-conflict-could-threaten-global-order",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "WANING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.307,
-      "scores": {
-        "High House War": 0.307,
-        "High House Coin": 0.129,
-        "High House Shadow": 0.138,
-        "High House Life": 0.061,
-        "High House Iron": 0.006,
-        "High House Words": 0.229,
-        "High House Chains": 0.185
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Israel escalates strikes in Lebanon as Netanyahu vows to \u2018crush\u2019 Hezbollah",
-        "url": "https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah",
-        "source": "guardian",
-        "full_text": "The Israeli army has intensified strikes in southern Lebanon, as prime minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in an effort to \u201ccrush\u201d Hezbollah in a further erosion of an already fragmented ceasefire. In turn, Hezbollah said it staged several attacks on Monday on three barracks and a military post in northern Israel \u201cin response to the violation of the ceasefire\u201d by Israel. The intensifying conflict comes amid waning hopes for an imminent deal between the US and Iran, with Tehran pointing to the confusion in US positions and Israeli interference as key factors in why a complete agreement is proving difficult to secure. Speaking at the weekly foreign ministry press briefing, Esmail Baghaei, the spokesperson for Iran\u2019s negotiating team, also said future management of the strait of Hormuz was a matter for Oman and Iran to reach agreement on, and that it was not tolls that were being proposed but \u201cfees for navigational services\u201d. In the early hours of Tuesday, Iran-backed Hezbollah claimed responsibility for a series of attacks in northern Israel: at least four drone attacks on Shomera barracks, attacks on two barracks in other towns in the region, and another on a military post in Misgav Am, carried out around midday at short intervals. Fighting between Israel and Hezbollah erupted on 2 March. Despite a ceasefire that came into effect on 17 April, both sides have continued to exchange fire on a near-daily basis. \u201cI have ordered an even greater acceleration of our operations,\u201d Netanyahu said in a video statement posted on his Telegram channel. \u201cIt is true that they are attacking us with drones, including fibre-optic drones, but we have teams working on countermeasures and we will solve this issue \u2026 We will intensify our blows, increase our firepower, and we will crush them.\u201d Following the call for escalation, an Agence France-Presse correspondent saw residents fleeing the southern suburbs of Beirut, a Hezbollah stronghold. The Israeli air force carried out successive strikes in the Bekaa valley in eastern Lebanon on Monday evening, according to Lebanon\u2019s National News Agency (NNA). Dozens of Israeli strikes earlier targeted several towns and villages in southern Lebanon in the early hours, killing three people in two cars and on a motorcycle, NNA reported. Israeli airstrikes then targeted several towns near the ancient city of Tyre, according to the state-run agency. Those strikes came after Israel issued evacuation orders for 10 villages, accusing Hezbollah of breaching the truce. Hezbollah has regularly launched drone attacks against Israeli forces inside Lebanese territory and across the border, including several on Monday. According to Lebanese authorities, Israeli strikes since early March have killed more than 3,100 people. The Israeli military also announced on Monday that a soldier had been killed the previous day in southern Lebanon. That brings the number of Israeli soldiers killed since the outbreak of hostilities with Hezbollah to 23. One civilian contractor has also been killed. Two far-right ministers called for an expansion of Israel\u2019s military campaign in Lebanon. \u201cThere is an urgent need to put an end to the threat posed by Hezbollah\u2019s explosive drones,\u201d the finance minister, Bezalel Smotrich, who lives in an occupied West Bank settlement, said on Telegram. The national security minister, Itamar Ben Gvir, called for a \u201creturn to intensive warfare\u201d and for \u201ctaking control\u201d of further territory. With Agence France-Presse"
-      },
-      "position": "ASCENDING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Chains",
+      "house_b": "High House Coin",
       "actor_a": "CHINA",
-      "actor_b": "DPM DAR",
+      "actor_b": "JPMORGAN",
       "relationship": "neutral",
-      "goldstein_avg": 0.172,
+      "goldstein_avg": 0.237,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -222,29 +220,19 @@
       "house_a": "High House Shadow",
       "house_b": "High House War",
       "actor_a": "CHINA",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -1.944,
+      "actor_b": "DONALD TRUMP SNUBS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.005,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "YUVAL NOAH HARARI",
-      "actor_b": "ISRAEL",
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "YUVAL NOAH HARARI",
       "relationship": "neutral",
-      "goldstein_avg": 0.012,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "DPM DAR",
-      "actor_b": "ISRAEL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.058,
+      "goldstein_avg": -0.013,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -255,19 +243,19 @@
       "trend_ratio": 0.0,
       "source": "gdelt_volume"
     },
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 2.781,
-      "source": "gdelt_volume"
-    },
-    "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.774,
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.943,
       "source": "gdelt_volume"
     },
     "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.091,
+      "trend": "rising",
+      "trend_ratio": 1.61,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "rising",
+      "trend_ratio": 3.566,
       "source": "gdelt_volume"
     }
   }
