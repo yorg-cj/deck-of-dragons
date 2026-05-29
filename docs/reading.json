@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "cards": [
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.644,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.516,
       "scores": {
-        "High House War": 0.026,
-        "High House Coin": 0.015,
-        "High House Shadow": 0.066,
-        "High House Life": 0.644,
-        "High House Iron": 0.024,
-        "High House Words": 0.108,
-        "High House Chains": 0.117
+        "High House War": 0.103,
+        "High House Coin": 0.051,
+        "High House Shadow": 0.223,
+        "High House Life": 0.211,
+        "High House Iron": 0.516,
+        "High House Words": 0.066,
+        "High House Chains": 0.109
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.909
       },
       "article": {
-        "title": "The WHO is at it Again : Climate Change Repackaged as a Health Emergency",
-        "url": "https://wattsupwiththat.com/2026/05/27/the-who-is-at-it-again-climate-change-repackaged-as-a-health-emergency/",
-        "source": "gdelt_doc",
+        "title": "State to rename IT department as \u2018Kerala Tech\u2019; AI, semiconductor missions announced",
+        "url": "https://www.thehindu.com/news/national/kerala/state-to-rename-it-department-as-kerala-tech-ai-semiconductor-missions-announced/article71036428.ece",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
@@ -60,29 +60,118 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.391,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.419,
       "scores": {
-        "High House War": -0.023,
-        "High House Coin": 0.391,
-        "High House Shadow": 0.055,
-        "High House Life": -0.025,
-        "High House Iron": 0.171,
-        "High House Words": -0.018,
-        "High House Chains": 0.12
+        "High House War": 0.1,
+        "High House Coin": 0.073,
+        "High House Shadow": 0.208,
+        "High House Life": 0.159,
+        "High House Iron": -0.056,
+        "High House Words": 0.419,
+        "High House Chains": 0.131
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.536,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.738
+        "sentiment_score": 0.975
       },
       "article": {
-        "title": "JPMorgan CEO Says Company Could Spend $20 Billion on Acquisitions",
-        "url": "https://www.ibtimes.com/jpmorgan-ceo-says-company-could-spend-20-billion-acquisitions-3803379",
+        "title": "Friday essay: How to Sell a Genocide exposes the double standards of reporting on Gaza",
+        "url": "https://theconversation.com/friday-essay-how-to-sell-a-genocide-exposes-the-double-standards-of-reporting-on-gaza-281223",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.411,
+      "scores": {
+        "High House War": 0.12,
+        "High House Coin": 0.002,
+        "High House Shadow": 0.168,
+        "High House Life": 0.411,
+        "High House Iron": 0.106,
+        "High House Words": 0.062,
+        "High House Chains": 0.104
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.548,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "Friday briefing: \u200bWhat do the cuts in aid mean for the fight against Ebola in the DRC? ",
+        "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+        "source": "guardian",
+        "full_text": "Ebola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240 people since the outbreak began in Ituri province in the Democratic Republic of the Congo earlier this month. Public health officials are scrambling to contain the virus in one of the toughest environments: Ituri province, the centre of the crisis, is a mining hub where thousands of people work in close proximity every day, and a conflict zone, with ongoing fighting between rebel groups. Medical facilities are modest, while waves of displaced people are being forced into overcrowded camps to escape fighting, making it even harder to control transmission. The virus has already spread to other regions in eastern DRC and the Ugandan capital Kampala. It is also the first major Ebola outbreak since the US, UK and other western countries made brutal cuts to humanitarian aid, which began with Donald Trump and Elon Musk\u2019s gutting of USAID. The rapid response infrastructure from previous Ebola outbreaks has been stripped back so much of it is barely fit for purpose, hampering efforts to save lives, warn experts. For today on First Edition, I spoke with Dr Papys Lame, the Ebola outbreak response coordinator in Ituri for the NGO Alima, and Selena Victor, senior director of policy and advocacy for Mercy Corps about efforts to contain the outbreak. But first, the headlines. Five big stories UK news | Britain risks a financial hit worth \u00a3125bn a year after a rise in the number of young people not in employment or education to more than 1 million. US-Israel-Iran | Donald Trump has circulated a draft peace agreement for the war with Iran among allies including Israel as both sides try to prevent fresh breaches of the ceasefire escalating out of control. UK politics | Andy Burnham has rolled back from his previous calls for ministers to scrap a restriction on immigrants claiming benefits as the Makerfield byelection places greater scrutiny on him. Ukraine | A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, authorities said, in what an official statement condemned as an \u201cirresponsible escalation\u201d by Moscow. Climate crisis | Abandoning net zero and drilling for more oil and gas would be a massive setback for the UK and would not help the economy, leading experts have said in response to Tony Blair. In depth: \u2018You must be brave if you work in this environment\u2019 There is no current vaccine for Ebola. The virus, which is caught from wild animals and passed between humans through body fluids, was discovered in 1976 and is largely found in rainforest regions of western, central and eastern Africa. Between 2014 and 2016, the deadliest known outbreak killed 11,325 people in Guinea, Sierra Leone and Liberia. Frontline workers are desperately trying to prevent a repeat in eastern DRC and Uganda. Lame says that Ebola was likely passing through the community for some time in and around Bunia, the capital of Ituri province, before the outbreak was formally declared on 15 May. Symptoms are similar to common illnesses like malaria and typhoid: fever, muscle pain, vomiting and diarrhoea. While Ebola is not spread as easily as a respiratory illness like Covid-19 or influenza, the lack of lab facilities for testing has made it hard to monitor. Many more cases are suspected than the official WHO figures, he says. \u201cWe don\u2019t have a specific treatment for Ebola right now but we can save people if they come very early. Then, their chance of being cured is higher. But if people come late, the case fatality rate is high,\u201d says Lame, who is from Senegal. \u201cPatients are afraid because they know that Ebola does not have a cure. Many have lost a member of their family or a colleague. And it also impacts frontline workers, too, who have lost colleagues.\u201d At least five doctors and nurses have died after treating patient"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.395,
+      "scores": {
+        "High House War": 0.395,
+        "High House Coin": 0.166,
+        "High House Shadow": 0.257,
+        "High House Life": 0.15,
+        "High House Iron": 0.15,
+        "High House Words": 0.187,
+        "High House Chains": 0.26
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.537,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.977
+      },
+      "article": {
+        "title": "Guatemala requests US military cooperation against drug trafficking",
+        "url": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
+        "source": "guardian",
+        "full_text": "Guatemala has requested US military cooperation spanning access to equipment, training and experts to assist Guatemalan operations against drug trafficking, the country\u2019s president, Bernardo Ar\u00e9valo, said on Thursday. The joint plans stopped short of US military operations on Guatemalan soil and fall within existing bilateral agreements, the government noted. \u201cThere is no agreement authorizing foreign military operations on national territory,\u201d the government said in a statement. It added that Ar\u00e9valo and Guatemala\u2019s defense minister, Henry S\u00e1enz, had spoken with the US defense secretary, Pete Hegseth, to confirm the terms for US cooperation, after S\u00e1enz had requested help. The deal was intended to expand on a strategy implemented in 2024. \u201cWe have discussed the possibilities of intensifying the collaboration that has been taking place within the framework of existing bilateral agreements,\u201d Ar\u00e9valo told reporters. The New York Times first reported on the recent talks. In a report on Wednesday, it characterized the move as part of a broader White House strategy to normalize a US military presence across Latin America to gain leverage over Mexico. The Pentagon also intends to press Honduras to accept joint military action, according to the report. The Pentagon said it would not speculate on future operations or discuss matters of operational security. \u201cUnder Secretary Hegseth\u2019s leadership, the department will continue working with trusted partners to defend the homeland and secure the western hemisphere,\u201d a Pentagon spokesperson, Joel Valdez, said in an emailed statement. The White House said the \u201cadministration continues to work to carry out the president\u2019s agenda\u201d. The Honduran embassy in the US did not immediately respond to requests for comment. Mexico\u2019s president, Claudia Sheinbaum, has long maintained she welcomes intelligence-sharing and security cooperation but will not accept US agents or forces participating in operations on Mexican territory. Donald Trump has repeatedly called for greater use of US military force to combat Mexican cartels, and has threatened that the US could go it alone if Washington feels Mexico is not doing enough. The Trump administration began striking vessels in the Caribbean and eastern Pacific last September, insisting it was in effect at war with what it calls \u201cnarco-terrorists\u201d operating out of Latin America. But it has provided no definitive evidence that the boats it targets are involved in drug trafficking, prompting heated debate about the legality of the operations. Trump launched a multinational cartel-fighting alliance at a summit in March with Latin American leaders, including one of his staunchest allies on the continent, Ecuador\u2019s Daniel Noboa. The US has previously teamed up with Ecuadorian forces to conduct joint strikes against cocaine-smuggling guerrillas in the South American country. International cartels, with help from local drug traffickers, traffic drugs and launder money in Guatemala and other Central American countries, fueling regional violence. Ninety per cent of the cocaine that reaches the United States passes through Central America and Mexico in trucks, aircraft, boats and submarines, according to US officials."
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.39,
+      "scores": {
+        "High House War": 0.004,
+        "High House Coin": 0.39,
+        "High House Shadow": 0.205,
+        "High House Life": 0.022,
+        "High House Iron": 0.111,
+        "High House Words": 0.28,
+        "High House Chains": 0.281
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.967
+      },
+      "article": {
+        "title": "World News | US Expands Sanctions on Iran's 'shadow Oil Economy', Warns Global Traders of Risks",
+        "url": "https://www.latestly.com/agency-news/world-news-us-expands-sanctions-on-irans-shadow-oil-economy-warns-global-traders-of-risks-7450212.html",
         "source": "worldnews",
         "full_text": null
       },
@@ -90,115 +179,28 @@
     },
     {
       "house": "High House Chains",
-      "title": "The Knight",
+      "title": "The Assassin",
       "reversed": false,
-      "confidence": 0.39,
+      "confidence": 0.342,
       "scores": {
-        "High House War": 0.165,
-        "High House Coin": 0.371,
-        "High House Shadow": 0.133,
-        "High House Life": 0.192,
-        "High House Iron": 0.011,
-        "High House Words": 0.35,
-        "High House Chains": 0.39
+        "High House War": 0.001,
+        "High House Coin": 0.278,
+        "High House Shadow": 0.087,
+        "High House Life": -0.025,
+        "High House Iron": 0.07,
+        "High House Words": 0.126,
+        "High House Chains": 0.342
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.795
+        "sentiment_score": 0.763
       },
       "article": {
-        "title": "Editorial . Un mundo en tensi\u00f3n : guerras , econom\u00eda e incertidumbre global marcan la agenda internacional",
-        "url": "https://xornalgalicia.com/gente/columna-editorial/editorial-un-mundo-en-tension-guerras-economia-e-incertidumbre-global-marcan-la-agenda-internacional",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.384,
-      "scores": {
-        "High House War": -0.01,
-        "High House Coin": 0.031,
-        "High House Shadow": 0.187,
-        "High House Life": -0.007,
-        "High House Iron": 0.384,
-        "High House Words": 0.068,
-        "High House Chains": -0.055
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.848
-      },
-      "article": {
-        "title": "US students on why they booed their pro-AI graduation speakers: \u2018They\u2019re not reading the room\u2019",
-        "url": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
-        "source": "guardian",
-        "full_text": "When Jacob Pagel graduated from Middle Tennessee State University this spring, predictions about artificial intelligence already had him questioning the value of his degree. Then a music executive started preaching about AI\u2019s transformative power during a commencement speech. \u201cThis industry will change on you in a heartbeat. It has already changed more in the last 10 years than in the 50 years prior \u2026 AI is rewriting production as we sit here,\u201d said Scott Borchetta, CEO of the record label Big Machine. After a few stray boos from graduates, he doubled down: \u201cDeal with it.\u201d The students\u2019 jeering grew louder, but Borchetta barreled through: \u201cYou can hear me now or you can pay me later \u2026 then do something about it. It\u2019s a tool. Make it work for you.\u201d He continued: \u201cThe things you learned in your first year here may already be obsolete.\u201d Borchetta\u2019s remarks were \u201ca knife to the chest\u201d, says Pagel, who studied political science and human development family sciences. He felt the boos reflected how annoyed students were about what they saw as out-of-touch executives downplaying their anxieties about AI. A 2025 Harvard poll of young people in the US found that a majority see AI as a threat to their career prospects. Pagel and his peers are entering a job market where AI\u2019s efficiency is already being used to justify mass layoffs. While it\u2019s unclear which jobs may be entirely replaced by AI \u2013 and whether AI could eventually create more career pathways than it destroys \u2013 recent graduates are feeling betrayed. \u201cWe\u2019ve been pushed our entire lives to get our diplomas. Then you pulled the rug out from underneath us, and said: \u2018Oh, you know those four years you spent learning how to do very specific things, you don\u2019t need to do it any more,\u2019\u201d Pagel says. \u201cWe can get a computer to do it for two-thirds the price.\u201d Borchetta\u2019s speech is one of several at commencement ceremonies this spring that have revealed a disconnect between the executives championing AI and students, eliciting derision in real time even for Google\u2019s former CEO. Recent graduates at the University of Central Florida and the University of Arizona booed speakers who compared the advent of AI to the Industrial Revolution and the development of the laptop and smartphone. Sarah Kreps, a Cornell University professor who has studied societies\u2019 reactions to new technology, says: \u201cThese tech executives are not reading the room \u2026 These kids have spent hundreds of thousands of dollars on a degree that they don\u2019t know will serve them well.\u201d The students at these ceremonies \u201care a mouthpiece for the population at large\u201d, Kreps adds. While they may feel AI\u2019s disruptive effects acutely as entry-level job seekers, AI has proved unpopular among the general US public. A national survey conducted for NBC News earlier this year polled 1,000 registered voters and found only 26% view AI positively and 46% view it negatively. AI scored worse than US Immigration and Customs Enforcement (ICE), Donald Trump and Kamala Harris on the same poll, but better than the Democratic party and Iran. Anger against AI is palpable across the country \u2013 from communities protesting against datacenters powering the AI boom, to workers disputing their CEOs\u2019 claims that AI can, effectively, replace them. Pagel is considering a career in helping children undergoing medical treatment, or entering politics \u2013 perhaps running for office, or working as a liaison for federal agencies. \u201cThat sphere depends on human face-to-face interaction. No computer can take that,\u201d he says, calling AI-generated campaign ads \u201cthe cheap route\u201d. Pagel is not an absolutist though. He does use Grammarly, he says, \u201cbecause I can\u2019t goddamn spell\u201d. \u201cDyslexia for the win,\u201d he adds. Borchetta did not respond to a request for comment. But MTSU said in a statement that the university \u201cunderstands and remains compassionate about our students\u2019 concerns and questions about AI affecting their careers\u201d. CEOs\u2019 graduation speeches about AI have become a prevent"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Warlord",
-      "reversed": true,
-      "confidence": 0.383,
-      "scores": {
-        "High House War": 0.383,
-        "High House Coin": 0.015,
-        "High House Shadow": 0.143,
-        "High House Life": 0.199,
-        "High House Iron": -0.014,
-        "High House Words": 0.138,
-        "High House Chains": 0.043
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.526,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.956
-      },
-      "article": {
-        "title": "Donald Trump Snubs Wounded Heroes of War He Started",
-        "url": "https://www.thedailybeast.com/donald-trump-snubs-wounded-heroes-of-war-he-started/",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.369,
-      "scores": {
-        "High House War": 0.072,
-        "High House Coin": 0.082,
-        "High House Shadow": 0.213,
-        "High House Life": 0.115,
-        "High House Iron": 0.079,
-        "High House Words": 0.369,
-        "High House Chains": 0.038
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Yuval Noah Harari on Donald Trump\u2019s Core Delusion",
-        "url": "https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html",
+        "title": "Court Orders Customs Chief to Address Compliance on Refunding Tariffs",
+        "url": "https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html",
         "source": "nyt",
         "full_text": null
       },
@@ -208,54 +210,49 @@
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "CHINA",
-      "actor_b": "JPMORGAN",
-      "relationship": "neutral",
-      "goldstein_avg": 0.237,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "DONALD TRUMP SNUBS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.005,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
       "house_b": "High House Words",
       "actor_a": "CHINA",
-      "actor_b": "YUVAL NOAH HARARI",
+      "actor_b": "GAZA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.885,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.719,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Coin",
+      "actor_a": "GAZA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.785,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Coin",
+      "actor_a": "GUATEMALA",
+      "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.013,
+      "goldstein_avg": -0.413,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Shadow": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 0.943,
-      "source": "gdelt_volume"
-    },
     "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.61,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "rising",
-      "trend_ratio": 3.566,
+      "trend_ratio": 1.356,
       "source": "gdelt_volume"
     }
   }
