@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "cards": [
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.516,
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.524,
       "scores": {
-        "High House War": 0.103,
-        "High House Coin": 0.051,
-        "High House Shadow": 0.223,
-        "High House Life": 0.211,
-        "High House Iron": 0.516,
-        "High House Words": 0.066,
-        "High House Chains": 0.109
+        "High House War": 0.068,
+        "High House Coin": 0.252,
+        "High House Shadow": 0.524,
+        "High House Life": 0.015,
+        "High House Iron": 0.187,
+        "High House Words": 0.252,
+        "High House Chains": 0.219
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.546,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.909
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "State to rename IT department as \u2018Kerala Tech\u2019; AI, semiconductor missions announced",
-        "url": "https://www.thehindu.com/news/national/kerala/state-to-rename-it-department-as-kerala-tech-ai-semiconductor-missions-announced/article71036428.ece",
+        "title": "Are Russian spies stealing Western technology? What European intelligence officials claim",
+        "url": "https://timesofindia.indiatimes.com/world/europe/are-russian-spies-stealing-western-technology-what-european-intelligence-officials-claim/articleshow/131406278.cms",
         "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
+      "house": "High House Iron",
+      "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.511,
+      "confidence": 0.458,
       "scores": {
-        "High House War": 0.143,
-        "High House Coin": 0.302,
-        "High House Shadow": 0.511,
-        "High House Life": 0.129,
-        "High House Iron": 0.243,
-        "High House Words": 0.326,
-        "High House Chains": 0.264
+        "High House War": 0.09,
+        "High House Coin": 0.096,
+        "High House Shadow": 0.258,
+        "High House Life": 0.088,
+        "High House Iron": 0.458,
+        "High House Words": 0.026,
+        "High House Chains": -0.013
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.587
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.833
       },
       "article": {
-        "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
-        "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
-        "source": "nyt",
+        "title": "Others Also Read",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/30/a-one-stop-shop-for-ai-models-raises-us113-million",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
@@ -86,7 +86,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -144,21 +144,21 @@
         "source": "guardian",
         "full_text": "Guatemala has requested US military cooperation spanning access to equipment, training and experts to assist Guatemalan operations against drug trafficking, the country\u2019s president, Bernardo Ar\u00e9valo, said on Thursday. The joint plans stopped short of US military operations on Guatemalan soil and fall within existing bilateral agreements, the government noted. \u201cThere is no agreement authorizing foreign military operations on national territory,\u201d the government said in a statement. It added that Ar\u00e9valo and Guatemala\u2019s defense minister, Henry S\u00e1enz, had spoken with the US defense secretary, Pete Hegseth, to confirm the terms for US cooperation, after S\u00e1enz had requested help. The deal was intended to expand on a strategy implemented in 2024. \u201cWe have discussed the possibilities of intensifying the collaboration that has been taking place within the framework of existing bilateral agreements,\u201d Ar\u00e9valo told reporters. The New York Times first reported on the recent talks. In a report on Wednesday, it characterized the move as part of a broader White House strategy to normalize a US military presence across Latin America to gain leverage over Mexico. The Pentagon also intends to press Honduras to accept joint military action, according to the report. The Pentagon said it would not speculate on future operations or discuss matters of operational security. \u201cUnder Secretary Hegseth\u2019s leadership, the department will continue working with trusted partners to defend the homeland and secure the western hemisphere,\u201d a Pentagon spokesperson, Joel Valdez, said in an emailed statement. The White House said the \u201cadministration continues to work to carry out the president\u2019s agenda\u201d. The Honduran embassy in the US did not immediately respond to requests for comment. Mexico\u2019s president, Claudia Sheinbaum, has long maintained she welcomes intelligence-sharing and security cooperation but will not accept US agents or forces participating in operations on Mexican territory. Donald Trump has repeatedly called for greater use of US military force to combat Mexican cartels, and has threatened that the US could go it alone if Washington feels Mexico is not doing enough. The Trump administration began striking vessels in the Caribbean and eastern Pacific last September, insisting it was in effect at war with what it calls \u201cnarco-terrorists\u201d operating out of Latin America. But it has provided no definitive evidence that the boats it targets are involved in drug trafficking, prompting heated debate about the legality of the operations. Trump launched a multinational cartel-fighting alliance at a summit in March with Latin American leaders, including one of his staunchest allies on the continent, Ecuador\u2019s Daniel Noboa. The US has previously teamed up with Ecuadorian forces to conduct joint strikes against cocaine-smuggling guerrillas in the South American country. International cartels, with help from local drug traffickers, traffic drugs and launder money in Guatemala and other Central American countries, fueling regional violence. Ninety per cent of the cocaine that reaches the United States passes through Central America and Mexico in trucks, aircraft, boats and submarines, according to US officials."
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.39,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.004,
-        "High House Coin": 0.39,
-        "High House Shadow": 0.205,
-        "High House Life": 0.022,
-        "High House Iron": 0.111,
-        "High House Words": 0.28,
-        "High House Chains": 0.281
+        "High House War": 0.033,
+        "High House Coin": 0.377,
+        "High House Shadow": 0.133,
+        "High House Life": 0.059,
+        "High House Iron": 0.14,
+        "High House Words": 0.141,
+        "High House Chains": 0.343
       },
       "reversal": {
         "reversed": true,
@@ -167,92 +167,87 @@
           "sanction"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.967
+        "sentiment_score": 0.909
       },
       "article": {
-        "title": "World News | US Expands Sanctions on Iran's 'shadow Oil Economy', Warns Global Traders of Risks",
-        "url": "https://www.latestly.com/agency-news/world-news-us-expands-sanctions-on-irans-shadow-oil-economy-warns-global-traders-of-risks-7450212.html",
+        "title": "IIFCL eyes Rs 75,000 crore sanctions in FY26 after record year, says MD Rohit Rishi, NPA Drops to 0.40%",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/iifcl-eyes-rs-75000-crore-sanctions-in-fy26-after-record-year-says-md-rohit-rishi-npa-drops-to-0-40-per-cent/articleshow/131404085.cms",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
-      "title": "The Assassin",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.342,
+      "confidence": 0.312,
       "scores": {
-        "High House War": 0.001,
-        "High House Coin": 0.278,
-        "High House Shadow": 0.087,
-        "High House Life": -0.025,
-        "High House Iron": 0.07,
-        "High House Words": 0.126,
-        "High House Chains": 0.342
+        "High House War": 0.248,
+        "High House Coin": 0.2,
+        "High House Shadow": 0.131,
+        "High House Life": 0.247,
+        "High House Iron": 0.123,
+        "High House Words": 0.239,
+        "High House Chains": 0.312
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.763
+        "sentiment_score": 0.749
       },
       "article": {
-        "title": "Court Orders Customs Chief to Address Compliance on Refunding Tariffs",
-        "url": "https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html",
-        "source": "nyt",
+        "title": "DPM Dar warns prolonged Middle East conflict could threaten global order",
+        "url": "https://www.geo.tv/latest/666213-dpm-dar-warns-prolonged-middle-east-conflict-could-threaten-global-order",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "GAZA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.885,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.719,
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "GAZA",
+      "actor_b": "GUATEMALA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.016,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
-      "house_b": "High House Coin",
+      "house_b": "High House Chains",
       "actor_a": "GAZA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.785,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Coin",
-      "actor_a": "GUATEMALA",
-      "actor_b": "IRAN",
+      "actor_b": "DPM DAR",
       "relationship": "neutral",
-      "goldstein_avg": -0.413,
+      "goldstein_avg": 0.035,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.82,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.356,
+      "trend_ratio": 1.785,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
