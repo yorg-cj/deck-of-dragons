@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.524,
+      "reversed": false,
+      "confidence": 0.511,
       "scores": {
-        "High House War": 0.068,
-        "High House Coin": 0.252,
-        "High House Shadow": 0.524,
-        "High House Life": 0.015,
-        "High House Iron": 0.187,
-        "High House Words": 0.252,
-        "High House Chains": 0.219
+        "High House War": 0.143,
+        "High House Coin": 0.302,
+        "High House Shadow": 0.511,
+        "High House Life": 0.129,
+        "High House Iron": 0.243,
+        "High House Words": 0.326,
+        "High House Chains": 0.264
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
+        "sentiment_score": 0.587
       },
       "article": {
-        "title": "Are Russian spies stealing Western technology? What European intelligence officials claim",
-        "url": "https://timesofindia.indiatimes.com/world/europe/are-russian-spies-stealing-western-technology-what-european-intelligence-officials-claim/articleshow/131406278.cms",
-        "source": "worldnews",
+        "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+        "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -34,59 +34,30 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.458,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.09,
-        "High House Coin": 0.096,
-        "High House Shadow": 0.258,
-        "High House Life": 0.088,
-        "High House Iron": 0.458,
-        "High House Words": 0.026,
-        "High House Chains": -0.013
+        "High House War": -0.027,
+        "High House Coin": -0.013,
+        "High House Shadow": 0.149,
+        "High House Life": 0.024,
+        "High House Iron": 0.426,
+        "High House Words": 0.001,
+        "High House Chains": -0.022
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.833
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Others Also Read",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/05/30/a-one-stop-shop-for-ai-models-raises-us113-million",
+        "title": "Azerbaijan plans major step in digital development with Supercomputer Center",
+        "url": "http://www.today.az/news/society/268094.html",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.419,
-      "scores": {
-        "High House War": 0.1,
-        "High House Coin": 0.073,
-        "High House Shadow": 0.208,
-        "High House Life": 0.159,
-        "High House Iron": -0.056,
-        "High House Words": 0.419,
-        "High House Chains": 0.131
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.536,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.975
-      },
-      "article": {
-        "title": "Friday essay: How to Sell a Genocide exposes the double standards of reporting on Gaza",
-        "url": "https://theconversation.com/friday-essay-how-to-sell-a-genocide-exposes-the-double-standards-of-reporting-on-gaza-281223",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -115,36 +86,7 @@
         "source": "guardian",
         "full_text": "Ebola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240 people since the outbreak began in Ituri province in the Democratic Republic of the Congo earlier this month. Public health officials are scrambling to contain the virus in one of the toughest environments: Ituri province, the centre of the crisis, is a mining hub where thousands of people work in close proximity every day, and a conflict zone, with ongoing fighting between rebel groups. Medical facilities are modest, while waves of displaced people are being forced into overcrowded camps to escape fighting, making it even harder to control transmission. The virus has already spread to other regions in eastern DRC and the Ugandan capital Kampala. It is also the first major Ebola outbreak since the US, UK and other western countries made brutal cuts to humanitarian aid, which began with Donald Trump and Elon Musk\u2019s gutting of USAID. The rapid response infrastructure from previous Ebola outbreaks has been stripped back so much of it is barely fit for purpose, hampering efforts to save lives, warn experts. For today on First Edition, I spoke with Dr Papys Lame, the Ebola outbreak response coordinator in Ituri for the NGO Alima, and Selena Victor, senior director of policy and advocacy for Mercy Corps about efforts to contain the outbreak. But first, the headlines. Five big stories UK news | Britain risks a financial hit worth \u00a3125bn a year after a rise in the number of young people not in employment or education to more than 1 million. US-Israel-Iran | Donald Trump has circulated a draft peace agreement for the war with Iran among allies including Israel as both sides try to prevent fresh breaches of the ceasefire escalating out of control. UK politics | Andy Burnham has rolled back from his previous calls for ministers to scrap a restriction on immigrants claiming benefits as the Makerfield byelection places greater scrutiny on him. Ukraine | A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, authorities said, in what an official statement condemned as an \u201cirresponsible escalation\u201d by Moscow. Climate crisis | Abandoning net zero and drilling for more oil and gas would be a massive setback for the UK and would not help the economy, leading experts have said in response to Tony Blair. In depth: \u2018You must be brave if you work in this environment\u2019 There is no current vaccine for Ebola. The virus, which is caught from wild animals and passed between humans through body fluids, was discovered in 1976 and is largely found in rainforest regions of western, central and eastern Africa. Between 2014 and 2016, the deadliest known outbreak killed 11,325 people in Guinea, Sierra Leone and Liberia. Frontline workers are desperately trying to prevent a repeat in eastern DRC and Uganda. Lame says that Ebola was likely passing through the community for some time in and around Bunia, the capital of Ituri province, before the outbreak was formally declared on 15 May. Symptoms are similar to common illnesses like malaria and typhoid: fever, muscle pain, vomiting and diarrhoea. While Ebola is not spread as easily as a respiratory illness like Covid-19 or influenza, the lack of lab facilities for testing has made it hard to monitor. Many more cases are suspected than the official WHO figures, he says. \u201cWe don\u2019t have a specific treatment for Ebola right now but we can save people if they come very early. Then, their chance of being cured is higher. But if people come late, the case fatality rate is high,\u201d says Lame, who is from Senegal. \u201cPatients are afraid because they know that Ebola does not have a cure. Many have lost a member of their family or a colleague. And it also impacts frontline workers, too, who have lost colleagues.\u201d At least five doctors and nurses have died after treating patient"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.395,
-      "scores": {
-        "High House War": 0.395,
-        "High House Coin": 0.166,
-        "High House Shadow": 0.257,
-        "High House Life": 0.15,
-        "High House Iron": 0.15,
-        "High House Words": 0.187,
-        "High House Chains": 0.26
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.537,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.977
-      },
-      "article": {
-        "title": "Guatemala requests US military cooperation against drug trafficking",
-        "url": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
-        "source": "guardian",
-        "full_text": "Guatemala has requested US military cooperation spanning access to equipment, training and experts to assist Guatemalan operations against drug trafficking, the country\u2019s president, Bernardo Ar\u00e9valo, said on Thursday. The joint plans stopped short of US military operations on Guatemalan soil and fall within existing bilateral agreements, the government noted. \u201cThere is no agreement authorizing foreign military operations on national territory,\u201d the government said in a statement. It added that Ar\u00e9valo and Guatemala\u2019s defense minister, Henry S\u00e1enz, had spoken with the US defense secretary, Pete Hegseth, to confirm the terms for US cooperation, after S\u00e1enz had requested help. The deal was intended to expand on a strategy implemented in 2024. \u201cWe have discussed the possibilities of intensifying the collaboration that has been taking place within the framework of existing bilateral agreements,\u201d Ar\u00e9valo told reporters. The New York Times first reported on the recent talks. In a report on Wednesday, it characterized the move as part of a broader White House strategy to normalize a US military presence across Latin America to gain leverage over Mexico. The Pentagon also intends to press Honduras to accept joint military action, according to the report. The Pentagon said it would not speculate on future operations or discuss matters of operational security. \u201cUnder Secretary Hegseth\u2019s leadership, the department will continue working with trusted partners to defend the homeland and secure the western hemisphere,\u201d a Pentagon spokesperson, Joel Valdez, said in an emailed statement. The White House said the \u201cadministration continues to work to carry out the president\u2019s agenda\u201d. The Honduran embassy in the US did not immediately respond to requests for comment. Mexico\u2019s president, Claudia Sheinbaum, has long maintained she welcomes intelligence-sharing and security cooperation but will not accept US agents or forces participating in operations on Mexican territory. Donald Trump has repeatedly called for greater use of US military force to combat Mexican cartels, and has threatened that the US could go it alone if Washington feels Mexico is not doing enough. The Trump administration began striking vessels in the Caribbean and eastern Pacific last September, insisting it was in effect at war with what it calls \u201cnarco-terrorists\u201d operating out of Latin America. But it has provided no definitive evidence that the boats it targets are involved in drug trafficking, prompting heated debate about the legality of the operations. Trump launched a multinational cartel-fighting alliance at a summit in March with Latin American leaders, including one of his staunchest allies on the continent, Ecuador\u2019s Daniel Noboa. The US has previously teamed up with Ecuadorian forces to conduct joint strikes against cocaine-smuggling guerrillas in the South American country. International cartels, with help from local drug traffickers, traffic drugs and launder money in Guatemala and other Central American countries, fueling regional violence. Ninety per cent of the cocaine that reaches the United States passes through Central America and Mexico in trucks, aircraft, boats and submarines, according to US officials."
-      },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -175,7 +117,68 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.355,
+      "scores": {
+        "High House War": 0.355,
+        "High House Coin": 0.347,
+        "High House Shadow": 0.186,
+        "High House Life": 0.023,
+        "High House Iron": 0.088,
+        "High House Words": 0.168,
+        "High House Chains": 0.261
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.548,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "War Overhead Creates \u2018Dual Economy\u2019 and Stagnates Russia\u2019s Civilian Sectors",
+        "url": "https://www.kyivpost.com/post/77185",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.334,
+      "scores": {
+        "High House War": 0.036,
+        "High House Coin": 0.208,
+        "High House Shadow": 0.251,
+        "High House Life": 0.021,
+        "High House Iron": -0.033,
+        "High House Words": 0.334,
+        "High House Chains": 0.185
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.8,
+        "matched_signals": [
+          "propaganda",
+          "misinformation"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.964
+      },
+      "article": {
+        "title": "Alarm at Mexico bill allowing elections to be annulled for \u2018foreign interference\u2019",
+        "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
+        "source": "guardian",
+        "full_text": "Amid fierce criticism from opposition groups, Mexico\u2019s senate has passed \u200ca constitutional amendment to include \u201cforeign interference\u201d as grounds to annul election results in the country. The bill, which was presented by the country\u2019s president, Claudia Sheinbaum, defines foreign interference as \u201cillicit financing, propaganda, the systematic \u2060dissemination of misinformation, digital manipulation, and \u2060the intervention of foreign governments \u2060or agencies\u201d. But critics say that the broadness of the bill\u2019s language means virtually anything could be used to annul the results of an election: an article in a British newspaper, a statement from a US official, a report from an international NGO. \u201cThis is one of the most egregious, alarming and retrograde pieces of legislation in Mexico\u2019s young democratic history,\u201d said Arturo Sarukhan, a former Mexican ambassador to the US, on X. \u201cThis law doesn\u2019t prevent foreign interference. It hands the government a veto over election outcomes it doesn\u2019t like.\u201d The amendment has already been passed by the lower house of congress and now needs to be ratified by a majority of Mexico\u2019s 32 states. Sheinbaum\u2019s Morena controls 24 statehouses. The bill comes as Mexico has faced increased pressure from the US on security, with Donald Trump repeatedly threatening to invade the country and tackle cartels. Last month, the US justice department indicted 10 current and former officials from the state of Sinaloa, including the governor, for ties to a powerful drug-trafficking group. The indictment of Rub\u00e9n Rocha Moya, the governor of Sinaloa and a close ally of former president Andr\u00e9s Manuel L\u00f3pez Obrador (known as Amlo), sent shock waves across Mexico\u2019s political establishment. Sheinbaum has called for more evidence from the US before considering extradition. The Mexican president also doubled down on the importance of sovereignty and non-intervention since the indictment was made public. \u201cAll Mexicans should agree that there should be no foreign interference in elections in Mexico,\u201d Sheinbaum said at a news conference on Thursday. \u201cWe must all agree that in Mexico, we Mexicans decide who governs us.\u201d The bill comes as Mexico faces midterm elections next year, which could see the governing Morena party lose its stranglehold on power: it currently controls the presidency and both the upper and lower chambers of congress. The bill would allow Mexico\u2019s electoral court to toss out election results if it determines there was interference from an overseas organization, a foreign government or citizen. But the court was stripped of its independence under Amlo and is now largely aligned with Morena. \u201cIf [Morena] wanted, they could allege foreign intervention and the court would rule in their favor,\u201d said Carlos Bravo Regidor, a political analyst. \u201cThe truth is, I don\u2019t see any point in [the bill], any merit, any validity. This is an abuse.\u201d The Mexican opposition has been equally critical of the proposed change. \u201cIt\u2019s a trap so that Morena can literally annul any election they want,\u201d Ricardo Anaya, a senator from the opposition Pan party, told reporters. \u201cWhat they want to ensure is total control.\u201d"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -204,50 +207,75 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "GAZA",
-      "actor_b": "GUATEMALA",
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "CHINA",
+      "actor_b": "AZERBAIJAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.016,
+      "goldstein_avg": 0.52,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Words",
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "CHINA",
+      "actor_b": "FY26 AFTER RECORD YEAR",
+      "relationship": "neutral",
+      "goldstein_avg": 0.22,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "MEXICO",
+      "relationship": "neutral",
+      "goldstein_avg": 0.539,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
       "house_b": "High House Chains",
-      "actor_a": "GAZA",
+      "actor_a": "CHINA",
       "actor_b": "DPM DAR",
       "relationship": "neutral",
-      "goldstein_avg": 0.035,
+      "goldstein_avg": 0.183,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "AZERBAIJAN",
+      "actor_b": "MEXICO",
+      "relationship": "neutral",
+      "goldstein_avg": 0.093,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "FY26 AFTER RECORD YEAR",
+      "actor_b": "MEXICO",
+      "relationship": "neutral",
+      "goldstein_avg": 0.017,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.82,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.785,
-      "source": "gdelt_volume"
-    },
-    "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend_ratio": 0.822,
       "source": "gdelt_volume"
     }
   }
