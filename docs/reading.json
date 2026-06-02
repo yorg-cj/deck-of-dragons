@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,31 +33,89 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.412,
+      "reversed": true,
+      "confidence": 0.447,
       "scores": {
-        "High House War": 0.006,
-        "High House Coin": 0.034,
-        "High House Shadow": 0.091,
-        "High House Life": 0.119,
-        "High House Iron": 0.412,
-        "High House Words": -0.081,
-        "High House Chains": -0.055
+        "High House War": 0.041,
+        "High House Coin": 0.026,
+        "High House Shadow": 0.21,
+        "High House Life": 0.063,
+        "High House Iron": 0.447,
+        "High House Words": -0.039,
+        "High House Chains": -0.06
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "Google AI CEO Wants To Hire Engineers Laid Off From Meta And Amazon, Says Has Million Ideas For Them",
+        "url": "https://www.timesnownews.com/technology-science/google-ai-ceo-wants-to-hire-engineers-laid-off-from-meta-and-amazon-says-has-million-ideas-for-them-article-154447201",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.382,
+      "scores": {
+        "High House War": 0.382,
+        "High House Coin": 0.16,
+        "High House Shadow": 0.174,
+        "High House Life": 0.003,
+        "High House Iron": 0.045,
+        "High House Words": 0.237,
+        "High House Chains": 0.168
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
+        "sentiment_score": 0.678
       },
       "article": {
-        "title": "Nvidia launches \u2018superchip\u2019 putting AI power into laptops and PCs",
-        "url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-        "source": "guardian",
-        "full_text": "A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers. The $5tn (\u00a33.7tn) US semiconductor company has launched a \u201csuperchip\u201d that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD. The RTX Spark chip will be launched this year, and will be used by computer makers including Dell, Lenovo, Asus and HP, paired with Microsoft\u2019s Windows software, according to the Nvidia chief executive, Jensen Huang. Speaking at the Computex conference in Taiwan, Huang said the chip would \u201creinvent the PC\u201d for the AI era, after three years of collaboration between Nvidia and Microsoft. A combination of a microprocessor and a graphics chip, developed with help from Taiwan\u2019s MediaTek, it is designed to run AI agents locally rather than relying on cloud computing. It will allow agents to navigate PCs autonomously, replacing humans\u2019 traditional mouse and keyboard interactions. Because the chip is very powerful, computers will still be thin and light, the company said. Huang said Nvidia was reimagining the PC \u201cfor the first time in 40 years\u201d. The company\u2019s foray into the consumer PC industry will open up a new business line, but this will take time, analysts said. Nvidia, which dominates the booming AI semiconductor market, is pushing beyond graphics cards into integrated chips that power the whole computer. Neil Shah, a co-founder of Counterpoint Research, compared the \u201cRTX Spark moment\u201d with the advent of the iPhone, ChatGPT and DeepSeek. \u201cThe RTX Spark looks to transform the traditional app-centric PC to a real useful agentic AI personal computer which will eventually be in every home in coming years as private edge AI agents become pivotal,\u201d he said. The new chip and Nvidia\u2019s Vera central processing unit (CPU) demonstrate the company\u2019s growing focus on PC and CPU products. The Vera CPU is designed for AI agents and early adopters, including OpenAI, Anthropic and SpaceX. Susannah Streeter, the chief investment strategist at Wealth Club, said: \u201cNvidia\u2019s latest push into AI-powered personal computers marks a bold attempt to extend its dominance beyond datacentres and into consumers\u2019 everyday lives. The unveiling of the RTX Spark chip reinforces Jensen Huang\u2019s vision of PCs evolving from simple productivity tools into hyperintelligent digital co-workers. \u201cWhile strategically significant, investors are likely to view the move as a longer-term growth opportunity rather than an immediate earnings driver. For now, Nvidia\u2019s fortunes still depend overwhelmingly on relentless global demand for AI infrastructure and datacentre computing power.\u201d As chip wars heat up, Intel intends to start shipping an AI chip later this year that uses cheaper memory and cooling technology than its California rivals Nvidia and AMD. Intel announced a new graphics processing unit, Xe3P, codenamed Crescent Island. It is \u201cpurpose-built for this upcoming AI generation of agents\u201d, according to Anil Nanduri, the vice-president of AI products at Intel\u2019s Data Center Group. Amid fears that AI will destroy vast numbers of jobs, Huang said it was \u201ccomplete nonsense\u201d that the technology would reduce demand for software engineers, arguing that it would increase hiring by making workers more productive. \u201cThis is the promise of AI,\u201d he said. \u201cThe number of engineers, software engineers, is actually increasing. People talk about AI reducing jobs \u2013 complete nonsense. It\u2019s causing more software engineers to be hired.\u201d Meanwhile, Rene Haas, the chief executive of Arm, is in line for a pay package that would make him a billionaire if he hits targets to turn the microchip firm into the UK\u2019s first trillion-dollar company. Arm, which is listed in New York but has its global headquarters in Cambridge, has proposed a pay scheme including generous share awards that is worth more than $1bn in total by 2031, if Haas can hit ce"
+        "title": "TikTok warped Americans\u2019 view of the Iran war \u2014 one post at a time",
+        "url": "https://nypost.com/2026/06/02/opinion/tiktok-warped-americans-view-of-the-iran-war-post-after-post",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.371,
+      "scores": {
+        "High House War": 0.366,
+        "High House Coin": 0.24,
+        "High House Shadow": 0.205,
+        "High House Life": 0.159,
+        "High House Iron": 0.273,
+        "High House Words": 0.218,
+        "High House Chains": 0.371
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Japan Redefines Indo-Pacific Security Role as ASEAN Partnerships Expand Across Maritime, Intelligence, and Defense Industrial Domains",
+        "url": "https://theasialive.com/japan-redefines-indo-pacific-security-role-as-asean-partnerships-expand-across-maritime-intelligence-and-defense-industrial-domains",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -144,128 +202,30 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.303,
-      "scores": {
-        "High House War": 0.303,
-        "High House Coin": 0.088,
-        "High House Shadow": 0.154,
-        "High House Life": 0.087,
-        "High House Iron": -0.022,
-        "High House Words": 0.233,
-        "High House Chains": 0.145
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "Witnesses tell of devastation from Myanmar explosion that killed dozens",
-        "url": "https://bbc.bm/witnesses-tell-of-devastation-from-myanmar-explosion-that-killed-dozens",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.298,
-      "scores": {
-        "High House War": 0.247,
-        "High House Coin": 0.218,
-        "High House Shadow": 0.192,
-        "High House Life": 0.19,
-        "High House Iron": 0.087,
-        "High House Words": 0.217,
-        "High House Chains": 0.298
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.81
-      },
-      "article": {
-        "title": "Skand Tayal | Helsinki Lessons: How East Asia Set To Redefine Its Own Strategic Future",
-        "url": "https://www.deccanchronicle.com/opinion/columnists/skand-tayal-helsinki-lessons-how-east-asia-set-to-redefine-its-own-strategic-future-1960211",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Iron",
-      "actor_a": "WHITE HOUSE",
-      "actor_b": "NVIDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.132,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
       "house_b": "High House Words",
       "actor_a": "WHITE HOUSE",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.024,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Life",
-      "actor_a": "NVIDIA",
-      "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.171,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "NVIDIA",
-      "actor_b": "MYANMAR",
-      "relationship": "neutral",
-      "goldstein_avg": 0.004,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.073,
+      "goldstein_avg": -2.227,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.342,
       "source": "gdelt_volume"
     },
     "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.516,
+      "trend": "falling",
+      "trend_ratio": 0.677,
       "source": "gdelt_volume"
     }
   }
