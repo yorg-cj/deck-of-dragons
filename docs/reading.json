@@ -1,6 +1,37 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "cards": [
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.479,
+      "scores": {
+        "High House War": 0.014,
+        "High House Coin": 0.479,
+        "High House Shadow": 0.246,
+        "High House Life": -0.041,
+        "High House Iron": 0.046,
+        "High House Words": 0.245,
+        "High House Chains": 0.318
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "U.S. Treasury Imposes Sanctions on Iran\u2019s Biggest Crypto Exchange",
+        "url": "https://www.nytimes.com/2026/06/02/world/middleeast/sanctions-iranian-crypto-exchange.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,65 +59,67 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.447,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.026,
-        "High House Shadow": 0.21,
-        "High House Life": 0.063,
-        "High House Iron": 0.447,
-        "High House Words": -0.039,
-        "High House Chains": -0.06
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
-      },
-      "article": {
-        "title": "Google AI CEO Wants To Hire Engineers Laid Off From Meta And Amazon, Says Has Million Ideas For Them",
-        "url": "https://www.timesnownews.com/technology-science/google-ai-ceo-wants-to-hire-engineers-laid-off-from-meta-and-amazon-says-has-million-ideas-for-them-article-154447201",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
       "reversed": false,
-      "confidence": 0.382,
+      "confidence": 0.412,
       "scores": {
-        "High House War": 0.382,
-        "High House Coin": 0.16,
-        "High House Shadow": 0.174,
-        "High House Life": 0.003,
-        "High House Iron": 0.045,
-        "High House Words": 0.237,
-        "High House Chains": 0.168
+        "High House War": 0.006,
+        "High House Coin": 0.034,
+        "High House Shadow": 0.091,
+        "High House Life": 0.119,
+        "High House Iron": 0.412,
+        "High House Words": -0.081,
+        "High House Chains": -0.055
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.678
+        "sentiment_score": 0.988
       },
       "article": {
-        "title": "TikTok warped Americans\u2019 view of the Iran war \u2014 one post at a time",
-        "url": "https://nypost.com/2026/06/02/opinion/tiktok-warped-americans-view-of-the-iran-war-post-after-post",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Nvidia launches \u2018superchip\u2019 putting AI power into laptops and PCs",
+        "url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
+        "source": "guardian",
+        "full_text": "A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers. The $5tn (\u00a33.7tn) US semiconductor company has launched a \u201csuperchip\u201d that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD. The RTX Spark chip will be launched this year, and will be used by computer makers including Dell, Lenovo, Asus and HP, paired with Microsoft\u2019s Windows software, according to the Nvidia chief executive, Jensen Huang. Speaking at the Computex conference in Taiwan, Huang said the chip would \u201creinvent the PC\u201d for the AI era, after three years of collaboration between Nvidia and Microsoft. A combination of a microprocessor and a graphics chip, developed with help from Taiwan\u2019s MediaTek, it is designed to run AI agents locally rather than relying on cloud computing. It will allow agents to navigate PCs autonomously, replacing humans\u2019 traditional mouse and keyboard interactions. Because the chip is very powerful, computers will still be thin and light, the company said. Huang said Nvidia was reimagining the PC \u201cfor the first time in 40 years\u201d. The company\u2019s foray into the consumer PC industry will open up a new business line, but this will take time, analysts said. Nvidia, which dominates the booming AI semiconductor market, is pushing beyond graphics cards into integrated chips that power the whole computer. Neil Shah, a co-founder of Counterpoint Research, compared the \u201cRTX Spark moment\u201d with the advent of the iPhone, ChatGPT and DeepSeek. \u201cThe RTX Spark looks to transform the traditional app-centric PC to a real useful agentic AI personal computer which will eventually be in every home in coming years as private edge AI agents become pivotal,\u201d he said. The new chip and Nvidia\u2019s Vera central processing unit (CPU) demonstrate the company\u2019s growing focus on PC and CPU products. The Vera CPU is designed for AI agents and early adopters, including OpenAI, Anthropic and SpaceX. Susannah Streeter, the chief investment strategist at Wealth Club, said: \u201cNvidia\u2019s latest push into AI-powered personal computers marks a bold attempt to extend its dominance beyond datacentres and into consumers\u2019 everyday lives. The unveiling of the RTX Spark chip reinforces Jensen Huang\u2019s vision of PCs evolving from simple productivity tools into hyperintelligent digital co-workers. \u201cWhile strategically significant, investors are likely to view the move as a longer-term growth opportunity rather than an immediate earnings driver. For now, Nvidia\u2019s fortunes still depend overwhelmingly on relentless global demand for AI infrastructure and datacentre computing power.\u201d As chip wars heat up, Intel intends to start shipping an AI chip later this year that uses cheaper memory and cooling technology than its California rivals Nvidia and AMD. Intel announced a new graphics processing unit, Xe3P, codenamed Crescent Island. It is \u201cpurpose-built for this upcoming AI generation of agents\u201d, according to Anil Nanduri, the vice-president of AI products at Intel\u2019s Data Center Group. Amid fears that AI will destroy vast numbers of jobs, Huang said it was \u201ccomplete nonsense\u201d that the technology would reduce demand for software engineers, arguing that it would increase hiring by making workers more productive. \u201cThis is the promise of AI,\u201d he said. \u201cThe number of engineers, software engineers, is actually increasing. People talk about AI reducing jobs \u2013 complete nonsense. It\u2019s causing more software engineers to be hired.\u201d Meanwhile, Rene Haas, the chief executive of Arm, is in line for a pay package that would make him a billionaire if he hits targets to turn the microchip firm into the UK\u2019s first trillion-dollar company. Arm, which is listed in New York but has its global headquarters in Cambridge, has proposed a pay scheme including generous share awards that is worth more than $1bn in total by 2031, if Haas can hit ce"
       },
-      "position": "EMERGING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.411,
+      "scores": {
+        "High House War": 0.107,
+        "High House Coin": 0.03,
+        "High House Shadow": 0.262,
+        "High House Life": 0.232,
+        "High House Iron": 0.022,
+        "High House Words": 0.411,
+        "High House Chains": 0.099
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "misinformation"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "Wednesday briefing: \u200bAs the Mandelson revelations continue with no respite, can the public ever trust UK politicians again?",
+        "url": "https://www.theguardian.com/world/2026/jun/03/wednesday-briefing-as-the-mandelson-revelations-continue-with-no-respite-can-the-public-ever-trust-uk-politicians-again",
+        "source": "guardian",
+        "full_text": "Good morning. I\u2019m Libby, and I\u2019m joining First Edition today as lead writer. Thanks for having me in your inbox; it\u2019s an invitation I won\u2019t take for granted. I\u2019ve reported for the Guardian everywhere from East Timor to Easterhouse (even a doggy swimming pool in Inverclyde), and I wanted to do this job now because talking directly with our readers has never been more essential. In this climate of \u201cincreasing misinformation, AI slop and divisive technology,\u201d our editor-in-chief Katharine Viner recently described Guardian journalism as \u201cthe connective tissue that helps fight isolation and sustains democracy\u201d. I want First Edition to play its part in that. Rest assured, we\u2019ll still provide an early briefing to navigate news overwhelm, digest the story of the day and take you under the bonnet of our reporting. But we\u2019ll be trying out some new formats and ideas to elevate your mornings \u2013 please do let us know what you love, what you hate and if you have any ideas by hitting reply. Change doesn\u2019t happen without you. I\u2019d like to begin by looking at the latest iteration of the (third and counting) Peter Mandelson scandal, after the UK government published thousands of messages, emails and other documents relating to his time as US ambassador. I spoke to Luke Tryl, UK director of the research agency More in Common and a man who knows more about the inside of British voters\u2019 heads than most folk, about how and why this story reaches beyond the Westminster bubble. But first the headlines. Five big stories UK news | Politicians and community leaders have called for calm amid fears that the populist right is using the murder of Henry Nowak by a Sikh man to whip up racist resentment against minority ethnic Britons. Middle East crisis | The US and Iran have exchanged fresh missiles and drone strikes, further jeopardising efforts by Washington to secure a new ceasefire agreement with Tehran. Health | Weight-loss drugs can cut the risk of developing or dying from cancer by 30%, doctors have said. UK news | South West Water has been fined \u00a31.85m for supplying water unfit for human consumption after a parasite outbreak made hundreds of people sick. World news | A British couple jailed on spying charges in Iran have lost an appeal against their convictions, their family has said. In depth: \u2018Across the system, there is this sense of the broken social contract\u2019 MPs voted in February to force the Labour government to release files relating to Mandelson\u2019s appointment as US ambassador, from which he was sacked last year after revelations about the extent of his relationship with the late convicted sex offender Jeffrey Epstein. The second batch of documents was released on Monday afternoon and comes after the Guardian revealed in April that the Foreign Office overruled a decision by officials to deny Mandelson security clearance for the role. Done in the name of transparency, it was nonetheless entirely unhelpful for prime minister Keir Starmer \u2013 reminding the nation of his glaring misjudgment in appointing a crucial diplomatic role to a man forced to resign in disgrace twice previously (and despite Mandelson\u2019s incurious friendship with Epstein). The absence of key documents on vetting and security mitigations from the latest batch meant the focus was squarely on gossipy WhatsApp messages that revealed how little confidence some of Starmer\u2019s closest counsels had in his leadership. In one, Mandelson complained that the PM was \u201cnot leading from the front\u201d, in another that Starmer was trapped in a cycle of \u201cadvance/buckle/advance/buckle\u201d, while he described No 10 policy and staff as \u201crubbish in, rubbish out\u201d. And it prompted his main rival, Andy Burnham, to warn \u2013 for reasons that very much suit his Makerfield byelection campaign \u2013 that \u201cthe revelations will further damage people\u2019s confidence in our political system\u201d. *** A long history of dashed hopes But it\u2019s not just the Mandelson scandal that does damage to public trust, says Tryl. \u201cIt\u2019s that it compou"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -115,7 +148,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Life",
@@ -144,88 +177,106 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.358,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.312,
       "scores": {
-        "High House War": 0.27,
-        "High House Coin": 0.149,
-        "High House Shadow": 0.216,
-        "High House Life": 0.071,
-        "High House Iron": 0.093,
-        "High House Words": 0.358,
-        "High House Chains": 0.208
+        "High House War": 0.312,
+        "High House Coin": 0.12,
+        "High House Shadow": 0.117,
+        "High House Life": -0.015,
+        "High House Iron": 0.049,
+        "High House Words": 0.189,
+        "High House Chains": 0.154
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "blockade"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "Could Trump\u2019s Iran \u2018excursion\u2019 be a bigger global turning point than Vietnam?",
-        "url": "https://www.theguardian.com/world/ng-interactive/2026/may/31/donald-trump-iran-excursion-vietnam-war",
+        "title": "Kuwait says airport hit by Iranian strikes as US and Iran launch fresh attacks",
+        "url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
         "source": "guardian",
-        "full_text": "In a 1965 speech justifying the war in Vietnam, Lyndon B Johnson argued that the goal was to ensure \u201cevery country can shape its own destiny\u201d since only in such a world could the US secure its own freedom. However, he also admitted \u201csuch were infirmities of man that force must often precede reason, and the waste of war, the works of peace\u201d. It was the kind of elegant justification of the country\u2019s moral mission to which successive US presidential speechwriters have turned at times of war. Assured by limitless military superiority and filled with such noble intent, US presidents have repeatedly been lured into launching wars only to find themselves confounded, ensnared and then broken by their inability to overpower an inferior opponent they wholly misjudged. It seemed safe to assume that this was a fate that would never befall Donald Trump. He was implacably opposed to endless wars that seemed disconnected to the everyday lives of his supporters. He would never equate military power with military victory. Yet Trump\u2019s \u201clittle excursion to Iran\u201d, judging by the drafts of the potential peace agreements that are circulating, is being universally perceived as a defeat. Almost regardless of the outcome \u2013 most likely a return to the old status quo \u2013 the war looks ill-conceived, a monument to confused objectives, bad planning and misplaced assumptions. In scale, of course, the current conflict does not match the Vietnam war, which went on for years, led to the deaths of 58,220 US soldiers, and is often perceived as the totemic and unmatchable example of US hubris. By comparison with the Vietnam odyssey, Iran feels more like a day trip. But in terms of consequence, it is still possible that the \u201cexcursion\u201d will prove to be the bigger geopolitical turning point for the unrivalled superpower, the moment when the US will have to concede it mishandled a war not just because it had no convincing battle plan, but also no grand strategy to match how the contemporary world works. In an interconnected world, Trump believes progress is achieved through conflict, not cooperation. Ironically for Trump, the shadow of Vietnam has always loomed large, and not just because he repeatedly dodged the draft. In many ways his political appeal is born of Vietnam. The Pulitzer prize-winning author Fredrik Logevall, professor of history at Harvard University, recently argued that \u201cmany of the troubles that plague America today \u2013 alienation, resentment, cynicism, the mistrust of government, the breakdown of civil discourse and of civic institutions, and the lack of accountability in powerful institutions \u2013 have their roots in the Vietnam war era\u201d. \u201cYou could argue that Americans went from naivety at the outset of the Vietnam era to cynicism \u2013 and cynicism that alienates us from the government, threatens democracy because it destroys the power of the people to believe in change, and to work for change,\u201d he said. It is in this polarised political ecosystem that Trump was to blossom. *** Clearly the domestic US consequences of Iran will never match Vietnam. True, the war was unpopular from the start, but society has not been torn apart by it. Only 13 body bags, each a personal tragedy, have been sent home. At the most, inflation caused by the energy shock will ensure an already unpopular president is punished in the midterms, something he professes not to concern him. But it is arguable that the international consequences of the Iran war could yet prove more long lasting. The fall of Saigon in April 1975 did not have the widely forecast global fallout. The predicted \u201cdomino effect\u201d of communism sweeping south-east Asia, as Henry Kissinger and Johnson feared, did not materialise, save in Cambodia and Laos. By contrast, Trump\u2019s war of choice looks to be a signal of defeat that will have an effect in several fields. It marks the collapse of Israel\u2019s 20-year Iran strategy to produce regime change and will accelerate the already rapid decline in the influence of this "
+        "full_text": "Kuwait\u2019s military said Iranian strikes that hit a terminal at its international airport caused significant damage and wounded several people. The attack came as the US and Iran exchanged fresh missile and drone strikes, further jeopardising efforts to secure a new ceasefire agreement between Washington and Tehran. Overnight, US forces fired a Hellfire missile to disable a tanker attempting to break through the American blockade of the strait of Hormuz on Tuesday, and later said they repelled Iranian reprisal strikes in the region and attacked sites on Iran\u2019s Qeshm Island. Iran\u2019s Islamic Revolutionary Guards Corps (IRGC) said it attacked the US Fifth Fleet headquarters in Bahrain with missiles and drones in response to the strike on Qeshm, a claim the US military\u2019s Central Command (Centcom) denied. The latest exchange of fire began when Centcom said it targeted an unladen tanker \u2013 the Botswana-flagged M/T Lexie \u2013 on Tuesday. Centcom said aircraft fired a missile to disable the tanker\u2019s engine, as it passed through international waters toward Iran\u2019s Kharg Island, north of the strait near Kuwait, after the crew ignored repeated warnings over a 24-hour period. Soon after, Iran carried out a drone strike on a passenger terminal at Kuwait international airport, wounding several people and forcing air traffic to be suspended, Kuwaiti officials said on Wednesday. The Kuwaiti defence ministry spokesperson Brig Gen Saud Abdulaziz Al-Atwan described the attack as \u201ccriminal Iranian aggression which resulted in significant material damage to the building and injuries.\u201d He did not say how many people were hurt but said those wounded had received medical care. Kuwait\u2019s state news agency said civil aviation authorities had suspended traffic and transferred arriving flights to alternative airports after \u201cterminal one came under Iranian attacks causing casualties and damage\u201d. US forces also said they shot down three one-way attack drones \u201claunched by Iran toward civilian mariners that were rightfully transiting regional waters\u201d but gave no further details. American forces also conducted strikes on an Iranian military ground control station on Qeshm Island. The IRGC said in a statement: \u201cLate last night, the aggressive US military struck an Iranian oil tanker near the strait of Hormuz with an aerial projectile, causing damage to the tanker\u2019s engine room \u2026 these responses should serve as a lesson.\u201d The latest exchange of strikes underline the lack of political progress in resolving the Middle East crisis, despite upbeat claims by the US secretary of state, Marco Rubio, in his first appearance before the Senate foreign relations committee since the US and Israel launched their war on Iran. Rubio reiterated claims on Tuesday that a deal with Tehran was within reach, and claimed the regime had agreed to negotiate aspects of its nuclear programme that it had refused to discuss even a month ago. His comments come in direct contrast to the messaging from Iran, which has indicated it will suspend peace talks with the US in protest against Israel\u2019s offensive in Lebanon, threatening the collapse of negotiations with Washington. The Iranian foreign minister, Abbas Araghchi, said: \u201cThe ceasefire between Iran and the US is unequivocally a ceasefire on all fronts, including in Lebanon. Its violation on one front is a violation of the ceasefire on all fronts. The US and Israel are responsible for the consequences of any violation.\u201d Israeli warplanes have launched dozens of strikes across southern Lebanon despite a new agreement supposedly brokered by Donald Trump aiming to bolster the tattered ceasefire in Lebanon. The US president said on Monday that he had stopped an imminent Israeli strike on Beirut and that he had spoken to Israel\u2019s prime minister, Benjamin Netanyahu, and representatives of Hezbollah and both agreed that \u201call shooting will stop\u201d. But on Tuesday, Lebanon\u2019s state-run National News Agency reported 30 Israeli strikes across the south. Near the"
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.353,
-      "scores": {
-        "High House War": 0.136,
-        "High House Coin": 0.353,
-        "High House Shadow": 0.034,
-        "High House Life": 0.041,
-        "High House Iron": 0.082,
-        "High House Words": 0.155,
-        "High House Chains": 0.191
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
-      },
-      "article": {
-        "title": "High Gas Prices Are Just the Beginning",
-        "url": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "WHITE HOUSE",
-      "actor_b": "IRAN",
+      "house_a": "High House Coin",
+      "house_b": "High House Shadow",
+      "actor_a": "IRAN",
+      "actor_b": "WHITE HOUSE",
       "relationship": "opposed",
-      "goldstein_avg": -2.227,
+      "goldstein_avg": -2.39,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "KUWAIT",
+      "relationship": "opposed",
+      "goldstein_avg": -3.77,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "WHITE HOUSE",
+      "actor_b": "NVIDIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.113,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Life",
+      "actor_a": "NVIDIA",
+      "actor_b": "TRUMP",
+      "relationship": "neutral",
+      "goldstein_avg": -0.367,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "NVIDIA",
+      "actor_b": "KUWAIT",
+      "relationship": "neutral",
+      "goldstein_avg": -0.211,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Life",
+      "actor_a": "MANDELSON",
+      "actor_b": "TRUMP",
+      "relationship": "neutral",
+      "goldstein_avg": -0.487,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.342,
-      "source": "gdelt_volume"
-    },
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.677,
+      "trend_ratio": 0.815,
       "source": "gdelt_volume"
     }
   }
