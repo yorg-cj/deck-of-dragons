@@ -1,37 +1,6 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "cards": [
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.479,
-      "scores": {
-        "High House War": 0.014,
-        "High House Coin": 0.479,
-        "High House Shadow": 0.246,
-        "High House Life": -0.041,
-        "High House Iron": 0.046,
-        "High House Words": 0.245,
-        "High House Chains": 0.318
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "U.S. Treasury Imposes Sanctions on Iran\u2019s Biggest Crypto Exchange",
-        "url": "https://www.nytimes.com/2026/06/02/world/middleeast/sanctions-iranian-crypto-exchange.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -59,65 +28,94 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.412,
+      "confidence": 0.459,
       "scores": {
-        "High House War": 0.006,
-        "High House Coin": 0.034,
-        "High House Shadow": 0.091,
-        "High House Life": 0.119,
-        "High House Iron": 0.412,
-        "High House Words": -0.081,
-        "High House Chains": -0.055
+        "High House War": 0.093,
+        "High House Coin": 0.119,
+        "High House Shadow": 0.141,
+        "High House Life": 0.051,
+        "High House Iron": 0.459,
+        "High House Words": 0.067,
+        "High House Chains": 0.125
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
+        "sentiment_score": 0.862
       },
       "article": {
-        "title": "Nvidia launches \u2018superchip\u2019 putting AI power into laptops and PCs",
-        "url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-        "source": "guardian",
-        "full_text": "A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers. The $5tn (\u00a33.7tn) US semiconductor company has launched a \u201csuperchip\u201d that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD. The RTX Spark chip will be launched this year, and will be used by computer makers including Dell, Lenovo, Asus and HP, paired with Microsoft\u2019s Windows software, according to the Nvidia chief executive, Jensen Huang. Speaking at the Computex conference in Taiwan, Huang said the chip would \u201creinvent the PC\u201d for the AI era, after three years of collaboration between Nvidia and Microsoft. A combination of a microprocessor and a graphics chip, developed with help from Taiwan\u2019s MediaTek, it is designed to run AI agents locally rather than relying on cloud computing. It will allow agents to navigate PCs autonomously, replacing humans\u2019 traditional mouse and keyboard interactions. Because the chip is very powerful, computers will still be thin and light, the company said. Huang said Nvidia was reimagining the PC \u201cfor the first time in 40 years\u201d. The company\u2019s foray into the consumer PC industry will open up a new business line, but this will take time, analysts said. Nvidia, which dominates the booming AI semiconductor market, is pushing beyond graphics cards into integrated chips that power the whole computer. Neil Shah, a co-founder of Counterpoint Research, compared the \u201cRTX Spark moment\u201d with the advent of the iPhone, ChatGPT and DeepSeek. \u201cThe RTX Spark looks to transform the traditional app-centric PC to a real useful agentic AI personal computer which will eventually be in every home in coming years as private edge AI agents become pivotal,\u201d he said. The new chip and Nvidia\u2019s Vera central processing unit (CPU) demonstrate the company\u2019s growing focus on PC and CPU products. The Vera CPU is designed for AI agents and early adopters, including OpenAI, Anthropic and SpaceX. Susannah Streeter, the chief investment strategist at Wealth Club, said: \u201cNvidia\u2019s latest push into AI-powered personal computers marks a bold attempt to extend its dominance beyond datacentres and into consumers\u2019 everyday lives. The unveiling of the RTX Spark chip reinforces Jensen Huang\u2019s vision of PCs evolving from simple productivity tools into hyperintelligent digital co-workers. \u201cWhile strategically significant, investors are likely to view the move as a longer-term growth opportunity rather than an immediate earnings driver. For now, Nvidia\u2019s fortunes still depend overwhelmingly on relentless global demand for AI infrastructure and datacentre computing power.\u201d As chip wars heat up, Intel intends to start shipping an AI chip later this year that uses cheaper memory and cooling technology than its California rivals Nvidia and AMD. Intel announced a new graphics processing unit, Xe3P, codenamed Crescent Island. It is \u201cpurpose-built for this upcoming AI generation of agents\u201d, according to Anil Nanduri, the vice-president of AI products at Intel\u2019s Data Center Group. Amid fears that AI will destroy vast numbers of jobs, Huang said it was \u201ccomplete nonsense\u201d that the technology would reduce demand for software engineers, arguing that it would increase hiring by making workers more productive. \u201cThis is the promise of AI,\u201d he said. \u201cThe number of engineers, software engineers, is actually increasing. People talk about AI reducing jobs \u2013 complete nonsense. It\u2019s causing more software engineers to be hired.\u201d Meanwhile, Rene Haas, the chief executive of Arm, is in line for a pay package that would make him a billionaire if he hits targets to turn the microchip firm into the UK\u2019s first trillion-dollar company. Arm, which is listed in New York but has its global headquarters in Cambridge, has proposed a pay scheme including generous share awards that is worth more than $1bn in total by 2031, if Haas can hit ce"
+        "title": "Europe Wants to Be Less Reliant on American Tech. Here\u2019s Its Plan.",
+        "url": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.411,
+      "confidence": 0.423,
       "scores": {
-        "High House War": 0.107,
-        "High House Coin": 0.03,
-        "High House Shadow": 0.262,
-        "High House Life": 0.232,
-        "High House Iron": 0.022,
-        "High House Words": 0.411,
-        "High House Chains": 0.099
+        "High House War": -0.109,
+        "High House Coin": 0.038,
+        "High House Shadow": 0.268,
+        "High House Life": 0.083,
+        "High House Iron": -0.052,
+        "High House Words": 0.423,
+        "High House Chains": 0.009
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.6,
         "matched_signals": [
-          "misinformation"
+          "banned"
         ],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Wednesday briefing: \u200bAs the Mandelson revelations continue with no respite, can the public ever trust UK politicians again?",
-        "url": "https://www.theguardian.com/world/2026/jun/03/wednesday-briefing-as-the-mandelson-revelations-continue-with-no-respite-can-the-public-ever-trust-uk-politicians-again",
+        "title": "Leftwing US commentator calls decision to ban him from UK \u2018Kafkaesque\u2019",
+        "url": "https://www.theguardian.com/world/2026/jun/04/leftwing-us-commentator-cenk-uygur-ban-uk-kafkaesque",
         "source": "guardian",
-        "full_text": "Good morning. I\u2019m Libby, and I\u2019m joining First Edition today as lead writer. Thanks for having me in your inbox; it\u2019s an invitation I won\u2019t take for granted. I\u2019ve reported for the Guardian everywhere from East Timor to Easterhouse (even a doggy swimming pool in Inverclyde), and I wanted to do this job now because talking directly with our readers has never been more essential. In this climate of \u201cincreasing misinformation, AI slop and divisive technology,\u201d our editor-in-chief Katharine Viner recently described Guardian journalism as \u201cthe connective tissue that helps fight isolation and sustains democracy\u201d. I want First Edition to play its part in that. Rest assured, we\u2019ll still provide an early briefing to navigate news overwhelm, digest the story of the day and take you under the bonnet of our reporting. But we\u2019ll be trying out some new formats and ideas to elevate your mornings \u2013 please do let us know what you love, what you hate and if you have any ideas by hitting reply. Change doesn\u2019t happen without you. I\u2019d like to begin by looking at the latest iteration of the (third and counting) Peter Mandelson scandal, after the UK government published thousands of messages, emails and other documents relating to his time as US ambassador. I spoke to Luke Tryl, UK director of the research agency More in Common and a man who knows more about the inside of British voters\u2019 heads than most folk, about how and why this story reaches beyond the Westminster bubble. But first the headlines. Five big stories UK news | Politicians and community leaders have called for calm amid fears that the populist right is using the murder of Henry Nowak by a Sikh man to whip up racist resentment against minority ethnic Britons. Middle East crisis | The US and Iran have exchanged fresh missiles and drone strikes, further jeopardising efforts by Washington to secure a new ceasefire agreement with Tehran. Health | Weight-loss drugs can cut the risk of developing or dying from cancer by 30%, doctors have said. UK news | South West Water has been fined \u00a31.85m for supplying water unfit for human consumption after a parasite outbreak made hundreds of people sick. World news | A British couple jailed on spying charges in Iran have lost an appeal against their convictions, their family has said. In depth: \u2018Across the system, there is this sense of the broken social contract\u2019 MPs voted in February to force the Labour government to release files relating to Mandelson\u2019s appointment as US ambassador, from which he was sacked last year after revelations about the extent of his relationship with the late convicted sex offender Jeffrey Epstein. The second batch of documents was released on Monday afternoon and comes after the Guardian revealed in April that the Foreign Office overruled a decision by officials to deny Mandelson security clearance for the role. Done in the name of transparency, it was nonetheless entirely unhelpful for prime minister Keir Starmer \u2013 reminding the nation of his glaring misjudgment in appointing a crucial diplomatic role to a man forced to resign in disgrace twice previously (and despite Mandelson\u2019s incurious friendship with Epstein). The absence of key documents on vetting and security mitigations from the latest batch meant the focus was squarely on gossipy WhatsApp messages that revealed how little confidence some of Starmer\u2019s closest counsels had in his leadership. In one, Mandelson complained that the PM was \u201cnot leading from the front\u201d, in another that Starmer was trapped in a cycle of \u201cadvance/buckle/advance/buckle\u201d, while he described No 10 policy and staff as \u201crubbish in, rubbish out\u201d. And it prompted his main rival, Andy Burnham, to warn \u2013 for reasons that very much suit his Makerfield byelection campaign \u2013 that \u201cthe revelations will further damage people\u2019s confidence in our political system\u201d. *** A long history of dashed hopes But it\u2019s not just the Mandelson scandal that does damage to public trust, says Tryl. \u201cIt\u2019s that it compou"
+        "full_text": "A leftwing US political commentator has described the UK government\u2019s decision to ban him from entering the country as \u201chaunting and hilarious\u201d and \u201cKafkaesque\u201d. Cenk Uygur, the founder and a host on Young Turks, a well-established progressive media outlet, was banned earlier this week from entering the UK to attend a speaking engagement alongside Hasan Piker, a Twitch streamer who has become a popular figure on the US political left. The decision by the Home Office to cancel their electronic travel authorisations (ETA) because their presence in the UK \u201cmay not be conducive to the public good\u201d has led to questions over government censorship of free speech, been criticised by the Green party leader, Zack Polanski, as \u201cgrim\u201d, and described by the free speech advocates Index on Censorship as a \u201cworrying escalation\u201d. When asked about the government\u2019s decision on Thursday morning by Sky News, Uygur said: \u201cIt\u2019s both a little bit haunting and hilarious at the same time. \u201cI don\u2019t really know what I\u2019m being charged with here,\u201d he added. \u201cAm I really not going to be allowed in Britain from now on? And how is someone who is almost religiously for nonviolence a threat to the public order?\u201d The government has not commented on the specific reasons for the ban against Uygur, who travelled to the UK in 2025. Both Uygur and his nephew, Piker, were due to appear at SXSW London and will now speak virtually at an event run by the Oxford Union Society which they were due to attend. Any foreign national wanting to visit the UK needs permission to do so, either in the form of a visa or an ETA. Both can be refused for several reasons. The rules include wide discretionary powers for the home secretary to exclude individuals on the basis that their presence is \u201cnot conducive to the public good because of their conduct, character, associations or other reasons\u201d. The government blocked 11 foreign far-right activists from entering the UK in May before a rally by Tommy Robinson, whom Keir Starmer has accused of \u201cpeddling hatred and division\u201d. Earlier this year, Kanye West was blocked from coming to the UK on grounds that his presence would not be conducive to the public good, prompting an outcry and the cancellation of the Wireless music festival. The rapper has been criticised for making antisemitic remarks, including voicing admiration for Adolf Hitler, and has apologised for his antisemitic behaviour. Uygur, a 56-year-old activist and lawyer, has criticised Israel\u2019s actions in Gaza as \u201cgenocide\u201d and \u201csavage\u201d. He has said his criticisms are confined to an analysis of Israeli influence over US policymaking. When asked if the UK government\u2019s decision was made over his views of Israel, Uygur said: \u201cThere\u2019s no question.\u201d While he had been given no reason by the government for the cancellation of his ETA, Uygur said that the Times, which first reported the ban on Monday, cited fears his presence \u201ccould fuel antisemitism\u201d and that the decision was based on several grounds, including \u201cantisemitic tropes\u201d after the attacks on Israel by Hamas on 7 October 2023, as well as comments about grooming gangs that Uygur made on Piers Morgan\u2019s YouTube show. Uygur said: \u201cI\u2019m curious if the British government is ever going to list the acceptable and unacceptable ways of criticising Israel and if they have these standards for any other country. \u201cObviously this is Kafkaesque, it\u2019s Orwellian, and then the question is why? Why is your government, and also my government in America, so obsessed with this tiny, little country and whether their feelings have been hurt?\u201d He added: \u201cHow about the feelings of the Palestinians, or the Lebanese as they\u2019re being invaded by Israel right now, or Iran as they\u2019re being attacked by Israel right now; are we not concerned about their feelings?\u201d"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": -0.034,
+        "High House Coin": 0.092,
+        "High House Shadow": 0.125,
+        "High House Life": 0.373,
+        "High House Iron": 0.134,
+        "High House Words": 0.16,
+        "High House Chains": 0.113
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "\u2018Happiness is not just about GDP\u2019: ambitious plan or utopia? ",
+        "url": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
+        "source": "guardian",
+        "full_text": "In our increasingly dystopian world, who wouldn\u2019t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It\u2019s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more \u2013 while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. By incorporating important concepts of \u201csufficiency\u201d and \u201cplanetary habitability\u201d, it also addresses the fundamental question of how to reduce the material impact of economic activity \u2013 a topic long ignored by the traditional left. While critics will question the feasibility of this vision because it relies on a radical reform of global financial institutions and massive wealth taxes \u2013 both of which have long been dismissed as unthinkable by rich countries \u2013 there can be no worthwhile assessment of its value without considering the far bleaker options offered by the far right and the old left. Chief among them is the far-right techno-extractivist vision championed by the US president, Donald Trump, and his supporters in Silicon Valley, who are putting artificial intelligence ahead of renewable technology. In the quest for \u201cenergy dominance\u201d, the US is using tariffs and military power to widen markets for oil, gas and coal. This strategy of concentrating power in the hands of billionaires is driving the world towards catastrophic levels of global heating and inequality. Thomas Piketty, one of the coordinators of the report, says the ambition of the mega-rich has become unrealistic and undesirable. \u201cPeople realise this is simply not working. If the billionaires and the centimillionaires of the world were conducting our economy, investing the money in a way that brings us to a fantastic future with planetary habitability, rising wages and better housing conditions and health conditions for all, then everybody would be happy to give them the keys. But that\u2019s not what we see. \u201cTheir new dream is to cover the entire planet with datacentres. This is their economic project for the world. But everybody can see that this is just going to increase the material footprint of our economy, that this is going to make global warming even worse.\u201d The report also fills a hole that has existed since the inception of the global climate science infrastructure in the 1990s. One of the architects of that system, the British chemist Robert Watson, a former chair of the UN Intergovernmental Panel on Climate Change, told me that if he could go back in time and change anything, it would be to add more social scientists. Initially, he says, the \u201cpure scientists\u201d from the fields of physics and chemistry naively believed the data alone would be enough to persuade governments to act, but they later came to wish they had taken more account of social dynamics, economics, politics and psychology. This flaw has choked public support for climate action, says Piketty, a global authority on inequality and author of the bestselling 2013 book Capital in the Twenty-First Century: \u201cThere\u2019s been this illusion of what we call a classless ecology, the sort of green growth illusion that everything is going to be solved by producing more and more and without worrying about the distribution, without worrying about sufficiency, without worrying about structural sectoral transformation. And this illusion has made green policy very unpopular for many lower income, middle income voters.\u201d The Global Justice Report goes further than any previous study in addressing that shortcoming. It is also an exercise"
       },
       "position": "WILD"
     },
@@ -148,136 +146,67 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
-      "house": "High House Life",
+      "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.359,
+      "confidence": 0.363,
       "scores": {
-        "High House War": 0.087,
-        "High House Coin": 0.016,
-        "High House Shadow": 0.08,
-        "High House Life": 0.359,
-        "High House Iron": 0.047,
-        "High House Words": 0.097,
-        "High House Chains": 0.075
+        "High House War": -0.022,
+        "High House Coin": 0.363,
+        "High House Shadow": 0.095,
+        "High House Life": 0.064,
+        "High House Iron": 0.261,
+        "High House Words": -0.05,
+        "High House Chains": 0.056
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.542,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.985
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "MAHA Is No Longer Useful to Trump",
-        "url": "https://www.nytimes.com/2026/05/21/opinion/maha-public-health-rfk-jr.html",
-        "source": "nyt",
+        "title": "Micron Hits $1 Trillion Market Cap: Now What?",
+        "url": "https://www.fool.com/investing/2026/06/04/micron-hits-1-trillion-market-cap-now-what",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.312,
+      "reversed": false,
+      "confidence": 0.304,
       "scores": {
-        "High House War": 0.312,
-        "High House Coin": 0.12,
-        "High House Shadow": 0.117,
-        "High House Life": -0.015,
-        "High House Iron": 0.049,
-        "High House Words": 0.189,
-        "High House Chains": 0.154
+        "High House War": 0.304,
+        "High House Coin": 0.089,
+        "High House Shadow": 0.203,
+        "High House Life": 0.061,
+        "High House Iron": 0.084,
+        "High House Words": 0.232,
+        "High House Chains": 0.133
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "blockade"
-        ],
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.778
       },
       "article": {
-        "title": "Kuwait says airport hit by Iranian strikes as US and Iran launch fresh attacks",
-        "url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
-        "source": "guardian",
-        "full_text": "Kuwait\u2019s military said Iranian strikes that hit a terminal at its international airport caused significant damage and wounded several people. The attack came as the US and Iran exchanged fresh missile and drone strikes, further jeopardising efforts to secure a new ceasefire agreement between Washington and Tehran. Overnight, US forces fired a Hellfire missile to disable a tanker attempting to break through the American blockade of the strait of Hormuz on Tuesday, and later said they repelled Iranian reprisal strikes in the region and attacked sites on Iran\u2019s Qeshm Island. Iran\u2019s Islamic Revolutionary Guards Corps (IRGC) said it attacked the US Fifth Fleet headquarters in Bahrain with missiles and drones in response to the strike on Qeshm, a claim the US military\u2019s Central Command (Centcom) denied. The latest exchange of fire began when Centcom said it targeted an unladen tanker \u2013 the Botswana-flagged M/T Lexie \u2013 on Tuesday. Centcom said aircraft fired a missile to disable the tanker\u2019s engine, as it passed through international waters toward Iran\u2019s Kharg Island, north of the strait near Kuwait, after the crew ignored repeated warnings over a 24-hour period. Soon after, Iran carried out a drone strike on a passenger terminal at Kuwait international airport, wounding several people and forcing air traffic to be suspended, Kuwaiti officials said on Wednesday. The Kuwaiti defence ministry spokesperson Brig Gen Saud Abdulaziz Al-Atwan described the attack as \u201ccriminal Iranian aggression which resulted in significant material damage to the building and injuries.\u201d He did not say how many people were hurt but said those wounded had received medical care. Kuwait\u2019s state news agency said civil aviation authorities had suspended traffic and transferred arriving flights to alternative airports after \u201cterminal one came under Iranian attacks causing casualties and damage\u201d. US forces also said they shot down three one-way attack drones \u201claunched by Iran toward civilian mariners that were rightfully transiting regional waters\u201d but gave no further details. American forces also conducted strikes on an Iranian military ground control station on Qeshm Island. The IRGC said in a statement: \u201cLate last night, the aggressive US military struck an Iranian oil tanker near the strait of Hormuz with an aerial projectile, causing damage to the tanker\u2019s engine room \u2026 these responses should serve as a lesson.\u201d The latest exchange of strikes underline the lack of political progress in resolving the Middle East crisis, despite upbeat claims by the US secretary of state, Marco Rubio, in his first appearance before the Senate foreign relations committee since the US and Israel launched their war on Iran. Rubio reiterated claims on Tuesday that a deal with Tehran was within reach, and claimed the regime had agreed to negotiate aspects of its nuclear programme that it had refused to discuss even a month ago. His comments come in direct contrast to the messaging from Iran, which has indicated it will suspend peace talks with the US in protest against Israel\u2019s offensive in Lebanon, threatening the collapse of negotiations with Washington. The Iranian foreign minister, Abbas Araghchi, said: \u201cThe ceasefire between Iran and the US is unequivocally a ceasefire on all fronts, including in Lebanon. Its violation on one front is a violation of the ceasefire on all fronts. The US and Israel are responsible for the consequences of any violation.\u201d Israeli warplanes have launched dozens of strikes across southern Lebanon despite a new agreement supposedly brokered by Donald Trump aiming to bolster the tattered ceasefire in Lebanon. The US president said on Monday that he had stopped an imminent Israeli strike on Beirut and that he had spoken to Israel\u2019s prime minister, Benjamin Netanyahu, and representatives of Hezbollah and both agreed that \u201call shooting will stop\u201d. But on Tuesday, Lebanon\u2019s state-run National News Agency reported 30 Israeli strikes across the south. Near the"
+        "title": "Ireland, Seen as a Weak Link in Europe\u2019s Defense, Is Trying to Bulk Up",
+        "url": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Shadow",
-      "actor_a": "IRAN",
-      "actor_b": "WHITE HOUSE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.39,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "KUWAIT",
-      "relationship": "opposed",
-      "goldstein_avg": -3.77,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Iron",
-      "actor_a": "WHITE HOUSE",
-      "actor_b": "NVIDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.113,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Life",
-      "actor_a": "NVIDIA",
-      "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.367,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "NVIDIA",
-      "actor_b": "KUWAIT",
-      "relationship": "neutral",
-      "goldstein_avg": -0.211,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Life",
-      "actor_a": "MANDELSON",
-      "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.487,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.815,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
