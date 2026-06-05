@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.478,
+      "confidence": 0.486,
       "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.215,
-        "High House Shadow": 0.478,
-        "High House Life": 0.074,
-        "High House Iron": 0.3,
-        "High House Words": 0.097,
-        "High House Chains": 0.157
+        "High House War": 0.039,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.486,
+        "High House Life": 0.145,
+        "High House Iron": -0.025,
+        "High House Words": 0.354,
+        "High House Chains": 0.143
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
-        "url": "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html",
+        "title": "The MAGA Representative Crusading Against Government Secrecy",
+        "url": "https://www.nytimes.com/2026/06/05/opinion/anna-paulina-luna-epstein-jfk-ufo-conspiracy.html",
         "source": "nyt",
         "full_text": null
       },
@@ -94,15 +94,15 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.368,
       "scores": {
-        "High House War": -0.034,
-        "High House Coin": 0.092,
-        "High House Shadow": 0.125,
-        "High House Life": 0.373,
-        "High House Iron": 0.134,
-        "High House Words": 0.16,
-        "High House Chains": 0.113
+        "High House War": -0.029,
+        "High House Coin": 0.107,
+        "High House Shadow": 0.129,
+        "High House Life": 0.368,
+        "High House Iron": 0.136,
+        "High House Words": 0.175,
+        "High House Chains": 0.137
       },
       "reversal": {
         "reversed": false,
@@ -115,67 +115,38 @@
         "title": "\u2018Happiness is not just about GDP\u2019: ambitious plan or utopia? ",
         "url": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
         "source": "guardian",
-        "full_text": "In our increasingly dystopian world, who wouldn\u2019t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It\u2019s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more \u2013 while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. By incorporating important concepts of \u201csufficiency\u201d and \u201cplanetary habitability\u201d, it also addresses the fundamental question of how to reduce the material impact of economic activity \u2013 a topic long ignored by the traditional left. While critics will question the feasibility of this vision because it relies on a radical reform of global financial institutions and massive wealth taxes \u2013 both of which have long been dismissed as unthinkable by rich countries \u2013 there can be no worthwhile assessment of its value without considering the far bleaker options offered by the far right and the old left. Chief among them is the far-right techno-extractivist vision championed by the US president, Donald Trump, and his supporters in Silicon Valley, who are putting artificial intelligence ahead of renewable technology. In the quest for \u201cenergy dominance\u201d, the US is using tariffs and military power to widen markets for oil, gas and coal. This strategy of concentrating power in the hands of billionaires is driving the world towards catastrophic levels of global heating and inequality. Thomas Piketty, one of the coordinators of the report, says the ambition of the mega-rich has become unrealistic and undesirable. \u201cPeople realise this is simply not working. If the billionaires and the centimillionaires of the world were conducting our economy, investing the money in a way that brings us to a fantastic future with planetary habitability, rising wages and better housing conditions and health conditions for all, then everybody would be happy to give them the keys. But that\u2019s not what we see. \u201cTheir new dream is to cover the entire planet with datacentres. This is their economic project for the world. But everybody can see that this is just going to increase the material footprint of our economy, that this is going to make global warming even worse.\u201d The report also fills a hole that has existed since the inception of the global climate science infrastructure in the 1990s. One of the architects of that system, the British chemist Robert Watson, a former chair of the UN Intergovernmental Panel on Climate Change, told me that if he could go back in time and change anything, it would be to add more social scientists. Initially, he says, the \u201cpure scientists\u201d from the fields of physics and chemistry naively believed the data alone would be enough to persuade governments to act, but they later came to wish they had taken more account of social dynamics, economics, politics and psychology. This flaw has choked public support for climate action, says Piketty, a global authority on inequality and author of the bestselling 2013 book Capital in the Twenty-First Century: \u201cThere\u2019s been this illusion of what we call a classless ecology, the sort of green growth illusion that everything is going to be solved by producing more and more and without worrying about the distribution, without worrying about sufficiency, without worrying about structural sectoral transformation. And this illusion has made green policy very unpopular for many lower income, middle income voters.\u201d The Global Justice Report goes further than any previous study in addressing that shortcoming. It is also an exercise"
+        "full_text": "In our increasingly dystopian world, who wouldn\u2019t want to at least be open to a utopian antidote? The Global Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It\u2019s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more \u2013 while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. By incorporating important concepts of \u201csufficiency\u201d and \u201cplanetary habitability\u201d, it also addresses the fundamental question of how to reduce the material impact of economic activity \u2013 a topic long ignored by the traditional left. While critics will question the feasibility of this vision because it relies on a radical reform of global financial institutions and massive wealth taxes \u2013 both of which have long been dismissed as unthinkable by rich countries \u2013 there can be no worthwhile assessment of its value without considering the far bleaker options offered by the far right and the old left. Chief among them is the far-right techno-extractivist vision championed by the US president, Donald Trump, and his supporters in Silicon Valley, who are putting artificial intelligence ahead of renewable technology. In the quest for \u201cenergy dominance\u201d, the US is using tariffs and military power to widen markets for oil, gas and coal. This strategy of concentrating power in the hands of billionaires is driving the world towards catastrophic levels of global heating and inequality. Thomas Piketty, one of the coordinators of the report, says the ambition of the mega-rich has become unrealistic and undesirable. \u201cPeople realise this is simply not working. If the billionaires and the centimillionaires of the world were conducting our economy, investing the money in a way that brings us to a fantastic future with planetary habitability, rising wages and better housing conditions and health conditions for all, then everybody would be happy to give them the keys. But that\u2019s not what we see. \u201cTheir new dream is to cover the entire planet with datacentres. This is their economic project for the world. But everybody can see that this is just going to increase the material footprint of our economy, that this is going to make global warming even worse.\u201d The report also fills a hole that has existed since the inception of the global climate science infrastructure in the 1990s. One of the architects of that system, the British chemist Robert Watson, a former chair of the UN Intergovernmental Panel on Climate Change, told me that if he could go back in time and change anything, it would be to add more social scientists. Initially, he says, the \u201cpure scientists\u201d from the fields of physics and chemistry naively believed the data alone would be enough to persuade governments to act, but they later came to wish they had taken more account of social dynamics, economics, politics and psychology. This flaw has choked public support for climate action, says Piketty, a global authority on inequality and author of the bestselling 2013 book Capital in the Twenty-First Century: \u201cThere\u2019s been this illusion of what we call a classless ecology, the sort of green growth illusion that everything is going to be solved by producing more and more and without worrying about the distribution, without worrying about sufficiency, without worrying about structural sectoral transformation. And this illusion has made green policy very unpopular for many lower income, middle income voters.\u201d The Global Justice Report goes further than any previous study in addressing that shortcoming. It is also an exercis"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.371,
+      "confidence": 0.364,
       "scores": {
-        "High House War": 0.366,
-        "High House Coin": 0.24,
-        "High House Shadow": 0.205,
-        "High House Life": 0.159,
-        "High House Iron": 0.273,
-        "High House Words": 0.218,
-        "High House Chains": 0.371
+        "High House War": 0.151,
+        "High House Coin": 0.364,
+        "High House Shadow": 0.093,
+        "High House Life": -0.014,
+        "High House Iron": 0.108,
+        "High House Words": 0.119,
+        "High House Chains": 0.321
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Japan Redefines Indo-Pacific Security Role as ASEAN Partnerships Expand Across Maritime, Intelligence, and Defense Industrial Domains",
-        "url": "https://theasialive.com/japan-redefines-indo-pacific-security-role-as-asean-partnerships-expand-across-maritime-intelligence-and-defense-industrial-domains",
+        "title": "Turkmenistan strengthens regional trade through key commodity transactions",
+        "url": "https://www.trend.az/business/4194467.html",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.363,
-      "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.363,
-        "High House Shadow": 0.095,
-        "High House Life": 0.064,
-        "High House Iron": 0.261,
-        "High House Words": -0.05,
-        "High House Chains": 0.056
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "Micron Hits $1 Trillion Market Cap: Now What?",
-        "url": "https://www.fool.com/investing/2026/06/04/micron-hits-1-trillion-market-cap-now-what",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
     },
     {
       "house": "High House War",
@@ -204,9 +175,44 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.268,
+      "scores": {
+        "High House War": 0.099,
+        "High House Coin": 0.158,
+        "High House Shadow": 0.042,
+        "High House Life": 0.063,
+        "High House Iron": 0.126,
+        "High House Words": 0.08,
+        "High House Chains": 0.268
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.55,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "We Tried Fuzzy Borders in the 19th Century. It Didn\u2019t Go Well Then, Either.",
+        "url": "https://www.nytimes.com/2026/05/27/opinion/trump-world-map-borders-countries.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "WANING"
     }
   ],
   "relationships": [],
-  "house_trends": {}
+  "house_trends": {
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.559,
+      "source": "gdelt_volume"
+    }
+  }
 }
