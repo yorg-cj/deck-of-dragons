@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.486,
+      "confidence": 0.478,
       "scores": {
-        "High House War": 0.039,
-        "High House Coin": 0.203,
-        "High House Shadow": 0.486,
-        "High House Life": 0.145,
-        "High House Iron": -0.025,
-        "High House Words": 0.354,
-        "High House Chains": 0.143
+        "High House War": 0.132,
+        "High House Coin": 0.215,
+        "High House Shadow": 0.478,
+        "High House Life": 0.074,
+        "High House Iron": 0.3,
+        "High House Words": 0.097,
+        "High House Chains": 0.157
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "The MAGA Representative Crusading Against Government Secrecy",
-        "url": "https://www.nytimes.com/2026/06/05/opinion/anna-paulina-luna-epstein-jfk-ufo-conspiracy.html",
+        "title": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
+        "url": "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html",
         "source": "nyt",
         "full_text": null
       },
@@ -60,6 +60,35 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.03,
+        "High House Coin": 0.426,
+        "High House Shadow": 0.085,
+        "High House Life": -0.051,
+        "High House Iron": 0.082,
+        "High House Words": 0.115,
+        "High House Chains": 0.321
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "Do China-Russia trade payment frictions show limits of de-dollarisation?",
+        "url": "https://www.scmp.com/economy/global-economy/article/3356137/do-china-russia-trade-payment-frictions-show-limits-de-dollarisation",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
@@ -88,7 +117,7 @@
         "source": "guardian",
         "full_text": "A leftwing US political commentator has described the UK government\u2019s decision to ban him from entering the country as \u201chaunting and hilarious\u201d and \u201cKafkaesque\u201d. Cenk Uygur, the founder and a host on Young Turks, a well-established progressive media outlet, was banned earlier this week from entering the UK to attend a speaking engagement alongside Hasan Piker, a Twitch streamer who has become a popular figure on the US political left. The decision by the Home Office to cancel their electronic travel authorisations (ETA) because their presence in the UK \u201cmay not be conducive to the public good\u201d has led to questions over government censorship of free speech, been criticised by the Green party leader, Zack Polanski, as \u201cgrim\u201d, and described by the free speech advocates Index on Censorship as a \u201cworrying escalation\u201d. When asked about the government\u2019s decision on Thursday morning by Sky News, Uygur said: \u201cIt\u2019s both a little bit haunting and hilarious at the same time. \u201cI don\u2019t really know what I\u2019m being charged with here,\u201d he added. \u201cAm I really not going to be allowed in Britain from now on? And how is someone who is almost religiously for nonviolence a threat to the public order?\u201d The government has not commented on the specific reasons for the ban against Uygur, who travelled to the UK in 2025. Both Uygur and his nephew, Piker, were due to appear at SXSW London and will now speak virtually at an event run by the Oxford Union Society which they were due to attend. Any foreign national wanting to visit the UK needs permission to do so, either in the form of a visa or an ETA. Both can be refused for several reasons. The rules include wide discretionary powers for the home secretary to exclude individuals on the basis that their presence is \u201cnot conducive to the public good because of their conduct, character, associations or other reasons\u201d. The government blocked 11 foreign far-right activists from entering the UK in May before a rally by Tommy Robinson, whom Keir Starmer has accused of \u201cpeddling hatred and division\u201d. Earlier this year, Kanye West was blocked from coming to the UK on grounds that his presence would not be conducive to the public good, prompting an outcry and the cancellation of the Wireless music festival. The rapper has been criticised for making antisemitic remarks, including voicing admiration for Adolf Hitler, and has apologised for his antisemitic behaviour. Uygur, a 56-year-old activist and lawyer, has criticised Israel\u2019s actions in Gaza as \u201cgenocide\u201d and \u201csavage\u201d. He has said his criticisms are confined to an analysis of Israeli influence over US policymaking. When asked if the UK government\u2019s decision was made over his views of Israel, Uygur said: \u201cThere\u2019s no question.\u201d While he had been given no reason by the government for the cancellation of his ETA, Uygur said that the Times, which first reported the ban on Monday, cited fears his presence \u201ccould fuel antisemitism\u201d and that the decision was based on several grounds, including \u201cantisemitic tropes\u201d after the attacks on Israel by Hamas on 7 October 2023, as well as comments about grooming gangs that Uygur made on Piers Morgan\u2019s YouTube show. Uygur said: \u201cI\u2019m curious if the British government is ever going to list the acceptable and unacceptable ways of criticising Israel and if they have these standards for any other country. \u201cObviously this is Kafkaesque, it\u2019s Orwellian, and then the question is why? Why is your government, and also my government in America, so obsessed with this tiny, little country and whether their feelings have been hurt?\u201d He added: \u201cHow about the feelings of the Palestinians, or the Lebanese as they\u2019re being invaded by Israel right now, or Iran as they\u2019re being attacked by Israel right now; are we not concerned about their feelings?\u201d"
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -117,21 +146,21 @@
         "source": "guardian",
         "full_text": "In our increasingly dystopian world, who wouldn\u2019t want to at least be open to a utopian antidote? The Global Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It\u2019s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more \u2013 while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. By incorporating important concepts of \u201csufficiency\u201d and \u201cplanetary habitability\u201d, it also addresses the fundamental question of how to reduce the material impact of economic activity \u2013 a topic long ignored by the traditional left. While critics will question the feasibility of this vision because it relies on a radical reform of global financial institutions and massive wealth taxes \u2013 both of which have long been dismissed as unthinkable by rich countries \u2013 there can be no worthwhile assessment of its value without considering the far bleaker options offered by the far right and the old left. Chief among them is the far-right techno-extractivist vision championed by the US president, Donald Trump, and his supporters in Silicon Valley, who are putting artificial intelligence ahead of renewable technology. In the quest for \u201cenergy dominance\u201d, the US is using tariffs and military power to widen markets for oil, gas and coal. This strategy of concentrating power in the hands of billionaires is driving the world towards catastrophic levels of global heating and inequality. Thomas Piketty, one of the coordinators of the report, says the ambition of the mega-rich has become unrealistic and undesirable. \u201cPeople realise this is simply not working. If the billionaires and the centimillionaires of the world were conducting our economy, investing the money in a way that brings us to a fantastic future with planetary habitability, rising wages and better housing conditions and health conditions for all, then everybody would be happy to give them the keys. But that\u2019s not what we see. \u201cTheir new dream is to cover the entire planet with datacentres. This is their economic project for the world. But everybody can see that this is just going to increase the material footprint of our economy, that this is going to make global warming even worse.\u201d The report also fills a hole that has existed since the inception of the global climate science infrastructure in the 1990s. One of the architects of that system, the British chemist Robert Watson, a former chair of the UN Intergovernmental Panel on Climate Change, told me that if he could go back in time and change anything, it would be to add more social scientists. Initially, he says, the \u201cpure scientists\u201d from the fields of physics and chemistry naively believed the data alone would be enough to persuade governments to act, but they later came to wish they had taken more account of social dynamics, economics, politics and psychology. This flaw has choked public support for climate action, says Piketty, a global authority on inequality and author of the bestselling 2013 book Capital in the Twenty-First Century: \u201cThere\u2019s been this illusion of what we call a classless ecology, the sort of green growth illusion that everything is going to be solved by producing more and more and without worrying about the distribution, without worrying about sufficiency, without worrying about structural sectoral transformation. And this illusion has made green policy very unpopular for many lower income, middle income voters.\u201d The Global Justice Report goes further than any previous study in addressing that shortcoming. It is also an exercis"
       },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.364,
+      "confidence": 0.335,
       "scores": {
-        "High House War": 0.151,
-        "High House Coin": 0.364,
-        "High House Shadow": 0.093,
-        "High House Life": -0.014,
-        "High House Iron": 0.108,
-        "High House Words": 0.119,
-        "High House Chains": 0.321
+        "High House War": 0.142,
+        "High House Coin": 0.202,
+        "High House Shadow": 0.232,
+        "High House Life": 0.141,
+        "High House Iron": 0.057,
+        "High House Words": 0.265,
+        "High House Chains": 0.335
       },
       "reversal": {
         "reversed": false,
@@ -141,8 +170,8 @@
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Turkmenistan strengthens regional trade through key commodity transactions",
-        "url": "https://www.trend.az/business/4194467.html",
+        "title": "Imperialism keeps evolving, never disappearing: How the Global South safeguards sovereignty via institutional historical memory",
+        "url": "https://www.newsday.co.zw/opinion-analysis/article/200056532/imperialism-keeps-evolving-never-disappearing-how-the-global-south-safeguards-sovereignty-via-institutional-historical-memory",
         "source": "worldnews",
         "full_text": null
       },
@@ -151,67 +180,51 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": false,
-      "confidence": 0.304,
-      "scores": {
-        "High House War": 0.304,
-        "High House Coin": 0.089,
-        "High House Shadow": 0.203,
-        "High House Life": 0.061,
-        "High House Iron": 0.084,
-        "High House Words": 0.232,
-        "High House Chains": 0.133
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.778
-      },
-      "article": {
-        "title": "Ireland, Seen as a Weak Link in Europe\u2019s Defense, Is Trying to Bulk Up",
-        "url": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.268,
+      "confidence": 0.316,
       "scores": {
-        "High House War": 0.099,
-        "High House Coin": 0.158,
-        "High House Shadow": 0.042,
-        "High House Life": 0.063,
-        "High House Iron": 0.126,
-        "High House Words": 0.08,
-        "High House Chains": 0.268
+        "High House War": 0.316,
+        "High House Coin": 0.096,
+        "High House Shadow": 0.165,
+        "High House Life": 0.031,
+        "High House Iron": 0.082,
+        "High House Words": 0.195,
+        "High House Chains": 0.129
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "blockade"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "We Tried Fuzzy Borders in the 19th Century. It Didn\u2019t Go Well Then, Either.",
-        "url": "https://www.nytimes.com/2026/05/27/opinion/trump-world-map-borders-countries.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Gulf countries targeted by Iran after exchange of fire with US, in latest threat to fragile ceasefire",
+        "url": "https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+        "source": "guardian",
+        "full_text": "The US and Iran exchanged a series of strikes on Saturday morning, in the latest flare-up to threaten the ceasefire in the Middle East war. The US military said it shot down four Iranian drones that were launched toward the strait of Hormuz and struck coastal surveillance radar sites in response. Iran followed hours later, saying it targeted US bases in the region, with Kuwait and Bahrain both issuing air raid alerts. It was the latest in a series of back-and-forth attacks that have strained the tenuous ceasefire in the war and harmed efforts to reach a deal to extend the truce. US central command (Centcom) said early on Saturday that Iranian attack drones \u201cposed an immediate threat to regional maritime traffic,\u201d while the strikes on radar installations were to \u201cdefend against further attacks\u201d. The US military is enforcing a blockade on Iranian ports in response to Tehran\u2019s chokehold on the strait \u2013 a crucial corridor for global oil and natural gas shipments \u2013 which has sent energy prices spiking. Hours later Iran\u2019s Revolutionary Guards said they targeted \u201cenemy bases\u201d in the Gulf, after the US strikes on Sirik and Qeshm Island. Kuwait\u2019s military said early Saturday it was responding to \u201chostile\u201d missile and drone attacks, days after a strike on the country\u2019s international airport killed one and wounded dozens. \u201cIran fired seven ballistic missiles toward Kuwait and Bahrain\u201d, Centcom said, adding that six were intercepted and a seventh did not reach its target. \u201cThere are currently no reports of harm to US personnel, and Iranian claims of damaging US 5th fleet headquarters in Bahrain are false,\u201d Centcom said. Earlier on Friday, US president Donald Trump told reporters \u201cthe situation with Iran seems to be going quite well\u201d. \u201cWe\u2019re going to come out of Iran very quickly and it\u2019s going to be very strong one way or the other, whether it\u2019s a piece of paper or the very tough way,\u201d Trump said at an event with farmers in Wisconsin. Trump is under pressure to find a way out of the war, which has delivered a shock to markets and proven unpopular at home as midterm elections loom. US and Iranian negotiators have for weeks been working to extend the ceasefire by 60 days and start a new round of talks on Iran\u2019s nuclear program. But both sides have continued to call for changes in the deal, with neither side appearing ready to compromise. Asked on Friday why it was taking so long, Trump told NBC it was because \u201cit\u2019s a very hard thing\u201d for Iran, citing their \u201cgreat independence\u201d. \u201cThere are things they never thought they\u2019d be doing that they\u2019re going to have to do. They\u2019ve got no choice, and it takes a little while,\u201d he said in the interview. In other comments on Friday, Trump said Iran still has more than 20% of its missiles left, a figure for the stockpile that was higher than that of 18% which Trump gave last month. He has often claimed to have completely destroyed Iran\u2019s ability to wage war. \u201cThey still have capacity. They have some missiles, they have some drones. I would say, percentage wise, maybe 21, 22% of their missiles,\u201d Trump told NBC News in an interview. His administration has also touted the latest ceasefire agreed to this week by the Lebanese government and Israel after US-brokered talks in Washington. That\u2019s despite Iranian-backed Hezbollah \u2013 who were not party to the talks \u2013 rejecting the agreement and new attacks being launched by both sides. The Israeli military on Friday struck multiple parts of southern Lebanon and issued evacuation warnings a number of villages, including one that has sheltered thousands of people displaced by the fighting. The fighting in Lebanon, where Israeli forces have seized large swaths of the south, also threatens efforts to end the Iran war and reopen the strait of Hormuz. Iran has demanded that any lasting truce extend to Lebanon. With the Associated Press and Agence France-Presse"
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "WHITE HOUSE",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.353,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
     "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.559,
+      "trend": "falling",
+      "trend_ratio": 0.553,
       "source": "gdelt_volume"
     }
   }
