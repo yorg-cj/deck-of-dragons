@@ -1,32 +1,32 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "cards": [
     {
       "house": "High House Shadow",
-      "title": "The Knight",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.478,
+      "confidence": 0.47,
       "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.215,
-        "High House Shadow": 0.478,
-        "High House Life": 0.074,
-        "High House Iron": 0.3,
-        "High House Words": 0.097,
-        "High House Chains": 0.157
+        "High House War": 0.118,
+        "High House Coin": 0.075,
+        "High House Shadow": 0.47,
+        "High House Life": 0.107,
+        "High House Iron": 0.124,
+        "High House Words": 0.269,
+        "High House Chains": 0.006
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
-        "url": "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "\u2018A driver of political violence\u2019: how the breakneck AI boom is fueling anti-tech extremism",
+        "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+        "source": "guardian",
+        "full_text": "When a 20-year-old man from Texas was arrested earlier this year for allegedly trying to burn down OpenAI\u2019s headquarters and Sam Altman\u2019s house, authorities found an anti-AI manifesto alongside his lighter and a jug of kerosene. It was one of a spate of attacks that has caused alarm among researchers, the tech industry and law enforcement about the rise of anti-tech extremism. In April, an Italian \u201cnature pilled\u201d Instagram influencer was arrested in Rome and charged with plotting a series of anti-tech attacks that took inspiration from Ted \u201cThe Unabomber\u201d Kaczynski. Two self-described \u201cecofascists\u201d that carried out a deadly anti-Muslim attack on a mosque in San Diego last month also cited \u201cAI slop\u201d and JD Vance\u2019s ties to Palantir as motivations for their violence in their manifesto. An Indianapolis city councilor woke up earlier this year to gunshots being fired into his home before finding a note that read \u201cNO DATA CENTERS\u201d. The growing public backlash to the tech industry\u2019s rapid rollout of artificial intelligence has taken many, mostly-non violent forms such as local communities organizing against datacenters and political candidates promising increased oversight. Yet at the fringes, researchers say grievances against the AI industry and its leaders are animating old violent extremist movements and fomenting new ones. \u201cAI is becoming this driver of political violence, and that\u2019s a very new phenomenon,\u201d said Jordyn Abrams, a researcher at the Program on Extremism at George Washington University. While much of the early public discussion around generative AI and extremism focused on how malign actors like terrorist groups could misuse products such as ChatGPT for propaganda purposes or plotting attacks, there is more recent attention given to how the AI industry as a whole can radicalize people. What motivates someone to extremist violence might not be a conversation with a chatbot, researchers say, but the society-wide disruption, narrative of existential threat and lack of accountability that has come with the AI boom. In the same way that AI has come to pervade many facets of modern life, the technology has also filtered into the way that extremists think about the world. Whether it is violent anti-government groups opposing mass surveillance, ecofascists with environmental grievances, neo-Nazi accelerationists bent on collapsing critical tech infrastructure or the man who allegedly targeted Altman\u2019s house worried about superpowerful artificial intelligence destroying humanity, AI has become a fixation across the extremist spectrum. \u201cIt really transcends these left-right dichotomies,\u201d said Yannick Veilleux-Lepage, an associate professor at the Royal Military College of Canada. \u201cWe\u2019re seeing a lot of different groups, a lot of different ideologies being framed through a lens of anti-AI.\u201d There isn\u2019t time for people to build resilience\u2019 The modern anti-tech movement has a long lineage. Periods of technological change are historically accompanied by backlash from the people most affected, with researchers often pointing to the early 19th-century luddite rebellion of British textile workers smashing automated knitting machines as they demanded more labor rights. The next 200 years brought waves of violent labor disputes and political violence that accompanied tech\u2019s market disruptions, uneven accumulation of wealth and disenfranchisement of workers. In the 1990s, there was cultural pushback against the rise of the personal computer and the fear of how it would disrupt society. Common complaints included fears of replacing human workers, environmental harm and crumbling healthy social structures. \u201cHaven\u2019t you heard? It wants your job. It peddles you smut. It corrupts your kids. It\u2019s cold, sterile, inhuman. Suddenly, it\u2019s okay to hate your computer,\u201d read a New York Magazine cover story from 1995 on the \u201cNew Luddites\u201d. The same year as New York Magazine ran its cover story, the Washington Post and the New York Times published th"
       },
       "position": "CENTER"
     },
@@ -60,31 +60,31 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
+      "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.426,
+      "confidence": 0.386,
       "scores": {
-        "High House War": 0.03,
-        "High House Coin": 0.426,
-        "High House Shadow": 0.085,
-        "High House Life": -0.051,
-        "High House Iron": 0.082,
-        "High House Words": 0.115,
-        "High House Chains": 0.321
+        "High House War": 0.017,
+        "High House Coin": 0.18,
+        "High House Shadow": 0.082,
+        "High House Life": 0.386,
+        "High House Iron": 0.07,
+        "High House Words": 0.132,
+        "High House Chains": 0.208
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.523,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.95
       },
       "article": {
-        "title": "Do China-Russia trade payment frictions show limits of de-dollarisation?",
-        "url": "https://www.scmp.com/economy/global-economy/article/3356137/do-china-russia-trade-payment-frictions-show-limits-de-dollarisation",
-        "source": "worldnews",
-        "full_text": null
+        "title": "\u2018Immediate national priority\u2019: ministers accused of complacency over UK food supply ",
+        "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
+        "source": "guardian",
+        "full_text": "Ministers have been accused of being complacent about the risks to vital supplies of food into the UK amid concerns over fuel shortages, cyber attacks and extreme weather. The trade body for cold storage and logistics has urged the government to make potential disruption to the UK\u2019s food system an \u201cimmediate national priority\u201d. Phil Pluck, the chief executive of the Cold Chain Federation (CCF), which represents businesses involved in supplying and transporting temperature-sensitive food and pharmaceuticals, said: \u201cThe potential for a major food crisis is as great now as it ever was. We are at the mercy of so many different factors now, which are becoming increasingly dangerous to food supply in this country.\u201d Britain\u2019s food system has not been significantly tested since the second world war, a time when about half of the nation\u2019s cold stores were in public ownership, said Tom Southall, the deputy chief executive at the CCF. \u201cThis alludes to an element of complacency about how and where we store our food in the UK.\u201d Britain relies on overseas imports for more than a third of its food, most of it entering through four ports, making supplies particularly vulnerable to potential interruption. The CCF said international conflicts or hold-ups at the UK border could stop food flowing into the country, while fuel shortages or the failure of cold-storage sites because of flooding or extreme heat amid the climate crisis could cause gaps on supermarket shelves. The continued closure of the strait of Hormuz has interrupted global flows of fertiliser, necessary for half the world\u2019s food production, further raising fears over shortages. Many everyday grocery items, including meat, vegetables, fish, dairy products, bread, fruit and ready meals, rely on the cold chain, as well as medicines, vaccines and blood and plasma products. These products are chilled or frozen before being transported from 460 cold-storage sites by approximately 100,000 lorries on their journey from growers and manufacturers to food retailers, hospitality venues and public institutions such as schools, hospitals and care homes. The CCF accused the government of failing to take steps to make the UK\u2019s food supply more resilient. \u201cWe are recognised as critical national infrastructure by Russian cybercriminals, not by the UK government,\u201d said Pluck, warning that companies in the cold chain have in recent months frequently faced attempted cyber-attacks. Supplies of food items have been interrupted on several occasions in the past few years, including shortages of fresh produce such as tomatoes, cucumbers and peppers after poor weather in Europe and north Africa hit imports in February 2023 at the same time as UK and Dutch glasshouses cut back production amid soaring energy bills. Several UK supermarkets temporarily rationed sales of certain items in response. Pluck called on the government to designate the UK\u2019s cold stores and food transport hubs as critical infrastructure \u2013 rather than the food sector as a whole \u2013 given recent shocks to supply during the pandemic, or after Russia\u2019s full-scale invasion of Ukraine. This would ensure power supplies would be maintained in the event of large outages. He cautioned that disruption to food supplies can quickly lead to riots \u2013 as seen in Venezuela in 2016 \u2013 while vulnerable people and the poorest households are the most exposed to such risks. The CCF has produced a white paper that calls for staff at the UK\u2019s large cold stores and transport hubs to be given permanent essential-worker status \u2013 which they temporarily had during the pandemic \u2013 and for the Cabinet Office to take overall responsibility for cold-chain resilience and security. A government spokesperson said: \u201cThe food sector is one of the UK\u2019s 13 critical national infrastructure sectors, and the cold chain is important to food supply to increase adaptability to disruptions that can occur. \u201cWe have committed to maintaining domestic food production; we are investing billions"
       },
       "position": "FOUNDATION"
     },
@@ -92,61 +92,61 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.423,
+      "confidence": 0.37,
       "scores": {
-        "High House War": -0.109,
-        "High House Coin": 0.038,
-        "High House Shadow": 0.268,
-        "High House Life": 0.083,
-        "High House Iron": -0.052,
-        "High House Words": 0.423,
-        "High House Chains": 0.009
+        "High House War": 0.135,
+        "High House Coin": 0.145,
+        "High House Shadow": 0.288,
+        "High House Life": 0.196,
+        "High House Iron": 0.095,
+        "High House Words": 0.37,
+        "High House Chains": 0.078
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.6,
         "matched_signals": [
-          "banned"
+          "misinformation"
         ],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "Leftwing US commentator calls decision to ban him from UK \u2018Kafkaesque\u2019",
-        "url": "https://www.theguardian.com/world/2026/jun/04/leftwing-us-commentator-cenk-uygur-ban-uk-kafkaesque",
+        "title": "Ministers may try to curb spread of misinformation during social unrest",
+        "url": "https://www.theguardian.com/politics/2026/jun/06/ministers-may-curb-misinformation-musk-x-liz-kendall",
         "source": "guardian",
-        "full_text": "A leftwing US political commentator has described the UK government\u2019s decision to ban him from entering the country as \u201chaunting and hilarious\u201d and \u201cKafkaesque\u201d. Cenk Uygur, the founder and a host on Young Turks, a well-established progressive media outlet, was banned earlier this week from entering the UK to attend a speaking engagement alongside Hasan Piker, a Twitch streamer who has become a popular figure on the US political left. The decision by the Home Office to cancel their electronic travel authorisations (ETA) because their presence in the UK \u201cmay not be conducive to the public good\u201d has led to questions over government censorship of free speech, been criticised by the Green party leader, Zack Polanski, as \u201cgrim\u201d, and described by the free speech advocates Index on Censorship as a \u201cworrying escalation\u201d. When asked about the government\u2019s decision on Thursday morning by Sky News, Uygur said: \u201cIt\u2019s both a little bit haunting and hilarious at the same time. \u201cI don\u2019t really know what I\u2019m being charged with here,\u201d he added. \u201cAm I really not going to be allowed in Britain from now on? And how is someone who is almost religiously for nonviolence a threat to the public order?\u201d The government has not commented on the specific reasons for the ban against Uygur, who travelled to the UK in 2025. Both Uygur and his nephew, Piker, were due to appear at SXSW London and will now speak virtually at an event run by the Oxford Union Society which they were due to attend. Any foreign national wanting to visit the UK needs permission to do so, either in the form of a visa or an ETA. Both can be refused for several reasons. The rules include wide discretionary powers for the home secretary to exclude individuals on the basis that their presence is \u201cnot conducive to the public good because of their conduct, character, associations or other reasons\u201d. The government blocked 11 foreign far-right activists from entering the UK in May before a rally by Tommy Robinson, whom Keir Starmer has accused of \u201cpeddling hatred and division\u201d. Earlier this year, Kanye West was blocked from coming to the UK on grounds that his presence would not be conducive to the public good, prompting an outcry and the cancellation of the Wireless music festival. The rapper has been criticised for making antisemitic remarks, including voicing admiration for Adolf Hitler, and has apologised for his antisemitic behaviour. Uygur, a 56-year-old activist and lawyer, has criticised Israel\u2019s actions in Gaza as \u201cgenocide\u201d and \u201csavage\u201d. He has said his criticisms are confined to an analysis of Israeli influence over US policymaking. When asked if the UK government\u2019s decision was made over his views of Israel, Uygur said: \u201cThere\u2019s no question.\u201d While he had been given no reason by the government for the cancellation of his ETA, Uygur said that the Times, which first reported the ban on Monday, cited fears his presence \u201ccould fuel antisemitism\u201d and that the decision was based on several grounds, including \u201cantisemitic tropes\u201d after the attacks on Israel by Hamas on 7 October 2023, as well as comments about grooming gangs that Uygur made on Piers Morgan\u2019s YouTube show. Uygur said: \u201cI\u2019m curious if the British government is ever going to list the acceptable and unacceptable ways of criticising Israel and if they have these standards for any other country. \u201cObviously this is Kafkaesque, it\u2019s Orwellian, and then the question is why? Why is your government, and also my government in America, so obsessed with this tiny, little country and whether their feelings have been hurt?\u201d He added: \u201cHow about the feelings of the Palestinians, or the Lebanese as they\u2019re being invaded by Israel right now, or Iran as they\u2019re being attacked by Israel right now; are we not concerned about their feelings?\u201d"
+        "full_text": "The government is considering fresh action to halt the spread of misinformation during public crises, Liz Kendall has said, insisting she will not be \u201cbullied off\u201d Elon Musk\u2019s X. The technology secretary was speaking after rioting broke out in Southampton over the police response to the fatal stabbing of Henry Nowak, a case about which Musk has repeatedly posted. She said she was \u201cvery concerned\u201d about the role of social media platforms in times of unrest, adding: \u201cI definitely think, particularly during moments of crisis and disorder and when public safety is important, we need to look at what more we can do.\u201d Kendall pointed to a report last year from the Commons science, innovation and technology committee that called for Ofcom to implement \u201ccrisis response protocols\u201d to hold platforms responsible for misinformation. The media regulator has consulted on the issue, with more details expected to be announced this month. The committee launched its investigation after the riots of summer 2024, when misinformation spread quickly after the murder of three girls at a dance class in Southport. Its report found that \u201cmisleading and hateful messaging proliferated rapidly online, amplified by the recommendation algorithms of social media companies\u201d. Kendall said the government was \u201clooking at not only boosting trusted sources of information, which I think is extremely important and there\u2019s probably more we could do there. But also, you know, enabling people to reset their algorithms.\u201d She added: \u201cI think lots of people think they see this stuff coming towards them. And it should be much easier for people to say \u2018let\u2019s have a reset\u2019 \u2013 so I am looking at that again.\u201d Chi Onwurah, the chair of the committee, said: \u201cThe government must do more to stop the spread of misinformation online. My committee\u2019s report found the Online Safety Act to be woefully inadequate and riddled with regulatory gaps \u2013 yet most of our recommendations for how to improve this were rejected. \u201cSince then, the secretary of state has told my committee that the report was \u2018excellent\u2019. However, a year after its publication, no progress has been made to update the OSA. Our current regulation just isn\u2019t up to scratch.\u201d On Thursday, Keir Starmer accused Musk of \u201cinterfering in our politics\u201d. However, Kendall said: \u201cI understand my colleagues, why they don\u2019t want to be there [on social media], but I didn\u2019t want to be bullied off any platform. \u201cI\u2019m going to get the government\u2019s message out; hopefully to some people who want to hear it and definitely to those who don\u2019t. Because I want to say that this government stands for hope and not hate.\u201d Musk has repeatedly highlighted the Nowak case to his 240m followers on X. One of his posts, sharing comments from the far-right MP Rupert Lowe, simply said \u201cRAGE\u201d. It was viewed more than 25m times. Kendall\u2019s last post on X, about a visit to Liverpool University to highlight taxpayer backing for innovation, was viewed 5,500 times and shared eight times. The Labour MP Jess Asato is taking legal action against Musk\u2019s xAI company over demeaning sexualised material created by its Grok AI tool that spread across X earlier this year. The prime minister praised Asato\u2019s decision on Thursday, saying she was \u201cabsolutely right\u201d to take action. Analysis by the human rights group Amnesty last year claimed X\u2019s algorithms had contributed to what it called a \u201cstaggering amplification of hate\u201d after the Southport murders. The Commons committee said the Online Safety Act, which was not fully in force at the time of the 2024 riots, did not contain adequate measures to contain misinformation. Kendall said: \u201cI think from the initial idea and discussion to implementation [of the act] was eight years. It is a long time. It\u2019s too long. It\u2019s too slow. This technology is developing so rapidly. MPs vote on a finance bill every year. It can\u2019t be beyond the wit of man or even womankind to do things more quickly.\u201d"
       },
       "position": "WILD"
     },
     {
-      "house": "High House Life",
+      "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.368,
+      "reversed": true,
+      "confidence": 0.369,
       "scores": {
-        "High House War": -0.029,
-        "High House Coin": 0.107,
-        "High House Shadow": 0.129,
-        "High House Life": 0.368,
-        "High House Iron": 0.136,
-        "High House Words": 0.175,
-        "High House Chains": 0.137
+        "High House War": 0.123,
+        "High House Coin": 0.369,
+        "High House Shadow": 0.099,
+        "High House Life": 0.14,
+        "High House Iron": 0.159,
+        "High House Words": 0.224,
+        "High House Chains": 0.332
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.537,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.977
       },
       "article": {
-        "title": "\u2018Happiness is not just about GDP\u2019: ambitious plan or utopia? ",
-        "url": "https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia",
+        "title": "On China, Trump picked the right battle but the wrong strategy",
+        "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
         "source": "guardian",
-        "full_text": "In our increasingly dystopian world, who wouldn\u2019t want to at least be open to a utopian antidote? The Global Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It\u2019s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more \u2013 while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. By incorporating important concepts of \u201csufficiency\u201d and \u201cplanetary habitability\u201d, it also addresses the fundamental question of how to reduce the material impact of economic activity \u2013 a topic long ignored by the traditional left. While critics will question the feasibility of this vision because it relies on a radical reform of global financial institutions and massive wealth taxes \u2013 both of which have long been dismissed as unthinkable by rich countries \u2013 there can be no worthwhile assessment of its value without considering the far bleaker options offered by the far right and the old left. Chief among them is the far-right techno-extractivist vision championed by the US president, Donald Trump, and his supporters in Silicon Valley, who are putting artificial intelligence ahead of renewable technology. In the quest for \u201cenergy dominance\u201d, the US is using tariffs and military power to widen markets for oil, gas and coal. This strategy of concentrating power in the hands of billionaires is driving the world towards catastrophic levels of global heating and inequality. Thomas Piketty, one of the coordinators of the report, says the ambition of the mega-rich has become unrealistic and undesirable. \u201cPeople realise this is simply not working. If the billionaires and the centimillionaires of the world were conducting our economy, investing the money in a way that brings us to a fantastic future with planetary habitability, rising wages and better housing conditions and health conditions for all, then everybody would be happy to give them the keys. But that\u2019s not what we see. \u201cTheir new dream is to cover the entire planet with datacentres. This is their economic project for the world. But everybody can see that this is just going to increase the material footprint of our economy, that this is going to make global warming even worse.\u201d The report also fills a hole that has existed since the inception of the global climate science infrastructure in the 1990s. One of the architects of that system, the British chemist Robert Watson, a former chair of the UN Intergovernmental Panel on Climate Change, told me that if he could go back in time and change anything, it would be to add more social scientists. Initially, he says, the \u201cpure scientists\u201d from the fields of physics and chemistry naively believed the data alone would be enough to persuade governments to act, but they later came to wish they had taken more account of social dynamics, economics, politics and psychology. This flaw has choked public support for climate action, says Piketty, a global authority on inequality and author of the bestselling 2013 book Capital in the Twenty-First Century: \u201cThere\u2019s been this illusion of what we call a classless ecology, the sort of green growth illusion that everything is going to be solved by producing more and more and without worrying about the distribution, without worrying about sufficiency, without worrying about structural sectoral transformation. And this illusion has made green policy very unpopular for many lower income, middle income voters.\u201d The Global Justice Report goes further than any previous study in addressing that shortcoming. It is also an exercis"
+        "full_text": "We are in for a long trade war. In the months since \u201cLiberation Day\u201d last year, when Donald Trump let loose a volley of tariffs against imports from everywhere, countries have rushed to build new relationships in the hope of maybe circumventing the US to protect the global trading system. The European Union hurried to sign a trade agreement with South America\u2019s Mercosur bloc that had been sitting on ice for years. China and south-east Asian nations deepened their trade agreement. The Canadian prime minister, Mark Carney, travelled to Beijing hoping to build closer ties. Hopes of rebuilding the open trade architecture are probably futile. Global trade will be shaped by an emerging new imperative, to stop China\u2019s export juggernaut and end its lock on the supply of strategic inputs \u2013 from pharmaceutical components to critical minerals to essential chips that are vital for industries around the world. The United States will remain China\u2019s main opponent. But other countries, in Europe and elsewhere, are also rummaging through their policy kits to evaluate their options, from tariffs and domestic subsidies to export controls. The war will come at a cost to economic wellbeing. Prices of consumer goods will rise as countries block imports from China. Manufacturers will have to cope with pricier Chinese inputs. Chinese exporters will have a harder time finding markets to place their stuff. And exporters in the US and elsewhere may be locked out of China\u2019s market. The risk that looms high over all others is that China will, as it has done before, leverage its dominance in the critical commodities and products over which it has a near monopoly, cutting off supplies to retaliate against countries that block its products or seek to shake its dominance. Trump, of course, will not manage this well. His scattershot protectionism, raising tariffs across the board with no discernible strategy, and his belligerence against countries that would be natural allies in the brewing conflict, guarantee that American trade policy will remain a hot mess until the end of his term. Hopefully, the next administration will bring strategic thinking to the fight. It is perplexing how the global economy arrived at this spot. China accounts for about a third of the world\u2019s manufacturing output, from only about 5% in 1995. Its share of global manufacturing exports rose from 3% to 20% over the period. It accounts for over 50% of the global exports of hundreds of manufacturing products. Even Germany, with its robust industrial pedigree, is worried that its industry may not survive the Chinese competition. China\u2019s swelling current account surplus \u2013 officially 3.8% of its gross domestic product but up to 5% according to some analysts \u2013 has become a global threat. Economists observe there is a peaceful path out of this conundrum. Jason Furman, who chaired the US Council of Economic Advisers under president Obama, points out that as a means to improve the welfare of the Chinese, Beijing\u2019s approach looks like a mistake. Getting the Chinese to save less and consume more \u2013 say, by building a more generous social safety net \u2013 would improve their wellbeing and bolster China\u2019s sluggish economy without flooding the rest of the world with stuff. And yet, Furman also observes that Beijing may be aiming for a different objective: \u201cmaximizing your geopolitical dominance; not the economic welfare of your citizens\u201d. Governments well beyond Washington believe this to be the case: China, the story goes, is not merely turbocharging exports to prop up growth. It is building an arsenal for a trade war. Beijing is doing nothing to dispel this fear. In a 2020 speech, President Xi Jinping argued that \u201cwe must tighten international production chains\u2019 dependence on China, forming a powerful countermeasure and deterrent capability against foreigners who would artificially cut off supply.\u201d China offered an early taste of its capabilities in 2010, when it cut exports of rare earths to Japan aft"
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -175,56 +175,43 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.316,
+      "confidence": 0.287,
       "scores": {
-        "High House War": 0.316,
-        "High House Coin": 0.096,
-        "High House Shadow": 0.165,
-        "High House Life": 0.031,
-        "High House Iron": 0.082,
-        "High House Words": 0.195,
-        "High House Chains": 0.129
+        "High House War": 0.287,
+        "High House Coin": 0.266,
+        "High House Shadow": 0.098,
+        "High House Life": 0.071,
+        "High House Iron": 0.115,
+        "High House Words": 0.186,
+        "High House Chains": 0.209
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "blockade"
-        ],
+        "confidence": 0.518,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.942
       },
       "article": {
-        "title": "Gulf countries targeted by Iran after exchange of fire with US, in latest threat to fragile ceasefire",
-        "url": "https://www.theguardian.com/world/2026/jun/06/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
-        "source": "guardian",
-        "full_text": "The US and Iran exchanged a series of strikes on Saturday morning, in the latest flare-up to threaten the ceasefire in the Middle East war. The US military said it shot down four Iranian drones that were launched toward the strait of Hormuz and struck coastal surveillance radar sites in response. Iran followed hours later, saying it targeted US bases in the region, with Kuwait and Bahrain both issuing air raid alerts. It was the latest in a series of back-and-forth attacks that have strained the tenuous ceasefire in the war and harmed efforts to reach a deal to extend the truce. US central command (Centcom) said early on Saturday that Iranian attack drones \u201cposed an immediate threat to regional maritime traffic,\u201d while the strikes on radar installations were to \u201cdefend against further attacks\u201d. The US military is enforcing a blockade on Iranian ports in response to Tehran\u2019s chokehold on the strait \u2013 a crucial corridor for global oil and natural gas shipments \u2013 which has sent energy prices spiking. Hours later Iran\u2019s Revolutionary Guards said they targeted \u201cenemy bases\u201d in the Gulf, after the US strikes on Sirik and Qeshm Island. Kuwait\u2019s military said early Saturday it was responding to \u201chostile\u201d missile and drone attacks, days after a strike on the country\u2019s international airport killed one and wounded dozens. \u201cIran fired seven ballistic missiles toward Kuwait and Bahrain\u201d, Centcom said, adding that six were intercepted and a seventh did not reach its target. \u201cThere are currently no reports of harm to US personnel, and Iranian claims of damaging US 5th fleet headquarters in Bahrain are false,\u201d Centcom said. Earlier on Friday, US president Donald Trump told reporters \u201cthe situation with Iran seems to be going quite well\u201d. \u201cWe\u2019re going to come out of Iran very quickly and it\u2019s going to be very strong one way or the other, whether it\u2019s a piece of paper or the very tough way,\u201d Trump said at an event with farmers in Wisconsin. Trump is under pressure to find a way out of the war, which has delivered a shock to markets and proven unpopular at home as midterm elections loom. US and Iranian negotiators have for weeks been working to extend the ceasefire by 60 days and start a new round of talks on Iran\u2019s nuclear program. But both sides have continued to call for changes in the deal, with neither side appearing ready to compromise. Asked on Friday why it was taking so long, Trump told NBC it was because \u201cit\u2019s a very hard thing\u201d for Iran, citing their \u201cgreat independence\u201d. \u201cThere are things they never thought they\u2019d be doing that they\u2019re going to have to do. They\u2019ve got no choice, and it takes a little while,\u201d he said in the interview. In other comments on Friday, Trump said Iran still has more than 20% of its missiles left, a figure for the stockpile that was higher than that of 18% which Trump gave last month. He has often claimed to have completely destroyed Iran\u2019s ability to wage war. \u201cThey still have capacity. They have some missiles, they have some drones. I would say, percentage wise, maybe 21, 22% of their missiles,\u201d Trump told NBC News in an interview. His administration has also touted the latest ceasefire agreed to this week by the Lebanese government and Israel after US-brokered talks in Washington. That\u2019s despite Iranian-backed Hezbollah \u2013 who were not party to the talks \u2013 rejecting the agreement and new attacks being launched by both sides. The Israeli military on Friday struck multiple parts of southern Lebanon and issued evacuation warnings a number of villages, including one that has sheltered thousands of people displaced by the fighting. The fighting in Lebanon, where Israeli forces have seized large swaths of the south, also threatens efforts to end the Iran war and reopen the strait of Hormuz. Iran has demanded that any lasting truce extend to Lebanon. With the Associated Press and Agence France-Presse"
+        "title": "100 Days\u00a0of\u00a0Iran War: Winners and Losers\u00a0",
+        "url": "https://www.newsweek.com/100-days-of-iran-war-winners-and-losers-12036328",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "WHITE HOUSE",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.353,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Life": {
+    "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.553,
+      "trend_ratio": 0.811,
       "source": "gdelt_volume"
     }
   }
