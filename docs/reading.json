@@ -1,6 +1,35 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.515,
+      "scores": {
+        "High House War": 0.11,
+        "High House Coin": 0.053,
+        "High House Shadow": 0.297,
+        "High House Life": 0.103,
+        "High House Iron": 0.515,
+        "High House Words": 0.05,
+        "High House Chains": -0.046
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.987
+      },
+      "article": {
+        "title": "AI Failed to Replace the Oldest Profession: Demand for \u201cGeeky\u201d Escorts Surges in Silicon Valley",
+        "url": "https://cyprus-faq.com/en/south/news/ii-ne-smog-zamenit-drevneishuyu-professiyu-v-kremnievoi-doline-vzletel-spros-na-gikovskikh-eskortnits",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Weaver",
@@ -28,65 +57,67 @@
         "source": "guardian",
         "full_text": "When a 20-year-old man from Texas was arrested earlier this year for allegedly trying to burn down OpenAI\u2019s headquarters and Sam Altman\u2019s house, authorities found an anti-AI manifesto alongside his lighter and a jug of kerosene. It was one of a spate of attacks that has caused alarm among researchers, the tech industry and law enforcement about the rise of anti-tech extremism. In April, an Italian \u201cnature pilled\u201d Instagram influencer was arrested in Rome and charged with plotting a series of anti-tech attacks that took inspiration from Ted \u201cThe Unabomber\u201d Kaczynski. Two self-described \u201cecofascists\u201d that carried out a deadly anti-Muslim attack on a mosque in San Diego last month also cited \u201cAI slop\u201d and JD Vance\u2019s ties to Palantir as motivations for their violence in their manifesto. An Indianapolis city councilor woke up earlier this year to gunshots being fired into his home before finding a note that read \u201cNO DATA CENTERS\u201d. The growing public backlash to the tech industry\u2019s rapid rollout of artificial intelligence has taken many, mostly-non violent forms such as local communities organizing against datacenters and political candidates promising increased oversight. Yet at the fringes, researchers say grievances against the AI industry and its leaders are animating old violent extremist movements and fomenting new ones. \u201cAI is becoming this driver of political violence, and that\u2019s a very new phenomenon,\u201d said Jordyn Abrams, a researcher at the Program on Extremism at George Washington University. While much of the early public discussion around generative AI and extremism focused on how malign actors like terrorist groups could misuse products such as ChatGPT for propaganda purposes or plotting attacks, there is more recent attention given to how the AI industry as a whole can radicalize people. What motivates someone to extremist violence might not be a conversation with a chatbot, researchers say, but the society-wide disruption, narrative of existential threat and lack of accountability that has come with the AI boom. In the same way that AI has come to pervade many facets of modern life, the technology has also filtered into the way that extremists think about the world. Whether it is violent anti-government groups opposing mass surveillance, ecofascists with environmental grievances, neo-Nazi accelerationists bent on collapsing critical tech infrastructure or the man who allegedly targeted Altman\u2019s house worried about superpowerful artificial intelligence destroying humanity, AI has become a fixation across the extremist spectrum. \u201cIt really transcends these left-right dichotomies,\u201d said Yannick Veilleux-Lepage, an associate professor at the Royal Military College of Canada. \u201cWe\u2019re seeing a lot of different groups, a lot of different ideologies being framed through a lens of anti-AI.\u201d There isn\u2019t time for people to build resilience\u2019 The modern anti-tech movement has a long lineage. Periods of technological change are historically accompanied by backlash from the people most affected, with researchers often pointing to the early 19th-century luddite rebellion of British textile workers smashing automated knitting machines as they demanded more labor rights. The next 200 years brought waves of violent labor disputes and political violence that accompanied tech\u2019s market disruptions, uneven accumulation of wealth and disenfranchisement of workers. In the 1990s, there was cultural pushback against the rise of the personal computer and the fear of how it would disrupt society. Common complaints included fears of replacing human workers, environmental harm and crumbling healthy social structures. \u201cHaven\u2019t you heard? It wants your job. It peddles you smut. It corrupts your kids. It\u2019s cold, sterile, inhuman. Suddenly, it\u2019s okay to hate your computer,\u201d read a New York Magazine cover story from 1995 on the \u201cNew Luddites\u201d. The same year as New York Magazine ran its cover story, the Washington Post and the New York Times published th"
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.459,
-      "scores": {
-        "High House War": 0.093,
-        "High House Coin": 0.119,
-        "High House Shadow": 0.141,
-        "High House Life": 0.051,
-        "High House Iron": 0.459,
-        "High House Words": 0.067,
-        "High House Chains": 0.125
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.862
-      },
-      "article": {
-        "title": "Europe Wants to Be Less Reliant on American Tech. Here\u2019s Its Plan.",
-        "url": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "ASCENDING"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.386,
+      "reversed": false,
+      "confidence": 0.446,
       "scores": {
-        "High House War": 0.017,
-        "High House Coin": 0.18,
-        "High House Shadow": 0.082,
-        "High House Life": 0.386,
-        "High House Iron": 0.07,
-        "High House Words": 0.132,
-        "High House Chains": 0.208
+        "High House War": -0.007,
+        "High House Coin": 0.191,
+        "High House Shadow": -0.009,
+        "High House Life": 0.446,
+        "High House Iron": 0.01,
+        "High House Words": -0.004,
+        "High House Chains": 0.121
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.921
+      },
+      "article": {
+        "title": "Triple climate health funds to $120bn, experts tell world leaders",
+        "url": "https://punchng.com/triple-climate-health-funds-to-120bn-experts-tell-world-leaders",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.381,
+      "scores": {
+        "High House War": 0.089,
+        "High House Coin": 0.381,
+        "High House Shadow": 0.102,
+        "High House Life": 0.0,
+        "High House Iron": 0.061,
+        "High House Words": 0.237,
+        "High House Chains": 0.379
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.523,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.95
+        "confidence": 0.6,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.599
       },
       "article": {
-        "title": "\u2018Immediate national priority\u2019: ministers accused of complacency over UK food supply ",
-        "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-        "source": "guardian",
-        "full_text": "Ministers have been accused of being complacent about the risks to vital supplies of food into the UK amid concerns over fuel shortages, cyber attacks and extreme weather. The trade body for cold storage and logistics has urged the government to make potential disruption to the UK\u2019s food system an \u201cimmediate national priority\u201d. Phil Pluck, the chief executive of the Cold Chain Federation (CCF), which represents businesses involved in supplying and transporting temperature-sensitive food and pharmaceuticals, said: \u201cThe potential for a major food crisis is as great now as it ever was. We are at the mercy of so many different factors now, which are becoming increasingly dangerous to food supply in this country.\u201d Britain\u2019s food system has not been significantly tested since the second world war, a time when about half of the nation\u2019s cold stores were in public ownership, said Tom Southall, the deputy chief executive at the CCF. \u201cThis alludes to an element of complacency about how and where we store our food in the UK.\u201d Britain relies on overseas imports for more than a third of its food, most of it entering through four ports, making supplies particularly vulnerable to potential interruption. The CCF said international conflicts or hold-ups at the UK border could stop food flowing into the country, while fuel shortages or the failure of cold-storage sites because of flooding or extreme heat amid the climate crisis could cause gaps on supermarket shelves. The continued closure of the strait of Hormuz has interrupted global flows of fertiliser, necessary for half the world\u2019s food production, further raising fears over shortages. Many everyday grocery items, including meat, vegetables, fish, dairy products, bread, fruit and ready meals, rely on the cold chain, as well as medicines, vaccines and blood and plasma products. These products are chilled or frozen before being transported from 460 cold-storage sites by approximately 100,000 lorries on their journey from growers and manufacturers to food retailers, hospitality venues and public institutions such as schools, hospitals and care homes. The CCF accused the government of failing to take steps to make the UK\u2019s food supply more resilient. \u201cWe are recognised as critical national infrastructure by Russian cybercriminals, not by the UK government,\u201d said Pluck, warning that companies in the cold chain have in recent months frequently faced attempted cyber-attacks. Supplies of food items have been interrupted on several occasions in the past few years, including shortages of fresh produce such as tomatoes, cucumbers and peppers after poor weather in Europe and north Africa hit imports in February 2023 at the same time as UK and Dutch glasshouses cut back production amid soaring energy bills. Several UK supermarkets temporarily rationed sales of certain items in response. Pluck called on the government to designate the UK\u2019s cold stores and food transport hubs as critical infrastructure \u2013 rather than the food sector as a whole \u2013 given recent shocks to supply during the pandemic, or after Russia\u2019s full-scale invasion of Ukraine. This would ensure power supplies would be maintained in the event of large outages. He cautioned that disruption to food supplies can quickly lead to riots \u2013 as seen in Venezuela in 2016 \u2013 while vulnerable people and the poorest households are the most exposed to such risks. The CCF has produced a white paper that calls for staff at the UK\u2019s large cold stores and transport hubs to be given permanent essential-worker status \u2013 which they temporarily had during the pandemic \u2013 and for the Cabinet Office to take overall responsibility for cold-chain resilience and security. A government spokesperson said: \u201cThe food sector is one of the UK\u2019s 13 critical national infrastructure sectors, and the cold chain is important to food supply to increase adaptability to disruptions that can occur. \u201cWe have committed to maintaining domestic food production; we are investing billions"
+        "title": "UK Deploys Sanctions as a Deterrent Against New Israeli West Bank Settlement",
+        "url": "https://easternherald.com/2026/06/07/uk-sanctions-deter-israel-west-bank-settlement-2026",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
@@ -117,36 +148,7 @@
         "source": "guardian",
         "full_text": "The government is considering fresh action to halt the spread of misinformation during public crises, Liz Kendall has said, insisting she will not be \u201cbullied off\u201d Elon Musk\u2019s X. The technology secretary was speaking after rioting broke out in Southampton over the police response to the fatal stabbing of Henry Nowak, a case about which Musk has repeatedly posted. She said she was \u201cvery concerned\u201d about the role of social media platforms in times of unrest, adding: \u201cI definitely think, particularly during moments of crisis and disorder and when public safety is important, we need to look at what more we can do.\u201d Kendall pointed to a report last year from the Commons science, innovation and technology committee that called for Ofcom to implement \u201ccrisis response protocols\u201d to hold platforms responsible for misinformation. The media regulator has consulted on the issue, with more details expected to be announced this month. The committee launched its investigation after the riots of summer 2024, when misinformation spread quickly after the murder of three girls at a dance class in Southport. Its report found that \u201cmisleading and hateful messaging proliferated rapidly online, amplified by the recommendation algorithms of social media companies\u201d. Kendall said the government was \u201clooking at not only boosting trusted sources of information, which I think is extremely important and there\u2019s probably more we could do there. But also, you know, enabling people to reset their algorithms.\u201d She added: \u201cI think lots of people think they see this stuff coming towards them. And it should be much easier for people to say \u2018let\u2019s have a reset\u2019 \u2013 so I am looking at that again.\u201d Chi Onwurah, the chair of the committee, said: \u201cThe government must do more to stop the spread of misinformation online. My committee\u2019s report found the Online Safety Act to be woefully inadequate and riddled with regulatory gaps \u2013 yet most of our recommendations for how to improve this were rejected. \u201cSince then, the secretary of state has told my committee that the report was \u2018excellent\u2019. However, a year after its publication, no progress has been made to update the OSA. Our current regulation just isn\u2019t up to scratch.\u201d On Thursday, Keir Starmer accused Musk of \u201cinterfering in our politics\u201d. However, Kendall said: \u201cI understand my colleagues, why they don\u2019t want to be there [on social media], but I didn\u2019t want to be bullied off any platform. \u201cI\u2019m going to get the government\u2019s message out; hopefully to some people who want to hear it and definitely to those who don\u2019t. Because I want to say that this government stands for hope and not hate.\u201d Musk has repeatedly highlighted the Nowak case to his 240m followers on X. One of his posts, sharing comments from the far-right MP Rupert Lowe, simply said \u201cRAGE\u201d. It was viewed more than 25m times. Kendall\u2019s last post on X, about a visit to Liverpool University to highlight taxpayer backing for innovation, was viewed 5,500 times and shared eight times. The Labour MP Jess Asato is taking legal action against Musk\u2019s xAI company over demeaning sexualised material created by its Grok AI tool that spread across X earlier this year. The prime minister praised Asato\u2019s decision on Thursday, saying she was \u201cabsolutely right\u201d to take action. Analysis by the human rights group Amnesty last year claimed X\u2019s algorithms had contributed to what it called a \u201cstaggering amplification of hate\u201d after the Southport murders. The Commons committee said the Online Safety Act, which was not fully in force at the time of the 2024 riots, did not contain adequate measures to contain misinformation. Kendall said: \u201cI think from the initial idea and discussion to implementation [of the act] was eight years. It is a long time. It\u2019s too long. It\u2019s too slow. This technology is developing so rapidly. MPs vote on a finance bill every year. It can\u2019t be beyond the wit of man or even womankind to do things more quickly.\u201d"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.369,
-      "scores": {
-        "High House War": 0.123,
-        "High House Coin": 0.369,
-        "High House Shadow": 0.099,
-        "High House Life": 0.14,
-        "High House Iron": 0.159,
-        "High House Words": 0.224,
-        "High House Chains": 0.332
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.537,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.977
-      },
-      "article": {
-        "title": "On China, Trump picked the right battle but the wrong strategy",
-        "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
-        "source": "guardian",
-        "full_text": "We are in for a long trade war. In the months since \u201cLiberation Day\u201d last year, when Donald Trump let loose a volley of tariffs against imports from everywhere, countries have rushed to build new relationships in the hope of maybe circumventing the US to protect the global trading system. The European Union hurried to sign a trade agreement with South America\u2019s Mercosur bloc that had been sitting on ice for years. China and south-east Asian nations deepened their trade agreement. The Canadian prime minister, Mark Carney, travelled to Beijing hoping to build closer ties. Hopes of rebuilding the open trade architecture are probably futile. Global trade will be shaped by an emerging new imperative, to stop China\u2019s export juggernaut and end its lock on the supply of strategic inputs \u2013 from pharmaceutical components to critical minerals to essential chips that are vital for industries around the world. The United States will remain China\u2019s main opponent. But other countries, in Europe and elsewhere, are also rummaging through their policy kits to evaluate their options, from tariffs and domestic subsidies to export controls. The war will come at a cost to economic wellbeing. Prices of consumer goods will rise as countries block imports from China. Manufacturers will have to cope with pricier Chinese inputs. Chinese exporters will have a harder time finding markets to place their stuff. And exporters in the US and elsewhere may be locked out of China\u2019s market. The risk that looms high over all others is that China will, as it has done before, leverage its dominance in the critical commodities and products over which it has a near monopoly, cutting off supplies to retaliate against countries that block its products or seek to shake its dominance. Trump, of course, will not manage this well. His scattershot protectionism, raising tariffs across the board with no discernible strategy, and his belligerence against countries that would be natural allies in the brewing conflict, guarantee that American trade policy will remain a hot mess until the end of his term. Hopefully, the next administration will bring strategic thinking to the fight. It is perplexing how the global economy arrived at this spot. China accounts for about a third of the world\u2019s manufacturing output, from only about 5% in 1995. Its share of global manufacturing exports rose from 3% to 20% over the period. It accounts for over 50% of the global exports of hundreds of manufacturing products. Even Germany, with its robust industrial pedigree, is worried that its industry may not survive the Chinese competition. China\u2019s swelling current account surplus \u2013 officially 3.8% of its gross domestic product but up to 5% according to some analysts \u2013 has become a global threat. Economists observe there is a peaceful path out of this conundrum. Jason Furman, who chaired the US Council of Economic Advisers under president Obama, points out that as a means to improve the welfare of the Chinese, Beijing\u2019s approach looks like a mistake. Getting the Chinese to save less and consume more \u2013 say, by building a more generous social safety net \u2013 would improve their wellbeing and bolster China\u2019s sluggish economy without flooding the rest of the world with stuff. And yet, Furman also observes that Beijing may be aiming for a different objective: \u201cmaximizing your geopolitical dominance; not the economic welfare of your citizens\u201d. Governments well beyond Washington believe this to be the case: China, the story goes, is not merely turbocharging exports to prop up growth. It is building an arsenal for a trade war. Beijing is doing nothing to dispel this fear. In a 2020 speech, President Xi Jinping argued that \u201cwe must tighten international production chains\u2019 dependence on China, forming a powerful countermeasure and deterrent capability against foreigners who would artificially cut off supply.\u201d China offered an early taste of its capabilities in 2010, when it cut exports of rare earths to Japan aft"
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
@@ -175,43 +177,53 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.287,
+      "confidence": 0.309,
       "scores": {
-        "High House War": 0.287,
-        "High House Coin": 0.266,
-        "High House Shadow": 0.098,
-        "High House Life": 0.071,
-        "High House Iron": 0.115,
-        "High House Words": 0.186,
-        "High House Chains": 0.209
+        "High House War": 0.309,
+        "High House Coin": 0.127,
+        "High House Shadow": 0.073,
+        "High House Life": -0.001,
+        "High House Iron": -0.005,
+        "High House Words": 0.224,
+        "High House Chains": 0.174
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.518,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.942
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "100 Days\u00a0of\u00a0Iran War: Winners and Losers\u00a0",
-        "url": "https://www.newsweek.com/100-days-of-iran-war-winners-and-losers-12036328",
+        "title": "IDF: New conflict with Iran to last several days, or may escalate to full-blown war",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-898700",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [],
   "house_trends": {
-    "High House War": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.811,
+      "trend_ratio": 0.629,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.078,
       "source": "gdelt_volume"
     }
   }
