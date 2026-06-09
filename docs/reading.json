@@ -1,35 +1,6 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.515,
-      "scores": {
-        "High House War": 0.11,
-        "High House Coin": 0.053,
-        "High House Shadow": 0.297,
-        "High House Life": 0.103,
-        "High House Iron": 0.515,
-        "High House Words": 0.05,
-        "High House Chains": -0.046
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.987
-      },
-      "article": {
-        "title": "AI Failed to Replace the Oldest Profession: Demand for \u201cGeeky\u201d Escorts Surges in Silicon Valley",
-        "url": "https://cyprus-faq.com/en/south/news/ii-ne-smog-zamenit-drevneishuyu-professiyu-v-kremnievoi-doline-vzletel-spros-na-gikovskikh-eskortnits",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Weaver",
@@ -55,7 +26,36 @@
         "title": "\u2018A driver of political violence\u2019: how the breakneck AI boom is fueling anti-tech extremism",
         "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
         "source": "guardian",
-        "full_text": "When a 20-year-old man from Texas was arrested earlier this year for allegedly trying to burn down OpenAI\u2019s headquarters and Sam Altman\u2019s house, authorities found an anti-AI manifesto alongside his lighter and a jug of kerosene. It was one of a spate of attacks that has caused alarm among researchers, the tech industry and law enforcement about the rise of anti-tech extremism. In April, an Italian \u201cnature pilled\u201d Instagram influencer was arrested in Rome and charged with plotting a series of anti-tech attacks that took inspiration from Ted \u201cThe Unabomber\u201d Kaczynski. Two self-described \u201cecofascists\u201d that carried out a deadly anti-Muslim attack on a mosque in San Diego last month also cited \u201cAI slop\u201d and JD Vance\u2019s ties to Palantir as motivations for their violence in their manifesto. An Indianapolis city councilor woke up earlier this year to gunshots being fired into his home before finding a note that read \u201cNO DATA CENTERS\u201d. The growing public backlash to the tech industry\u2019s rapid rollout of artificial intelligence has taken many, mostly-non violent forms such as local communities organizing against datacenters and political candidates promising increased oversight. Yet at the fringes, researchers say grievances against the AI industry and its leaders are animating old violent extremist movements and fomenting new ones. \u201cAI is becoming this driver of political violence, and that\u2019s a very new phenomenon,\u201d said Jordyn Abrams, a researcher at the Program on Extremism at George Washington University. While much of the early public discussion around generative AI and extremism focused on how malign actors like terrorist groups could misuse products such as ChatGPT for propaganda purposes or plotting attacks, there is more recent attention given to how the AI industry as a whole can radicalize people. What motivates someone to extremist violence might not be a conversation with a chatbot, researchers say, but the society-wide disruption, narrative of existential threat and lack of accountability that has come with the AI boom. In the same way that AI has come to pervade many facets of modern life, the technology has also filtered into the way that extremists think about the world. Whether it is violent anti-government groups opposing mass surveillance, ecofascists with environmental grievances, neo-Nazi accelerationists bent on collapsing critical tech infrastructure or the man who allegedly targeted Altman\u2019s house worried about superpowerful artificial intelligence destroying humanity, AI has become a fixation across the extremist spectrum. \u201cIt really transcends these left-right dichotomies,\u201d said Yannick Veilleux-Lepage, an associate professor at the Royal Military College of Canada. \u201cWe\u2019re seeing a lot of different groups, a lot of different ideologies being framed through a lens of anti-AI.\u201d There isn\u2019t time for people to build resilience\u2019 The modern anti-tech movement has a long lineage. Periods of technological change are historically accompanied by backlash from the people most affected, with researchers often pointing to the early 19th-century luddite rebellion of British textile workers smashing automated knitting machines as they demanded more labor rights. The next 200 years brought waves of violent labor disputes and political violence that accompanied tech\u2019s market disruptions, uneven accumulation of wealth and disenfranchisement of workers. In the 1990s, there was cultural pushback against the rise of the personal computer and the fear of how it would disrupt society. Common complaints included fears of replacing human workers, environmental harm and crumbling healthy social structures. \u201cHaven\u2019t you heard? It wants your job. It peddles you smut. It corrupts your kids. It\u2019s cold, sterile, inhuman. Suddenly, it\u2019s okay to hate your computer,\u201d read a New York Magazine cover story from 1995 on the \u201cNew Luddites\u201d. The same year as New York Magazine ran its cover story, the Washington Post and the New York Times published th"
+        "full_text": "When a 20-year-old man from Texas was arrested earlier this year for allegedly trying to burn down OpenAI\u2019s headquarters and Sam Altman\u2019s house, authorities found an anti-AI manifesto alongside his lighter and a jug of kerosene. It was one of a spate of attacks that has caused alarm among researchers, the tech industry and law enforcement about the rise of anti-tech extremism. In April, an Italian \u201cnature pilled\u201d Instagram influencer was arrested in Rome and charged with plotting a series of anti-tech attacks that took inspiration from Ted \u201cThe Unabomber\u201d Kaczynski. Two self-described \u201cecofascists\u201d that carried out a deadly anti-Muslim attack on a mosque in San Diego last month also cited \u201cAI slop\u201d and JD Vance\u2019s ties to Palantir as motivations for their violence in their manifesto. An Indianapolis city councilor woke up earlier this year to gunshots being fired into his home before finding a note that read \u201cNO DATA CENTERS\u201d. The growing public backlash to the tech industry\u2019s rapid rollout of artificial intelligence has taken many, mostly-non violent forms such as local communities organizing against datacenters and political candidates promising increased oversight. Yet at the fringes, researchers say grievances against the AI industry and its leaders are animating old violent extremist movements and fomenting new ones. \u201cAI is becoming this driver of political violence, and that\u2019s a very new phenomenon,\u201d said Jordyn Abrams, a researcher at the Program on Extremism at George Washington University. While much of the early public discussion around generative AI and extremism focused on how malign actors like terrorist groups could misuse products such as ChatGPT for propaganda purposes or plotting attacks, there is more recent attention given to how the AI industry as a whole can radicalize people. What motivates someone to extremist violence might not be a conversation with a chatbot, researchers say, but the society-wide disruption, narrative of existential threat and lack of accountability that has come with the AI boom. In the same way that AI has come to pervade many facets of modern life, the technology has also filtered into the way that extremists think about the world. Whether it is violent anti-government groups opposing mass surveillance, ecofascists with environmental grievances, neo-Nazi accelerationists bent on collapsing critical tech infrastructure or the man who allegedly targeted Altman\u2019s house worried about superpowerful artificial intelligence destroying humanity, AI has become a fixation across the extremist spectrum. \u201cIt really transcends these left-right dichotomies,\u201d said Yannick Veilleux-Lepage, an associate professor at the Royal Military College of Canada. \u201cWe\u2019re seeing a lot of different groups, a lot of different ideologies being framed through a lens of anti-AI.\u201d \u2018There isn\u2019t time for people to build resilience\u2019 The modern anti-tech movement has a long lineage. Periods of technological change are historically accompanied by backlash from the people most affected, with researchers often pointing to the early 19th-century luddite rebellion of British textile workers smashing automated knitting machines as they demanded more labor rights. The next 200 years brought waves of violent labor disputes and political violence that accompanied tech\u2019s market disruptions, uneven accumulation of wealth and disenfranchisement of workers. In the 1990s, there was cultural pushback against the rise of the personal computer and the fear of how it would disrupt society. Common complaints included fears of replacing human workers, environmental harm and crumbling healthy social structures. \u201cHaven\u2019t you heard? It wants your job. It peddles you smut. It corrupts your kids. It\u2019s cold, sterile, inhuman. Suddenly, it\u2019s okay to hate your computer,\u201d read a New York Magazine cover story from 1995 on the \u201cNew Luddites\u201d. The same year as New York Magazine ran its cover story, the Washington Post and the New York Times published t"
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.459,
+      "scores": {
+        "High House War": 0.093,
+        "High House Coin": 0.119,
+        "High House Shadow": 0.141,
+        "High House Life": 0.051,
+        "High House Iron": 0.459,
+        "High House Words": 0.067,
+        "High House Chains": 0.125
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.862
+      },
+      "article": {
+        "title": "Europe Wants to Be Less Reliant on American Tech. Here\u2019s Its Plan.",
+        "url": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "ASCENDING"
     },
@@ -86,69 +86,94 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.381,
+      "confidence": 0.437,
       "scores": {
-        "High House War": 0.089,
-        "High House Coin": 0.381,
-        "High House Shadow": 0.102,
-        "High House Life": 0.0,
-        "High House Iron": 0.061,
-        "High House Words": 0.237,
-        "High House Chains": 0.379
+        "High House War": -0.073,
+        "High House Coin": 0.437,
+        "High House Shadow": 0.043,
+        "High House Life": 0.107,
+        "High House Iron": 0.169,
+        "High House Words": 0.041,
+        "High House Chains": 0.178
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.599
+        "confidence": 0.523,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.951
       },
       "article": {
-        "title": "UK Deploys Sanctions as a Deterrent Against New Israeli West Bank Settlement",
-        "url": "https://easternherald.com/2026/06/07/uk-sanctions-deter-israel-west-bank-settlement-2026",
-        "source": "worldnews",
-        "full_text": null
+        "title": "World\u2019s largest banks pledged $906bn to fossil fuel companies in \u2018unfathomable\u2019 increase in 2025, report finds",
+        "url": "https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025",
+        "source": "guardian",
+        "full_text": "The world\u2019s largest banks committed $906bn in financing to the fossil fuel industry last year, an \u201cunfathomable\u201d increase in investment locking in years more of coal, oil and gas production as the world continues to overheat, a new report has found. The surge in new fossil fuel lending, up $64bn or nearly 8% on 2024, shows that the world\u2019s largest 65 banks are making decisions incompatible with international agreements to restrain rising global temperatures, according to the coalition of environmental groups behind the new analysis. JPMorgan Chase is again the world\u2019s leading financier of fossil fuels, according to the annual Banking on Climate Chaos report, after pushing $58bn to the sector last year \u2013 up 13% from 2024. Bank of America committed the second largest amount to fossil fuels last year, followed by Japanese banks MUFG and Mizuho Financial. Citigroup, another US bank, rounds out the top five, with Barclays, at number eight, the highest placed British bank. \u201cLast year was the first year where we were hoping to see a continuous decrease in historical numbers, but we actually saw that increase and then that continues this year,\u201d said Caleb Schwartz, a policy analyst at Rainforest Action Network, one of the groups behind the report. \u201cSo it\u2019s a troubling trend.\u201d Asked for comment about its fossil fuel lending, a JPMorgan Chase spokesperson said: \u201cAs one of the world\u2019s largest financiers of energy, we support the full range of energy solutions and technologies, with a focus on reliability, affordability, security and long-term resilience. We believe our data reflects our activities more comprehensively and accurately than estimates by third parties.\u201d In 2015, countries agreed in the Paris climate deal to strive to avert a breaching of 1.5C in global heating above preindustrial times, beyond which the world will suffer ever more ruinous heatwaves, floods, droughts and other climate-fueled disasters. Avoiding such a threshold would require the near elimination of planet-heating emissions from fossil fuel production. Since the Paris agreement, however, the world\u2019s largest banks have funnelled $8.7tn to the fossil fuel industry to dig and drill for more coal, oil and gas. Scientists now predict that the 1.5C limit will be breached imminently, with a recent string of record hot years set to be further surpassed this decade. In the wake of the US and Israel\u2019s attack on Iran, which has escalated the global cost of oil and gas, several of the world\u2019s largest fossil fuel companies have reported spiraling profits this year. \u201cThe fossil fuel incumbents are not going out with a whimper,\u201d said Niko Lusiani, a climate and energy expert who edited this year\u2019s report. \u201cThey are doubling down to expand an increasingly fragile, unreliable, risky energy system.\u201d Fossil fuel lending is becoming more concentrated among a selection of large institutions, the new report found, with what the green groups called the \u2018dirty dozen\u2019 responsible for 40% of all industry funding. Almost all fossil fuel financing comes from six jurisdictions \u2013 the US, Canada, Japan, China, the UK and the European Union. A total of 26 out of the top 65 largest banks reduced their fossil fuel financing last year, with European banks BNP Paribas, UBS and La Caixa leading the way with reductions. Large oil and gas operators have not been left short of available cash, however, with the largest banks pledging $508bn for the expansion of existing fossil fuel sites last year, a 27% increase on 2024. Three US oil and gas operators \u2013 Venture Global, Enbridge and Energy Transfer \u2013 were the largest recipients of borrowed funds in 2025. Several large banks had previously announced targets to cut their emissions and to restrict lending to particularly dirty forms of energy, such as coal. But amid the political resurrection of Donald Trump, who has called the climate crisis \u201cbullshit\u201d and demanded unfettered fossil fuel extraction, banks have turned their backs on previous environment"
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.37,
+      "confidence": 0.363,
       "scores": {
-        "High House War": 0.135,
-        "High House Coin": 0.145,
-        "High House Shadow": 0.288,
-        "High House Life": 0.196,
-        "High House Iron": 0.095,
-        "High House Words": 0.37,
-        "High House Chains": 0.078
+        "High House War": 0.208,
+        "High House Coin": 0.189,
+        "High House Shadow": 0.126,
+        "High House Life": 0.006,
+        "High House Iron": 0.001,
+        "High House Words": 0.363,
+        "High House Chains": 0.211
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "misinformation"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.99
+        "confidence": 0.543,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.987
       },
       "article": {
-        "title": "Ministers may try to curb spread of misinformation during social unrest",
-        "url": "https://www.theguardian.com/politics/2026/jun/06/ministers-may-curb-misinformation-musk-x-liz-kendall",
-        "source": "guardian",
-        "full_text": "The government is considering fresh action to halt the spread of misinformation during public crises, Liz Kendall has said, insisting she will not be \u201cbullied off\u201d Elon Musk\u2019s X. The technology secretary was speaking after rioting broke out in Southampton over the police response to the fatal stabbing of Henry Nowak, a case about which Musk has repeatedly posted. She said she was \u201cvery concerned\u201d about the role of social media platforms in times of unrest, adding: \u201cI definitely think, particularly during moments of crisis and disorder and when public safety is important, we need to look at what more we can do.\u201d Kendall pointed to a report last year from the Commons science, innovation and technology committee that called for Ofcom to implement \u201ccrisis response protocols\u201d to hold platforms responsible for misinformation. The media regulator has consulted on the issue, with more details expected to be announced this month. The committee launched its investigation after the riots of summer 2024, when misinformation spread quickly after the murder of three girls at a dance class in Southport. Its report found that \u201cmisleading and hateful messaging proliferated rapidly online, amplified by the recommendation algorithms of social media companies\u201d. Kendall said the government was \u201clooking at not only boosting trusted sources of information, which I think is extremely important and there\u2019s probably more we could do there. But also, you know, enabling people to reset their algorithms.\u201d She added: \u201cI think lots of people think they see this stuff coming towards them. And it should be much easier for people to say \u2018let\u2019s have a reset\u2019 \u2013 so I am looking at that again.\u201d Chi Onwurah, the chair of the committee, said: \u201cThe government must do more to stop the spread of misinformation online. My committee\u2019s report found the Online Safety Act to be woefully inadequate and riddled with regulatory gaps \u2013 yet most of our recommendations for how to improve this were rejected. \u201cSince then, the secretary of state has told my committee that the report was \u2018excellent\u2019. However, a year after its publication, no progress has been made to update the OSA. Our current regulation just isn\u2019t up to scratch.\u201d On Thursday, Keir Starmer accused Musk of \u201cinterfering in our politics\u201d. However, Kendall said: \u201cI understand my colleagues, why they don\u2019t want to be there [on social media], but I didn\u2019t want to be bullied off any platform. \u201cI\u2019m going to get the government\u2019s message out; hopefully to some people who want to hear it and definitely to those who don\u2019t. Because I want to say that this government stands for hope and not hate.\u201d Musk has repeatedly highlighted the Nowak case to his 240m followers on X. One of his posts, sharing comments from the far-right MP Rupert Lowe, simply said \u201cRAGE\u201d. It was viewed more than 25m times. Kendall\u2019s last post on X, about a visit to Liverpool University to highlight taxpayer backing for innovation, was viewed 5,500 times and shared eight times. The Labour MP Jess Asato is taking legal action against Musk\u2019s xAI company over demeaning sexualised material created by its Grok AI tool that spread across X earlier this year. The prime minister praised Asato\u2019s decision on Thursday, saying she was \u201cabsolutely right\u201d to take action. Analysis by the human rights group Amnesty last year claimed X\u2019s algorithms had contributed to what it called a \u201cstaggering amplification of hate\u201d after the Southport murders. The Commons committee said the Online Safety Act, which was not fully in force at the time of the 2024 riots, did not contain adequate measures to contain misinformation. Kendall said: \u201cI think from the initial idea and discussion to implementation [of the act] was eight years. It is a long time. It\u2019s too long. It\u2019s too slow. This technology is developing so rapidly. MPs vote on a finance bill every year. It can\u2019t be beyond the wit of man or even womankind to do things more quickly.\u201d"
+        "title": "A Challenge in the U.S.-Iran Talks: Both Sides Demand Victory",
+        "url": "https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.353,
+      "scores": {
+        "High House War": 0.353,
+        "High House Coin": 0.122,
+        "High House Shadow": 0.057,
+        "High House Life": 0.084,
+        "High House Iron": 0.039,
+        "High House Words": 0.2,
+        "High House Chains": 0.113
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.548,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "Iran war: who is fighting and why?",
+        "url": "https://www.theguardian.com/world/2026/jun/08/why-did-israel-and-iran-trade-fire-and-how-does-it-affect-wider-peace-efforts",
+        "source": "guardian",
+        "full_text": "Israel and Iran have returned to active war for the first time since a ceasefire was agreed two months ago in an exchange of rocket fire that threatened efforts to end the conflict. Donald Trump, who started the war in February alongside Israel but has since attempted to present himself as a mediator, told the two sides to stop shooting and said \u201cfinal negotiations\u201d on peace were proceeding. By late afternoon on Monday, the attacks had stopped. Why did the regional arch-enemies start firing at each other again, and what has been happening with broader peace efforts? How did the war start? Trump launched the war on 28 February in partnership with the Israel Defense Forces (IDF). The conflict quickly spiralled out of the US president\u2019s control, causing regional destabilisation and a global economic shock. Tehran\u2019s effective closure of the vital strait of Hormuz disrupted energy markets and made many basic products, including food, more expensive. Despite killing the top layer of Iranian leadership on day one, including the late supreme leader Ali Khamenei, a new guard was swiftly appointed. Is there a ceasefire in place? A ceasefire was agreed on 8 April, but it is not a permanent end to the conflict. Key issues are unresolved, including the freedom of passage for ships in the Gulf, restraining Israel from attacking its neighbours, checks on Iran\u2019s nuclear ambitions and the lifting of sanctions on Tehran. Iran says its nuclear programme is solely for generating electricity, but many governments want clear and enforceable agreements to prevent Tehran from ever making an atomic weapon. Trump ripped up an Obama-era nuclear deal but has not agreed a new version. Why did Israel and Iran start fighting again? Each side will have a version of \u201cwho started it\u201d, but the key moment in the recent violence was Israel launching strikes on Beirut early on Sunday. Tehran had said last week that it would consider any Israeli attack on the Lebanese capital a violation of the US-Iran ceasefire and would respond by attacking Israel, which it has since done. Hasn\u2019t fighting continued in Israel and Lebanon through the past few months? Yes. The US, Israel and Iran stopped bombing each other in April, but Israel has continued to attack its northern neighbour and Hezbollah has continued to fire drones and rockets at Israel. Hezbollah joined the war in March when it fired rockets at Israel in support of Iran, after which Israel launched an intensive bombing campaign across Lebanon. How does Lebanon play into the US-Israel war on Iran? Israel has repeatedly invaded and occupied Lebanon over the past decades, and there is an influential political movement in Israel calling for the permanent seizure of Lebanese territory. Israel\u2019s war on Lebanon has also been highly destructive, leading to a humanitarian crisis that has shocked governments around the world. More than a million people \u2013 a fifth of Lebanon\u2019s population \u2013 have been displaced, and Israeli strikes have killed at least 3,613 people. Hezbollah has killed at least 30 Israeli soldiers in Lebanon and three Israeli civilians. Tehran insists Lebanon be included in a broader ceasefire deal, something Israel and the US have rejected. Trump told NBC News on Sunday that he was not demanding that Lebanon be part of any peace deal with Iran. Is there a separate ceasefire in Lebanon? Sort of. The Lebanese and Israeli governments have been negotiating directly in Washington and have agreed to a ceasefire. But the deal lacks teeth because it is Hezbollah, not the Lebanese army, that is launching attacks on Israel, and the group has rejected the US-brokered truce. The Lebanese government has been trying to reassert control over parts of the country where Hezbollah is strong and to eventually disarm the group. Hezbollah says it needs its weapons to prevent Israeli aggression."
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -177,43 +202,14 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.309,
-      "scores": {
-        "High House War": 0.309,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.073,
-        "High House Life": -0.001,
-        "High House Iron": -0.005,
-        "High House Words": 0.224,
-        "High House Chains": 0.174
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "IDF: New conflict with Iran to last several days, or may escalate to full-blown war",
-        "url": "https://www.jpost.com/israel-news/defense-news/article-898700",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "EMERGING"
     }
   ],
   "relationships": [],
   "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.629,
+    "High House Life": {
+      "trend": "stable",
+      "trend_ratio": 1.002,
       "source": "gdelt_volume"
     },
     "High House Words": {
@@ -223,7 +219,7 @@
     },
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 1.078,
+      "trend_ratio": 1.054,
       "source": "gdelt_volume"
     }
   }
