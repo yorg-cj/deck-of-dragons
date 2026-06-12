@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "cards": [
     {
       "house": "High House Coin",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House War",
@@ -115,32 +115,32 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.383,
+      "reversed": true,
+      "confidence": 0.391,
       "scores": {
-        "High House War": 0.09,
-        "High House Coin": 0.151,
-        "High House Shadow": 0.063,
-        "High House Life": 0.383,
-        "High House Iron": 0.042,
-        "High House Words": 0.181,
-        "High House Chains": 0.195
+        "High House War": 0.03,
+        "High House Coin": 0.136,
+        "High House Shadow": 0.111,
+        "High House Life": 0.391,
+        "High House Iron": 0.132,
+        "High House Words": 0.248,
+        "High House Chains": 0.148
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.527,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.959
       },
       "article": {
-        "title": "Report details how climate crisis fuels crop failure risk in global breadbaskets",
-        "url": "https://therealnews.com/report-details-how-climate-crisis-fuels-crop-failure-risk-in-global-breadbaskets",
+        "title": "The Espresso Crisis: Will Coffee Become a Luxury Item by 2050?",
+        "url": "https://www.modernghana.com/news/1501696/the-espresso-crisis-will-coffee-become-a-luxury.html",
         "source": "worldnews",
         "full_text": null
       },
@@ -149,29 +149,29 @@
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.372,
+      "reversed": false,
+      "confidence": 0.382,
       "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.365,
-        "High House Shadow": 0.085,
-        "High House Life": 0.018,
-        "High House Iron": 0.012,
-        "High House Words": 0.205,
-        "High House Chains": 0.372
+        "High House War": 0.295,
+        "High House Coin": 0.325,
+        "High House Shadow": 0.269,
+        "High House Life": 0.13,
+        "High House Iron": 0.095,
+        "High House Words": 0.335,
+        "High House Chains": 0.382
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.937
       },
       "article": {
-        "title": "UK and allies impose sanctions on firms enabling West Bank settler violence",
-        "url": "https://www.theguardian.com/politics/2026/jun/09/uk-imposes-sanctions-firms-enabling-settler-violence-west-bank",
-        "source": "guardian",
-        "full_text": "The UK in alliance with a group of other western powers including Australia, France and Norway has announced it is imposing sanctions on six firms and one individual involved in enabling and financing the recent upsurge in settler violence in the West Bank. However, the foreign secretary, Yvette Cooper, disappointed many of her own backbenchers by stopping short of banning trade, saying instead the government was only issuing updated advice to British firms not to become involved in any economic activity with the illegal settlements. Cooper told MPs it was difficult in practice to construct an enforceable trade ban but would keep examining the issue in alliance with international partners. More than 130 Labour MPs, including all the party\u2019s select committee chairs, had called for a complete ban on trade, saying the measure was necessary to fulfill orders issued by the international court of justice in 2024. Emily Thornberry, the chair of the foreign affairs select committee, told Cooper \u201cthe truth is that British firms are bankrolling annexations one settlement at a time\u201d, adding she feared the government was \u201cin danger of doing too little too late\u201d. The latest guidance explicitly advises UK businesses against economic and financial activity in illegal settlements in territories occupied by Israel since 1967, but does not amount to a ban or impose any penalty for noncompliance. The government is also not hardening its existing advice on the need to clearly label products produced in illegal settlements. Since 2005, any products produced in Israeli settlements have not been entitled to benefit from preferential tariff treatment upon entry to the UK. The new guidance to states: \u201cBusinesses should not engage in economic and financial activities in Israeli settlements.\u201d Warning that the settlements are illegal under international law, it says economic activity may result in reputational damage and \u201cin disputed titles to the land, water, mineral or other natural resources which might be the subject of purchase or investment\u201d. But the UK advice to business continues to laud trade with Israel within 1967 lines: \u201cWith its strong economic performance in terms of growth, low inflation and a low unemployment rate, Israel offers an attractive growing market for UK companies.\u201d The scale of settler violence has proliferated in recent months, and Israel has recently invited bids for tenders for the E1 development, a settler plan for about 3,500 homes that if implemented would sever the West Bank in two. Britain has already imposed sanctions on two Israeli extremist ministers, Bezalel Smotrich the finance minister, and Itamar Ben-Gvir the security minister, a step not yet taken by the European Union because of internal divisions. Cooper said: \u201cSettler expansion and violence is illegal and a fundamental threat to the viability of a two-state solution, and to long-term peace and security for Palestinians and Israelis. These measures show the UK is leading with our partners to target those who are fuelling this violence.\u201d She said the steps were being taken against a backdrop of continued illegal settlement expansion including the E1 project and record levels of settler violence designed deliberately to destroy Palestinian homes and livelihoods in the West Bank. In her statement to MPs she also called on the Israeli government to open all crossings and remove arbitrary restrictions on the delivery of humanitarian aid and equipment to ensure that UK aid could reach all those who desperately needed it. All the crossings into Gaza have in recent days been closed by the Israelis after the government in Tel Aviv said there was no nutritional shortfall inside Gaza. The UK joined four other states, Australia, Canada France and Norway, in issuing a statement: \u201cFor too long, violent settlers have been able to act with near impunity, and settlement expansion and creation of outposts continue with the support and facilitation of the government of Israel. I"
+        "title": "Gulf States: Phone searches, arrests exacerbate existing restrictions on trade unions, expression",
+        "url": "https://www.amnesty.org/en/latest/news/2026/06/gulf-states-phone-searches-arrests-exacerbate-existing-restrictions-on-trade-unions-expression",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WILD"
     },
@@ -205,11 +205,42 @@
       "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "ISRAEL",
+      "actor_b": "THE SUPREME COURT",
+      "relationship": "opposed",
+      "goldstein_avg": -2.846,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "GULF STATES",
+      "actor_b": "THE SUPREME COURT",
+      "relationship": "neutral",
+      "goldstein_avg": -1.053,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House War": {
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 1.989,
+      "source": "gdelt_volume"
+    },
+    "High House Shadow": {
       "trend": "falling",
-      "trend_ratio": 0.643,
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
