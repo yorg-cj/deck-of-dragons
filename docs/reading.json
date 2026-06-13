@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "cards": [
     {
       "house": "High House Coin",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -115,65 +115,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.391,
-      "scores": {
-        "High House War": 0.03,
-        "High House Coin": 0.136,
-        "High House Shadow": 0.111,
-        "High House Life": 0.391,
-        "High House Iron": 0.132,
-        "High House Words": 0.248,
-        "High House Chains": 0.148
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.527,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.959
-      },
-      "article": {
-        "title": "The Espresso Crisis: Will Coffee Become a Luxury Item by 2050?",
-        "url": "https://www.modernghana.com/news/1501696/the-espresso-crisis-will-coffee-become-a-luxury.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.382,
+      "confidence": 0.349,
       "scores": {
-        "High House War": 0.295,
-        "High House Coin": 0.325,
-        "High House Shadow": 0.269,
-        "High House Life": 0.13,
-        "High House Iron": 0.095,
-        "High House Words": 0.335,
-        "High House Chains": 0.382
+        "High House War": 0.035,
+        "High House Coin": 0.147,
+        "High House Shadow": 0.022,
+        "High House Life": 0.349,
+        "High House Iron": 0.141,
+        "High House Words": 0.023,
+        "High House Chains": 0.144
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.937
+        "sentiment_score": 0.938
       },
       "article": {
-        "title": "Gulf States: Phone searches, arrests exacerbate existing restrictions on trade unions, expression",
-        "url": "https://www.amnesty.org/en/latest/news/2026/06/gulf-states-phone-searches-arrests-exacerbate-existing-restrictions-on-trade-unions-expression",
-        "source": "worldnews",
+        "title": "G.D.P. Is a Flawed Measure of Prosperity. Alternatives Are on the Way.",
+        "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
@@ -202,45 +173,64 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.335,
+      "scores": {
+        "High House War": 0.142,
+        "High House Coin": 0.202,
+        "High House Shadow": 0.232,
+        "High House Life": 0.141,
+        "High House Iron": 0.057,
+        "High House Words": 0.265,
+        "High House Chains": 0.335
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Imperialism keeps evolving, never disappearing: How the Global South safeguards sovereignty via institutional historical memory",
+        "url": "https://www.newsday.co.zw/opinion-analysis/article/200056532/imperialism-keeps-evolving-never-disappearing-how-the-global-south-safeguards-sovereignty-via-institutional-historical-memory",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Words",
+      "house_b": "High House War",
       "actor_a": "ISRAEL",
-      "actor_b": "THE SUPREME COURT",
+      "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -2.846,
+      "goldstein_avg": -2.776,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
+      "house_a": "High House War",
       "house_b": "High House Words",
-      "actor_a": "GULF STATES",
+      "actor_a": "UKRAINE",
       "actor_b": "THE SUPREME COURT",
       "relationship": "neutral",
-      "goldstein_avg": -1.053,
+      "goldstein_avg": -1.413,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.989,
-      "source": "gdelt_volume"
-    },
-    "High House Shadow": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
     "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend": "rising",
+      "trend_ratio": 1.171,
       "source": "gdelt_volume"
     }
   }
