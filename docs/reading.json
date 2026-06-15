@@ -1,35 +1,6 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "cards": [
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.517,
-      "scores": {
-        "High House War": 0.517,
-        "High House Coin": 0.25,
-        "High House Shadow": 0.32,
-        "High House Life": 0.243,
-        "High House Iron": 0.244,
-        "High House Words": 0.277,
-        "High House Chains": 0.317
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "From stockpiles to resilience : Modern conflict is reshaping defense force build up-opinion",
-        "url": "https://www.jpost.com/defense-and-tech/article-899317",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Coin",
       "title": "The King",
@@ -57,7 +28,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
@@ -86,7 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Shadow",
@@ -115,33 +86,62 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.397,
+      "reversed": true,
+      "confidence": 0.399,
       "scores": {
-        "High House War": -0.036,
-        "High House Coin": -0.05,
-        "High House Shadow": 0.097,
-        "High House Life": 0.397,
-        "High House Iron": 0.132,
-        "High House Words": 0.092,
-        "High House Chains": 0.016
+        "High House War": 0.031,
+        "High House Coin": 0.039,
+        "High House Shadow": 0.205,
+        "High House Life": 0.399,
+        "High House Iron": -0.008,
+        "High House Words": 0.044,
+        "High House Chains": 0.011
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.518,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.941
+      },
+      "article": {
+        "title": "Ebola one month on: will the latest outbreak in DRC become the most deadly yet?",
+        "url": "https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet",
+        "source": "guardian",
+        "full_text": "When an orphanage in Bunia took in a newborn baby after his mother died from Ebola, the nuns who ran it hoped they were giving the infant a chance for life. The baby survived for only another two weeks. Now four of the nuns who cared for him have fallen sick with the deadly virus. It is a snapshot of the tragedies at the centre of an outbreak in which the number of victims is roughly doubling every week, according to the World Health Organization (WHO). \u201cIt\u2019s really, really devastating,\u201d says Dr Babou Rukengeza, Save the Children\u2019s Ebola response lead in the Democratic Republic of the Congo (DRC). All the children and staff at the orphanage are now being monitored for symptoms. A month on since the latest outbreak of Ebola, caused by the Bundibugyo virus, was first identified in the DRC, the latest figures from the UN show 676 confirmed cases and 136 deaths, the overwhelming majority in the DRC\u2019s Ituri province. Frontline workers say they are still battling shortages of the necessary supplies, including personal protective equipment and vehicles to transport dead bodies. Testing has improved, they say, but still needs to be done faster and carried out nearer to patients. In neighbouring Uganda, which has reported 19 cases and two deaths, intensive tracing of contacts means the outbreak is under control, health officials say. Despite the global risk remaining low, 22 countries, including the US, have imposed travel restrictions on people coming from the DRC, Uganda or South Sudan, according to Africa CDC, the health agency of the African Union. Those restrictions have been criticised as impeding health agencies\u2019 response. What the DRC really needs from the international community, experts say, is flexible funding that it can use to get the situation under control. There are reasons for hope: scientists are working rapidly to test and produce vaccines against Bundibugyo, and the latest research suggests existing antivirals are likely to be helpful. In Ituri, the organisations involved in the response meet daily to coordinate plans, and African leaders will meet virtually on Tuesday to discuss the outbreak and make funding commitments. But there are also strong headwinds that are slowing the response: conflict continues in the worst-hit areas and misinformation is rife, leading people to avoid hospitals and the care that could save their lives, and there have even been attacks on aid workers and treatment centres. Gratien Iracan, the local MP for the provincial capital, Bunia, noted on social media last week: \u201cDespite the millions of dollars announced by the international community to support the response to Ebola, these resources are not yet sufficiently visible on the ground in Ituri.\u201d In subsequent posts, he highlighted a doctor\u2019s death from Ebola, saying the medic had sent messages from his hospital bed complaining of poor care in the clinic. The Guardian has not been able to verify those messages. Iracan also described an incident in which a community had called the authorities to report a suspected case of Ebola but the promised support had not arrived, sparking \u201cincomprehension, anger and concern\u201d. According to Africa CDC, community trust is \u201ca critical challenge\u201d \u2013 CNN video footage from Bunia\u2019s central market shows people denying the virus exists and blaming Red Cross workers for spreading it. In a statement, the continental health watchdog cited \u201creports of resistance to hygiene measures and decontamination in some communities, as well as incidents of mob violence\u201d. A key reason for this stems from people\u2019s reluctance to allow their sick relatives to be cared for by strangers in healthcare isolation units \u2013 and the importance of funeral rites. For some people, their fear of displeasing God over not performing an appropriate burial for a relative can be greater than their fear of contracting a virus. According to one study after the 2016 outbreak, exposure to body fluids during each \u201cunsafe\u201d funeral for Ebola victims cre"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.393,
+      "scores": {
+        "High House War": 0.393,
+        "High House Coin": 0.126,
+        "High House Shadow": 0.21,
+        "High House Life": 0.103,
+        "High House Iron": 0.106,
+        "High House Words": 0.266,
+        "High House Chains": 0.162
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.971
       },
       "article": {
-        "title": "The Quiet Transformation of Communities Long Defined by Scarcity",
-        "url": "https://www.thereporterethiopia.com/51175",
-        "source": "worldnews",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -206,16 +206,5 @@
     }
   ],
   "relationships": [],
-  "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.687,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.444,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
