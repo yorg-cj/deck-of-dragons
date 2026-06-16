@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "cards": [
     {
       "house": "High House Coin",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.459,
-      "scores": {
-        "High House War": 0.093,
-        "High House Coin": 0.119,
-        "High House Shadow": 0.141,
-        "High House Life": 0.051,
-        "High House Iron": 0.459,
-        "High House Words": 0.067,
-        "High House Chains": 0.125
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.862
-      },
-      "article": {
-        "title": "Europe Wants to Be Less Reliant on American Tech. Here\u2019s Its Plan.",
-        "url": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": false,
@@ -83,6 +54,35 @@
       "article": {
         "title": "Pentagon Sees Growing Espionage Threat From Israel",
         "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.407,
+      "scores": {
+        "High House War": 0.114,
+        "High House Coin": 0.28,
+        "High House Shadow": 0.301,
+        "High House Life": 0.096,
+        "High House Iron": 0.407,
+        "High House Words": 0.034,
+        "High House Chains": 0.105
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.825
+      },
+      "article": {
+        "title": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
+        "url": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
         "source": "nyt",
         "full_text": null
       },
@@ -144,6 +144,35 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.384,
+      "scores": {
+        "High House War": 0.113,
+        "High House Coin": 0.235,
+        "High House Shadow": 0.132,
+        "High House Life": 0.239,
+        "High House Iron": 0.195,
+        "High House Words": 0.216,
+        "High House Chains": 0.384
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "The global governance initiative: A vision for a fairer international order and Its value to Africa and the Global South",
+        "url": "https://www.newsday.co.zw/opinion-analysis/article/200057077/the-global-governance-initiative-a-vision-for-a-fairer-international-order-and-its-value-to-africa-and-the-global-south",
+        "source": "worldnews",
+        "full_text": null
+      },
       "position": "WILD"
     },
     {
@@ -173,38 +202,26 @@
         "source": "guardian",
         "full_text": "X has refused to take down dozens of social media posts reported as \u201chate, abuse or harassment\u201d in which prominent UK politicians, including Kemi Badenoch, have been racially abused. In May, researchers from the social inclusion thinktank British Future reported 30 posts from this year in which the Conservative party leader was called the N-word. In each case the researchers used the platform\u2019s \u201chate, abuse or harassment\u201d reporting option. X refused to act in the majority of cases, despite repeated requests. The Guardian understands X routinely takes action only when posts are reported to it as illegal under the UK\u2019s Online Safety Act. In those cases, it restricts visibility in the UK, leaving the post unrestricted in other jurisdictions. Avaes Mohammad, a researcher with British Future\u2019s British South Asian Bridgers cohesion project, said: \u201cMany people will intuitively report racist posts as \u2018hate, abuse or harassment\u2019 \u2013 but it seems X doesn\u2019t consider it as hate. Our research found that it was only when a post is described as illegal, which they can\u2019t dispute, that they will consider taking it down.\u201d X eventually restricted visibility for just two of the 30 messages in which Badenoch was called the N-word \u2013 and only after Sunder Katwala, the director of British Future, emailed the platform saying he should not be expected to fill out an \u201conerous\u201d form reporting each one as illegal. Elon Musk has been using X to amplify far-right narratives since he bought the platform in 2022. Keir Starmer earlier this month accused Musk of trying to \u201cwhip up division\u201d with his tweets about the murder of the student Henry Nowak in Southampton. The Online Safety Act, which is being phased in by the communications regulator, Ofcom, places obligations on platforms to remove illegal content, which can include racially or religiously aggravated offending. On 15 May \u2013 the same day Ofcom announced X had made a voluntary commitment to remove illegal content within a 48-hour window \u2013 British Future reported 33 uses of the P-word targeting UK public figures. Reform UK\u2019s Zia Yusuf was told in one tweet, which used the P-word, to \u201csod off\u201d to Pakistan. Others who were racially abused included the home secretary, Shabana Mahmood; the former SNP leader, Humza Yousaf; the Reform UK London mayoral candidate, Laila Cunningham; the Advance UK founder, Ben Habib, and the founder of Your Party, Zarah Sultana. Forty-eight hours later, none of the 33 posts reported had been removed. When British Future emailed X to ask why, the platform advised it to report the posts using the \u201cUK illegal content\u201d option from the \u201creport post\u201d menu, adding: \u201cReports made through other channels are handled under our general policies and do not count toward the specific expedited review targets under the Online Safety Act.\u201d X eventually restricted 20 of the tweets within the UK after being contacted by Ofcom, it is understood, but took no action against the rest. Among messages X left untouched was a picture of a noose tweeted to Sultana, saying \u201cfuck off\u201d and using the P-word. On 26 May, British Future reported another nine posts that used the P-word against British Asian public figures. In six, X failed to act because the posts were reported as \u201chate, abuse or harassment\u201d. It was only when posts were reported as illegal, in the remaining three cases, that it acted. None of the account holders behind any of the offensive tweets have been suspended, including one who used the N-word 45 times in a week. British Future says the platform\u2019s approach means racists can operate with impunity on X. \u201cThe accounts we are reporting are often replete with mentions of Reform and Restore,\u201d Mohammad added. \u201cIn May, the N-word racist slur was used about Kemi Badenoch an average of once a day. But on 2 June, after Badenoch responded to Nigel Farage\u2019s speech about Henry Nowak, there were 16 examples in a day \u2013 pointing to how much far-right political sentiment is driving the hate on X.\u201d Ofcom said i"
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.335,
-      "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.202,
-        "High House Shadow": 0.232,
-        "High House Life": 0.141,
-        "High House Iron": 0.057,
-        "High House Words": 0.265,
-        "High House Chains": 0.335
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Imperialism keeps evolving, never disappearing: How the Global South safeguards sovereignty via institutional historical memory",
-        "url": "https://www.newsday.co.zw/opinion-analysis/article/200056532/imperialism-keeps-evolving-never-disappearing-how-the-global-south-safeguards-sovereignty-via-institutional-historical-memory",
-        "source": "worldnews",
-        "full_text": null
-      },
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {}
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "ISRAEL",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.517,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.228,
+      "source": "gdelt_volume"
+    }
+  }
 }
