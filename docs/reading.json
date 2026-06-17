@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "cards": [
     {
       "house": "High House Coin",
@@ -60,6 +60,35 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.425,
+      "scores": {
+        "High House War": 0.425,
+        "High House Coin": 0.217,
+        "High House Shadow": 0.163,
+        "High House Life": -0.015,
+        "High House Iron": 0.156,
+        "High House Words": 0.158,
+        "High House Chains": 0.147
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.55,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "We Just Saw the Limit of American Military Might",
+        "url": "https://www.nytimes.com/2026/06/17/opinion/iran-war-us-military-power.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WANING"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
@@ -89,138 +118,119 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.399,
-      "scores": {
-        "High House War": 0.031,
-        "High House Coin": 0.039,
-        "High House Shadow": 0.205,
-        "High House Life": 0.399,
-        "High House Iron": -0.008,
-        "High House Words": 0.044,
-        "High House Chains": 0.011
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.518,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.941
-      },
-      "article": {
-        "title": "Ebola one month on: will the latest outbreak in DRC become the most deadly yet?",
-        "url": "https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet",
-        "source": "guardian",
-        "full_text": "When an orphanage in Bunia took in a newborn baby after his mother died from Ebola, the nuns who ran it hoped they were giving the infant a chance for life. The baby survived for only another two weeks. Now four of the nuns who cared for him have fallen sick with the deadly virus. It is a snapshot of the tragedies at the centre of an outbreak in which the number of victims is roughly doubling every week, according to the World Health Organization (WHO). \u201cIt\u2019s really, really devastating,\u201d says Dr Babou Rukengeza, Save the Children\u2019s Ebola response lead in the Democratic Republic of the Congo (DRC). All the children and staff at the orphanage are now being monitored for symptoms. A month on since the latest outbreak of Ebola, caused by the Bundibugyo virus, was first identified in the DRC, the latest figures from the UN show 676 confirmed cases and 136 deaths, the overwhelming majority in the DRC\u2019s Ituri province. Frontline workers say they are still battling shortages of the necessary supplies, including personal protective equipment and vehicles to transport dead bodies. Testing has improved, they say, but still needs to be done faster and carried out nearer to patients. In neighbouring Uganda, which has reported 19 cases and two deaths, intensive tracing of contacts means the outbreak is under control, health officials say. Despite the global risk remaining low, 22 countries, including the US, have imposed travel restrictions on people coming from the DRC, Uganda or South Sudan, according to Africa CDC, the health agency of the African Union. Those restrictions have been criticised as impeding health agencies\u2019 response. What the DRC really needs from the international community, experts say, is flexible funding that it can use to get the situation under control. There are reasons for hope: scientists are working rapidly to test and produce vaccines against Bundibugyo, and the latest research suggests existing antivirals are likely to be helpful. In Ituri, the organisations involved in the response meet daily to coordinate plans, and African leaders will meet virtually on Tuesday to discuss the outbreak and make funding commitments. But there are also strong headwinds that are slowing the response: conflict continues in the worst-hit areas and misinformation is rife, leading people to avoid hospitals and the care that could save their lives, and there have even been attacks on aid workers and treatment centres. Gratien Iracan, the local MP for the provincial capital, Bunia, noted on social media last week: \u201cDespite the millions of dollars announced by the international community to support the response to Ebola, these resources are not yet sufficiently visible on the ground in Ituri.\u201d In subsequent posts, he highlighted a doctor\u2019s death from Ebola, saying the medic had sent messages from his hospital bed complaining of poor care in the clinic. The Guardian has not been able to verify those messages. Iracan also described an incident in which a community had called the authorities to report a suspected case of Ebola but the promised support had not arrived, sparking \u201cincomprehension, anger and concern\u201d. According to Africa CDC, community trust is \u201ca critical challenge\u201d \u2013 CNN video footage from Bunia\u2019s central market shows people denying the virus exists and blaming Red Cross workers for spreading it. In a statement, the continental health watchdog cited \u201creports of resistance to hygiene measures and decontamination in some communities, as well as incidents of mob violence\u201d. A key reason for this stems from people\u2019s reluctance to allow their sick relatives to be cared for by strangers in healthcare isolation units \u2013 and the importance of funeral rites. For some people, their fear of displeasing God over not performing an appropriate burial for a relative can be greater than their fear of contracting a virus. According to one study after the 2016 outbreak, exposure to body fluids during each \u201cunsafe\u201d funeral for Ebola victims cre"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.393,
+      "confidence": 0.37,
       "scores": {
-        "High House War": 0.393,
-        "High House Coin": 0.126,
-        "High House Shadow": 0.21,
-        "High House Life": 0.103,
-        "High House Iron": 0.106,
-        "High House Words": 0.266,
-        "High House Chains": 0.162
+        "High House War": 0.261,
+        "High House Coin": 0.242,
+        "High House Shadow": 0.12,
+        "High House Life": 0.011,
+        "High House Iron": -0.007,
+        "High House Words": 0.37,
+        "High House Chains": 0.276
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.971
+        "sentiment_score": 0.977
       },
       "article": {
-        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
-        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.384,
-      "scores": {
-        "High House War": 0.113,
-        "High House Coin": 0.235,
-        "High House Shadow": 0.132,
-        "High House Life": 0.239,
-        "High House Iron": 0.195,
-        "High House Words": 0.216,
-        "High House Chains": 0.384
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "The global governance initiative: A vision for a fairer international order and Its value to Africa and the Global South",
-        "url": "https://www.newsday.co.zw/opinion-analysis/article/200057077/the-global-governance-initiative-a-vision-for-a-fairer-international-order-and-its-value-to-africa-and-the-global-south",
+        "title": "US-Iran deal sparks fierce political warfare in Israel over Lebanon freedom of action - analysis",
+        "url": "https://www.jpost.com/middle-east/article-899693",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
       "confidence": 0.369,
       "scores": {
-        "High House War": -0.053,
-        "High House Coin": 0.064,
-        "High House Shadow": 0.255,
-        "High House Life": 0.122,
-        "High House Iron": -0.064,
-        "High House Words": 0.369,
-        "High House Chains": 0.073
+        "High House War": 0.332,
+        "High House Coin": 0.317,
+        "High House Shadow": 0.164,
+        "High House Life": 0.189,
+        "High House Iron": -0.015,
+        "High House Words": 0.246,
+        "High House Chains": 0.369
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Tuesday briefing: How the UK\u2019s military spending row exposes Starmer\u2019s defence dilemma",
+        "url": "https://www.theguardian.com/world/2026/jun/16/tuesday-briefing-first-edition-keir-starmer-uk-defence-spending-labour",
+        "source": "guardian",
+        "full_text": "Good morning. What conflict has raged longer than the hundred years war? The fight between the Ministry of Defence and the Treasury over defence spending. I\u2019d love to claim this as my own, but avoid patter theft this early in the day. So I\u2019ll credit my colleague Dan Sabbagh, the Guardian\u2019s defence and security editor, who spoke to me ahead of this week\u2019s G7 meeting, in France, where Keir Starmer arrived yesterday for what could be his final international summit. The prime minister can anticipate candid discussions about international partnerships in conflicts in Ukraine and the Middle East, both of which may soon demand increased involvement from the British military. The political row over whether the UK government is spending enough to keep Britain safe and fulfil its international commitments broke into the public sphere with the resignation of defence minister John Healey last Thursday. It continues today as Al Carns, who resigned from his post as armed forced minister on the same day, tells the Guardian in an exclusive interview about \u201cunbelievable\u201d waste at the MoD, and suggests mismanaged programmes such as tanks investment should be scrapped in favour of new technology. The resignation of two highly respected ministers, only one of whom reportedly fancies a shot in Downing Street, further weakens the prime minister\u2019s position ahead of Andy Burnham\u2019s return to the Commons if he is victorious in this week\u2019s Makerfield byelection. I spoke to Dan about how an argument about money exposes domestic and international uncertainties around Starmer\u2019s leadership, Britain\u2019s place in the world and the changing face of warfare. Five big stories Middle East | Donald Trump has declared that the strait of Hormuz will be \u201ccompletely open\u201d from Friday, as western leaders gathering at the G7 summit in \u00c9vian-les-Bains battled to prevent the fragile US deal with Iran from almost immediately unravelling. UK politics | Political hatred and division in the UK is probably worse now than during the Brexit referendum, when Jo Cox was murdered, says Kim Leadbeater, Cox\u2019s sister who is now also a Labour MP. Crime | A schoolteacher described as a \u201cserial manipulator and a serial liar\u201d has been found guilty of sexually abusing and murdering a baby he and his partner had adopted. Environment | Half of the world\u2019s children are exposed to at least three overlapping climate hazards threatening their health, education and survival, according to a Unicef report. US news | Eight people are presumed dead after a B-52 bomber crashed shortly after takeoff on Monday morning at a US air force base in California\u2019s Mojave Desert, officials said. In depth: Starmer\u2019s defence-spending \u2018rhetoric-to-reality gap\u2019 There isn\u2019t a lot of agreement about what Starmer has got right in government, but our lobby team will tell you that some MPs remain swayed by his record on the international stage. He got two things right, says Dan: support for Ukraine and keeping Britain largely out of the US-Israel war on Iran. \u201cHe\u2019s also weathered the sheer difficulty of being a British Labour prime minister when a turbulent Republican in the White House is shifting position daily between being your friend and trying to destabilise you.\u201d But where Starmer has failed to shift the dial is on the strategic problem of Britain\u2019s place in the world during a volatile time. He spoke to this at the Munich Security Conference in February, suggesting that \u2013 as the Trump administration disengaged with former allies \u2013 it provided an opportunity for \u201cradical renewal\u201d and a more European Nato able to \u201cstand on our own feet\u201d. Taken together, these factors point to the need to progressively spend more on defence to meet Nato\u2019s target \u2013 which Starmer has signed up to, of 3.5% of GDP by 2035. Instead, Dan explains, \u201cwe\u2019ve got a modest step up to 2.6% by 2027 and then \u2018a big blank\u2019\u201d. Here the essential criticism that Healey and others are making kicks in, says Dan, with \u201cthis rhetoric-to-reality gap\u201d. *** A la"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.354,
+      "scores": {
+        "High House War": 0.112,
+        "High House Coin": 0.145,
+        "High House Shadow": 0.144,
+        "High House Life": 0.354,
+        "High House Iron": 0.0,
+        "High House Words": 0.034,
+        "High House Chains": 0.102
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.532,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.967
       },
       "article": {
-        "title": "X accused of giving racists \u2018impunity\u2019 after refusing to bar N- and P-word posts",
-        "url": "https://www.theguardian.com/technology/2026/jun/14/x-racists-impunity-hate-posts",
-        "source": "guardian",
-        "full_text": "X has refused to take down dozens of social media posts reported as \u201chate, abuse or harassment\u201d in which prominent UK politicians, including Kemi Badenoch, have been racially abused. In May, researchers from the social inclusion thinktank British Future reported 30 posts from this year in which the Conservative party leader was called the N-word. In each case the researchers used the platform\u2019s \u201chate, abuse or harassment\u201d reporting option. X refused to act in the majority of cases, despite repeated requests. The Guardian understands X routinely takes action only when posts are reported to it as illegal under the UK\u2019s Online Safety Act. In those cases, it restricts visibility in the UK, leaving the post unrestricted in other jurisdictions. Avaes Mohammad, a researcher with British Future\u2019s British South Asian Bridgers cohesion project, said: \u201cMany people will intuitively report racist posts as \u2018hate, abuse or harassment\u2019 \u2013 but it seems X doesn\u2019t consider it as hate. Our research found that it was only when a post is described as illegal, which they can\u2019t dispute, that they will consider taking it down.\u201d X eventually restricted visibility for just two of the 30 messages in which Badenoch was called the N-word \u2013 and only after Sunder Katwala, the director of British Future, emailed the platform saying he should not be expected to fill out an \u201conerous\u201d form reporting each one as illegal. Elon Musk has been using X to amplify far-right narratives since he bought the platform in 2022. Keir Starmer earlier this month accused Musk of trying to \u201cwhip up division\u201d with his tweets about the murder of the student Henry Nowak in Southampton. The Online Safety Act, which is being phased in by the communications regulator, Ofcom, places obligations on platforms to remove illegal content, which can include racially or religiously aggravated offending. On 15 May \u2013 the same day Ofcom announced X had made a voluntary commitment to remove illegal content within a 48-hour window \u2013 British Future reported 33 uses of the P-word targeting UK public figures. Reform UK\u2019s Zia Yusuf was told in one tweet, which used the P-word, to \u201csod off\u201d to Pakistan. Others who were racially abused included the home secretary, Shabana Mahmood; the former SNP leader, Humza Yousaf; the Reform UK London mayoral candidate, Laila Cunningham; the Advance UK founder, Ben Habib, and the founder of Your Party, Zarah Sultana. Forty-eight hours later, none of the 33 posts reported had been removed. When British Future emailed X to ask why, the platform advised it to report the posts using the \u201cUK illegal content\u201d option from the \u201creport post\u201d menu, adding: \u201cReports made through other channels are handled under our general policies and do not count toward the specific expedited review targets under the Online Safety Act.\u201d X eventually restricted 20 of the tweets within the UK after being contacted by Ofcom, it is understood, but took no action against the rest. Among messages X left untouched was a picture of a noose tweeted to Sultana, saying \u201cfuck off\u201d and using the P-word. On 26 May, British Future reported another nine posts that used the P-word against British Asian public figures. In six, X failed to act because the posts were reported as \u201chate, abuse or harassment\u201d. It was only when posts were reported as illegal, in the remaining three cases, that it acted. None of the account holders behind any of the offensive tweets have been suspended, including one who used the N-word 45 times in a week. British Future says the platform\u2019s approach means racists can operate with impunity on X. \u201cThe accounts we are reporting are often replete with mentions of Reform and Restore,\u201d Mohammad added. \u201cIn May, the N-word racist slur was used about Kemi Badenoch an average of once a day. But on 2 June, after Badenoch responded to Nigel Farage\u2019s speech about Henry Nowak, there were 16 examples in a day \u2013 pointing to how much far-right political sentiment is driving the hate on X.\u201d Ofcom said i"
+        "title": "SARS - CoV - 2 , mpox , chikungunya , hantavirus , Ebola \u2026 Pourquoi les \u00e9mergences virales se multiplient - elles ? ",
+        "url": "https://theconversation.com/sars-cov-2-mpox-chikungunya-hantavirus-ebola-pourquoi-les-emergences-virales-se-multiplient-elles-283910",
+        "source": "gdelt_doc",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
-      "house_b": "High House War",
+      "house_b": "High House Chains",
       "actor_a": "ISRAEL",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.517,
+      "actor_b": "STARMER",
+      "relationship": "neutral",
+      "goldstein_avg": -1.208,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "STARMER",
+      "relationship": "neutral",
+      "goldstein_avg": -1.354,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.228,
+      "trend": "falling",
+      "trend_ratio": 0.568,
       "source": "gdelt_volume"
     }
   }
