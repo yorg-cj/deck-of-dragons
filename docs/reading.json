@@ -1,6 +1,35 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "cards": [
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.503,
+      "scores": {
+        "High House War": 0.152,
+        "High House Coin": 0.223,
+        "High House Shadow": 0.162,
+        "High House Life": -0.029,
+        "High House Iron": 0.026,
+        "High House Words": 0.503,
+        "High House Chains": 0.16
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.54,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.982
+      },
+      "article": {
+        "title": "US News Outlets Question Trump\u2019s Narrative on Iran Deal",
+        "url": "https://www.deccanchronicle.com/world/us-media-criticise-trumps-handling-and-messaging-of-iran-war-deal-1964467",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Coin",
       "title": "The King",
@@ -28,7 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "EMERGING"
     },
     {
       "house": "High House Shadow",
@@ -57,36 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.425,
-      "scores": {
-        "High House War": 0.425,
-        "High House Coin": 0.217,
-        "High House Shadow": 0.163,
-        "High House Life": -0.015,
-        "High House Iron": 0.156,
-        "High House Words": 0.158,
-        "High House Chains": 0.147
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "We Just Saw the Limit of American Military Might",
-        "url": "https://www.nytimes.com/2026/06/17/opinion/iran-war-us-military-power.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Iron",
@@ -115,36 +115,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": false,
-      "confidence": 0.37,
+      "confidence": 0.393,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.242,
-        "High House Shadow": 0.12,
-        "High House Life": 0.011,
-        "High House Iron": -0.007,
-        "High House Words": 0.37,
-        "High House Chains": 0.276
+        "High House War": 0.393,
+        "High House Coin": 0.126,
+        "High House Shadow": 0.21,
+        "High House Life": 0.103,
+        "High House Iron": 0.106,
+        "High House Words": 0.266,
+        "High House Chains": 0.162
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.977
+        "sentiment_score": 0.971
       },
       "article": {
-        "title": "US-Iran deal sparks fierce political warfare in Israel over Lebanon freedom of action - analysis",
-        "url": "https://www.jpost.com/middle-east/article-899693",
-        "source": "worldnews",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Chains",
@@ -178,59 +178,69 @@
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.354,
+      "reversed": false,
+      "confidence": 0.332,
       "scores": {
-        "High House War": 0.112,
-        "High House Coin": 0.145,
-        "High House Shadow": 0.144,
-        "High House Life": 0.354,
-        "High House Iron": 0.0,
-        "High House Words": 0.034,
-        "High House Chains": 0.102
+        "High House War": 0.005,
+        "High House Coin": 0.052,
+        "High House Shadow": -0.059,
+        "High House Life": 0.332,
+        "High House Iron": -0.03,
+        "High House Words": 0.051,
+        "High House Chains": 0.112
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.532,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.967
+        "sentiment_score": 0.858
       },
       "article": {
-        "title": "SARS - CoV - 2 , mpox , chikungunya , hantavirus , Ebola \u2026 Pourquoi les \u00e9mergences virales se multiplient - elles ? ",
-        "url": "https://theconversation.com/sars-cov-2-mpox-chikungunya-hantavirus-ebola-pourquoi-les-emergences-virales-se-multiplient-elles-283910",
-        "source": "gdelt_doc",
-        "full_text": null
+        "title": "Half of world\u2019s children exposed to at least three climate hazards, Unicef says",
+        "url": "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
+        "source": "guardian",
+        "full_text": "Half of the world\u2019s children are exposed to at least three overlapping climate hazards threatening their health, education and survival, according to a Unicef report. Globally, children face increasing threats from heatwaves, storms, floods and droughts as the climate crisis worsens, with more than one billion facing at least three of these at once. Striking footage released by the UN agency shows children in Papua New Guinea swimming across a crocodile-filled river to get to school after a vital footbridge washed away during heavy rains and was not replaced. Lorna, 15, is one of those who has to swim across the Kemp Welch river in Launkalana, in the Rigo district of Papua New Guinea, to get to school. The community owns a few small boats, according to Unicef staff who visited, but the youngest children are prioritised. \u201cDuring our periods, our elders do not allow us to cross the river to attend our classes as they think it will attract crocodiles \u2026 My dream is to become a teacher or pilot. We want a new bridge so we can go to school safely every day,\u201d Lorna said. According to Unicef, the community has been unable to raise funds to replace the bridge, which washed away in 2012, and is faced with increasing challenges further exacerbated by the climate crisis. Lorna\u2019s headteacher, Charlie Vali David, said the loss of the bridge was taking a huge toll on the community. \u201cDuring monsoon season, heavy currents, dead trees and debris block the river \u2013 causing injury and death,\u201d he said. \u201cMany children fall sick from the cold, dirty river water. That creates a learning gap. Especially for the females.\u201d The Children\u2019s Climate Risk Report found rising temperatures and extreme weather are putting more stress on infrastructure, and warned that key roads and bridges are being hit, with dire consequences for the local community. It found that almost every child around the world, including those from high-income countries, is now exposed to at least one hazard, while 123,000 experience more than six in their lifetimes. \u201cThe lives of children continue to be upended by the impact of heatwaves, wildfires, droughts, and floods,\u201d said Unicef\u2019s executive director, Catherine Russell. \u201cHalf of the world\u2019s children are now living with at least three overlapping climate threats shaping their daily lives.\u201d Unicef analysed young people\u2019s exposure to eight climate hazards: coastal floods, droughts, extreme heat, fires, heatwaves, river floods, sand and dust storms, and tropical storms. It found the Sahel region of Africa is one of the hardest hit globally, with more than 4 million children facing the triple threat of heatwaves, extreme heat, and sand and dust storms. Meanwhile, children in Asian countries such as Bangladesh, Myanmar and Pakistan were found to be exposed to more climate hazards than anywhere else in the world. High-income countries are not immune to overlapping climate shocks. In Italy, for example, more than 6 million children are exposed to prolonged heatwaves and drought. Unicef outlined a plan to better protect children, calling on governments and businesses to reduce emissions and improve climate adaptation with a focus on the services children rely on. Russell said: \u201cThis analysis can help governments and decision-makers plan better and invest more effectively in resilient services. When we strengthen health and education systems, and improve infrastructure with children in mind, we protect them from today\u2019s climate threats and help secure their future.\u201d"
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -1.508,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "ISRAEL",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.135,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
     {
       "house_a": "High House Shadow",
       "house_b": "High House Chains",
       "actor_a": "ISRAEL",
       "actor_b": "STARMER",
       "relationship": "neutral",
-      "goldstein_avg": -1.208,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "STARMER",
-      "relationship": "neutral",
-      "goldstein_avg": -1.354,
+      "goldstein_avg": -1.179,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.568,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 1.226,
       "source": "gdelt_volume"
     }
   }
