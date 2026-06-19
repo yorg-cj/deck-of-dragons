@@ -1,64 +1,6 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "cards": [
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.503,
-      "scores": {
-        "High House War": 0.152,
-        "High House Coin": 0.223,
-        "High House Shadow": 0.162,
-        "High House Life": -0.029,
-        "High House Iron": 0.026,
-        "High House Words": 0.503,
-        "High House Chains": 0.16
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
-      },
-      "article": {
-        "title": "US News Outlets Question Trump\u2019s Narrative on Iran Deal",
-        "url": "https://www.deccanchronicle.com/world/us-media-criticise-trumps-handling-and-messaging-of-iran-war-deal-1964467",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.477,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.477,
-        "High House Shadow": 0.143,
-        "High House Life": 0.059,
-        "High House Iron": 0.122,
-        "High House Words": 0.19,
-        "High House Chains": 0.217
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.803
-      },
-      "article": {
-        "title": "The Global Bull Market That A.I. Obscures",
-        "url": "https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -86,36 +28,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.407,
+      "confidence": 0.425,
       "scores": {
-        "High House War": 0.114,
-        "High House Coin": 0.28,
-        "High House Shadow": 0.301,
-        "High House Life": 0.096,
-        "High House Iron": 0.407,
-        "High House Words": 0.034,
-        "High House Chains": 0.105
+        "High House War": 0.004,
+        "High House Coin": 0.064,
+        "High House Shadow": 0.128,
+        "High House Life": 0.09,
+        "High House Iron": 0.425,
+        "High House Words": -0.002,
+        "High House Chains": 0.01
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.825
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.989
       },
       "article": {
-        "title": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
-        "url": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
-        "source": "nyt",
+        "title": "Mukesh Ambani Calls On Engineers To Build AI For India",
+        "url": "https://www.rediff.com/money/report/ambani-rallies-young-engineers-to-build-ai-for-india/20260619.htm",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -147,92 +89,160 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.384,
+      "scores": {
+        "High House War": -0.006,
+        "High House Coin": 0.1,
+        "High House Shadow": 0.007,
+        "High House Life": 0.384,
+        "High House Iron": 0.117,
+        "High House Words": 0.105,
+        "High House Chains": 0.106
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.524,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.952
+      },
+      "article": {
+        "title": "\u2018Mega-consumers\u2019 of food and energy cost environment $5.7tn a year, study finds",
+        "url": "https://www.theguardian.com/environment/2026/jun/18/mega-consumers-food-energy-damage-cost-environment",
+        "source": "guardian",
+        "full_text": "The environmental damage bill racked up by the highest-consuming 10% of the world\u2019s population has reached up to $5.7tn a year \u2013 larger than the economy of every country except the US and China, a study has found. Mega-consumers in this group are concentrated in the global north, accounting for more than half the population of the US and 40-45% of people in the EU. The damage tally, which one researcher described as \u201cbonkers\u201d, also exceeds global funding gaps for tackling the climate and biodiversity crises, highlighting how economic priorities remain skewed towards running down the Earth\u2019s life-support systems. The most destructive forms of consumption were linked to two main areas: food \u2013 particularly red meat, a primary driver of deforestation \u2013 and energy, including flights and heating and cooling homes, which typically rely on burning of fossil fuels, such as gas, oil and coal. The $5.7tn figure, published in a paper by researchers at University of Oxford and University of Leiden, was calculated by using estimates of the monetary impacts of climate disruption, biodiversity loss, nutrient pollution and freshwater use. The study found that the average annual environmental damage bill for someone in the global top 10% ranged from $2,300 to $7,500. This figure rose to $19,000-$63,000 for those in the US. High-consuming households in emerging economies are catching up. The average environmental damage bill for the top 10% in China has overtaken that of the top 10% in Germany, the report says. Biodiversity loss accounted for the largest share of the global damage bill, making up 47-56% of the total. The climate emergency was responsible for a further 36-45%. The authors said the findings strengthened the case for addressing the biodiversity and climate crises together, rather than treating them as separate policy challenges. The paper, published on Thursday in Communications Sustainability, cautions that the true environmental cost by this group is likely to be even higher. The calculations cover only four of nine planetary boundaries and reflect direct consumption alone, excluding the likely greater impacts of investments. \u201cIf anything, these numbers are conservative. The bill leaves out the emissions tied to wealthy people\u2019s investments,\u201d said Paul Behrens, a British Academy global professor at the Oxford Martin school and a co-author of the study. \u201cResearch has shown that a large proportion of a rich person\u2019s carbon footprint comes from what they own, not how they live; meaning their stocks, bonds and other assets.\u201d A Greenpeace study last week estimated that the assets owned by the world\u2019s richest 1% \u2013 often invested in greenhouse gas-intensive companies \u2013 were associated with a quarter of global emissions and caused nearly $1tn of climate damage each year. The new report concludes that governments could target this high-consuming groups through taxes on luxury goods, wealth and carbon, reducing emissions and pollution while raising revenue to support sustainability transitions and reducing inequality. \u201cThe scale of the damage bill illustrates the potential revenue if polluter-pays principles were applied to high-consuming groups,\u201d the authors said. Behrens said: \u201cThe top 10% are important not only because they cause the most damage but also because they hold the most leverage to reduce it. \u201cThey often have outsized agency, not only individually as consumers but also as investors, employers, trend makers, and market shapers. Their power to cut emissions is even larger than their share of them. \u201cThe people in the top 10% should be braver and more courageous in making sure we have a future we can \u2026 thrive in.\u201d"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.376,
+      "scores": {
+        "High House War": -0.047,
+        "High House Coin": 0.376,
+        "High House Shadow": 0.12,
+        "High House Life": 0.026,
+        "High House Iron": -0.033,
+        "High House Words": 0.063,
+        "High House Chains": 0.152
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win \u2013 business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Over in Moscow, Russia\u2019s central bank has cut interest rates\u2026 by less than expected. At a time when some central banks are tightening policy (in Japan, and the eurozone), the Bank of Russia has trimmed its benchmark interest rate by 25 basis points to 14.25%. That quarter-point rate cut is smaller than the half-point cut which analysts had expected. Announcing the cut, the Bank of Russia warned that proinflationary risks still prevail over disinflationary ones on the mid-term horizon. The proinflationary risks associated with high inflation expectations and a long period of wage growth outpacing productivity growth, as well as with a deterioration in the global economic outlook and rising global price pressures amid increased geopolitical tensions, are still in place. Proinflationary risks have increased due to a temporary decline in motor fuel production. Disinflationary risks involve a more significant slowdown in domestic demand. City economists and analysts are concerned that UK government borrowing costs could rise if the Labour Party holds a leadership race this summer. UK bond yields could be pushed higher if investors fear an increase in borrowing under a Burnham administration, as the new MP for Makerfield pledges to address the cost of living crisis. Dan Coatsworth, head of markets at AJ Bell, says there is potential for gilt yields to keep rising if Starmer \u201cdoesn\u2019t go quietly\u201d. With 10 and 30-year bond yields higher today (in line with other European government bonds), Coatsworth says: Friday\u2019s moves reflect the risk that Starmer won\u2019t go quietly. But they also reflect the setback with the US-Iran peace deal which has caused oil prices to rise again today, and inflation fears to remain on the table, thus having a direct read-across to interest rates and bond yields. \u201cOver the coming days, the bond market will look for clues on Burnham\u2019s chances for getting the top job, and how he might steer Labour in a different direction. He might not have wanted to rock the boat ahead of the by-election for fear of causing upset or ruining his chances. Now he\u2019s in a stronger position to lay out policy changes and not simply tow the party line. Reminder: Bond yields rise when the price of the bond falls, and are a gauge of the cost of issuing new debt. This morning, the yield (or interest rate) on UK 30-year bonds is now up 8 basis points (0.08 of a percentage point) to 5.529%. That\u2019s only the highest since Tuesday, and some way below the 27-year high of 5.89% set in May, when borrowing costs were climbing. Alexandros Xenofontos and Christopher Granville at TS Lombard say gilts (UK government bonds) are constrained by the return of domestic political risk, explaining: The question for gilts is whether the next Labour leadership preserves the Starmer-Reeves fiscal bastion, shifts left through funded tax-and-spend, or starts testing the fiscal rules. Neil Wilson, investor strategist at Saxo UK, sees signs that markets are already worrying about the result from Makerfield, because: a) the uncertainty that naturally surrounds a leadership race and b) more importantly, a likely crowning of Burnham as PM and leftwards lurch by the government as he is widely seen as the least market friendly option. I wouldn\u2019t be surprised if the multi-year/decade highs on the 10yr and 30yr are not tested again as he sets out his policy ideals. That said, however, the macro backdrop is different to early May when market angst over inflation was elevated and the market was pricing in multiple rate hikes by the BoE. The calculation relating to Hormuz and the BoE has changed markedly since then but the market will be hyper sensitive to how Burnham runs his campaign now. There\u2019s also the scenario in which Burnham replaces Starmer, and calls a snap general election, to consider. AJ Bell\u2019s Dan Coatsworth says that could really worry the bond market: \u201cShould an early general election be called and were Labour to lose power to Reform, then bond markets could ha"
+      },
+      "position": "EMERGING"
+    },
+    {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.369,
+      "reversed": true,
+      "confidence": 0.359,
       "scores": {
-        "High House War": 0.332,
-        "High House Coin": 0.317,
-        "High House Shadow": 0.164,
-        "High House Life": 0.189,
-        "High House Iron": -0.015,
-        "High House Words": 0.246,
-        "High House Chains": 0.369
+        "High House War": 0.115,
+        "High House Coin": 0.239,
+        "High House Shadow": 0.02,
+        "High House Life": -0.001,
+        "High House Iron": -0.066,
+        "High House Words": 0.275,
+        "High House Chains": 0.359
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.533,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.968
+      },
+      "article": {
+        "title": "Iran peace deal makes clear how far US has been forced to retreat since 2025",
+        "url": "https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump",
+        "source": "guardian",
+        "full_text": "Only a man with an unparalleled ignorance of history such as Donald Trump would have signed America\u2019s peace treaty with Iran at Versailles, the byword for national humiliation. And only a man with an impish sense of humour such as Emmanuel Macron would have suggested it. It is easy to cast Trump in the role of the humiliated and hurt German count Ulrich von Brockdorff-Rantzau. The treaty of Versailles, after all, was based on 14 points, just as the memorandum of understanding has 14 clauses. But the memorandum is not a full-scale surrender document; it is an admission that America could not achieve what it sought through war. If the memorandum, taken with Trump\u2019s remarks at his hour-long press conference at the G7, is compared with a document the Americans tabled in 2025, it is possible to see how far the US has been forced to retreat. Red line after red line has been erased. The US tabled the 2025 document immediately before Israel, with US support, began the 12-day war culminating in the bombing of Iran\u2019s nuclear sites. Under its terms, Iran was to have no domestic enrichment capabilities beyond the limited enrichment for medical and agricultural needs; all nuclear supply would be imported from outside Iran; all enriched uranium stockpiles would be shipped out of Iran immediately upon signing the agreement; all enriched stockpile material would be downblended to 3.67%; Iran would not build any new enrichment facilities; and Iran would dismantle all programmes capable of uranium conversion. Instead, a consortium including Iran, the US and the Gulf states was to undertake enrichment outside Iran. At \u00c9vian for the G7 meeting, however, Trump conceded Iran had a right to continue enrich uranium, saying it could not be excluded because other countries in the region had nuclear programmes. He said there was no great rush to dismantle or dilute the stockpile of highly enriched uranium, and US officials acknowledged that this stockpile could be diluted under IAEA watch inside Iran, so long as it was diluted to 3.67%. In practice, for the immediate waiver on oil exports to work, waivers will need to be issued on associated services including banking transactions, insurance and transportation. Miad Maleki, a former US Treasury official and a senior fellow at the Foundation for Defense of Democracies thinktank, said broadening authorisation to financial transactions would crack the core architecture of US oil and financial sanctions against Iran, arguably the most powerful economic leverage the US holds over the regime outside the naval blockade. Wider sanctions relief, which will not be offered until the nuclear negotiations are completed to mutual satisfaction, would cover primary and secondary sanctions as well as UN sanctions. If this happened, it would represent the biggest recasting of US-Iran relations since the Iranian revolution in 1979. What is worse from the US perspective is that all these concessions have been made to try to secure the reopening of the strait of Hormuz, which was open before the war, but even that may not be achieved. The memorandum text shows that free navigation of the strait could end after 60 days, at which point Iran will conduct dialogue with Oman to define the future administration and maritime services in the strait in discussion with other Gulf states. Finally, there is a proposed $350bn Iran reconstruction fund that the US has said it will create but will not contribute to. For that amount of money \u2013 the equivalent of the financial losses Iran has suffered \u2013 to be raised, the Gulf states would have to be deeply forgiving to a country that has just bombed their hotels and airbases and frozen their economies. Nothing, even the unfreezing of the $24bn Iranian assets abroad, is likely to do much to ease Iran\u2019s acute economies woes. As to whether the deal is better or worse than Barack Obama\u2019s 2015 nuclear deal, many of those involved in the talks say it is like comparing apples and oranges. The contex"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.348,
+      "scores": {
+        "High House War": 0.076,
+        "High House Coin": 0.14,
+        "High House Shadow": 0.175,
+        "High House Life": 0.207,
+        "High House Iron": -0.034,
+        "High House Words": 0.348,
+        "High House Chains": 0.227
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
+        "sentiment_score": 0.917
       },
       "article": {
-        "title": "Tuesday briefing: How the UK\u2019s military spending row exposes Starmer\u2019s defence dilemma",
-        "url": "https://www.theguardian.com/world/2026/jun/16/tuesday-briefing-first-edition-keir-starmer-uk-defence-spending-labour",
-        "source": "guardian",
-        "full_text": "Good morning. What conflict has raged longer than the hundred years war? The fight between the Ministry of Defence and the Treasury over defence spending. I\u2019d love to claim this as my own, but avoid patter theft this early in the day. So I\u2019ll credit my colleague Dan Sabbagh, the Guardian\u2019s defence and security editor, who spoke to me ahead of this week\u2019s G7 meeting, in France, where Keir Starmer arrived yesterday for what could be his final international summit. The prime minister can anticipate candid discussions about international partnerships in conflicts in Ukraine and the Middle East, both of which may soon demand increased involvement from the British military. The political row over whether the UK government is spending enough to keep Britain safe and fulfil its international commitments broke into the public sphere with the resignation of defence minister John Healey last Thursday. It continues today as Al Carns, who resigned from his post as armed forced minister on the same day, tells the Guardian in an exclusive interview about \u201cunbelievable\u201d waste at the MoD, and suggests mismanaged programmes such as tanks investment should be scrapped in favour of new technology. The resignation of two highly respected ministers, only one of whom reportedly fancies a shot in Downing Street, further weakens the prime minister\u2019s position ahead of Andy Burnham\u2019s return to the Commons if he is victorious in this week\u2019s Makerfield byelection. I spoke to Dan about how an argument about money exposes domestic and international uncertainties around Starmer\u2019s leadership, Britain\u2019s place in the world and the changing face of warfare. Five big stories Middle East | Donald Trump has declared that the strait of Hormuz will be \u201ccompletely open\u201d from Friday, as western leaders gathering at the G7 summit in \u00c9vian-les-Bains battled to prevent the fragile US deal with Iran from almost immediately unravelling. UK politics | Political hatred and division in the UK is probably worse now than during the Brexit referendum, when Jo Cox was murdered, says Kim Leadbeater, Cox\u2019s sister who is now also a Labour MP. Crime | A schoolteacher described as a \u201cserial manipulator and a serial liar\u201d has been found guilty of sexually abusing and murdering a baby he and his partner had adopted. Environment | Half of the world\u2019s children are exposed to at least three overlapping climate hazards threatening their health, education and survival, according to a Unicef report. US news | Eight people are presumed dead after a B-52 bomber crashed shortly after takeoff on Monday morning at a US air force base in California\u2019s Mojave Desert, officials said. In depth: Starmer\u2019s defence-spending \u2018rhetoric-to-reality gap\u2019 There isn\u2019t a lot of agreement about what Starmer has got right in government, but our lobby team will tell you that some MPs remain swayed by his record on the international stage. He got two things right, says Dan: support for Ukraine and keeping Britain largely out of the US-Israel war on Iran. \u201cHe\u2019s also weathered the sheer difficulty of being a British Labour prime minister when a turbulent Republican in the White House is shifting position daily between being your friend and trying to destabilise you.\u201d But where Starmer has failed to shift the dial is on the strategic problem of Britain\u2019s place in the world during a volatile time. He spoke to this at the Munich Security Conference in February, suggesting that \u2013 as the Trump administration disengaged with former allies \u2013 it provided an opportunity for \u201cradical renewal\u201d and a more European Nato able to \u201cstand on our own feet\u201d. Taken together, these factors point to the need to progressively spend more on defence to meet Nato\u2019s target \u2013 which Starmer has signed up to, of 3.5% of GDP by 2035. Instead, Dan explains, \u201cwe\u2019ve got a modest step up to 2.6% by 2027 and then \u2018a big blank\u2019\u201d. Here the essential criticism that Healey and others are making kicks in, says Dan, with \u201cthis rhetoric-to-reality gap\u201d. *** A la"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.332,
-      "scores": {
-        "High House War": 0.005,
-        "High House Coin": 0.052,
-        "High House Shadow": -0.059,
-        "High House Life": 0.332,
-        "High House Iron": -0.03,
-        "High House Words": 0.051,
-        "High House Chains": 0.112
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.858
-      },
-      "article": {
-        "title": "Half of world\u2019s children exposed to at least three climate hazards, Unicef says",
-        "url": "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
-        "source": "guardian",
-        "full_text": "Half of the world\u2019s children are exposed to at least three overlapping climate hazards threatening their health, education and survival, according to a Unicef report. Globally, children face increasing threats from heatwaves, storms, floods and droughts as the climate crisis worsens, with more than one billion facing at least three of these at once. Striking footage released by the UN agency shows children in Papua New Guinea swimming across a crocodile-filled river to get to school after a vital footbridge washed away during heavy rains and was not replaced. Lorna, 15, is one of those who has to swim across the Kemp Welch river in Launkalana, in the Rigo district of Papua New Guinea, to get to school. The community owns a few small boats, according to Unicef staff who visited, but the youngest children are prioritised. \u201cDuring our periods, our elders do not allow us to cross the river to attend our classes as they think it will attract crocodiles \u2026 My dream is to become a teacher or pilot. We want a new bridge so we can go to school safely every day,\u201d Lorna said. According to Unicef, the community has been unable to raise funds to replace the bridge, which washed away in 2012, and is faced with increasing challenges further exacerbated by the climate crisis. Lorna\u2019s headteacher, Charlie Vali David, said the loss of the bridge was taking a huge toll on the community. \u201cDuring monsoon season, heavy currents, dead trees and debris block the river \u2013 causing injury and death,\u201d he said. \u201cMany children fall sick from the cold, dirty river water. That creates a learning gap. Especially for the females.\u201d The Children\u2019s Climate Risk Report found rising temperatures and extreme weather are putting more stress on infrastructure, and warned that key roads and bridges are being hit, with dire consequences for the local community. It found that almost every child around the world, including those from high-income countries, is now exposed to at least one hazard, while 123,000 experience more than six in their lifetimes. \u201cThe lives of children continue to be upended by the impact of heatwaves, wildfires, droughts, and floods,\u201d said Unicef\u2019s executive director, Catherine Russell. \u201cHalf of the world\u2019s children are now living with at least three overlapping climate threats shaping their daily lives.\u201d Unicef analysed young people\u2019s exposure to eight climate hazards: coastal floods, droughts, extreme heat, fires, heatwaves, river floods, sand and dust storms, and tropical storms. It found the Sahel region of Africa is one of the hardest hit globally, with more than 4 million children facing the triple threat of heatwaves, extreme heat, and sand and dust storms. Meanwhile, children in Asian countries such as Bangladesh, Myanmar and Pakistan were found to be exposed to more climate hazards than anywhere else in the world. High-income countries are not immune to overlapping climate shocks. In Italy, for example, more than 6 million children are exposed to prolonged heatwaves and drought. Unicef outlined a plan to better protect children, calling on governments and businesses to reduce emissions and improve climate adaptation with a focus on the services children rely on. Russell said: \u201cThis analysis can help governments and decision-makers plan better and invest more effectively in resilient services. When we strengthen health and education systems, and improve infrastructure with children in mind, we protect them from today\u2019s climate threats and help secure their future.\u201d"
+        "title": "Contentious Times at the Supreme Court",
+        "url": "https://www.nytimes.com/2026/06/03/opinion/supreme-court.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -1.508,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Shadow",
       "house_b": "High House War",
       "actor_a": "ISRAEL",
       "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -2.135,
+      "goldstein_avg": -2.046,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "ISRAEL",
-      "actor_b": "STARMER",
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "INDIA",
+      "actor_b": "UKRAINE",
       "relationship": "neutral",
-      "goldstein_avg": -1.179,
+      "goldstein_avg": -1.081,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "UKRAINE",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.409,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "UKRAINE",
+      "actor_b": "THE SUPREME COURT",
+      "relationship": "opposed",
+      "goldstein_avg": -1.602,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -240,7 +250,7 @@
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.226,
+      "trend_ratio": 1.541,
       "source": "gdelt_volume"
     }
   }
