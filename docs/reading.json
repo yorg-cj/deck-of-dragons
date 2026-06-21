@@ -1,35 +1,6 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.499,
-      "scores": {
-        "High House War": 0.052,
-        "High House Coin": 0.099,
-        "High House Shadow": 0.17,
-        "High House Life": 0.06,
-        "High House Iron": 0.499,
-        "High House Words": 0.089,
-        "High House Chains": 0.133
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "India's data centre pipeline hits 8.33 GW as AI demand reshapes digital infra: Knight Frank India",
-        "url": "https://aninews.in/news/business/indias-data-centre-pipeline-hits-833-gw-as-ai-demand-reshapes-digital-infra-knight-frank-india20260620153120",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,7 +28,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Life",
@@ -86,7 +57,36 @@
         "source": "guardian",
         "full_text": "Devi Sridhar writes about some of the global public health responses to the outbreak of hantavirus centred on the MV Hondius, but her conclusions as to how the world avoided another global outbreak failed to recognise the real reason disaster was averted (Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why, 15 June). The UK Overseas Territories (UKOTs) programme funded by the Foreign Office and managed by the UK Health Security Agency supports health services in all UKOTs around the globe. These are small and vulnerable communities with very limited medical services in most cases. The key success of this lean but effective programme lies in close communication and strengthening the health services. The astute doctor on Ascension Island recognised a cluster of cases on the MV Hondius when a sick passenger was brought ashore for treatment. Newly developed diagnostic equipment on the island was able to exclude common causes. We knew we were dealing with something unusual. Possible causes were reviewed during a meeting across continents between Ascension, the UKOT programme infection doctor, the ship company medical adviser and a colleague in the National Institute for Communicable Diseases in South Africa, who tracked down samples from two cases medevaced to South Africa. The diagnosis of hantavirus was made. It was this that alerted the World Health Organization and national public health organisations, and averted disaster. Without this, the ship would have sailed on to Cape Verde. Passengers incubating hantavirus would have disembarked and travelled to their home countries. The outbreak would have been much wider. Dr Matthew Dryden Consultant in infection, UKOTs programme, UKHSA \u2022 The good fortune that was with the hantavirus cruise ship, discussed in the excellent article by Devi Sridhar, doesn\u2019t necessarily apply to those in the Democratic Republic of the Congo or neighbouring countries, like the Batwa pygmies, a highly vulnerable, marginalised and endangered group of people in Uganda currently fighting the Bundibugyo strain of the Ebola virus, a rare variant for which there is currently no approved vaccine or specific treatment. Until all people throughout the world have equal access to public health measures against novel infectious diseases, we will all be vulnerable to the next unexpected product of a world stressed by inequality and a privileged elite. Dr Brian Jones Yarcombe, Devon \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.407,
+      "scores": {
+        "High House War": 0.114,
+        "High House Coin": 0.28,
+        "High House Shadow": 0.301,
+        "High House Life": 0.096,
+        "High House Iron": 0.407,
+        "High House Words": 0.034,
+        "High House Chains": 0.105
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.825
+      },
+      "article": {
+        "title": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
+        "url": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -115,144 +115,106 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.115,
-        "High House Coin": 0.239,
-        "High House Shadow": 0.02,
-        "High House Life": -0.001,
-        "High House Iron": -0.066,
-        "High House Words": 0.275,
-        "High House Chains": 0.359
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.533,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.968
-      },
-      "article": {
-        "title": "Iran peace deal makes clear how far US has been forced to retreat since 2025",
-        "url": "https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump",
-        "source": "guardian",
-        "full_text": "Only a man with an unparalleled ignorance of history such as Donald Trump would have signed America\u2019s peace treaty with Iran at Versailles, the byword for national humiliation. And only a man with an impish sense of humour such as Emmanuel Macron would have suggested it. It is easy to cast Trump in the role of the humiliated and hurt German count Ulrich von Brockdorff-Rantzau. The treaty of Versailles, after all, was based on 14 points, just as the memorandum of understanding has 14 clauses. But the memorandum is not a full-scale surrender document; it is an admission that America could not achieve what it sought through war. If the memorandum, taken with Trump\u2019s remarks at his hour-long press conference at the G7, is compared with a document the Americans tabled in 2025, it is possible to see how far the US has been forced to retreat. Red line after red line has been erased. The US tabled the 2025 document immediately before Israel, with US support, began the 12-day war culminating in the bombing of Iran\u2019s nuclear sites. Under its terms, Iran was to have no domestic enrichment capabilities beyond the limited enrichment for medical and agricultural needs; all nuclear supply would be imported from outside Iran; all enriched uranium stockpiles would be shipped out of Iran immediately upon signing the agreement; all enriched stockpile material would be downblended to 3.67%; Iran would not build any new enrichment facilities; and Iran would dismantle all programmes capable of uranium conversion. Instead, a consortium including Iran, the US and the Gulf states was to undertake enrichment outside Iran. At \u00c9vian for the G7 meeting, however, Trump conceded Iran had a right to continue enrich uranium, saying it could not be excluded because other countries in the region had nuclear programmes. He said there was no great rush to dismantle or dilute the stockpile of highly enriched uranium, and US officials acknowledged that this stockpile could be diluted under IAEA watch inside Iran, so long as it was diluted to 3.67%. In practice, for the immediate waiver on oil exports to work, waivers will need to be issued on associated services including banking transactions, insurance and transportation. Miad Maleki, a former US Treasury official and a senior fellow at the Foundation for Defense of Democracies thinktank, said broadening authorisation to financial transactions would crack the core architecture of US oil and financial sanctions against Iran, arguably the most powerful economic leverage the US holds over the regime outside the naval blockade. Wider sanctions relief, which will not be offered until the nuclear negotiations are completed to mutual satisfaction, would cover primary and secondary sanctions as well as UN sanctions. If this happened, it would represent the biggest recasting of US-Iran relations since the Iranian revolution in 1979. What is worse from the US perspective is that all these concessions have been made to try to secure the reopening of the strait of Hormuz, which was open before the war, but even that may not be achieved. The memorandum text shows that free navigation of the strait could end after 60 days, at which point Iran will conduct dialogue with Oman to define the future administration and maritime services in the strait in discussion with other Gulf states. Finally, there is a proposed $350bn Iran reconstruction fund that the US has said it will create but will not contribute to. For that amount of money \u2013 the equivalent of the financial losses Iran has suffered \u2013 to be raised, the Gulf states would have to be deeply forgiving to a country that has just bombed their hotels and airbases and frozen their economies. Nothing, even the unfreezing of the $24bn Iranian assets abroad, is likely to do much to ease Iran\u2019s acute economies woes. As to whether the deal is better or worse than Barack Obama\u2019s 2015 nuclear deal, many of those involved in the talks say it is like comparing apples and oranges. The contex"
-      },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.348,
+      "reversed": true,
+      "confidence": 0.362,
       "scores": {
-        "High House War": 0.076,
-        "High House Coin": 0.14,
-        "High House Shadow": 0.175,
-        "High House Life": 0.207,
-        "High House Iron": -0.034,
-        "High House Words": 0.348,
-        "High House Chains": 0.227
+        "High House War": 0.096,
+        "High House Coin": 0.098,
+        "High House Shadow": 0.324,
+        "High House Life": 0.171,
+        "High House Iron": 0.056,
+        "High House Words": 0.362,
+        "High House Chains": 0.057
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.917
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Contentious Times at the Supreme Court",
-        "url": "https://www.nytimes.com/2026/06/03/opinion/supreme-court.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat",
+        "url": "https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat",
+        "source": "guardian",
+        "full_text": "A website leak has exposed participants in the secretive, Peter Thiel-founded Dialog retreats which includes top politicians from across the American divide, officials from foreign countries, other titans of the tech industry world and prominent media figures. The annual Dialog retreats, which have been compared to other quasi-secret elite conferences like the Bilderberg Group and Bohemian Grove since they began in 2006, have had some participants revealed in previous media reports. Fairly little is known about the invitation-only event, which is usually held at luxury establishments around the world and features organized discussions on global affairs. The list indicates an organization capable of mustering a unique mix of government, corporate and cultural power, though many names on the list likely attended Dialog events prior to Thiel\u2019s association with the political right and the Trump era. The list was exposed, apparently accidentally, in the Dialog website\u2019s source code, and was visible in an Internet Archive snapshot of the site archived on 15 June. It was first noted by a hacktivist on BlueSky. The leak was snapshotted on the Internet Archive on Monday, where the Guardian was able to independently verify the information. Thiel is a secretive and influential billionaire political svengali and tech investor who recently hit the headlines for hosting a series of lectures philosophizing about who the antichrist could be and warning that Armageddon is coming. Thiel has also recently become powerful in conservative politics with close ties to Donald Trump and JD Vance and has helped bankroll Republicans\u2019 2026 midterm campaigns. The leaked Dialog list includes governors, senators and congresspeople from both US political parties, leaders and officials from Saudi Arabia, Pakistan, the United Kingdom and Japan and prominent opinion writers from outlets including the New York Times, among many others. It\u2019s not clear when the names were added to the list and under what circumstances, and in what capacity those listed participated in Dialog. The list has already been the subject of media reports, but it remains unclear whether all the individuals on it have the same degree of involvement with Dialog. Some of those on the list whom the Guardian contacted were prepared to defend Dialog and its mission, which the organization\u2019s website characterizes as the promotion of non-ideological, non-partisan conversation. Others took pains to distance themselves from the elite networking gatherings, and claimed to have had only fleeting involvement with the gatherings, which had sometimes taken place in the distant past. The names include serving Trump administration figures such as White House staff secretary Will Scharf and National Science Foundation nominee and former CDC acting head Jim O\u2019Neill; conservative-movement rainmaker Leonard Leo and the retired general Stanley McChrystal; corporate powerbrokers like OpenAI president Greg Brockman and trillionaire Elon Musk, as well as Neuralink executive and mother of Musk\u2019s children Shivon Zilis; and writers including Sam Harris, Steven Pinker, and New York Times columnists Ezra Klein and Bret Stephens. Names from beyond the US include the Saudi royal and former intelligence chief Turki al-Faisal; former Keir Starmer adviser Matt Clifford and the UK Conservative MP Tom Tugendhat; and Sheikh Nawaf Al-Sabah, the CEO of Kuwait Petroleum. Separate reporting in Wired magazine revealed that this year\u2019s Dialog event, to be held in Dublin this August, will range across topics including nuclear power, world war 3, sex, and cults. It\u2019s not known if those on the leaked list were speakers, guests, or full members of the organization. The Guardian has contacted all participants named in this reporting via publicly listed email addresses, or affiliated organizations, to ask about the details of their involvement with Dialog. Janine Wedel, co-director of the Corruption, Networks, and Transnational Crime Rese"
       },
-      "position": "ASCENDING"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.33,
+      "confidence": 0.355,
       "scores": {
-        "High House War": 0.149,
-        "High House Coin": 0.33,
-        "High House Shadow": 0.128,
-        "High House Life": 0.08,
-        "High House Iron": 0.1,
-        "High House Words": 0.198,
-        "High House Chains": 0.304
+        "High House War": 0.054,
+        "High House Coin": 0.355,
+        "High House Shadow": 0.017,
+        "High House Life": 0.048,
+        "High House Iron": 0.047,
+        "High House Words": 0.117,
+        "High House Chains": 0.286
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.539,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "bankrupt"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.98
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "A deal, a summit and a reality check for India",
-        "url": "https://www.livemint.com/opinion/usiran-deal-donald-trump-israel-hezbollah-g7-summit-evian-giorgia-meloni-narendra-modi-india-us-relations-11781932766372.html",
+        "title": "Greece\u2019s Sorry Reckoning",
+        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WANING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.303,
+      "scores": {
+        "High House War": 0.28,
+        "High House Coin": 0.17,
+        "High House Shadow": 0.03,
+        "High House Life": 0.04,
+        "High House Iron": -0.006,
+        "High House Words": 0.276,
+        "High House Chains": 0.303
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.85
+      },
+      "article": {
+        "title": "US-Iran war: what the \u2018peace deal\u2019 really means",
+        "url": "https://theconversation.com/us-iran-war-what-the-peace-deal-really-means-285269",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "ASCENDING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "INDIA",
-      "actor_b": "THE SUPREME COURT",
-      "relationship": "opposed",
-      "goldstein_avg": -1.756,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "ISRAEL",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -1.995,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Shadow",
       "house_b": "High House Chains",
       "actor_a": "ISRAEL",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.822,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "ISRAEL",
-      "actor_b": "THE SUPREME COURT",
-      "relationship": "opposed",
-      "goldstein_avg": -2.066,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "ISRAEL",
-      "actor_b": "INDIA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.6,
+      "goldstein_avg": -1.918,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -262,65 +224,30 @@
       "actor_a": "UKRAINE",
       "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -1.32,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "UKRAINE",
-      "actor_b": "THE SUPREME COURT",
-      "relationship": "opposed",
-      "goldstein_avg": -1.623,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Coin",
-      "actor_a": "UKRAINE",
-      "actor_b": "INDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.055,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "THE SUPREME COURT",
-      "relationship": "neutral",
-      "goldstein_avg": -1.481,
+      "goldstein_avg": -1.405,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "THE SUPREME COURT",
-      "actor_b": "INDIA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.756,
+      "house_b": "High House Chains",
+      "actor_a": "PETER THIEL",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.083,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.321,
-      "source": "gdelt_volume"
-    },
     "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.626,
+      "trend": "rising",
+      "trend_ratio": 1.325,
       "source": "gdelt_volume"
     },
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.532,
+      "trend_ratio": 1.482,
       "source": "gdelt_volume"
     }
   }
