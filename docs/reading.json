@@ -1,6 +1,64 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "cards": [
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.559,
+      "scores": {
+        "High House War": 0.238,
+        "High House Coin": 0.174,
+        "High House Shadow": 0.243,
+        "High House Life": 0.028,
+        "High House Iron": 0.125,
+        "High House Words": 0.559,
+        "High House Chains": 0.217
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "OPINION | The narrative war already lost - PART I: How China has supplanted the US as the world's ideological lodestar",
+        "url": "https://www.theweek.in/news/defence/2026/06/22/opinion-the-narrative-war-already-lost-part-i-how-china-has-supplanted-the-us-as-the-worlds-ideological-lodestar.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.501,
+      "scores": {
+        "High House War": 0.074,
+        "High House Coin": 0.185,
+        "High House Shadow": 0.25,
+        "High House Life": 0.042,
+        "High House Iron": 0.501,
+        "High House Words": 0.041,
+        "High House Chains": -0.015
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.53,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.963
+      },
+      "article": {
+        "title": "Business News | Info Edge Bets Big on AI, Deeptech, Invests Rs 1,003 Cr in 54 Startups Since 2020, Portfolio Now at Rs 41,300 Cr",
+        "url": "https://www.latestly.com/agency-news/business-news-info-edge-bets-big-on-ai-deeptech-invests-rs-1003-cr-in-54-startups-since-2020-portfolio-now-at-rs-41300-cr-7484954.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,62 +86,33 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.453,
-      "scores": {
-        "High House War": 0.053,
-        "High House Coin": -0.045,
-        "High House Shadow": 0.134,
-        "High House Life": 0.453,
-        "High House Iron": 0.029,
-        "High House Words": 0.038,
-        "High House Chains": 0.106
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "The real reason a hantavirus disaster was averted",
-        "url": "https://www.theguardian.com/world/2026/jun/19/the-real-reason-a-hantavirus-disaster-was-averted",
-        "source": "guardian",
-        "full_text": "Devi Sridhar writes about some of the global public health responses to the outbreak of hantavirus centred on the MV Hondius, but her conclusions as to how the world avoided another global outbreak failed to recognise the real reason disaster was averted (Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why, 15 June). The UK Overseas Territories (UKOTs) programme funded by the Foreign Office and managed by the UK Health Security Agency supports health services in all UKOTs around the globe. These are small and vulnerable communities with very limited medical services in most cases. The key success of this lean but effective programme lies in close communication and strengthening the health services. The astute doctor on Ascension Island recognised a cluster of cases on the MV Hondius when a sick passenger was brought ashore for treatment. Newly developed diagnostic equipment on the island was able to exclude common causes. We knew we were dealing with something unusual. Possible causes were reviewed during a meeting across continents between Ascension, the UKOT programme infection doctor, the ship company medical adviser and a colleague in the National Institute for Communicable Diseases in South Africa, who tracked down samples from two cases medevaced to South Africa. The diagnosis of hantavirus was made. It was this that alerted the World Health Organization and national public health organisations, and averted disaster. Without this, the ship would have sailed on to Cape Verde. Passengers incubating hantavirus would have disembarked and travelled to their home countries. The outbreak would have been much wider. Dr Matthew Dryden Consultant in infection, UKOTs programme, UKHSA \u2022 The good fortune that was with the hantavirus cruise ship, discussed in the excellent article by Devi Sridhar, doesn\u2019t necessarily apply to those in the Democratic Republic of the Congo or neighbouring countries, like the Batwa pygmies, a highly vulnerable, marginalised and endangered group of people in Uganda currently fighting the Bundibugyo strain of the Ebola virus, a rare variant for which there is currently no approved vaccine or specific treatment. Until all people throughout the world have equal access to public health measures against novel infectious diseases, we will all be vulnerable to the next unexpected product of a world stressed by inequality and a privileged elite. Dr Brian Jones Yarcombe, Devon \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.407,
+      "confidence": 0.417,
       "scores": {
-        "High House War": 0.114,
-        "High House Coin": 0.28,
-        "High House Shadow": 0.301,
-        "High House Life": 0.096,
-        "High House Iron": 0.407,
-        "High House Words": 0.034,
-        "High House Chains": 0.105
+        "High House War": 0.046,
+        "High House Coin": 0.027,
+        "High House Shadow": 0.109,
+        "High House Life": 0.417,
+        "High House Iron": 0.092,
+        "High House Words": 0.122,
+        "High House Chains": 0.046
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.825
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.974
       },
       "article": {
-        "title": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
-        "url": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
-        "source": "nyt",
+        "title": "The New Humanitarian | Why Elon Musk isnt going to end world hunger",
+        "url": "https://www.thenewhumanitarian.org/opinion/2021/11/23/there-are-billion-reasons-elon-musk-not-going-end-world-hunger",
+        "source": "gdelt_doc",
         "full_text": null
       },
       "position": "WILD"
@@ -118,35 +147,6 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.362,
-      "scores": {
-        "High House War": 0.096,
-        "High House Coin": 0.098,
-        "High House Shadow": 0.324,
-        "High House Life": 0.171,
-        "High House Iron": 0.056,
-        "High House Words": 0.362,
-        "High House Chains": 0.057
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat",
-        "url": "https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat",
-        "source": "guardian",
-        "full_text": "A website leak has exposed participants in the secretive, Peter Thiel-founded Dialog retreats which includes top politicians from across the American divide, officials from foreign countries, other titans of the tech industry world and prominent media figures. The annual Dialog retreats, which have been compared to other quasi-secret elite conferences like the Bilderberg Group and Bohemian Grove since they began in 2006, have had some participants revealed in previous media reports. Fairly little is known about the invitation-only event, which is usually held at luxury establishments around the world and features organized discussions on global affairs. The list indicates an organization capable of mustering a unique mix of government, corporate and cultural power, though many names on the list likely attended Dialog events prior to Thiel\u2019s association with the political right and the Trump era. The list was exposed, apparently accidentally, in the Dialog website\u2019s source code, and was visible in an Internet Archive snapshot of the site archived on 15 June. It was first noted by a hacktivist on BlueSky. The leak was snapshotted on the Internet Archive on Monday, where the Guardian was able to independently verify the information. Thiel is a secretive and influential billionaire political svengali and tech investor who recently hit the headlines for hosting a series of lectures philosophizing about who the antichrist could be and warning that Armageddon is coming. Thiel has also recently become powerful in conservative politics with close ties to Donald Trump and JD Vance and has helped bankroll Republicans\u2019 2026 midterm campaigns. The leaked Dialog list includes governors, senators and congresspeople from both US political parties, leaders and officials from Saudi Arabia, Pakistan, the United Kingdom and Japan and prominent opinion writers from outlets including the New York Times, among many others. It\u2019s not clear when the names were added to the list and under what circumstances, and in what capacity those listed participated in Dialog. The list has already been the subject of media reports, but it remains unclear whether all the individuals on it have the same degree of involvement with Dialog. Some of those on the list whom the Guardian contacted were prepared to defend Dialog and its mission, which the organization\u2019s website characterizes as the promotion of non-ideological, non-partisan conversation. Others took pains to distance themselves from the elite networking gatherings, and claimed to have had only fleeting involvement with the gatherings, which had sometimes taken place in the distant past. The names include serving Trump administration figures such as White House staff secretary Will Scharf and National Science Foundation nominee and former CDC acting head Jim O\u2019Neill; conservative-movement rainmaker Leonard Leo and the retired general Stanley McChrystal; corporate powerbrokers like OpenAI president Greg Brockman and trillionaire Elon Musk, as well as Neuralink executive and mother of Musk\u2019s children Shivon Zilis; and writers including Sam Harris, Steven Pinker, and New York Times columnists Ezra Klein and Bret Stephens. Names from beyond the US include the Saudi royal and former intelligence chief Turki al-Faisal; former Keir Starmer adviser Matt Clifford and the UK Conservative MP Tom Tugendhat; and Sheikh Nawaf Al-Sabah, the CEO of Kuwait Petroleum. Separate reporting in Wired magazine revealed that this year\u2019s Dialog event, to be held in Dublin this August, will range across topics including nuclear power, world war 3, sex, and cults. It\u2019s not known if those on the leaked list were speakers, guests, or full members of the organization. The Guardian has contacted all participants named in this reporting via publicly listed email addresses, or affiliated organizations, to ask about the details of their involvement with Dialog. Janine Wedel, co-director of the Corruption, Networks, and Transnational Crime Rese"
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
@@ -175,7 +175,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -204,17 +204,47 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "WANING"
     }
   ],
   "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
+      "actor_a": "BUSINESS NEWS",
+      "actor_b": "ISRAEL",
+      "relationship": "neutral",
+      "goldstein_avg": -1.272,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Chains",
+      "actor_a": "BUSINESS NEWS",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.105,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "ISRAEL",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -1.884,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
     {
       "house_a": "High House Shadow",
       "house_b": "High House Chains",
       "actor_a": "ISRAEL",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.918,
+      "goldstein_avg": -1.988,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -223,31 +253,21 @@
       "house_b": "High House Chains",
       "actor_a": "UKRAINE",
       "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.405,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "PETER THIEL",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.083,
+      "relationship": "opposed",
+      "goldstein_avg": -1.608,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.325,
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     },
-    "High House Coin": {
+    "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.482,
+      "trend_ratio": 1.851,
       "source": "gdelt_volume"
     }
   }
