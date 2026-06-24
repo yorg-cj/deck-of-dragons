@@ -1,31 +1,31 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.481,
+      "confidence": 0.465,
       "scores": {
-        "High House War": 0.069,
-        "High House Coin": 0.118,
-        "High House Shadow": 0.218,
-        "High House Life": 0.094,
-        "High House Iron": 0.481,
-        "High House Words": 0.083,
-        "High House Chains": 0.018
+        "High House War": 0.159,
+        "High House Coin": 0.261,
+        "High House Shadow": 0.22,
+        "High House Life": 0.08,
+        "High House Iron": 0.465,
+        "High House Words": 0.088,
+        "High House Chains": 0.122
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.531,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.965
       },
       "article": {
-        "title": "Global IT firm Oracle reveals AI adoption contributed to 21,000 job cuts over the past year",
-        "url": "https://www.mid-day.com/tech/tech-news/article/global-it-firm-oracle-reveals-ai-adoption-contributed-to-21000-job-cuts-over-the-past-year-23636445",
-        "source": "worldnews",
+        "title": "Asia Tech Shares Swing Wildly as A.I. Jitters Persist",
+        "url": "https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -33,27 +33,27 @@
     {
       "house": "High House Shadow",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.456,
+      "reversed": true,
+      "confidence": 0.459,
       "scores": {
-        "High House War": 0.223,
-        "High House Coin": 0.219,
-        "High House Shadow": 0.456,
-        "High House Life": 0.071,
-        "High House Iron": 0.217,
-        "High House Words": 0.311,
-        "High House Chains": 0.206
+        "High House War": 0.242,
+        "High House Coin": 0.15,
+        "High House Shadow": 0.459,
+        "High House Life": 0.194,
+        "High House Iron": 0.411,
+        "High House Words": 0.185,
+        "High House Chains": 0.14
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.55,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.967
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Pentagon Sees Growing Espionage Threat From Israel",
-        "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
+        "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
         "source": "nyt",
         "full_text": null
       },
@@ -89,35 +89,6 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.405,
-      "scores": {
-        "High House War": 0.189,
-        "High House Coin": 0.136,
-        "High House Shadow": 0.192,
-        "High House Life": 0.042,
-        "High House Iron": -0.049,
-        "High House Words": 0.405,
-        "High House Chains": 0.247
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "No Place for Smallness When the World Is on Fire: an American Perspective on the Ukrainian-Polish Affair",
-        "url": "https://www.kyivpost.com/opinion/78694",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WANING"
-    },
-    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -141,6 +112,35 @@
       "article": {
         "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
         "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.348,
+      "scores": {
+        "High House War": 0.076,
+        "High House Coin": 0.14,
+        "High House Shadow": 0.175,
+        "High House Life": 0.207,
+        "High House Iron": -0.034,
+        "High House Words": 0.348,
+        "High House Chains": 0.227
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.917
+      },
+      "article": {
+        "title": "Contentious Times at the Supreme Court",
+        "url": "https://www.nytimes.com/2026/06/03/opinion/supreme-court.html",
         "source": "nyt",
         "full_text": null
       },
@@ -175,7 +175,7 @@
         "source": "guardian",
         "full_text": "For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro. As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: Ronald Reagan, George HW Bush, Bill Clinton \u2013 even though Greenspan was a lifelong Republican \u2013 and George W Bush. His reputation rested on a series of smart interventions that included averting a global economic meltdown after the 1987 Black Monday stock market crash and again in the 1997 Asian financial crisis, and restoring confidence in the wake of the 2001 attacks on New York and Washington. His biggest triumph was to preside over one of the longest economic booms in US history, between 1991 and 2001. \u201cBy the dawn of the new millennium, it was nearly impossible to find anyone in America who was not gaga over Greenspan. Democrats and Republicans, Wall Street and Main Street, dogs and cats \u2013 all were high on the Fed chairman,\u201d the economic journalist Justin Martin wrote in Greenspan: The Man Behind Money (2000). Such effusive accolades were premature. Greenspan\u2019s reputation had to be downgraded after the 2008 financial crash, the biggest shock to the global economy since the Great Depression. Although he had left office two years earlier, the elements that led to the crisis \u2013 financial deregulation, reckless bankers, derivatives, the housing boom, low interest rates and sub-prime mortgages \u2013 happened on his watch. Robert Reich, secretary of labor under Clinton, wrote in the Guardian in 2009 that when the housing bubble burst, \u201cthe entire global financial system went down with it. There\u2019s no single culprit for the mess we\u2019re in, but Alan Greenspan comes closest.\u201d Two years later, a congressional commission set up to investigate the crash concluded that, while major financial institutions, along with others, had been to blame, Greenspan too had been culpable. Its report said that he, along with others, had championed, for more than 30 years, deregulation of the financial sector and reliance on self-regulation that had \u201cstripped away key safeguards, which could have helped avoid catastrophe\u201d. At a hearing of the House oversight committee in 2008, Greenspan acknowledged he had been \u201cpartially\u201d wrong in his hands-off approach to the banking sector. What was stunning, though, was his admission that there was \u201ca flaw\u201d in the libertarian conservative ideology that had guided him throughout most of his life. \u201cI made a mistake in presuming that the self-interests of organisations, specifically banks and others, were such that they were best capable of protecting their own shareholders and their equity in the firms,\u201d he said. That ideology was one propagated by the Russian \u00e9migr\u00e9 writer Ayn Rand, whose novel Atlas Shrugged (1957) was to inspire future generations of neo-liberals. Greenspan had had little interest in politics until he met her in 1952, but became part of her inner circle, a regular for the next 15 years at weekly discussions and debates at her New York home. He described her views as \u201cintoxicating\u201d, while she, in an interview with the New York Times in 1974, said: \u201cAlan is my disciple philosophically.\u201d She opposed government intervention in the financial sector, arguing it should be left to police itself and that capitalism worked best when people acted out of rational self-interest rather than altruism. While Greenspan adhered to this in principle, expressing concern that government intervention risked unintended and negative consequences, this did not stop him intervening as head of the Fed, from tinkering with interest rates to supporting government bailouts. Such contradictions, along with the power he wielded, h"
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
@@ -204,97 +204,37 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "ORACLE",
-      "actor_b": "ISRAEL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.122,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
       "house_b": "High House War",
-      "actor_a": "ORACLE",
+      "actor_a": "ASIA TECH",
       "actor_b": "UKRAINE",
       "relationship": "neutral",
-      "goldstein_avg": -0.193,
+      "goldstein_avg": -0.458,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "ORACLE",
-      "actor_b": "ALAN GREENSPAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.223,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Chains",
-      "actor_a": "ORACLE",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.176,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
+      "house_a": "High House War",
       "house_b": "High House Words",
-      "actor_a": "ISRAEL",
-      "actor_b": "AMERICAN PERSPECTIVE",
+      "actor_a": "UKRAINE",
+      "actor_b": "THE SUPREME COURT",
       "relationship": "neutral",
-      "goldstein_avg": -1.141,
+      "goldstein_avg": -1.434,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "ISRAEL",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.013,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "AMERICAN PERSPECTIVE",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.399,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
+      "house_a": "High House War",
       "house_b": "High House Coin",
-      "actor_a": "AMERICAN PERSPECTIVE",
+      "actor_a": "UKRAINE",
       "actor_b": "ALAN GREENSPAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.023,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "AMERICAN PERSPECTIVE",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.064,
+      "goldstein_avg": -0.191,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -304,7 +244,17 @@
       "actor_a": "UKRAINE",
       "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.695,
+      "goldstein_avg": -1.826,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "THE SUPREME COURT",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.967,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -312,22 +262,12 @@
   "house_trends": {
     "High House Life": {
       "trend": "rising",
-      "trend_ratio": 2.957,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.404,
+      "trend_ratio": 12.059,
       "source": "gdelt_volume"
     },
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.471,
+      "trend_ratio": 0.499,
       "source": "gdelt_volume"
     }
   }
