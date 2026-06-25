@@ -1,31 +1,31 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.465,
+      "confidence": 0.575,
       "scores": {
-        "High House War": 0.159,
-        "High House Coin": 0.261,
-        "High House Shadow": 0.22,
-        "High House Life": 0.08,
-        "High House Iron": 0.465,
-        "High House Words": 0.088,
-        "High House Chains": 0.122
+        "High House War": 0.006,
+        "High House Coin": 0.097,
+        "High House Shadow": 0.189,
+        "High House Life": 0.215,
+        "High House Iron": 0.575,
+        "High House Words": 0.049,
+        "High House Chains": -0.01
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.531,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.965
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "Asia Tech Shares Swing Wildly as A.I. Jitters Persist",
-        "url": "https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html",
-        "source": "nyt",
+        "title": "Others Also Read",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/06/25/a-solution-to-ais-growing-power-demand-homes",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
@@ -89,6 +89,35 @@
       "position": "EMERGING"
     },
     {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.399,
+      "scores": {
+        "High House War": 0.102,
+        "High House Coin": 0.158,
+        "High House Shadow": 0.156,
+        "High House Life": 0.124,
+        "High House Iron": -0.058,
+        "High House Words": 0.399,
+        "High House Chains": 0.173
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.9
+      },
+      "article": {
+        "title": "Thursday briefing: Why EU\u200b-Taliban talks have sparked outrage among Afghan women \u200b",
+        "url": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
+        "source": "guardian",
+        "full_text": "Good morning. It\u2019s a slap in the face. That\u2019s the phrase I kept hearing \u2013 in furious overnight messages, in blazing opinion columns \u2013 as Afghan women responded to the meeting between EU officials and the Taliban that took place in Brussels on Tuesday. The talks, to discuss how to scale up the deportation of Afghan migrants, were met with widespread outrage, and disbelief that Europe would countenance offering legitimacy to a regime that affords a bird better protections than a woman. For today\u2019s First Edition, I spoke to our European community affairs correspondent Ashifa Kassam about the reaction to this meeting, what it tells us about European migration policy and the insidious consequences of normalisation. But first the headlines. Five big stories World news | Venezuela\u2019s interim leader has declared a state of emergency after the country was struck by two powerful earthquakes that collapsed dozens of buildings and killed at least 32 people, with experts warning the death toll could rise significantly. Heatwave | The UK has broken its all-time temperature record for June and France has recorded its hottest day ever for the second day running, as a heatwave affecting more than 90 million people sweeps across swathes of Europe. UK politics | Donald Trump has labelled Andy Burnham \u201cextremely liberal\u201d, in his first public comments about the former Greater Manchester mayor since he emerged as the frontrunner to replace Keir Starmer. Europe news | The first case of Ebola has been confirmed in France, the country\u2019s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the DRC. UK news | A little-known system in which US military personnel are tried through a court martial for alleged crimes committed in the UK is under growing scrutiny. In depth: \u2018Our suffering doesn\u2019t amount to anything\u2019 In the five years since the Taliban regime swept back to power in Kabul after the chaotic 2021 withdrawal of US and Nato troops, the rights of women and girls have been mercilessly constricted: no schooling beyond the age of 11, exclusion from the job market and public spaces, and a brutal new marriage law that perpetuates domestic violence and child abuse. \u201cThis is something that the EU has been very vocal in condemning,\u201d Ashifa says, pointing me to consecutive resolutions passed by the European parliament, earlier this year stating \u201cAfghan women and girls have been subjected to systematic persecution.\u201d \u201cWomen\u2019s lives have shrunk incredibly and it\u2019s been horrific to watch from the outside,\u201d Ashifa continues. And yet after 20 member states called for concrete pathways to deport Afghans without legal residence permits, the European Commission confirmed a meeting with the Taliban was being arranged. The talks, which took place on Tuesday, would focus on those who \u201cpose a security threat\u201d to the EU, a spokesperson said. And that\u2019s an apparent piece of legerdemain right there, says Ashifa, speaking to me from Spain. \u201cWhen European officials did admit they were having talks, they emphasised that deportations would focus on people who had committed crimes or were seen as security threats. But when the invitation letter went to Taliban officials, it referenced Afghans with no legal right to be in the EU. That\u2019s two very different things.\u201d Following angry protests outside the Brussels parliament and condemnation from human rights campaigners, the EU stands accused of allowing the far right\u2019s anti-immigration rhetoric to set its policy agenda, putting lives in danger and legitimising a repressive regime. The European parliament has shifted its centre of political gravity over recent years, with a record number of right wing MEPs elected in 2024. *** The story of asylum According to EU data, member states received about 1 million asylum applications from Afghans between 2013 and 2024, with roughly half approved. While numbers have fallen since 2022, people from Afghanistan still made up th"
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -115,67 +144,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.348,
-      "scores": {
-        "High House War": 0.076,
-        "High House Coin": 0.14,
-        "High House Shadow": 0.175,
-        "High House Life": 0.207,
-        "High House Iron": -0.034,
-        "High House Words": 0.348,
-        "High House Chains": 0.227
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.917
-      },
-      "article": {
-        "title": "Contentious Times at the Supreme Court",
-        "url": "https://www.nytimes.com/2026/06/03/opinion/supreme-court.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
-      "title": "The Throne",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.347,
+      "confidence": 0.331,
       "scores": {
-        "High House War": -0.037,
-        "High House Coin": 0.347,
-        "High House Shadow": 0.115,
-        "High House Life": 0.085,
-        "High House Iron": -0.004,
-        "High House Words": -0.028,
-        "High House Chains": 0.046
+        "High House War": 0.097,
+        "High House Coin": 0.331,
+        "High House Shadow": 0.078,
+        "High House Life": -0.075,
+        "High House Iron": 0.169,
+        "High House Words": 0.019,
+        "High House Chains": -0.014
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "crash"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
+        "confidence": 0.532,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.967
       },
       "article": {
-        "title": "Alan Greenspan obituary",
-        "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
+        "title": "Musk loses trillionaire status as SpaceX shares \u2018come down to earth with a bump\u2019 \u2013 as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
         "source": "guardian",
-        "full_text": "For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro. As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: Ronald Reagan, George HW Bush, Bill Clinton \u2013 even though Greenspan was a lifelong Republican \u2013 and George W Bush. His reputation rested on a series of smart interventions that included averting a global economic meltdown after the 1987 Black Monday stock market crash and again in the 1997 Asian financial crisis, and restoring confidence in the wake of the 2001 attacks on New York and Washington. His biggest triumph was to preside over one of the longest economic booms in US history, between 1991 and 2001. \u201cBy the dawn of the new millennium, it was nearly impossible to find anyone in America who was not gaga over Greenspan. Democrats and Republicans, Wall Street and Main Street, dogs and cats \u2013 all were high on the Fed chairman,\u201d the economic journalist Justin Martin wrote in Greenspan: The Man Behind Money (2000). Such effusive accolades were premature. Greenspan\u2019s reputation had to be downgraded after the 2008 financial crash, the biggest shock to the global economy since the Great Depression. Although he had left office two years earlier, the elements that led to the crisis \u2013 financial deregulation, reckless bankers, derivatives, the housing boom, low interest rates and sub-prime mortgages \u2013 happened on his watch. Robert Reich, secretary of labor under Clinton, wrote in the Guardian in 2009 that when the housing bubble burst, \u201cthe entire global financial system went down with it. There\u2019s no single culprit for the mess we\u2019re in, but Alan Greenspan comes closest.\u201d Two years later, a congressional commission set up to investigate the crash concluded that, while major financial institutions, along with others, had been to blame, Greenspan too had been culpable. Its report said that he, along with others, had championed, for more than 30 years, deregulation of the financial sector and reliance on self-regulation that had \u201cstripped away key safeguards, which could have helped avoid catastrophe\u201d. At a hearing of the House oversight committee in 2008, Greenspan acknowledged he had been \u201cpartially\u201d wrong in his hands-off approach to the banking sector. What was stunning, though, was his admission that there was \u201ca flaw\u201d in the libertarian conservative ideology that had guided him throughout most of his life. \u201cI made a mistake in presuming that the self-interests of organisations, specifically banks and others, were such that they were best capable of protecting their own shareholders and their equity in the firms,\u201d he said. That ideology was one propagated by the Russian \u00e9migr\u00e9 writer Ayn Rand, whose novel Atlas Shrugged (1957) was to inspire future generations of neo-liberals. Greenspan had had little interest in politics until he met her in 1952, but became part of her inner circle, a regular for the next 15 years at weekly discussions and debates at her New York home. He described her views as \u201cintoxicating\u201d, while she, in an interview with the New York Times in 1974, said: \u201cAlan is my disciple philosophically.\u201d She opposed government intervention in the financial sector, arguing it should be left to police itself and that capitalism worked best when people acted out of rational self-interest rather than altruism. While Greenspan adhered to this in principle, expressing concern that government intervention risked unintended and negative consequences, this did not stop him intervening as head of the Fed, from tinkering with interest rates to supporting government bailouts. Such contradictions, along with the power he wielded, h"
+        "full_text": "And finally\u2026.Britain\u2019s stock market has closed higher tonight, after a sweltering day\u2019s trading in London. The FTSE 100 share index has ended the day 33 points higher at 10,461 points, up 0.31%. Segro ended the day as the top riser, jumping by 17.5% after rejecting a takeover bid. Model company Games Workshop gained 7.1%, while housebuilders also jumped on hopes that the fall in the oil price today will dampen borrowing costs. And on that note, goodbye until tomorrow. GW After a wobbly start, Wall Street is now firmly higher in morning trading. The S&amp;P 500 share index has gained 0.75%, up 56 points at 7,421 points. The narrower Dow Jones Industrial Average is up 1.1%, led by DIY chain Home Depot (+5%). The oil price is continuing to slide, on hopes of a pick-up in supplies from the Middle East. As reports of ships traversing the strait of Hormuz come in (see earlier post), Brent crude has now fallen by 4.2% to $73.83 a barrel, the lowest since just before the Iran war began at the end of February. US crude has dropped below the $70 a barrel mark, for the first time since 2 March, the first day of trading after the conflict began. Elon Musk\u2019s loss of his trillionaire status (for the moment, at least) is unlikely to be widely mourned. As Gabriel Zucman, professor of economics at the Paris School of Economics, wrote last week, many of the world\u2019s problems are caused by the booming influence of the super-rich on policymaking. Prof Zucman wrote: The first trillionaire himself couldn\u2019t illustrate it better. Tesla, the company Musk founded in 2003, didn\u2019t turn a profit until 2020. This didn\u2019t prevent him from buying Twitter, and turning the social network into a platform for a variety of political and ideological causes, including getting Donald Trump re-elected. His fealty earned him a quasi-cabinet position, the direction of the so-called \u201cdepartment of government efficiency\u201d (Doge), with total freedom to slash government spending not to his liking. During his tenure, Doge shut down the US Agency for International Development (USAID), leading to the termination of numerous programs tackling malnutrition, HIV and preventable diseases around the world. A study published in the Lancet found that these funding cuts could result in more than 14m deaths, including 4.5m in children younger than age five, by 2030. Great wealth is never \u201cvirtual\u201d. Elon Musk has lost his trillionaire status on two rich lists, after shares in his SpaceX company fell back from their record highs. According to Forbes\u2019s Real-Time Billionaires list, Musk\u2019s net worth has fallen to $956.5bn today, down from $1.1tn earlier this week. Musk\u2019s fall back into the ranks of the billionaires follows a fall in SpaceX\u2019s shares over the last week, after the initial jump in its value when it floated on the stock market two weeks ago faded. SpaceX sold shares to investors at $135 each in its initial public offering. They jumped as high as $176 on 12 June, the first day of trading \u2013 making Musk the world\u2019s first trillionaire \u2013 and hit a peak of $225 on 16 June. But they then slipped back to $156 last night, after a 16% plunge on Monday. Today, SpaceX\u2019s shares are down 1.35% in early trading at $154.00. Susannah Streeter, chief investment strategist at Wealth Club, says: SpaceX has come down to earth with a bump, burning off most of its post-launch steam. The sell-off may have been partly triggered by the confirmation that it was planning a bond sale, expected to be around $20 billion. Issuing debt at such a heady valuation raises questions about cash flow for this hugely capital-intensive venture. As well as his roughly 40% stake in SpaceX, Musk also owns around 12% of Tesla. Bloomberg\u2019s Billionaires Index puts Musk\u2019s wealth at $957bn, making him the world\u2019s richest person. One of Britain\u2019s biggest housebuilders has called on the government to reduce red tape, warning that a \u201chigh tax and regulatory burden\u201d has resulted in London building less than 10% of the homes it needs."
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -207,67 +205,16 @@
       "position": "WILD"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "ASIA TECH",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.458,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "UKRAINE",
-      "actor_b": "THE SUPREME COURT",
-      "relationship": "neutral",
-      "goldstein_avg": -1.434,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Coin",
-      "actor_a": "UKRAINE",
-      "actor_b": "ALAN GREENSPAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.191,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "UKRAINE",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.826,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "THE SUPREME COURT",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.967,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House Life": {
       "trend": "rising",
-      "trend_ratio": 12.059,
+      "trend_ratio": 2.09,
       "source": "gdelt_volume"
     },
-    "High House Coin": {
+    "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.499,
+      "trend_ratio": 0.752,
       "source": "gdelt_volume"
     }
   }
