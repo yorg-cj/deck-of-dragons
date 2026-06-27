@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "cards": [
     {
       "house": "High House Iron",
@@ -63,62 +63,88 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.428,
+      "confidence": 0.417,
       "scores": {
-        "High House War": 0.161,
-        "High House Coin": 0.319,
-        "High House Shadow": 0.303,
-        "High House Life": 0.138,
-        "High House Iron": 0.151,
-        "High House Words": 0.339,
-        "High House Chains": 0.428
+        "High House War": 0.052,
+        "High House Coin": 0.349,
+        "High House Shadow": 0.199,
+        "High House Life": 0.078,
+        "High House Iron": 0.082,
+        "High House Words": 0.219,
+        "High House Chains": 0.417
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.525,
+        "confidence": 0.545,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.954
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "World News | US Sanctions 6 Targets over Conflict Mineral Smuggling Linked to Rwanda-backed Armed Group in Eastern Congo",
-        "url": "https://www.latestly.com/agency-news/world-news-us-sanctions-6-targets-over-conflict-mineral-smuggling-linked-to-rwanda-backed-armed-group-in-eastern-congo-7490909.html",
+        "title": "US sanctions eight individuals, entities including Indian national, Chhattisgarh firm over alleged Sudan conflict networks",
+        "url": "https://aninews.in/news/world/us/us-sanctions-eight-individuals-entities-including-indian-national-chhattisgarh-firm-over-alleged-sudan-conflict-networks20260627141207",
         "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.411,
+      "confidence": 0.407,
       "scores": {
-        "High House War": -0.061,
-        "High House Coin": 0.411,
-        "High House Shadow": 0.225,
-        "High House Life": -0.016,
-        "High House Iron": -0.013,
-        "High House Words": 0.208,
-        "High House Chains": 0.309
+        "High House War": 0.13,
+        "High House Coin": 0.252,
+        "High House Shadow": 0.172,
+        "High House Life": 0.118,
+        "High House Iron": 0.064,
+        "High House Words": 0.407,
+        "High House Chains": 0.232
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.8,
-        "matched_signals": [
-          "fraud",
-          "sanction"
-        ],
+        "confidence": 0.545,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "Bank fraud cases: CBI flags issue of pending sanctions to probe bank officials in corruption cases",
-        "url": "https://economictimes.indiatimes.com/news/india/bank-fraud-cases-cbi-flags-issue-of-pending-sanctions-to-probe-bank-officials-in-corruption-cases/articleshow/132008395.cms",
+        "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know\u00a0 - Haiti Gazette \u2013 Daily Haiti",
+        "url": "https://haitigazette.com/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.405,
+      "scores": {
+        "High House War": 0.096,
+        "High House Coin": 0.405,
+        "High House Shadow": 0.261,
+        "High House Life": 0.118,
+        "High House Iron": 0.167,
+        "High House Words": 0.093,
+        "High House Chains": 0.261
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "Episode 32: How Washington Wants To Rewire The Finance Playbook",
+        "url": "https://www.dowjones.com/business-intelligence/blog/episode-32-how-washington-wants-to-rewire-the-finance-playbook",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -150,35 +176,6 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.399,
-      "scores": {
-        "High House War": 0.102,
-        "High House Coin": 0.158,
-        "High House Shadow": 0.156,
-        "High House Life": 0.124,
-        "High House Iron": -0.058,
-        "High House Words": 0.399,
-        "High House Chains": 0.173
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.9
-      },
-      "article": {
-        "title": "Thursday briefing: Why EU\u200b-Taliban talks have sparked outrage among Afghan women \u200b",
-        "url": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
-        "source": "guardian",
-        "full_text": "Good morning. It\u2019s a slap in the face. That\u2019s the phrase I kept hearing \u2013 in furious overnight messages, in blazing opinion columns \u2013 as Afghan women responded to the meeting between EU officials and the Taliban that took place in Brussels on Tuesday. The talks, to discuss how to scale up the deportation of Afghan migrants, were met with widespread outrage, and disbelief that Europe would countenance offering legitimacy to a regime that affords a bird better protections than a woman. For today\u2019s First Edition, I spoke to our European community affairs correspondent Ashifa Kassam about the reaction to this meeting, what it tells us about European migration policy and the insidious consequences of normalisation. But first the headlines. Five big stories World news | Venezuela\u2019s interim leader has declared a state of emergency after the country was struck by two powerful earthquakes that collapsed dozens of buildings and killed at least 32 people, with experts warning the death toll could rise significantly. Heatwave | The UK has broken its all-time temperature record for June and France has recorded its hottest day ever for the second day running, as a heatwave affecting more than 90 million people sweeps across swathes of Europe. UK politics | Donald Trump has labelled Andy Burnham \u201cextremely liberal\u201d, in his first public comments about the former Greater Manchester mayor since he emerged as the frontrunner to replace Keir Starmer. Europe news | The first case of Ebola has been confirmed in France, the country\u2019s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the DRC. UK news | A little-known system in which US military personnel are tried through a court martial for alleged crimes committed in the UK is under growing scrutiny. In depth: \u2018Our suffering doesn\u2019t amount to anything\u2019 In the five years since the Taliban regime swept back to power in Kabul after the chaotic 2021 withdrawal of US and Nato troops, the rights of women and girls have been mercilessly constricted: no schooling beyond the age of 11, exclusion from the job market and public spaces, and a brutal new marriage law that perpetuates domestic violence and child abuse. \u201cThis is something that the EU has been very vocal in condemning,\u201d Ashifa says, pointing me to consecutive resolutions passed by the European parliament, earlier this year stating \u201cAfghan women and girls have been subjected to systematic persecution.\u201d \u201cWomen\u2019s lives have shrunk incredibly and it\u2019s been horrific to watch from the outside,\u201d Ashifa continues. And yet after 20 member states called for concrete pathways to deport Afghans without legal residence permits, the European Commission confirmed a meeting with the Taliban was being arranged. The talks, which took place on Tuesday, would focus on those who \u201cpose a security threat\u201d to the EU, a spokesperson said. And that\u2019s an apparent piece of legerdemain right there, says Ashifa, speaking to me from Spain. \u201cWhen European officials did admit they were having talks, they emphasised that deportations would focus on people who had committed crimes or were seen as security threats. But when the invitation letter went to Taliban officials, it referenced Afghans with no legal right to be in the EU. That\u2019s two very different things.\u201d Following angry protests outside the Brussels parliament and condemnation from human rights campaigners, the EU stands accused of allowing the far right\u2019s anti-immigration rhetoric to set its policy agenda, putting lives in danger and legitimising a repressive regime. The European parliament has shifted its centre of political gravity over recent years, with a record number of right wing MEPs elected in 2024. *** The story of asylum According to EU data, member states received about 1 million asylum applications from Afghans between 2013 and 2024, with roughly half approved. While numbers have fallen since 2022, people from Afghanistan still made up th"
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -205,20 +202,60 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.618,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "SUDAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.796,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     },
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.761,
-      "source": "gdelt_volume"
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Coin",
+      "actor_a": "SUDAN",
+      "actor_b": "EPISODE",
+      "relationship": "neutral",
+      "goldstein_avg": -0.788,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "SUDAN",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -1.655,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -1.971,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "EPISODE",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.135,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     }
-  }
+  ],
+  "house_trends": {}
 }
