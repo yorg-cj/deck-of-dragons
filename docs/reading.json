@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "cards": [
     {
       "house": "High House Iron",
@@ -60,35 +60,6 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.417,
-      "scores": {
-        "High House War": 0.052,
-        "High House Coin": 0.349,
-        "High House Shadow": 0.199,
-        "High House Life": 0.078,
-        "High House Iron": 0.082,
-        "High House Words": 0.219,
-        "High House Chains": 0.417
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "US sanctions eight individuals, entities including Indian national, Chhattisgarh firm over alleged Sudan conflict networks",
-        "url": "https://aninews.in/news/world/us/us-sanctions-eight-individuals-entities-including-indian-national-chhattisgarh-firm-over-alleged-sudan-conflict-networks20260627141207",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
@@ -115,65 +86,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.405,
-      "scores": {
-        "High House War": 0.096,
-        "High House Coin": 0.405,
-        "High House Shadow": 0.261,
-        "High House Life": 0.118,
-        "High House Iron": 0.167,
-        "High House Words": 0.093,
-        "High House Chains": 0.261
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "Episode 32: How Washington Wants To Rewire The Finance Playbook",
-        "url": "https://www.dowjones.com/business-intelligence/blog/episode-32-how-washington-wants-to-rewire-the-finance-playbook",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.404,
-      "scores": {
-        "High House War": 0.025,
-        "High House Coin": 0.049,
-        "High House Shadow": -0.034,
-        "High House Life": 0.404,
-        "High House Iron": -0.019,
-        "High House Words": 0.042,
-        "High House Chains": 0.159
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Papua New Guinea at risk of food shortages as El Ni\u00f1o brings frost and drought",
-        "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
-        "source": "guardian",
-        "full_text": "Families across Papua New Guinea\u2019s Highlands are facing depleted harvests and the threat of hunger after the El Ni\u00f1o weather pattern brought frost and prolonged dry conditions that have destroyed food gardens providing sustenance and income for thousands of households. The effects of El Ni\u00f1o emerged in recent weeks, bringing drought conditions, falling water levels and frost that are threatening food security in some of the country\u2019s most agriculturally productive regions. According to Oxfam PNG, Papua New Guinea is currently the Pacific\u2019s worst-hit country from the impacts of El Ni\u00f1o. The aid agency said rainfall had been below average for almost a year and, combined with frost in the Highlands and invasive pests, had destroyed crops and livestock. Oxfam PNG estimates that up to 3 million people could be affected nationwide, including a projected 1.9 million in the Highlands region. Communities that rely heavily on farming are already experiencing severe food shortages, with some reporting that food supplies may last only two to three months. The agency warned that households forced to reduce meals and eat less variety are at increased risk of malnutrition. Papua New Guinea\u2019s National Weather Service says El Ni\u00f1o is causing severe drought and damaging frost by shifting rainfall away from the country and reducing moisture levels. The lack of cloud cover allows heat to escape rapidly at night, causing temperatures in the Highlands to drop below freezing and triggering frosts that can destroy crops. In Tambul, Western Highlands province, farmer John Wankar woke last week to find his food garden covered in frost, with vegetables and staple crops damaged. Wankar said his family relied entirely on the garden for food and income and now faced uncertainty about how they would survive in the coming weeks. In Chimbu\u2019s Kundiawa-Gembogl district, 62-year-old Martha John described a similar experience after frost swept through her community. \u201cLast week Wednesday, all our gardens were covered in frost,\u201d she said. \u201cWe wept, as these gardens are not only for us to eat but also our income. We have been growing potato and selling them in bulks, and all my children and grandchildren depend on this food for eating and also for income.\u201d The worsening conditions are also affecting access to clean water. Oxfam PNG said many rivers and creeks had dried up, forcing communities to seek alternative water sources. Some schools have reportedly reduced operating hours because of heat and water shortages. While Papua New Guinea is experiencing the most severe impacts, Oxfam PNG said countries across the Pacific were also being affected. As many as 4.7 million people faced increased risks of hunger, poverty and disease due to El Ni\u00f1o-related droughts, erratic rainfall and frost. Vanuatu, Fiji, Solomon Islands, Samoa and Tonga were experiencing worsening drought conditions, while Kiribati and Tuvalu were expected to face flooding and rising sea levels. The country\u2019s national disaster minister, Billy Joseph, said assessments conducted in the region confirmed reduced rainfall, declining water sources and moisture stress affecting food gardens. The prime minister, James Marape, has directed provinces and districts nationwide to prepare for the possibility of an extraordinary and prolonged dry season. \u201cThis is a time for preparedness, not panic,\u201d he said. \u201cEvery district and every province must know its vulnerable areas, know its water sources, protect its people and prepare early.\u201d Evidence of the growing crisis is already emerging across several Highlands provinces. National Agriculture Research Institute officers recently assessed frost-affected areas in Tambul, reporting that one potato farmer lost half of his crop to frost. Under normal conditions, the harvest would have generated more than K10,000 (US$2,200) through Tininga\u2019s Highlands Fresh, which buys potatoes at K3 a kilogram, the officiers said. Reports from Gembogl in Chimbu, Upper Mendi and Imbonggu "
-      },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -202,60 +115,127 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.368,
+      "scores": {
+        "High House War": -0.057,
+        "High House Coin": 0.279,
+        "High House Shadow": 0.11,
+        "High House Life": 0.015,
+        "High House Iron": -0.001,
+        "High House Words": 0.218,
+        "High House Chains": 0.368
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "How EU sanctions are enforced in practice",
+        "url": "https://europeantimes.news/2026/06/how-eu-sanctions-are-enforced-in-practice",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.365,
+      "scores": {
+        "High House War": 0.056,
+        "High House Coin": 0.045,
+        "High House Shadow": 0.078,
+        "High House Life": 0.365,
+        "High House Iron": -0.054,
+        "High House Words": 0.049,
+        "High House Chains": 0.081
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "extinct"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.723
+      },
+      "article": {
+        "title": "The last continent: how deadly bird flu travelled the world before landing on a remote Australian beach",
+        "url": "https://www.theguardian.com/world/2026/jun/28/bird-flu-travelled-world-remote-australian-beach",
+        "source": "guardian",
+        "full_text": "It was a rough five-day sail from the Falkland Islands and, as the science expedition approached the South Georgia coast, they found fur seal carcasses floating on the water. \u201cThere were these moments when it would hit us,\u201d says Dr Jane Younger, remembering the expedition to the British subantarctic territory six months ago. Younger, an ecologist at the Institute for Marine and Antarctic Studies at the University of Tasmania, was with scientists from the United States, France, South Africa and the Falklands to check on the spread of the H5N1 variant of bird flu. The disease has cut a devastating and traumatising swathe across the planet, killing millions of birds and mammals since it took hold in Europe in 2020. More than 200 million poultry birds in the United States have been culled and tens of thousands of seals in South America have died. The H5N1 strain was detected in migrating seabirds in the subantarctic in late 2023 and in South Georgia\u2019s seal population in early 2024. \u201cWe were hoping because this was the third year, we might not have seen so many dead animals. But that wasn\u2019t the case. The smell was overwhelming,\u201d says Younger. From one cove to the next, Younger saw hundreds of giant petrels \u2013 a scavenging seabird with a two-metre wingspan \u2013 feasting on the densely packed bodies of dead fur and elephant seals. \u201cWe saw an adult female fur seal. It had freshly died and the pup was still trying to suckle. The male was still trying to defend her,\u201d she says. \u201cIt was this little family unit \u2026 that was upsetting.\u201d While Younger was in South Georgia, another team of scientists, led by Australia\u2019s Antarctic program, were 6,500km (4,000 miles) east on Heard Island, discovering 13,000 dead elephant seal pups alongside hundreds of other dead seals and birds, including penguins. Disease tests were positive. Younger and the Antarctic program scientists are all back in Australia, but it appears the virus has followed them to its final frontier. Now it has Australia\u2019s unique wildlife in its sights. A potential tragedy for the world Giant petrels and brown skuas migrate from their Antarctic breeding grounds to waters off Australia in the southern winter. They rarely come ashore unless they see a chance to scavenge or are sick. Three petrels and a skua were found dead or sick on beaches along the country\u2019s vast southern shoreline earlier this month. This week, tests confirmed they had the deadly strain, with two more suspect cases. H5N1 has now reached every continent on the planet. Risk to humans from the disease is low. Since 1997 there have been about 500 deaths in 25 countries, mostly among people working in commercial poultry. For context, about 1,700 people died in Australia last year from influenza. Sea and waterbirds migrate south to Australia during the southern hemisphere spring, but also north from Antarctica in the winter. The continent is surrounded by the disease. Now national and state governments, conservationists and scientists are anxiously waiting to see if this wave of incursions will spread into Australia\u2019s native wildlife. The variant presents unique challenges and risks for Australia. About half of the country\u2019s bird species are endemic \u2013 that is, they exist nowhere else on the planet. Endemism levels are even higher in land-based mammals, at about 87%. Losing a species to extinction in Australia means the species disappears from the planet. The high number of unique species also means little is known about how they might react to the disease. \u201cWe\u2019re not exactly sure what the impacts will be, but we\u2019re very clear there will be impacts,\u201d says Dr Fiona Fraser, Australia\u2019s threatened species commissioner. \u201cThese endemic species are highly valued by Australians and have enormous cultural value to our First Nations people. Any loss of these species is a tragedy for the world.\u201d Watching the carnage overseas, Australia established a national response plan to bird flu in 2024 and has been funding projects to reduce the "
+      },
       "position": "WANING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.355,
+      "scores": {
+        "High House War": 0.054,
+        "High House Coin": 0.355,
+        "High House Shadow": 0.017,
+        "High House Life": 0.048,
+        "High House Iron": 0.047,
+        "High House Words": 0.117,
+        "High House Chains": 0.286
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "bankrupt"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Greece\u2019s Sorry Reckoning",
+        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "SUDAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.796,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Coin",
-      "actor_a": "SUDAN",
-      "actor_b": "EPISODE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.788,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "SUDAN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -1.655,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
     {
       "house_a": "High House Words",
       "house_b": "High House War",
       "actor_a": "IRAN",
       "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -1.971,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "EPISODE",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.135,
+      "goldstein_avg": -2.029,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.092,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.246,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.498,
+      "source": "gdelt_volume"
+    }
+  }
 }
