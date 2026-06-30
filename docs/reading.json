@@ -1,6 +1,35 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "cards": [
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.568,
+      "scores": {
+        "High House War": 0.242,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.568,
+        "High House Life": 0.093,
+        "High House Iron": 0.18,
+        "High House Words": 0.248,
+        "High House Chains": 0.179
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.527,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.959
+      },
+      "article": {
+        "title": "Inside Intelligence Agencies, a Fight Over Building a Master List of Spies",
+        "url": "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Iron",
       "title": "The Merchant",
@@ -28,236 +57,171 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.459,
-      "scores": {
-        "High House War": 0.242,
-        "High House Coin": 0.15,
-        "High House Shadow": 0.459,
-        "High House Life": 0.194,
-        "High House Iron": 0.411,
-        "High House Words": 0.185,
-        "High House Chains": 0.14
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "ASCENDING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.444,
+      "confidence": 0.393,
       "scores": {
-        "High House War": 0.444,
-        "High House Coin": 0.141,
-        "High House Shadow": 0.152,
-        "High House Life": 0.169,
-        "High House Iron": 0.029,
-        "High House Words": 0.255,
-        "High House Chains": 0.205
+        "High House War": 0.393,
+        "High House Coin": 0.126,
+        "High House Shadow": 0.21,
+        "High House Life": 0.103,
+        "High House Iron": 0.106,
+        "High House Words": 0.266,
+        "High House Chains": 0.162
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.971
       },
       "article": {
-        "title": "What comes after the ceasefire? Former US admiral Mike Rogers on Iran and cyber warfare",
-        "url": "https://www.jpost.com/podcast/article-900821",
-        "source": "worldnews",
+        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
+        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.407,
+      "confidence": 0.387,
       "scores": {
-        "High House War": 0.13,
-        "High House Coin": 0.252,
-        "High House Shadow": 0.172,
-        "High House Life": 0.118,
-        "High House Iron": 0.064,
-        "High House Words": 0.407,
-        "High House Chains": 0.232
+        "High House War": 0.221,
+        "High House Coin": 0.162,
+        "High House Shadow": 0.377,
+        "High House Life": 0.119,
+        "High House Iron": -0.033,
+        "High House Words": 0.387,
+        "High House Chains": 0.094
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.53,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.964
       },
       "article": {
-        "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know\u00a0 - Haiti Gazette \u2013 Daily Haiti",
-        "url": "https://haitigazette.com/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
-        "source": "worldnews",
+        "title": "Senior U . S . Diplomats , Journalists , Academics and Secretaries of Defense Say : the U . S . Provoked Russia in Ukraine",
+        "url": "https://nuclear-news.net/2026/06/30/2-a-senior-u-s-diplomats-journalists-academics-and-secretaries-of-defense-say-the-u-s-provoked-russia-in-ukraine-2/",
+        "source": "gdelt_doc",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.362,
+      "scores": {
+        "High House War": 0.014,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.171,
+        "High House Life": 0.362,
+        "High House Iron": 0.038,
+        "High House Words": 0.148,
+        "High House Chains": 0.187
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.937
+      },
+      "article": {
+        "title": "An Influx of Climate Cash",
+        "url": "https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.383,
+      "confidence": 0.355,
       "scores": {
-        "High House War": 0.02,
-        "High House Coin": 0.383,
-        "High House Shadow": 0.083,
-        "High House Life": 0.021,
-        "High House Iron": 0.015,
-        "High House Words": 0.03,
-        "High House Chains": 0.22
+        "High House War": 0.054,
+        "High House Coin": 0.355,
+        "High House Shadow": 0.017,
+        "High House Life": 0.048,
+        "High House Iron": 0.047,
+        "High House Words": 0.117,
+        "High House Chains": 0.286
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.543,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "bankrupt"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Market Analysis | Part Three of The Caribbean Banking Series Banked \u2014 But by Whom?",
-        "url": "https://www.nevispages.com/market-analysis-part-three-of-the-caribbean-banking-series-banked-but-by-whom",
-        "source": "worldnews",
+        "title": "Greece\u2019s Sorry Reckoning",
+        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.365,
-      "scores": {
-        "High House War": 0.056,
-        "High House Coin": 0.045,
-        "High House Shadow": 0.078,
-        "High House Life": 0.365,
-        "High House Iron": -0.054,
-        "High House Words": 0.049,
-        "High House Chains": 0.081
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "extinct"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.723
-      },
-      "article": {
-        "title": "The last continent: how deadly bird flu travelled the world before landing on a remote Australian beach",
-        "url": "https://www.theguardian.com/world/2026/jun/28/bird-flu-travelled-world-remote-australian-beach",
-        "source": "guardian",
-        "full_text": "It was a rough five-day sail from the Falkland Islands and, as the science expedition approached the South Georgia coast, they found fur seal carcasses floating on the water. \u201cThere were these moments when it would hit us,\u201d says Dr Jane Younger, remembering the expedition to the British subantarctic territory six months ago. Younger, an ecologist at the Institute for Marine and Antarctic Studies at the University of Tasmania, was with scientists from the United States, France, South Africa and the Falklands to check on the spread of the H5N1 variant of bird flu. The disease has cut a devastating and traumatising swathe across the planet, killing millions of birds and mammals since it took hold in Europe in 2020. More than 200 million poultry birds in the United States have been culled and tens of thousands of seals in South America have died. The H5N1 strain was detected in migrating seabirds in the subantarctic in late 2023 and in South Georgia\u2019s seal population in early 2024. \u201cWe were hoping because this was the third year, we might not have seen so many dead animals. But that wasn\u2019t the case. The smell was overwhelming,\u201d says Younger. From one cove to the next, Younger saw hundreds of giant petrels \u2013 a scavenging seabird with a two-metre wingspan \u2013 feasting on the densely packed bodies of dead fur and elephant seals. \u201cWe saw an adult female fur seal. It had freshly died and the pup was still trying to suckle. The male was still trying to defend her,\u201d she says. \u201cIt was this little family unit \u2026 that was upsetting.\u201d While Younger was in South Georgia, another team of scientists, led by Australia\u2019s Antarctic program, were 6,500km (4,000 miles) east on Heard Island, discovering 13,000 dead elephant seal pups alongside hundreds of other dead seals and birds, including penguins. Disease tests were positive. Younger and the Antarctic program scientists are all back in Australia, but it appears the virus has followed them to its final frontier. Now it has Australia\u2019s unique wildlife in its sights. A potential tragedy for the world Giant petrels and brown skuas migrate from their Antarctic breeding grounds to waters off Australia in the southern winter. They rarely come ashore unless they see a chance to scavenge or are sick. Three petrels and a skua were found dead or sick on beaches along the country\u2019s vast southern shoreline earlier this month. This week, tests confirmed they had the deadly strain, with two more suspect cases. H5N1 has now reached every continent on the planet. Risk to humans from the disease is low. Since 1997 there have been about 500 deaths in 25 countries, mostly among people working in commercial poultry. For context, about 1,700 people died in Australia last year from influenza. Sea and waterbirds migrate south to Australia during the southern hemisphere spring, but also north from Antarctica in the winter. The continent is surrounded by the disease. Now national and state governments, conservationists and scientists are anxiously waiting to see if this wave of incursions will spread into Australia\u2019s native wildlife. The variant presents unique challenges and risks for Australia. About half of the country\u2019s bird species are endemic \u2013 that is, they exist nowhere else on the planet. Endemism levels are even higher in land-based mammals, at about 87%. Losing a species to extinction in Australia means the species disappears from the planet. The high number of unique species also means little is known about how they might react to the disease. \u201cWe\u2019re not exactly sure what the impacts will be, but we\u2019re very clear there will be impacts,\u201d says Dr Fiona Fraser, Australia\u2019s threatened species commissioner. \u201cThese endemic species are highly valued by Australians and have enormous cultural value to our First Nations people. Any loss of these species is a tragedy for the world.\u201d Watching the carnage overseas, Australia established a national response plan to bird flu in 2024 and has been funding projects to reduce the "
-      },
-      "position": "WANING"
-    },
-    {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.349,
+      "reversed": false,
+      "confidence": 0.318,
       "scores": {
-        "High House War": 0.183,
-        "High House Coin": 0.216,
-        "High House Shadow": 0.008,
-        "High House Life": 0.07,
-        "High House Iron": -0.042,
-        "High House Words": 0.202,
-        "High House Chains": 0.349
+        "High House War": 0.072,
+        "High House Coin": 0.291,
+        "High House Shadow": 0.027,
+        "High House Life": -0.052,
+        "High House Iron": 0.165,
+        "High House Words": 0.12,
+        "High House Chains": 0.318
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.525,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.955
+        "sentiment_score": 0.796
       },
       "article": {
-        "title": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
-        "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
+        "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+        "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
         "source": "guardian",
-        "full_text": "A new agreement between Lebanon and Israel could block victims of Israeli war crimes in Lebanon from pursuing accountability and hinder future efforts to give the international criminal court jurisdiction in the country, legal experts have said. Lebanon and Israel signed a 14-point framework agreement in Washington on Friday designed to work towards an end to fighting between Israel and Hezbollah. Article 13 of the deal says Israel and Lebanon will \u201ccease all hostile or negative actions in international political or legal forums\u201d to establish good faith between the two sides. The text, which is broadly phrased, could prevent victims of Israeli war crimes allegedly committed during fighting since 8 October 2023 from seeking justice through international or national courts. Legal experts have also understood this to mean that Lebanon would not be able to grant the ICC jurisdiction in the country, which advocates have pushed for to prosecute Israel and its leaders for alleged war crimes. \u201cThis will kill any hope of granting the ICC jurisdiction, even any hope of a UN fact-finding mission,\u201d said Farouk al-Moghrabi, a former adviser to the ministry of human rights who helped draft a law to give the ICC jurisdiction in Lebanon. He said the law also would kill internal efforts to investigate and document crimes. Nizar Saghieh, a lawyer and head of Legal Agenda, a Lebanese NGO, said: \u201cThe government is normalising the crime and waiving its rights to ensure any investigation or the prosecution of these crimes, or even to assist the victim in their search for justice.\u201d A spokesperson for the Lebanese presidency did not reply to a request for a comment. The head of Hezbollah, Naim Qassem, has rejected the agreement signed in Washington as a \u201chumiliation\u201d. The group has consistently called on the Lebanese government to stop direct negotiations with Israel. Israel and Hezbollah have been fighting since 2023, when Hezbollah launched rockets at Israel in solidarity with Hamas, triggering two Israeli invasions of southern Lebanon and widespread bombing campaigns. Israeli strikes in Lebanon have killed more than 8,000 people, while Hezbollah attacks have killed dozens of Israeli soldiers and at least 49 civilians in Israel. As part of its campaign in Lebanon, Israel has killed more than a dozen journalists, more than 300 emergency responders and hundreds of women and children. Human rights experts have said Israel may have committed numerous war crimes in Lebanon, including the targeting of journalists on 13 October 2023, mass forcible displacement of hundreds of thousands of people and specific instances deliberately targeting civilians. One of the avenues for accountability for victims of alleged Israeli war crimes in Lebanon has been petitioning the government to grant the ICC limited jurisdiction to investigate and prosecute on its territory. The ICC issued arrest warrants for the Israeli prime minister, Benjamin Netanyahu, and the former defence minister, Yoav Gallant, for alleged war crimes and crimes against humanity committed in Gaza. Israel and the US have undertaken an aggressive campaign against the ICC in response, including the US placing sanctions on ICC judges. The Lebanese government has so far not granted the ICC jurisdiction because of initial resistance from Hezbollah and potential US sanctions. Friday\u2019s framework agreement would be another obstacle to accountability in the country. Lebanon\u2019s national human rights commission put out a statement commenting on the framework agreement, emphasising that no agreement should prevent victims from seeking justice. \u201cThe commission emphasises that prosecuting perpetrators of war crimes, crimes against humanity and torture does not constitute an act of hostility or a political stance, but rather a legitimate exercise of the rights to justice,\u201d the statement said. The vague and broad nature of the framework agreement also made it uncertain what would be considered a \u201chostile or negative"
+        "full_text": "The EU has halved the amount of duty-free steel it will accept from abroad, but has agreed to higher levels of imports for more than a dozen trading partners including Britain. The curbs are designed to reduce cheap Chinese steel coming into the bloc. However, 13 countries with a free trade agreement (FTA) with Brussels, including the UK, have had their quota reduced by just one-third. \u201cThe commission is putting in place the practical arrangements needed to ensure that the EU\u2019s steel measure operates effectively from day one,\u201d said the EU trade commissioner, Maro\u0161 \u0160ef\u010dovi\u010d. \u201cWe are providing market participants with predictability through clear and transparent quota distribution rules.\u201d The new steel safeguards mark the biggest divergence in trade with the UK since Brexit in 2020 and match similar moves announced last week by the UK to reduce foreign imports and boost domestic industries. They were originally announced to slow down the use of Chinese products in European industries, particularly after trade was diverted from the US as a result of Donald Trump\u2019s \u201cliberation day\u201d tariffs launched in April 2025. The EU said last year it planned from 1 July 2026 to cut overall tariff-free imports from non-EU countries by 47% on 2024 levels and double tariffs to 50% for all imports outside those quotas. However, it has struck deals with 12 specific countries with which it already has a FTA, allowing them to sell between 66% and 67% of their historic trade on average. The allocations can be adjusted if necessary if there are shortages in supply in particular types of steel. The countries receiving better terms are the UK, Turkey, India, South Korea, Indonesia, Egypt, Brazil, Switzerland, North Macedonia, South Africa, Argentina, Ukraine and Singapore. There are 28 categories of product covered, ranging from rolled steel used in the automotive industry to bars used in construction to reinforce concrete. The quotas allocated to the 12 countries with FTAs were \u201clinked to past trade\u201d, EU officials said. The UK steel industry has previously warned of \u201cdevastating\u201d consequences from the EU\u2019s planned quota system. The quotas are based on trade data from 2022 to 2024. The new rules quash hopes that the EU and the UK could forge a strategic \u201csteel club\u201d alliance under which they would give each other tariff-free trade and work together against China. Officials said they wanted to create a system that would solve problems for some countries without creating issues for others and still hoped to set up a steel club with the US and the UK to ringfence domestic markets from rivals who do not play by the rules. The quotas could be adjusted if shortages in supplies emerged, an official said."
       },
-      "position": "EMERGING"
+      "position": "WILD"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.972,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "WHOM",
-      "relationship": "opposed",
-      "goldstein_avg": -1.786,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "LEBANON",
-      "relationship": "opposed",
-      "goldstein_avg": -2.279,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "WHOM",
-      "relationship": "opposed",
-      "goldstein_avg": -1.786,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.451,
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.336,
       "source": "gdelt_volume"
     },
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.292,
+      "trend_ratio": 0.12,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.601,
       "source": "gdelt_volume"
     }
   }
