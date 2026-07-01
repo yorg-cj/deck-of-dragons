@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,6 +60,64 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.407,
+      "scores": {
+        "High House War": 0.13,
+        "High House Coin": 0.252,
+        "High House Shadow": 0.172,
+        "High House Life": 0.118,
+        "High House Iron": 0.064,
+        "High House Words": 0.407,
+        "High House Chains": 0.232
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know\u00a0 - Haiti Gazette \u2013 Daily Haiti",
+        "url": "https://haitigazette.com/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.401,
+      "scores": {
+        "High House War": 0.073,
+        "High House Coin": 0.401,
+        "High House Shadow": 0.208,
+        "High House Life": 0.01,
+        "High House Iron": 0.216,
+        "High House Words": 0.133,
+        "High House Chains": 0.059
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.837
+      },
+      "article": {
+        "title": "US Stock Market Wraps Up Stellar First-Half Performance",
+        "url": "https://www.theepochtimes.com/business/us-stock-market-wraps-up-stellar-first-half-performance-6055751",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -87,35 +145,6 @@
         "full_text": null
       },
       "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.387,
-      "scores": {
-        "High House War": 0.221,
-        "High House Coin": 0.162,
-        "High House Shadow": 0.377,
-        "High House Life": 0.119,
-        "High House Iron": -0.033,
-        "High House Words": 0.387,
-        "High House Chains": 0.094
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.53,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.964
-      },
-      "article": {
-        "title": "Senior U . S . Diplomats , Journalists , Academics and Secretaries of Defense Say : the U . S . Provoked Russia in Ukraine",
-        "url": "https://nuclear-news.net/2026/06/30/2-a-senior-u-s-diplomats-journalists-academics-and-secretaries-of-defense-say-the-u-s-provoked-russia-in-ukraine-2/",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -147,81 +176,81 @@
       "position": "WANING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.355,
+      "confidence": 0.32,
       "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.355,
-        "High House Shadow": 0.017,
-        "High House Life": 0.048,
-        "High House Iron": 0.047,
-        "High House Words": 0.117,
-        "High House Chains": 0.286
+        "High House War": 0.237,
+        "High House Coin": 0.305,
+        "High House Shadow": 0.148,
+        "High House Life": 0.137,
+        "High House Iron": 0.029,
+        "High House Words": 0.131,
+        "High House Chains": 0.32
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "bankrupt"
-        ],
+        "confidence": 0.549,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Greece\u2019s Sorry Reckoning",
-        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.318,
-      "scores": {
-        "High House War": 0.072,
-        "High House Coin": 0.291,
-        "High House Shadow": 0.027,
-        "High House Life": -0.052,
-        "High House Iron": 0.165,
-        "High House Words": 0.12,
-        "High House Chains": 0.318
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.796
-      },
-      "article": {
-        "title": "EU halves duty-free steel quota but UK and other partners given better rate",
-        "url": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+        "title": "Britain has finally grasped the nettle on defence, but tough choices lie ahead",
+        "url": "https://www.theguardian.com/politics/2026/jun/30/britain-has-finally-grasped-the-nettle-on-defence-but-tough-choices-lie-ahead",
         "source": "guardian",
-        "full_text": "The EU has halved the amount of duty-free steel it will accept from abroad, but has agreed to higher levels of imports for more than a dozen trading partners including Britain. The curbs are designed to reduce cheap Chinese steel coming into the bloc. However, 13 countries with a free trade agreement (FTA) with Brussels, including the UK, have had their quota reduced by just one-third. \u201cThe commission is putting in place the practical arrangements needed to ensure that the EU\u2019s steel measure operates effectively from day one,\u201d said the EU trade commissioner, Maro\u0161 \u0160ef\u010dovi\u010d. \u201cWe are providing market participants with predictability through clear and transparent quota distribution rules.\u201d The new steel safeguards mark the biggest divergence in trade with the UK since Brexit in 2020 and match similar moves announced last week by the UK to reduce foreign imports and boost domestic industries. They were originally announced to slow down the use of Chinese products in European industries, particularly after trade was diverted from the US as a result of Donald Trump\u2019s \u201cliberation day\u201d tariffs launched in April 2025. The EU said last year it planned from 1 July 2026 to cut overall tariff-free imports from non-EU countries by 47% on 2024 levels and double tariffs to 50% for all imports outside those quotas. However, it has struck deals with 12 specific countries with which it already has a FTA, allowing them to sell between 66% and 67% of their historic trade on average. The allocations can be adjusted if necessary if there are shortages in supply in particular types of steel. The countries receiving better terms are the UK, Turkey, India, South Korea, Indonesia, Egypt, Brazil, Switzerland, North Macedonia, South Africa, Argentina, Ukraine and Singapore. There are 28 categories of product covered, ranging from rolled steel used in the automotive industry to bars used in construction to reinforce concrete. The quotas allocated to the 12 countries with FTAs were \u201clinked to past trade\u201d, EU officials said. The UK steel industry has previously warned of \u201cdevastating\u201d consequences from the EU\u2019s planned quota system. The quotas are based on trade data from 2022 to 2024. The new rules quash hopes that the EU and the UK could forge a strategic \u201csteel club\u201d alliance under which they would give each other tariff-free trade and work together against China. Officials said they wanted to create a system that would solve problems for some countries without creating issues for others and still hoped to set up a steel club with the US and the UK to ringfence domestic markets from rivals who do not play by the rules. The quotas could be adjusted if shortages in supplies emerged, an official said."
+        "full_text": "Keir Starmer\u2019s defence investment plan leaves behind spending problems that his successor will not be able to avoid. Military budgets will be well short of the UK\u2019s Nato commitments by the end of the decade, and European allies and a combustible White House are likely to notice. Yet finding further cash for the profligate Ministry of Defence will require squeezing other departments, because raising taxes would be fraught and the headroom for extra borrowing is limited. Another option is to abandon Britain\u2019s residual ambitions to be more than a regional power, though it is not one allies are keen for the UK to take. The complication is that the investment plan is trying to tackle several major problems at once. The post cold war peace ended more than four years ago with Russia\u2019s invasion of Ukraine and, as the plan document drily notes, \u201cthe world has changed\u201d, with the threat from Moscow heightened and the Middle East volatile. At the same time, Labour ministers are right to say their Conservative predecessors left behind a funding mess, while increasing commitments by extending support to Ukraine and signing up to develop nuclear-powered submarines with Australia and the US, and fighter jets with Japan and Italy. Dan Jarvis, the new defence secretary, said on Tuesday 47 out of 49 major projects were delayed or over budget. As the defence investment plan makes clear, at its heart is a massive investment in nuclear, which accounts for 20% of the entire defence budget and is rising to 25% as modernisation continues. A total of \u00a347bn is being spent on nuclear submarines, principally Dreadnought boats to replace the Trident-carrying Vanguards, now so old that their crews have to endure record-breaking patrols of six months plus. Yet, as the public accounts committee complained in June, the nuclear programme has been subject to limited scrutiny by parliament because it is considered too sensitive. The mystery, though, is why it took Labour so long to grip defence costs. The reckoning came after the publication of a lightweight review last year and a full three-year spending review. It was only towards the end of last year that it emerged the MoD\u2019s sprawling ambition was \u00a328bn underfunded \u2013 prompting months of bitter ministerial wrangling. Meanwhile, Donald Trump arrived at the White House with fluctuating enthusiasm for Nato and a firm belief that European allies had been free-riding on US defence expenditure. Starmer tried once to placate Trump by agreeing to slash overseas aid to increase defence spending to 2.5% of GDP by 2027, a limited rise that for a moment maintained UK leadership in Nato. The problem was that Trump wanted to go much further, to 3.5% by 2035, and Nato allies, desperate to keep the US president on board, fell into line at the Nato summit last summer. So did Starmer, though the easy spending decisions had already been made. Amid a lack of headroom in the UK\u2019s public finances, ministers fell out, leaving the final settlement at 2.7% of GDP by 2030, well short of the Nato target. Government sources said Rachel Reeves, the chancellor, found it frustrating to deal with John Healey, the former defence secretary, because of his refusal to negotiate directly with her, choosing instead to talk to Starmer. Healey resigned in June because he was not happy with the money Starmer had offered, and Jarvis was only able, in less than three weeks, to obtain \u00a31.5bn more. The final budget gap was \u00a33bn. Allies of Healey, meanwhile, say he remained in touch with Treasury officials and ministers when working out the size of the MoD black hole, but after that negotiations had to be decided by Starmer. They accused the chancellor of refusing to engage with the prime minister, leaving Starmer having to go round individual cabinet secretaries to get them to agree to budget reductions. The plus, from a security perspective, is that the plan represents the first time for a generation that Britain is investing in its defence capability, "
       },
       "position": "WILD"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.011,
+      "confidence": 0.89,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "BRITAIN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.777,
+      "confidence": 0.89,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "UKRAINE",
+      "actor_b": "BRITAIN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.439,
+      "confidence": 0.89,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.961,
+      "source": "gdelt_volume"
+    },
     "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.336,
+      "trend_ratio": 1.369,
       "source": "gdelt_volume"
     },
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.12,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.601,
+      "trend_ratio": 0.517,
       "source": "gdelt_volume"
     }
   }
