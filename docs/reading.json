@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,91 +31,33 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": false,
-      "confidence": 0.511,
-      "scores": {
-        "High House War": 0.079,
-        "High House Coin": 0.511,
-        "High House Shadow": 0.112,
-        "High House Life": 0.181,
-        "High House Iron": 0.145,
-        "High House Words": 0.133,
-        "High House Chains": 0.422
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
-      },
-      "article": {
-        "title": "BRICS+ Expansion: How Sino-African partnerships reshape global financial governance",
-        "url": "https://www.newsday.co.zw/opinion-analysis/article/200057887/brics-expansion-how-sino-african-partnerships-reshape-global-financial-governance",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.511,
-      "scores": {
-        "High House War": 0.126,
-        "High House Coin": 0.101,
-        "High House Shadow": 0.266,
-        "High House Life": 0.139,
-        "High House Iron": 0.511,
-        "High House Words": 0.082,
-        "High House Chains": -0.0
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.547
-      },
-      "article": {
-        "title": "Others Also Read",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/as-companies-race-for-cheaper-ai-options-this-startup-pitches-a-solution",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.407,
+      "confidence": 0.498,
       "scores": {
-        "High House War": 0.13,
-        "High House Coin": 0.252,
-        "High House Shadow": 0.172,
-        "High House Life": 0.118,
-        "High House Iron": 0.064,
-        "High House Words": 0.407,
-        "High House Chains": 0.232
+        "High House War": 0.051,
+        "High House Coin": 0.11,
+        "High House Shadow": 0.211,
+        "High House Life": 0.108,
+        "High House Iron": 0.498,
+        "High House Words": 0.094,
+        "High House Chains": 0.083
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know\u00a0 - Haiti Gazette \u2013 Daily Haiti",
-        "url": "https://haitigazette.com/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
-        "source": "worldnews",
+        "title": "How a Niche Technology Became a Choke Point for A.I.",
+        "url": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House War",
@@ -144,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -171,76 +113,107 @@
         "title": "\u2018The silence was the worst part\u2019: after culling his entire flock, US poultry farmer now fears bird flu",
         "url": "https://www.theguardian.com/environment/2026/jul/01/bird-flu-farms-us",
         "source": "guardian",
-        "full_text": "Joshua Beebe often starts his day by cleaning the tires of trucks and cars entering his poultry farm. \u201cWe spray them off and scrub them with a brush. It\u2019s a precaution; the goal is to eliminate as many potential avenues for a pathogen to enter as possible,\u201d said the owner of Tardif Poultry Farm, located in the Connecticut countryside east of Hartford. Fear of avian influenza, specifically the HPAI subtype A (H5N1) virus, has been tormenting poultry farmers such as Beebe ever since the current wave of bird flu was detected in eastern Canada in 2021 and began spreading. The north-east US is not a high-risk region for on-farm outbreaks, but the possibility is always there. For Beebe and his workers, vigilance comes at a high cost: in time, money and mental strain. Beebe has already gone through the trauma of being ordered to destroy his entire flock, 5,000 birds in all. In mid-2024, state-mandated testing detected salmonella in some of his birds. The bacterium can spread through eggs, and certain strains can infect and sicken humans. The normal cacophony of the farm disappeared. \u201cIt was emotionally draining,\u201d Beebe said. \u201cI haven\u2019t gone a day without seeing birds when I walk out my door in over 10 years. The silence [was] the worst.\u201d Eight long months of mandatory quarantine on the farm finally ended the following February, and Beebe has been gingerly rebuilding his flock ever since. Today, the farm is filled with a constant, low noise of about 3,000 birds clucking, chirping and moving. Beebe raises chickens, turkeys, pomeranian geese and a wide variety of ducks, including different breeds of mallards and welsh harlequins. \u201cI really like the toulouse ducks. They\u2019re a French breed,\u201d he said. The farm sells its products directly to customers. A fifth-generation resident of the town, Beebe bought Tardif Poultry Farm in 2020 after spending 12 years learning the business at a nearby farm. Now he finds himself doing more than just raising animals; he\u2019s also constantly managing risks. Strict precautions At first glance, the vibe at Tardif seems bucolic enough. At the entrance, a shop in a charming little wooden house displays products from other farms, crafters and artists. Milk, homemade spices and candles are carefully arranged. Clients and friends can visit the shop, but \u201cno one is allowed in the back where the birds are. Period,\u201d Beebe said. To guard against an outbreak, the farm strictly segregates the birds by age: from the hatchery to chicks, juveniles, and finally adults. \u201cWe have different boots for each station,\u201d he said. Sick animals come last \u2013 although \u201cwe try not to keep sick animals around at this point\u201d. His three employees follow the same flow, avoiding contact with younger birds, with their weaker immune systems, after handling older ones. If employees have their own chickens at home, they have to wear a set of shoes specific for Beebe\u2019s farm and come with laundered clothes to avoid extra risk. Every new bird is placed in quarantine for 21 to 35 days after arrival. When birds die for any reason, their bodies are disposed of by burial or composting. In the event of larger die-offs, carcasses may be sent off-site for incineration, through the Connecticut Veterinary Medical Diagnostic Laboratory or the University of Connecticut. \u201cEverything is very organized,\u201d Beebe said. Surrounded by danger The risks don\u2019t only come from on-the-ground transmission from bird to bird, or from worker to bird. The overwhelming majority of avian flu introductions into domestic poultry have been traced to contact with infected wild birds \u2013 not spread between farms, according to a US Department of Agriculture (USDA) spokesperson. \u201cThe virus is so abundant in the wild bird population,\u201d said Richard Webby, who studies host-microbe interactions at the St. Jude Graduate School of Biomedical Sciences in Memphis. When these wild birds stop near the farm to drink the water, eat the feed or come into contact with domestic birds, the virus spreads. But"
+        "full_text": "Joshua Beebe often starts his day by cleaning the tires of trucks and cars entering his poultry farm. \u201cWe spray them off and scrub them with a brush. It\u2019s a precaution; the goal is to eliminate as many potential avenues for a pathogen to enter as possible,\u201d said the owner of Tardif Poultry Farm, located in the Connecticut countryside east of Hartford. Fear of avian influenza, specifically the HPAI subtype A (H5N1) virus, has been tormenting poultry farmers such as Beebe ever since the current wave of bird flu was detected in eastern Canada in 2021 and began spreading. The north-east US is not a high-risk region for on-farm outbreaks, but the possibility is always there. For Beebe and his workers, vigilance comes at a high cost: in time, money and mental strain. Beebe has already gone through the trauma of being ordered to destroy his entire flock, 5,000 birds in all. In mid-2024, state-mandated testing detected salmonella in some of his birds. The bacterium can spread through eggs, and certain strains can infect and sicken humans. The normal cacophony of the farm disappeared. \u201cIt was emotionally draining,\u201d Beebe said. \u201cI haven\u2019t gone a day without seeing birds when I walk out my door in over 10 years. The silence [was] the worst.\u201d Eight long months of mandatory quarantine on the farm finally ended the following February, and Beebe has been gingerly rebuilding his flock ever since. Today, the farm is filled with a constant, low noise of about 3,000 birds clucking, chirping and moving. Beebe raises chickens, turkeys, pomeranian geese and a wide variety of ducks, including different breeds of mallards and welsh harlequins. \u201cI really like the toulouse ducks. They\u2019re a French breed,\u201d he said. The farm sells its products directly to customers. A fifth-generation resident of the town, Beebe bought Tardif Poultry Farm in 2020 after spending 12 years learning the business at a nearby farm. Now he finds himself doing more than just raising animals; he\u2019s also constantly managing risks. Strict precautions At first glance, the vibe at Tardif seems bucolic enough. At the entrance, a shop in a charming little wooden house displays products from other farms, crafters and artists. Milk, homemade spices and candles are carefully arranged. Clients and friends can visit the shop, but \u201cno one is allowed in the back where the birds are. Period,\u201d Beebe said. To guard against an outbreak, the farm strictly segregates the birds by age: from the hatchery to chicks, juveniles, and finally adults. \u201cWe have different boots for each station,\u201d he said. Sick animals come last \u2013 although \u201cwe try not to keep sick animals around at this point\u201d. His three employees follow the same flow, avoiding contact with younger birds, with their weaker immune systems, after handling older ones. If employees have their own chickens at home, they have to wear a set of shoes specific for Beebe\u2019s farm and come with laundered clothes to avoid extra risk. Every new bird is placed in quarantine for 21 to 35 days after arrival. When birds die for any reason, their bodies are disposed of by burial or composting. In the event of larger die-offs, carcasses may be sent off-site for incineration, through the Connecticut Veterinary Medical Diagnostic Laboratory or the University of Connecticut. \u201cEverything is very organized,\u201d Beebe said. Surrounded by danger The risks don\u2019t only come from on-the-ground transmission from bird to bird, or from worker to bird. The overwhelming majority of avian flu introductions into domestic poultry have been traced to contact with infected wild birds \u2013 not spread between farms, according to a US Department of Agriculture (USDA) spokesperson. \u201cThe virus is so abundant in the wild bird population,\u201d said Richard Webby, who studies host-microbe interactions at the St Jude Graduate School of Biomedical Sciences in Memphis. When these wild birds stop near the farm to drink the water, eat the feed or come into contact with domestic birds, the virus spreads. But "
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.32,
+      "confidence": 0.355,
       "scores": {
-        "High House War": 0.237,
-        "High House Coin": 0.305,
-        "High House Shadow": 0.148,
-        "High House Life": 0.137,
-        "High House Iron": 0.029,
-        "High House Words": 0.131,
-        "High House Chains": 0.32
+        "High House War": 0.054,
+        "High House Coin": 0.355,
+        "High House Shadow": 0.017,
+        "High House Life": 0.048,
+        "High House Iron": 0.047,
+        "High House Words": 0.117,
+        "High House Chains": 0.286
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "bankrupt"
+        ],
         "sentiment": "NEGATIVE",
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Britain has finally grasped the nettle on defence, but tough choices lie ahead",
-        "url": "https://www.theguardian.com/politics/2026/jun/30/britain-has-finally-grasped-the-nettle-on-defence-but-tough-choices-lie-ahead",
+        "title": "Greece\u2019s Sorry Reckoning",
+        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.339,
+      "scores": {
+        "High House War": -0.009,
+        "High House Coin": 0.076,
+        "High House Shadow": 0.225,
+        "High House Life": 0.097,
+        "High House Iron": 0.009,
+        "High House Words": 0.339,
+        "High House Chains": 0.107
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "misinformation"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Lisa Nandy quits X over fears Musk-owned site pushes \u2018abuse and misinformation\u2019",
+        "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
         "source": "guardian",
-        "full_text": "Keir Starmer\u2019s defence investment plan leaves behind spending problems that his successor will not be able to avoid. Military budgets will be well short of the UK\u2019s Nato commitments by the end of the decade, and European allies and a combustible White House are likely to notice. Yet finding further cash for the profligate Ministry of Defence will require squeezing other departments, because raising taxes would be fraught and the headroom for extra borrowing is limited. Another option is to abandon Britain\u2019s residual ambitions to be more than a regional power, though it is not one allies are keen for the UK to take. The complication is that the investment plan is trying to tackle several major problems at once. The post cold war peace ended more than four years ago with Russia\u2019s invasion of Ukraine and, as the plan document drily notes, \u201cthe world has changed\u201d, with the threat from Moscow heightened and the Middle East volatile. At the same time, Labour ministers are right to say their Conservative predecessors left behind a funding mess, while increasing commitments by extending support to Ukraine and signing up to develop nuclear-powered submarines with Australia and the US, and fighter jets with Japan and Italy. Dan Jarvis, the new defence secretary, said on Tuesday 47 out of 49 major projects were delayed or over budget. As the defence investment plan makes clear, at its heart is a massive investment in nuclear, which accounts for 20% of the entire defence budget and is rising to 25% as modernisation continues. A total of \u00a347bn is being spent on nuclear submarines, principally Dreadnought boats to replace the Trident-carrying Vanguards, now so old that their crews have to endure record-breaking patrols of six months plus. Yet, as the public accounts committee complained in June, the nuclear programme has been subject to limited scrutiny by parliament because it is considered too sensitive. The mystery, though, is why it took Labour so long to grip defence costs. The reckoning came after the publication of a lightweight review last year and a full three-year spending review. It was only towards the end of last year that it emerged the MoD\u2019s sprawling ambition was \u00a328bn underfunded \u2013 prompting months of bitter ministerial wrangling. Meanwhile, Donald Trump arrived at the White House with fluctuating enthusiasm for Nato and a firm belief that European allies had been free-riding on US defence expenditure. Starmer tried once to placate Trump by agreeing to slash overseas aid to increase defence spending to 2.5% of GDP by 2027, a limited rise that for a moment maintained UK leadership in Nato. The problem was that Trump wanted to go much further, to 3.5% by 2035, and Nato allies, desperate to keep the US president on board, fell into line at the Nato summit last summer. So did Starmer, though the easy spending decisions had already been made. Amid a lack of headroom in the UK\u2019s public finances, ministers fell out, leaving the final settlement at 2.7% of GDP by 2030, well short of the Nato target. Government sources said Rachel Reeves, the chancellor, found it frustrating to deal with John Healey, the former defence secretary, because of his refusal to negotiate directly with her, choosing instead to talk to Starmer. Healey resigned in June because he was not happy with the money Starmer had offered, and Jarvis was only able, in less than three weeks, to obtain \u00a31.5bn more. The final budget gap was \u00a33bn. Allies of Healey, meanwhile, say he remained in touch with Treasury officials and ministers when working out the size of the MoD black hole, but after that negotiations had to be decided by Starmer. They accused the chancellor of refusing to engage with the prime minister, leaving Starmer having to go round individual cabinet secretaries to get them to agree to budget reductions. The plus, from a security perspective, is that the plan represents the first time for a generation that Britain is investing in its defence capability, "
+        "full_text": "The UK\u2019s culture and media department will stop using X because the site \u201cnow favours abuse and misinformation over meaningful debate\u201d, Lisa Nandy has announced. The culture secretary\u2019s department is the UK\u2019s second to quit the Elon Musk-owned platform over increasing concerns about the way it highlights and prioritises often inaccurate far-right and racist content and is used to incite violence and division. Two weeks ago the Guardian revealed that Richard Hermer, the attorney general for England and Wales, had told his office to no longer post on X, a decision prompted in part by the platform\u2019s role in stoking disorder in Southampton and Belfast earlier in June. In a statement on her own X account, Nandy said: \u201cI\u2019ve decided to leave this platform and my department will too. A platform originally designed for free speech and expression now favours abuse and misinformation over meaningful debate. It isn\u2019t healthy for our democracy or our communities and I don\u2019t want to support it.\u201d People who wanted to interact with her via social media could do so via Instagram, Facebook and LinkedIn, Nandy added. Her decision is all the more significant given the DCMS is responsible for media regulation, even if enforcement against X has so far been left to Ofcom, the media watchdog. It could also be a temporary measure for the department given that Andy Burnham will take over as prime minister within weeks, and a new culture secretary may take a different view. But it is a symbolically important moment and a sign opinion is gradually moving from the view that ministers and their departments should remain on X to get their messaging across, despite the ubiquitous racism and far-right content and regular calls for the UK government to be deposed, a view often endorsed by Musk. In September last year, Musk linked his desire for a \u201cchange of government\u201d in the UK with violent uprising as he addressed a far-right march in London via video link. Musk said: \u201cThis is a message to the reasonable centre, the people who ordinarily wouldn\u2019t get involved in politics, who just want to live their lives. They don\u2019t want that, they\u2019re quiet, they just go about their business. \u201cMy message is to them: if this continues, that violence is going to come to you, you will have no choice. You\u2019re in a fundamental situation here. Whether you choose violence or not, violence is coming to you. You either fight back or you die, that\u2019s the truth, I think.\u201d There was renewed focus on X amid widespread violence in Southampton from people who said they were protesting about Henry Nowak, who was handcuffed as he lay dying from a stab wound after his killer called police and falsely claimed to have been the victim of a racist assault. Six days later, more violence erupted in Belfast when far-right activists called for demonstrations in response to a stabbing attack for which a 30-year-old refugee from Sudan was charged with attempted murder. In both cases, far-right agitators, often endorsed by Musk, called for protests and a violent response to the initial incidents. Earlier this year, Keir Starmer threatened X with being blocked in the UK if it did not take action over a mass of sexualised images of women and children produced by its Grok AI tool, with X subsequently acting. But after the Belfast riots, No 10 said any action would be left to Ofcom, the media regulator."
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.277,
+      "scores": {
+        "High House War": 0.099,
+        "High House Coin": 0.163,
+        "High House Shadow": 0.012,
+        "High House Life": 0.186,
+        "High House Iron": 0.179,
+        "High House Words": 0.135,
+        "High House Chains": 0.277
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.93
+      },
+      "article": {
+        "title": "Deepening of India-Pakistan\u2019s Water Dispute Tests Indus Treaty",
+        "url": "https://www.moroccoworldnews.com/2026/07/326962/deepening-of-india-pakistans-water-dispute-tests-indus-treaty",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.138,
-      "confidence": 0.74,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "BRITAIN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.822,
-      "confidence": 0.74,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "UKRAINE",
-      "actor_b": "BRITAIN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.419,
-      "confidence": 0.74,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Coin": {
+    "High House Life": {
       "trend": "rising",
-      "trend_ratio": 1.565,
+      "trend_ratio": 1.413,
       "source": "gdelt_volume"
     }
   }
