@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cards": [
     {
       "house": "High House Shadow",
@@ -86,67 +86,65 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.391,
+      "scores": {
+        "High House War": 0.087,
+        "High House Coin": 0.391,
+        "High House Shadow": 0.106,
+        "High House Life": -0.043,
+        "High House Iron": 0.199,
+        "High House Words": 0.018,
+        "High House Chains": 0.074
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.795
+      },
+      "article": {
+        "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high \u2013 business live",
+        "url": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
+        "source": "guardian",
+        "full_text": "And finally\u2026.Britain\u2019s stock market has closed higher tonight. The FTSE 100 index of blue-chip shares has just ended the day 26 points higher at 10,679, a gain of 0.25%. That\u2019s its highest closing level in four months, since 2 March \u2013 the first trading day after the Iran war began. The smaller FTSE 250 index gained 0.5% today. Despite this morning\u2019s disappointing service sector data, investors remained confident after fears of interest rate rises this year faded. There\u2019s also a continuing \u2018rotation\u2019 out of AI and chip stocks and into other sectors (although Wall Street is closed today, so we\u2019ll see next week if this trend continues). These factors helped to push Germany\u2019s DAX share index to a new record high today too. David Morrison, senior market analyst at fintech and financial services provider Trade Nation, explains: Both the Euro Stoxx 50 and German DAX soared to fresh all-time highs this morning. The UK\u2019s FTSE 100 was a touch weaker, while the FTSE 250 was a bit stronger. Overall, investors were responding to strength across the US stock index futures contracts. But there\u2019s also a similar dynamic going on as the one which is driving the Dow to all-time highs, even as the pullback in tech stocks proceeds. Yet again, the tech-lite European indices are back in demand, even more so given that the stocks within them trade on much lower P/E multiples than those typically seen over in the US. So, not only are Europe\u2019s indices less exposed to the AI trade, but they are also relatively cheap. And that\u2019s all for this week. Have a lovely weekend\u2026. GW Over in Germany, thousands of workers have been demonstrating outside Mercedes-Benz factories against its cost-cutting plans. Workers rallied outside several Mercedes plants, from the southern city of Sindelfingen \u2013 outside Stuttgart \u2013 to Bremen in the north. Workers were informed of potential measures \u2013 including increasing working hours for no extra pay \u2013 last month. IG Metall union leader Christiane Benner told AFP newswire, at a protest in Duesseldorf: \u201cWhile shareholders benefit more than handsomely, employees are supposed to sacrifice their contractually guaranteed rights. \u201cThis is how you squander the future and trust.\u201d There are two sides to every trade. And thus, as the pound heads for its best week since early April (see earlier post), the US dollar is on track for its worst. The dollar index \u2013 which tracks the greenback against a basket of currencies \u2013 has lost 0.5% this week, the biggest weekly drop since early April. It weakened after yesterday\u2019s poor US jobs report, which knocked forecasts for US interest rate rises. Brazil\u2019s services industry has won a boost from the World Cup. Business activity at Brazilian services firms rose in June, a poll of purchasing managers shows. Companies reported a pick-up in sales last month, as World Cup-related viewing events, hospitality spending and media activity helped support demand. But while demand to watch Vinicius Junior, Casemiro, Gabriel and the gang lifted output, firms cut jobs for the first time in five months. Pollyanna De Lima, economics associate director at S&amp;P Global Market Intelligence, explains: \u201cThe renewed rise in new business and quicker growth in activity are certainly an improvement on the previous month\u2019s trends. But with Brazilian services firms mostly linking June\u2019s upturn to a World Cup boost, the recovery looks likely to be short-lived. \u201cThat temporary nature is already showing up elsewhere in the survey, with service providers cutting jobs and downgrading their business expectations. \u201cServices companies are also facing stronger cost pressures from the war in the Middle East, although inflation may have peaked this month. Many will likely try to recoup those costs gradually in the months ahead, which will further test demand. That comes on top of the expected slowdown as this year\u2019s presidential election approaches and external shocks continue to weigh on activity Back in the oil market, new data shows t"
+      },
+      "position": "EMERGING"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.379,
+      "confidence": 0.374,
       "scores": {
-        "High House War": 0.013,
-        "High House Coin": 0.055,
-        "High House Shadow": 0.072,
-        "High House Life": 0.379,
-        "High House Iron": 0.046,
-        "High House Words": -0.029,
-        "High House Chains": -0.027
+        "High House War": 0.089,
+        "High House Coin": 0.134,
+        "High House Shadow": 0.017,
+        "High House Life": 0.374,
+        "High House Iron": 0.088,
+        "High House Words": 0.082,
+        "High House Chains": 0.099
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "\u2018The silence was the worst part\u2019: after culling his entire flock, US poultry farmer now fears bird flu",
-        "url": "https://www.theguardian.com/environment/2026/jul/01/bird-flu-farms-us",
+        "title": "Global boom in livestock farming since 2006 is piling pressure on nature, report finds",
+        "url": "https://www.theguardian.com/environment/2026/jul/02/huge-rise-mammals-poultry-livestock-farming-worldwide-nature-report",
         "source": "guardian",
-        "full_text": "Joshua Beebe often starts his day by cleaning the tires of trucks and cars entering his poultry farm. \u201cWe spray them off and scrub them with a brush. It\u2019s a precaution; the goal is to eliminate as many potential avenues for a pathogen to enter as possible,\u201d said the owner of Tardif Poultry Farm, located in the Connecticut countryside east of Hartford. Fear of avian influenza, specifically the HPAI subtype A (H5N1) virus, has been tormenting poultry farmers such as Beebe ever since the current wave of bird flu was detected in eastern Canada in 2021 and began spreading. The north-east US is not a high-risk region for on-farm outbreaks, but the possibility is always there. For Beebe and his workers, vigilance comes at a high cost: in time, money and mental strain. Beebe has already gone through the trauma of being ordered to destroy his entire flock, 5,000 birds in all. In mid-2024, state-mandated testing detected salmonella in some of his birds. The bacterium can spread through eggs, and certain strains can infect and sicken humans. The normal cacophony of the farm disappeared. \u201cIt was emotionally draining,\u201d Beebe said. \u201cI haven\u2019t gone a day without seeing birds when I walk out my door in over 10 years. The silence [was] the worst.\u201d Eight long months of mandatory quarantine on the farm finally ended the following February, and Beebe has been gingerly rebuilding his flock ever since. Today, the farm is filled with a constant, low noise of about 3,000 birds clucking, chirping and moving. Beebe raises chickens, turkeys, pomeranian geese and a wide variety of ducks, including different breeds of mallards and welsh harlequins. \u201cI really like the toulouse ducks. They\u2019re a French breed,\u201d he said. The farm sells its products directly to customers. A fifth-generation resident of the town, Beebe bought Tardif Poultry Farm in 2020 after spending 12 years learning the business at a nearby farm. Now he finds himself doing more than just raising animals; he\u2019s also constantly managing risks. Strict precautions At first glance, the vibe at Tardif seems bucolic enough. At the entrance, a shop in a charming little wooden house displays products from other farms, crafters and artists. Milk, homemade spices and candles are carefully arranged. Clients and friends can visit the shop, but \u201cno one is allowed in the back where the birds are. Period,\u201d Beebe said. To guard against an outbreak, the farm strictly segregates the birds by age: from the hatchery to chicks, juveniles, and finally adults. \u201cWe have different boots for each station,\u201d he said. Sick animals come last \u2013 although \u201cwe try not to keep sick animals around at this point\u201d. His three employees follow the same flow, avoiding contact with younger birds, with their weaker immune systems, after handling older ones. If employees have their own chickens at home, they have to wear a set of shoes specific for Beebe\u2019s farm and come with laundered clothes to avoid extra risk. Every new bird is placed in quarantine for 21 to 35 days after arrival. When birds die for any reason, their bodies are disposed of by burial or composting. In the event of larger die-offs, carcasses may be sent off-site for incineration, through the Connecticut Veterinary Medical Diagnostic Laboratory or the University of Connecticut. \u201cEverything is very organized,\u201d Beebe said. Surrounded by danger The risks don\u2019t only come from on-the-ground transmission from bird to bird, or from worker to bird. The overwhelming majority of avian flu introductions into domestic poultry have been traced to contact with infected wild birds \u2013 not spread between farms, according to a US Department of Agriculture (USDA) spokesperson. \u201cThe virus is so abundant in the wild bird population,\u201d said Richard Webby, who studies host-microbe interactions at the St Jude Graduate School of Biomedical Sciences in Memphis. When these wild birds stop near the farm to drink the water, eat the feed or come into contact with domestic birds, the virus spreads. But "
+        "full_text": "The number of mammals and poultry farmed worldwide has increased by half in the last two decades, research shows, and the amount of cropland used for feeding livestock has increased by about a quarter. These increases are putting rising pressure on natural systems, threatening wildlife and plant species and adding to the climate crisis. The rising demand for meat comes at a time when agricultural land is already becoming less fertile, with an area the size of Canada now suffering degradation. This situation is worsening: about 90% of water withdrawn from natural systems for irrigation is used to grow animal feed. These findings, from an alliance of campaigning organisations called Stop Financing Factory Farming, come 20 years after the publication of the UN Food and Agriculture Organization\u2019s seminal report on animal farming, Livestock\u2019s Long Shadow. The researchers have updated key aspects of the report, and found that most trends are moving in a negative direction. Peter Stevenson, the chief policy adviser at the Compassion in World Farming campaign group, told the Guardian that even where progress had been made, for instance by reducing the amount of greenhouse gas produced per unit of meat, it was often outweighed by the sheer increase in the livestock population. Emissions from livestock grew by more than a fifth between 2001 and 2023, according to the FAO. \u201cThere\u2019s been a huge increase, and it\u2019s simply because there are so many more livestock now,\u201d he said. About 33 billion livestock mammals and poultry have been added globally in 20 years: there were 94.9 billion farmed animals \u2013 the number slaughtered or used for milk or eggs \u2013 in 2023, up from 61.8 billion in 2006. Increasing quantities of fertiliser are being used to produce animal feed, which along with the dumping of slurry is leading to dead zones in seas, with the biggest in the Gulf of Mexico, where marine life is being wiped out across an area the size of Connecticut. Merel van der Mark, the head of animal welfare and finance at the campaign group Sinergia Animal, said only a widespread shift away from the meat-heavy diets that have become the norm in many parts world would reverse the trend towards greater planetary damage. She called on publicly funded development banks, which provided $1.23bn (\u00a3930m) to intensive farms in 2024, to lead the charge by changing their investment criteria. \u201cThis means a shift away from industrial livestock production, which multilateral development banks must support by stopping financing factory farming and instead aligning their financial flows with a more sustainable world,\u201d she said."
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.355,
-      "scores": {
-        "High House War": 0.054,
-        "High House Coin": 0.355,
-        "High House Shadow": 0.017,
-        "High House Life": 0.048,
-        "High House Iron": 0.047,
-        "High House Words": 0.117,
-        "High House Chains": 0.286
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "bankrupt"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Greece\u2019s Sorry Reckoning",
-        "url": "https://www.nytimes.com/2015/07/04/opinion/nikos-konstandaras-greeces-sorry-reckoning.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -183,37 +181,42 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.277,
+      "confidence": 0.223,
       "scores": {
-        "High House War": 0.099,
-        "High House Coin": 0.163,
-        "High House Shadow": 0.012,
-        "High House Life": 0.186,
-        "High House Iron": 0.179,
-        "High House Words": 0.135,
-        "High House Chains": 0.277
+        "High House War": 0.057,
+        "High House Coin": 0.094,
+        "High House Shadow": 0.065,
+        "High House Life": 0.096,
+        "High House Iron": -0.009,
+        "High House Words": 0.196,
+        "High House Chains": 0.223
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.93
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "Deepening of India-Pakistan\u2019s Water Dispute Tests Indus Treaty",
-        "url": "https://www.moroccoworldnews.com/2026/07/326962/deepening-of-india-pakistans-water-dispute-tests-indus-treaty",
-        "source": "worldnews",
-        "full_text": null
+        "title": "A moving account of farming\u2019s downsides",
+        "url": "https://www.theguardian.com/environment/2026/jul/03/a-moving-account-of-farmings-downsides",
+        "source": "guardian",
+        "full_text": "I always read Country Diary to give me a sense of perspective about the world and to make me smile. Andrea Meanwell\u2019s piece about TB (3 July) reduced me to tears; but thank you, as it shone a light on something that we otherwise read about dispassionately when it is covered in the media. I offer her my heartfelt sympathy. Robin Gardner Nottingham \u2022 Congratulations to the United States for 250 years of independence from the British empire (For allies and adversaries alike, America at 250 is a solid global citizen gone rogue, 3 July). Now is surely the time for the UK to declare independence from the American empire. Anthony Matthew Leicester \u2022 I can\u2019t think of a place I\u2019d rather browse the shelves and sip a coffee before buying a book than Buckingham Palace Waterstones (State functions, offices and tourists: plans for revamped Buckingham Palace, 26 June). Linda Sayigh Brighton \u2022 Forty years on from Maradona\u2019s infamous \u201cHand of God\u201d goal in Mexico City, what is going to be required on Monday at the same Azteca Stadium is Kane\u2019s \u201cHead of Harry\u201d (Azteca avengers? England return to scene of infamous Maradona handball, 2 July). Adrian Brodkin London \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
       },
       "position": "WANING"
     }
   ],
   "relationships": [],
   "house_trends": {
-    "High House Life": {
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.868,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.413,
+      "trend_ratio": 1.384,
       "source": "gdelt_volume"
     }
   }
