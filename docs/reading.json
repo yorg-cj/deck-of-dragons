@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "cards": [
     {
       "house": "High House Shadow",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -120,60 +120,60 @@
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.374,
+      "reversed": false,
+      "confidence": 0.362,
       "scores": {
-        "High House War": 0.089,
-        "High House Coin": 0.134,
-        "High House Shadow": 0.017,
-        "High House Life": 0.374,
-        "High House Iron": 0.088,
-        "High House Words": 0.082,
-        "High House Chains": 0.099
+        "High House War": 0.014,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.171,
+        "High House Life": 0.362,
+        "High House Iron": 0.038,
+        "High House Words": 0.148,
+        "High House Chains": 0.187
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.937
       },
       "article": {
-        "title": "Global boom in livestock farming since 2006 is piling pressure on nature, report finds",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/huge-rise-mammals-poultry-livestock-farming-worldwide-nature-report",
-        "source": "guardian",
-        "full_text": "The number of mammals and poultry farmed worldwide has increased by half in the last two decades, research shows, and the amount of cropland used for feeding livestock has increased by about a quarter. These increases are putting rising pressure on natural systems, threatening wildlife and plant species and adding to the climate crisis. The rising demand for meat comes at a time when agricultural land is already becoming less fertile, with an area the size of Canada now suffering degradation. This situation is worsening: about 90% of water withdrawn from natural systems for irrigation is used to grow animal feed. These findings, from an alliance of campaigning organisations called Stop Financing Factory Farming, come 20 years after the publication of the UN Food and Agriculture Organization\u2019s seminal report on animal farming, Livestock\u2019s Long Shadow. The researchers have updated key aspects of the report, and found that most trends are moving in a negative direction. Peter Stevenson, the chief policy adviser at the Compassion in World Farming campaign group, told the Guardian that even where progress had been made, for instance by reducing the amount of greenhouse gas produced per unit of meat, it was often outweighed by the sheer increase in the livestock population. Emissions from livestock grew by more than a fifth between 2001 and 2023, according to the FAO. \u201cThere\u2019s been a huge increase, and it\u2019s simply because there are so many more livestock now,\u201d he said. About 33 billion livestock mammals and poultry have been added globally in 20 years: there were 94.9 billion farmed animals \u2013 the number slaughtered or used for milk or eggs \u2013 in 2023, up from 61.8 billion in 2006. Increasing quantities of fertiliser are being used to produce animal feed, which along with the dumping of slurry is leading to dead zones in seas, with the biggest in the Gulf of Mexico, where marine life is being wiped out across an area the size of Connecticut. Merel van der Mark, the head of animal welfare and finance at the campaign group Sinergia Animal, said only a widespread shift away from the meat-heavy diets that have become the norm in many parts world would reverse the trend towards greater planetary damage. She called on publicly funded development banks, which provided $1.23bn (\u00a3930m) to intensive farms in 2024, to lead the charge by changing their investment criteria. \u201cThis means a shift away from industrial livestock production, which multilateral development banks must support by stopping financing factory farming and instead aligning their financial flows with a more sustainable world,\u201d she said."
+        "title": "An Influx of Climate Cash",
+        "url": "https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.339,
+      "confidence": 0.324,
       "scores": {
-        "High House War": -0.009,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.225,
-        "High House Life": 0.097,
-        "High House Iron": 0.009,
-        "High House Words": 0.339,
-        "High House Chains": 0.107
+        "High House War": 0.065,
+        "High House Coin": 0.102,
+        "High House Shadow": 0.264,
+        "High House Life": 0.101,
+        "High House Iron": -0.073,
+        "High House Words": 0.324,
+        "High House Chains": 0.027
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.7,
         "matched_signals": [
-          "misinformation"
+          "silenced"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "Lisa Nandy quits X over fears Musk-owned site pushes \u2018abuse and misinformation\u2019",
-        "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+        "title": "Burnham will change No 10 \u2018boys club\u2019 briefing culture, says Lucy Powell ",
+        "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
         "source": "guardian",
-        "full_text": "The UK\u2019s culture and media department will stop using X because the site \u201cnow favours abuse and misinformation over meaningful debate\u201d, Lisa Nandy has announced. The culture secretary\u2019s department is the UK\u2019s second to quit the Elon Musk-owned platform over increasing concerns about the way it highlights and prioritises often inaccurate far-right and racist content and is used to incite violence and division. Two weeks ago the Guardian revealed that Richard Hermer, the attorney general for England and Wales, had told his office to no longer post on X, a decision prompted in part by the platform\u2019s role in stoking disorder in Southampton and Belfast earlier in June. In a statement on her own X account, Nandy said: \u201cI\u2019ve decided to leave this platform and my department will too. A platform originally designed for free speech and expression now favours abuse and misinformation over meaningful debate. It isn\u2019t healthy for our democracy or our communities and I don\u2019t want to support it.\u201d People who wanted to interact with her via social media could do so via Instagram, Facebook and LinkedIn, Nandy added. Her decision is all the more significant given the DCMS is responsible for media regulation, even if enforcement against X has so far been left to Ofcom, the media watchdog. It could also be a temporary measure for the department given that Andy Burnham will take over as prime minister within weeks, and a new culture secretary may take a different view. But it is a symbolically important moment and a sign opinion is gradually moving from the view that ministers and their departments should remain on X to get their messaging across, despite the ubiquitous racism and far-right content and regular calls for the UK government to be deposed, a view often endorsed by Musk. In September last year, Musk linked his desire for a \u201cchange of government\u201d in the UK with violent uprising as he addressed a far-right march in London via video link. Musk said: \u201cThis is a message to the reasonable centre, the people who ordinarily wouldn\u2019t get involved in politics, who just want to live their lives. They don\u2019t want that, they\u2019re quiet, they just go about their business. \u201cMy message is to them: if this continues, that violence is going to come to you, you will have no choice. You\u2019re in a fundamental situation here. Whether you choose violence or not, violence is coming to you. You either fight back or you die, that\u2019s the truth, I think.\u201d There was renewed focus on X amid widespread violence in Southampton from people who said they were protesting about Henry Nowak, who was handcuffed as he lay dying from a stab wound after his killer called police and falsely claimed to have been the victim of a racist assault. Six days later, more violence erupted in Belfast when far-right activists called for demonstrations in response to a stabbing attack for which a 30-year-old refugee from Sudan was charged with attempted murder. In both cases, far-right agitators, often endorsed by Musk, called for protests and a violent response to the initial incidents. Earlier this year, Keir Starmer threatened X with being blocked in the UK if it did not take action over a mass of sexualised images of women and children produced by its Grok AI tool, with X subsequently acting. But after the Belfast riots, No 10 said any action would be left to Ofcom, the media regulator."
+        "full_text": "Andy Burnham will change a \u201cboys club\u201d culture of factional briefings at No 10 which silenced critics, according to the deputy leader of the Labour party. Lucy Powell said she had experienced \u201cunpleasant\u201d briefings in Downing Street, which left people afraid to speak out or challenge Downing Street\u2019s position. The briefings had affected people\u2019s ability to do their jobs, she added. \u201cIt created more of a culture of not feeling that you could speak out on things [\u2026] for fear of giving you a black mark against your name. That is the culture and the atmosphere that we really need to address.\u201d Powell felt briefings against female figures in the Cabinet in particular \u2013 including against herself, the education secretary, Bridget Phillipson, and the foreign secretary, Yvette Cooper \u2013 were evidence of a \u201cboys club\u201d at the top of government. \u201cThere was very clearly a pattern over time of anonymous nasty briefings against colleagues being disproportionately meted out to women,\u201d she said. \u201cBut there was also a culture that became very factional, and appointments being made on the basis of which faction or which friendship group you were in [\u2026] It was not a meritocracy in any sense and not a broad church.\u201d She felt that the culture in No 10 had improved in recent months under senior Labour women, and vowed to continue to push for a \u201cmeritocracy [where] appointments are made in a more open way based on people\u2019s passions, experiences and contributions\u201d. Burnham said this week that he would sack any staff who briefed against or undermined women in his team. The Makerfield MP told members of the women\u2019s parliamentary Labour party: \u201cI want to make it clear that if anyone in my team was found to have done that [negative briefing] they would be out of the door. Their feet wouldn\u2019t touch the floor.\u201d Asked if she thought No 10 culture would be different under Burnham, she said: \u201cI do \u2013 how is something we\u2019ll all need to help with, and be part of.\u201d Powell\u2019s intervention comes after figures on the left of the Labour party accused Starmer and his allies of overseeing a \u201cpurge\u201d of dissident views that created a \u201cculture of fear\u201d and called on Burnham to listen to formerly marginalised figures. The former mayor of Greater Manchester \u2013 who is expected to become prime minister later this month \u2013 is facing pressure to appoint a high number of female cabinet ministers, especially if he replaces Rachel Reeves with a man in the Treasury. His chief of staff will be his close friend and former cabinet minister James Purnell, a role that is now shared by two women \u2013 Vidhya Alakeson and Jill Cuthbertson. Labour\u2019s female MPs wrote to Burnham before the meeting to ask him to commit to a 50/50 gender split for ministers and staff. Powell said she would not tell Burnham who should be in his cabinet, but said \u201cbetter decisions\u201d were made when there was more diversity at the top table. \u201cAll of us are very keen to ensure that there is diversity of opinion and representation of all the different traditions of the party and country as well as obviously making sure that we\u2019ve got strong voices from women at the top of the party,\u201d she said. \u201cI\u2019m sure Andy will have all of those things in mind.\u201d On Wednesday, the Conservative leader, Kemi Badenoch, accused Labour women of \u201cmoaning\u201d and said they should contest for leadership of the party. \u201cIf none of Labour\u2019s women are prepared to get their hands dirty and challenge him for the leadership, their demands are toothless,\u201d she wrote in the Times. But Powell said a debate about plurality was \u201cnot about quotas\u201d but \u201censuring that we are thinking about all of these things\u201d. \u201cI think women can often be a bit shy about pushing themselves forward in the Labour party,\u201d she said. \u201cSometimes the blokes are a bit better at advancing their own causes, so it\u2019s just about making sure that we\u2019re listening to the quiet voices too.\u201d Asked whether the British electorate was likely to see this debate as an example of the Labour party focused on i"
       },
       "position": "WILD"
     },
@@ -207,16 +207,32 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.868,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "UKRAINE",
+      "actor_b": "BURNHAM",
+      "relationship": "neutral",
+      "goldstein_avg": -0.965,
+      "confidence": 0.39,
+      "source": "gdelt_tone"
     },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "IRAN",
+      "actor_b": "BURNHAM",
+      "relationship": "neutral",
+      "goldstein_avg": -1.258,
+      "confidence": 0.39,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.384,
+      "trend_ratio": 1.548,
       "source": "gdelt_volume"
     }
   }
