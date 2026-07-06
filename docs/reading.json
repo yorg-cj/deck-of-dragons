@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "cards": [
     {
       "house": "High House Shadow",
@@ -86,36 +86,67 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.368,
+      "scores": {
+        "High House War": 0.083,
+        "High House Coin": 0.364,
+        "High House Shadow": 0.234,
+        "High House Life": 0.133,
+        "High House Iron": 0.13,
+        "High House Words": 0.213,
+        "High House Chains": 0.368
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "US sanctions target Rwandan firms linked to conflict minerals funding M23\u00a0 - St. Lucia Chronicle \u2013 Daily St",
+        "url": "https://stluciachronicle.com/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23",
+        "source": "worldnews",
+        "full_text": null
+      },
       "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.391,
+      "reversed": true,
+      "confidence": 0.366,
       "scores": {
-        "High House War": 0.087,
-        "High House Coin": 0.391,
-        "High House Shadow": 0.106,
-        "High House Life": -0.043,
-        "High House Iron": 0.199,
-        "High House Words": 0.018,
-        "High House Chains": 0.074
+        "High House War": 0.069,
+        "High House Coin": 0.366,
+        "High House Shadow": 0.242,
+        "High House Life": 0.146,
+        "High House Iron": 0.106,
+        "High House Words": 0.244,
+        "High House Chains": 0.362
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.795
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high \u2013 business live",
-        "url": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-        "source": "guardian",
-        "full_text": "And finally\u2026.Britain\u2019s stock market has closed higher tonight. The FTSE 100 index of blue-chip shares has just ended the day 26 points higher at 10,679, a gain of 0.25%. That\u2019s its highest closing level in four months, since 2 March \u2013 the first trading day after the Iran war began. The smaller FTSE 250 index gained 0.5% today. Despite this morning\u2019s disappointing service sector data, investors remained confident after fears of interest rate rises this year faded. There\u2019s also a continuing \u2018rotation\u2019 out of AI and chip stocks and into other sectors (although Wall Street is closed today, so we\u2019ll see next week if this trend continues). These factors helped to push Germany\u2019s DAX share index to a new record high today too. David Morrison, senior market analyst at fintech and financial services provider Trade Nation, explains: Both the Euro Stoxx 50 and German DAX soared to fresh all-time highs this morning. The UK\u2019s FTSE 100 was a touch weaker, while the FTSE 250 was a bit stronger. Overall, investors were responding to strength across the US stock index futures contracts. But there\u2019s also a similar dynamic going on as the one which is driving the Dow to all-time highs, even as the pullback in tech stocks proceeds. Yet again, the tech-lite European indices are back in demand, even more so given that the stocks within them trade on much lower P/E multiples than those typically seen over in the US. So, not only are Europe\u2019s indices less exposed to the AI trade, but they are also relatively cheap. And that\u2019s all for this week. Have a lovely weekend\u2026. GW Over in Germany, thousands of workers have been demonstrating outside Mercedes-Benz factories against its cost-cutting plans. Workers rallied outside several Mercedes plants, from the southern city of Sindelfingen \u2013 outside Stuttgart \u2013 to Bremen in the north. Workers were informed of potential measures \u2013 including increasing working hours for no extra pay \u2013 last month. IG Metall union leader Christiane Benner told AFP newswire, at a protest in Duesseldorf: \u201cWhile shareholders benefit more than handsomely, employees are supposed to sacrifice their contractually guaranteed rights. \u201cThis is how you squander the future and trust.\u201d There are two sides to every trade. And thus, as the pound heads for its best week since early April (see earlier post), the US dollar is on track for its worst. The dollar index \u2013 which tracks the greenback against a basket of currencies \u2013 has lost 0.5% this week, the biggest weekly drop since early April. It weakened after yesterday\u2019s poor US jobs report, which knocked forecasts for US interest rate rises. Brazil\u2019s services industry has won a boost from the World Cup. Business activity at Brazilian services firms rose in June, a poll of purchasing managers shows. Companies reported a pick-up in sales last month, as World Cup-related viewing events, hospitality spending and media activity helped support demand. But while demand to watch Vinicius Junior, Casemiro, Gabriel and the gang lifted output, firms cut jobs for the first time in five months. Pollyanna De Lima, economics associate director at S&amp;P Global Market Intelligence, explains: \u201cThe renewed rise in new business and quicker growth in activity are certainly an improvement on the previous month\u2019s trends. But with Brazilian services firms mostly linking June\u2019s upturn to a World Cup boost, the recovery looks likely to be short-lived. \u201cThat temporary nature is already showing up elsewhere in the survey, with service providers cutting jobs and downgrading their business expectations. \u201cServices companies are also facing stronger cost pressures from the war in the Middle East, although inflation may have peaked this month. Many will likely try to recoup those costs gradually in the months ahead, which will further test demand. That comes on top of the expected slowdown as this year\u2019s presidential election approaches and external shocks continue to weigh on activity Back in the oil market, new data shows t"
+        "title": "US sanctions target Rwandan firms linked to conflict minerals funding M23\u00a0 - Grenada Chronicle \u2013 Daily",
+        "url": "https://grenadachronicle.com/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -149,90 +180,43 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
+      "reversed": false,
       "confidence": 0.324,
       "scores": {
-        "High House War": 0.065,
-        "High House Coin": 0.102,
-        "High House Shadow": 0.264,
-        "High House Life": 0.101,
-        "High House Iron": -0.073,
+        "High House War": 0.111,
+        "High House Coin": 0.161,
+        "High House Shadow": 0.277,
+        "High House Life": 0.164,
+        "High House Iron": 0.295,
         "High House Words": 0.324,
-        "High House Chains": 0.027
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "silenced"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "Burnham will change No 10 \u2018boys club\u2019 briefing culture, says Lucy Powell ",
-        "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
-        "source": "guardian",
-        "full_text": "Andy Burnham will change a \u201cboys club\u201d culture of factional briefings at No 10 which silenced critics, according to the deputy leader of the Labour party. Lucy Powell said she had experienced \u201cunpleasant\u201d briefings in Downing Street, which left people afraid to speak out or challenge Downing Street\u2019s position. The briefings had affected people\u2019s ability to do their jobs, she added. \u201cIt created more of a culture of not feeling that you could speak out on things [\u2026] for fear of giving you a black mark against your name. That is the culture and the atmosphere that we really need to address.\u201d Powell felt briefings against female figures in the Cabinet in particular \u2013 including against herself, the education secretary, Bridget Phillipson, and the foreign secretary, Yvette Cooper \u2013 were evidence of a \u201cboys club\u201d at the top of government. \u201cThere was very clearly a pattern over time of anonymous nasty briefings against colleagues being disproportionately meted out to women,\u201d she said. \u201cBut there was also a culture that became very factional, and appointments being made on the basis of which faction or which friendship group you were in [\u2026] It was not a meritocracy in any sense and not a broad church.\u201d She felt that the culture in No 10 had improved in recent months under senior Labour women, and vowed to continue to push for a \u201cmeritocracy [where] appointments are made in a more open way based on people\u2019s passions, experiences and contributions\u201d. Burnham said this week that he would sack any staff who briefed against or undermined women in his team. The Makerfield MP told members of the women\u2019s parliamentary Labour party: \u201cI want to make it clear that if anyone in my team was found to have done that [negative briefing] they would be out of the door. Their feet wouldn\u2019t touch the floor.\u201d Asked if she thought No 10 culture would be different under Burnham, she said: \u201cI do \u2013 how is something we\u2019ll all need to help with, and be part of.\u201d Powell\u2019s intervention comes after figures on the left of the Labour party accused Starmer and his allies of overseeing a \u201cpurge\u201d of dissident views that created a \u201cculture of fear\u201d and called on Burnham to listen to formerly marginalised figures. The former mayor of Greater Manchester \u2013 who is expected to become prime minister later this month \u2013 is facing pressure to appoint a high number of female cabinet ministers, especially if he replaces Rachel Reeves with a man in the Treasury. His chief of staff will be his close friend and former cabinet minister James Purnell, a role that is now shared by two women \u2013 Vidhya Alakeson and Jill Cuthbertson. Labour\u2019s female MPs wrote to Burnham before the meeting to ask him to commit to a 50/50 gender split for ministers and staff. Powell said she would not tell Burnham who should be in his cabinet, but said \u201cbetter decisions\u201d were made when there was more diversity at the top table. \u201cAll of us are very keen to ensure that there is diversity of opinion and representation of all the different traditions of the party and country as well as obviously making sure that we\u2019ve got strong voices from women at the top of the party,\u201d she said. \u201cI\u2019m sure Andy will have all of those things in mind.\u201d On Wednesday, the Conservative leader, Kemi Badenoch, accused Labour women of \u201cmoaning\u201d and said they should contest for leadership of the party. \u201cIf none of Labour\u2019s women are prepared to get their hands dirty and challenge him for the leadership, their demands are toothless,\u201d she wrote in the Times. But Powell said a debate about plurality was \u201cnot about quotas\u201d but \u201censuring that we are thinking about all of these things\u201d. \u201cI think women can often be a bit shy about pushing themselves forward in the Labour party,\u201d she said. \u201cSometimes the blokes are a bit better at advancing their own causes, so it\u2019s just about making sure that we\u2019re listening to the quiet voices too.\u201d Asked whether the British electorate was likely to see this debate as an example of the Labour party focused on i"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.223,
-      "scores": {
-        "High House War": 0.057,
-        "High House Coin": 0.094,
-        "High House Shadow": 0.065,
-        "High House Life": 0.096,
-        "High House Iron": -0.009,
-        "High House Words": 0.196,
-        "High House Chains": 0.223
+        "High House Chains": 0.238
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
+        "sentiment_score": 0.649
       },
       "article": {
-        "title": "A moving account of farming\u2019s downsides",
-        "url": "https://www.theguardian.com/environment/2026/jul/03/a-moving-account-of-farmings-downsides",
+        "title": "AI poses \u2018Hiroshima\u2019-style threat to humanity without global rules, says Cooper",
+        "url": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
         "source": "guardian",
-        "full_text": "I always read Country Diary to give me a sense of perspective about the world and to make me smile. Andrea Meanwell\u2019s piece about TB (3 July) reduced me to tears; but thank you, as it shone a light on something that we otherwise read about dispassionately when it is covered in the media. I offer her my heartfelt sympathy. Robin Gardner Nottingham \u2022 Congratulations to the United States for 250 years of independence from the British empire (For allies and adversaries alike, America at 250 is a solid global citizen gone rogue, 3 July). Now is surely the time for the UK to declare independence from the American empire. Anthony Matthew Leicester \u2022 I can\u2019t think of a place I\u2019d rather browse the shelves and sip a coffee before buying a book than Buckingham Palace Waterstones (State functions, offices and tourists: plans for revamped Buckingham Palace, 26 June). Linda Sayigh Brighton \u2022 Forty years on from Maradona\u2019s infamous \u201cHand of God\u201d goal in Mexico City, what is going to be required on Monday at the same Azteca Stadium is Kane\u2019s \u201cHead of Harry\u201d (Azteca avengers? England return to scene of infamous Maradona handball, 2 July). Adrian Brodkin London \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
+        "full_text": "Artificial intelligence poses a \u201cHiroshima\u201d-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned. Yvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years. In an essay covering her thoughts on everything from emerging technology to Palestine, Cooper said the world was at a dangerous moment, not least because of what she sees as the permanent withdrawal of the US from its role as a global arbiter. And in a separate interview with the Guardian she spelled out her concerns over AI and the Palestine peace process in particular. In her piece being published on Monday by the Chatham House thinktank, the foreign secretary said: \u201cOn nuclear, international agreement came only after the world saw the terrifying power of the new technology at Hiroshima \u2013 and asked what would happen if it fell into the wrong hands. We cannot afford to wait for an AI equivalent of Hiroshima before we act.\u201d She told the Guardian: \u201cAcross the world, people are feeling the same thing \u2013 there is amazing potential here, but there is also huge risk. We are already in a world where we have malign actors who will use technology against us \u2013 whether that be hybrid threats, whether that be state-backed criminal groups or other kinds of organisations, or extremists and terror groups.\u201d She added: \u201cI think AI is going to end up being the dominant foreign policy issue that we deal with over the next two years.\u201d Cooper identified AI as just one area threatening global security at the moment as she also warned about the impact of the climate crisis, irregular migration and foreign interference on western liberal democracy. Her essay gives one of the clearest and most comprehensive pictures of the foreign secretary\u2019s worldview and where she thinks her department should devote its attention in the coming years. It comes as senior Labour figures jostle for position in a likely Andy Burnham cabinet, with her former colleague David Miliband being tipped for a return to the Foreign Office in her place. Miliband will share his own thoughts on foreign policy in a lecture on Thursday entitled \u201cPower and its missing guardrails\u201d. Cooper writes in her essay that European powers need to adjust to the idea that the US will no longer guarantee international peace and democracy, even after the end of Donald Trump\u2019s presidency. \u201cWe should no longer expect the US to play the role it once did,\u201d she says. \u201cThere will continue to be issues where we disagree. But reduced dependence on any single ally will make us stronger.\u201d One answer, she says in her essay, is for the UK and EU to negotiate a more permanent settlement instead of trying constantly to renegotiate individual elements of their trading arrangements. The government is putting the finishing touches on the latest round of EU renegotiation as ministers look to strike new deals on agriculture and electricity trading as well as visas for young people. They were due to be announced at a summit later this month, but that has been pushed back as EU officials hope to engage with the incoming Burnham government first. Cooper argues in her essay: \u201cWe need to develop a new, structured relationship with Europe, leading the development of its new security architecture, with a more European Nato at its core. And we must settle our relationship with the EU as a closer but stable partnership, rather than one based on endless incremental bargaining.\u201d She did not say, however, what shape that more stable partnership should take. Burnham told the Guardian last year he wanted the UK to rejoin the bloc, but has said more recently he would not seek to pursue that if he becomes prime minister. And she warns that with Trump preoccupied with the war in Iran and the world turning its attention to other regions, countries were at risk of forgetting about delivering p"
       },
-      "position": "WANING"
+      "position": "WILD"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "UKRAINE",
-      "actor_b": "BURNHAM",
-      "relationship": "neutral",
-      "goldstein_avg": -0.965,
-      "confidence": 0.39,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "BURNHAM",
-      "relationship": "neutral",
-      "goldstein_avg": -1.258,
-      "confidence": 0.39,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House Coin": {
+    "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.548,
+      "trend_ratio": 1.59,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.552,
       "source": "gdelt_volume"
     }
   }
