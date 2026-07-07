@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,6 +60,35 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.435,
+      "scores": {
+        "High House War": 0.204,
+        "High House Coin": 0.012,
+        "High House Shadow": 0.053,
+        "High House Life": 0.435,
+        "High House Iron": -0.027,
+        "High House Words": 0.105,
+        "High House Chains": 0.121
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Humanitarian Relief Efforts: Church and Muslim Leaders Collaborate to Combat Drought in Kenya\u2019s Remote Communities",
+        "url": "https://www.ghanamma.com/2026/07/07/humanitarian-relief-efforts-church-and-muslim-leaders-collaborate-to-combat-drought-in-kenyas-remote-communities",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -86,92 +115,61 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.368,
-      "scores": {
-        "High House War": 0.083,
-        "High House Coin": 0.364,
-        "High House Shadow": 0.234,
-        "High House Life": 0.133,
-        "High House Iron": 0.13,
-        "High House Words": 0.213,
-        "High House Chains": 0.368
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.544,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "US sanctions target Rwandan firms linked to conflict minerals funding M23\u00a0 - St. Lucia Chronicle \u2013 Daily St",
-        "url": "https://stluciachronicle.com/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.366,
-      "scores": {
-        "High House War": 0.069,
-        "High House Coin": 0.366,
-        "High House Shadow": 0.242,
-        "High House Life": 0.146,
-        "High House Iron": 0.106,
-        "High House Words": 0.244,
-        "High House Chains": 0.362
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.981
-      },
-      "article": {
-        "title": "US sanctions target Rwandan firms linked to conflict minerals funding M23\u00a0 - Grenada Chronicle \u2013 Daily",
-        "url": "https://grenadachronicle.com/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
       "reversed": false,
-      "confidence": 0.362,
+      "confidence": 0.335,
       "scores": {
-        "High House War": 0.014,
-        "High House Coin": 0.203,
-        "High House Shadow": 0.171,
-        "High House Life": 0.362,
-        "High House Iron": 0.038,
-        "High House Words": 0.148,
-        "High House Chains": 0.187
+        "High House War": 0.241,
+        "High House Coin": 0.335,
+        "High House Shadow": 0.074,
+        "High House Life": 0.024,
+        "High House Iron": 0.112,
+        "High House Words": 0.194,
+        "High House Chains": 0.282
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.937
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "An Influx of Climate Cash",
-        "url": "https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html",
+        "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
+        "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.335,
+      "scores": {
+        "High House War": 0.213,
+        "High House Coin": 0.325,
+        "High House Shadow": 0.138,
+        "High House Life": 0.069,
+        "High House Iron": 0.23,
+        "High House Words": 0.232,
+        "High House Chains": 0.335
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "The Chinese Company That Could Start a Trade War With Europe",
+        "url": "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html",
         "source": "nyt",
         "full_text": null
       },
@@ -204,19 +202,35 @@
         "source": "guardian",
         "full_text": "Artificial intelligence poses a \u201cHiroshima\u201d-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned. Yvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years. In an essay covering her thoughts on everything from emerging technology to Palestine, Cooper said the world was at a dangerous moment, not least because of what she sees as the permanent withdrawal of the US from its role as a global arbiter. And in a separate interview with the Guardian she spelled out her concerns over AI and the Palestine peace process in particular. In her piece being published on Monday by the Chatham House thinktank, the foreign secretary said: \u201cOn nuclear, international agreement came only after the world saw the terrifying power of the new technology at Hiroshima \u2013 and asked what would happen if it fell into the wrong hands. We cannot afford to wait for an AI equivalent of Hiroshima before we act.\u201d She told the Guardian: \u201cAcross the world, people are feeling the same thing \u2013 there is amazing potential here, but there is also huge risk. We are already in a world where we have malign actors who will use technology against us \u2013 whether that be hybrid threats, whether that be state-backed criminal groups or other kinds of organisations, or extremists and terror groups.\u201d She added: \u201cI think AI is going to end up being the dominant foreign policy issue that we deal with over the next two years.\u201d Cooper identified AI as just one area threatening global security at the moment as she also warned about the impact of the climate crisis, irregular migration and foreign interference on western liberal democracy. Her essay gives one of the clearest and most comprehensive pictures of the foreign secretary\u2019s worldview and where she thinks her department should devote its attention in the coming years. It comes as senior Labour figures jostle for position in a likely Andy Burnham cabinet, with her former colleague David Miliband being tipped for a return to the Foreign Office in her place. Miliband will share his own thoughts on foreign policy in a lecture on Thursday entitled \u201cPower and its missing guardrails\u201d. Cooper writes in her essay that European powers need to adjust to the idea that the US will no longer guarantee international peace and democracy, even after the end of Donald Trump\u2019s presidency. \u201cWe should no longer expect the US to play the role it once did,\u201d she says. \u201cThere will continue to be issues where we disagree. But reduced dependence on any single ally will make us stronger.\u201d One answer, she says in her essay, is for the UK and EU to negotiate a more permanent settlement instead of trying constantly to renegotiate individual elements of their trading arrangements. The government is putting the finishing touches on the latest round of EU renegotiation as ministers look to strike new deals on agriculture and electricity trading as well as visas for young people. They were due to be announced at a summit later this month, but that has been pushed back as EU officials hope to engage with the incoming Burnham government first. Cooper argues in her essay: \u201cWe need to develop a new, structured relationship with Europe, leading the development of its new security architecture, with a more European Nato at its core. And we must settle our relationship with the EU as a closer but stable partnership, rather than one based on endless incremental bargaining.\u201d She did not say, however, what shape that more stable partnership should take. Burnham told the Guardian last year he wanted the UK to rejoin the bloc, but has said more recently he would not seek to pursue that if he becomes prime minister. And she warns that with Trump preoccupied with the war in Iran and the world turning its attention to other regions, countries were at risk of forgetting about delivering p"
       },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.59,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "KENYA",
+      "actor_b": "COOPER",
+      "relationship": "neutral",
+      "goldstein_avg": 0.038,
+      "confidence": 0.4,
+      "source": "gdelt_tone"
     },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Coin",
+      "actor_a": "UKRAINE",
+      "actor_b": "CHINA EMERGES",
+      "relationship": "neutral",
+      "goldstein_avg": 0.034,
+      "confidence": 0.4,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
     "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.552,
+      "trend": "rising",
+      "trend_ratio": 1.528,
       "source": "gdelt_volume"
     }
   }
