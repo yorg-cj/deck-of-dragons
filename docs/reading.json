@@ -1,31 +1,31 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.592,
+      "reversed": true,
+      "confidence": 0.568,
       "scores": {
-        "High House War": 0.235,
-        "High House Coin": 0.156,
-        "High House Shadow": 0.592,
-        "High House Life": 0.069,
-        "High House Iron": 0.079,
-        "High House Words": 0.337,
-        "High House Chains": 0.146
+        "High House War": 0.242,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.568,
+        "High House Life": 0.093,
+        "High House Iron": 0.18,
+        "High House Words": 0.248,
+        "High House Chains": 0.179
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.527,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.896
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.959
       },
       "article": {
-        "title": "  Secret Service : Where pasta and espionage share the menu",
-        "url": "https://www.niagarafallsreview.ca/things-to-do/stage/lighthouse-theatre-roselawn-port-colborne-spy-spoof/article_39d3e260-fa8a-5a64-ae4e-0c9de7062833.html",
-        "source": "gdelt_doc",
+        "title": "Inside Intelligence Agencies, a Fight Over Building a Master List of Spies",
+        "url": "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -58,6 +58,35 @@
         "full_text": null
       },
       "position": "ASCENDING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.41,
+      "scores": {
+        "High House War": 0.146,
+        "High House Coin": 0.41,
+        "High House Shadow": 0.146,
+        "High House Life": 0.037,
+        "High House Iron": 0.1,
+        "High House Words": 0.121,
+        "High House Chains": 0.107
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes \u2013 as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh-us-strikes-iran-return-sanctions-tehran-federal-reserve-minutes-live-updates",
+        "source": "guardian",
+        "full_text": "Oil and gas prices jumped, stock markets slid and government bond yields rose after the US and Iran traded fresh strikes and Donald Trump said the shaky ceasefire was \u201cover\u201d. Brent crude, the global benchmark, climbed 5% to $77.86 a barrel. In stock markets, the UK\u2019s FTSE 100 fell 1%, or 110 points, to 10,556 while Germany\u2019s Dax tumbled 1.6% and Spain\u2019s Ibex lost 2%. Speaking at a NATO summit in Ankara, Trump also said he was cutting off trade with Spain over defence spending). On Wall Street, the S&amp;P 500 index fell nearly 0.5% while the Dow Jones slid 0.9% and the Nasdaq slipped 0.3%. In Asia, Japan\u2019s Nikkei ended the day 2.1% lower while China\u2019s CSI 300 declined 0.77% and South Korea\u2019s Kospi tumbled 5.5%, also hit by a sell-off in semiconductor shares. Eurozone government bond yields rose to their highest levels in almost a month, as higher oil prices stoked inflation fears. The yield, or interest rate, on Germany\u2019s 10-year bond rose 5 basis points to 3.034%, the highest since 11 July, as bonds sold off (yields move inversely to prices). The two-year bond yield, which is more sensitive to European Central Bank interest rate expectations, also climbed 5bps, to 2.637%, the highest since 22 June. The yield on the 10-year UK government bond, known as gilt, climbed 9bps to 4.94%. Thank you for reading. We\u2019ll be back tomorrow. Take care (and stay cool) \u2013 JK Wall Street is set to open lower, following sharp declines in European and Asian stock markets. Investors are spooked by remarks from Donald Trump, who said an interim deal aimed at ending the war with Iran is \u201cover\u201d. This has pushed crude oil prices sharply higher. Brent crude, the global benchmark, is up 5.1% at $77.9 a barrel. It extended gains after the US president\u2019s remarks, but was already 3.4% higher in early trading today, after the US and Iran traded strikes. Matthew Ryan, head of market strategy at Ebury, told Reuters: The million dollar question is whether this marks a complete breakdown in negotiations and a reutrn to hostilities, or merely a temporary setback. Energy stocks are rising whe travel shares fell, with higher ol prices stoking concerns over fuel costs and demand. Technology stocks also remain under pressure after a turbulent period in recent weeks, as investors reassess the AI boom. On the FTSE 100 index in London, BP, Shell and British Gas parent Centrica are leading the gains. The Dutch prosecutor\u2019s office said today it is launching legal action against the Dutch branch of the Indian steelmaker Tata Steel, over allegations of deliberate discharge of harmful substances into the environment. The prosecutor\u2019s office said, according to Reuters: The public prosecutor\u2019s office suspects the firm of having committed various criminal offences, including deliberate and unlawful release of harmful substances into the atmosphere, which could have adverse consequences for public health. A criminal investigation, focused on the process of steel production and operation of Tata Steel\u2019s coke oven gas plants, was launched in the wake of a complaint lodged in 2022 by a lawyer representing more than 800 complainants, the prosecution service said. Having examined the case file, the public prosecutor\u2019s office considers the criminal investigation provides sufficient evidence to bring criminal proceedings against the firm and take the case to court. Tata Steel IJmuiden, the Indian multinational\u2019s main Dutch-based steelworks, is also suspected of having \u201cfailed in its duty of care\u201d. The prosecutor\u2019s office accuses the company, among other things, of failing to carry out sufficient maintenance, operating \u201cwithout authorisation\u201d and failing to report \u201cseveral incidents involving raw coke\u201d, which is the product resulting from coal combustion. Coke is used in blast furnaces to convert iron ore to iron that can be further refined to produce steel. But resulting emissions comprise toxic air pollutants. In response, Tata Steel IJmuiden (TSIJ) said it took the concerns expressed"
+      },
+      "position": "WANING"
     },
     {
       "house": "High House War",
@@ -120,60 +149,31 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.382,
+      "reversed": false,
+      "confidence": 0.368,
       "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.068,
-        "High House Shadow": 0.258,
-        "High House Life": 0.007,
-        "High House Iron": 0.021,
-        "High House Words": 0.382,
-        "High House Chains": 0.203
+        "High House War": 0.008,
+        "High House Coin": 0.053,
+        "High House Shadow": 0.164,
+        "High House Life": 0.093,
+        "High House Iron": -0.072,
+        "High House Words": 0.368,
+        "High House Chains": 0.055
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.532,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.967
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.951
       },
       "article": {
-        "title": "What U.S. Restrictions on Satellite Imagery Mean for Iran Reporting",
-        "url": "https://www.nytimes.com/2026/07/08/insider/iran-war-satellite-image-restrictions.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Increase in racism during World Cup reflects \u2018growing pattern of abuse\u2019",
+        "url": "https://www.theguardian.com/world/2026/jul/09/world-cup-racism-increase-social-media-kylian-mbappe",
+        "source": "guardian",
+        "full_text": "As players in the World Cup shore up their tactics and hone their teamwork skills ahead of the quarter-finals, a chorus of voices have warned that the rise of divisive political rhetoric is translating into an intensifying challenge for players on the pitch: a surge in racism. \u201cThere\u2019s a huge issue,\u201d said Samuel Okafor, the chief executive of Kick It Out, a UK-based organisation that seeks to tackle discrimination in football. \u201cThe political climate that we\u2019re facing is clearly finding its way into football. And it\u2019s making a huge difference in the levels of abuse we\u2019re seeing \u2013 people are certainly being emboldened now more than ever.\u201d The abuse is heightened by the fact that social media firms, for the most part, remain unaccountable for ensuring that their platforms are free from discrimination, he said. \u201cWhat should be a moment of celebration is clearly being marred by the abuse that\u2019s happening online but also in stadiums.\u201d Among the first to sound the alarm during the tournament was the global players\u2019 union Fifpro, which said this week that players were facing \u201ca growing pattern of abuse\u201d as it called for collective action to protect them. \u201cIn recent weeks, players have faced abuse online and in person, much of it racist and discriminatory,\u201d it said in a statement. \u201cThere has been intimidation and hostility beyond the pitch. These incidents are not isolated; they point to a systemic pattern that cannot remain an accepted part of football or society.\u201d The tournament has been punctuated by a spate of incidents, from the Dutch football association, the KNVB, saying it had filed an official complaint after players were targeted online with racist abuse following the Netherland\u2019s loss against Morocco, to the Paris prosecutor this week launching an investigation into the alleged racist attack on Kylian Mbapp\u00e9 by a Paraguayan senator. Earlier this month, the mayor of London, Sadiq Khan, called on the media regulator, Ofcom, to investigate what he described as the \u201cout of control\u201d online racism directed at World Cup players, including the England squad. \u201cWe can\u2019t allow a vile minority to divide us,\u201d he said on social media, while the former Yugoslavia and Atl\u00e9tico Madrid striker Rade Bogdanovi\u0107 caused outrage by making a racist comment on Serbian TV about Black players. Data collected by Fifa\u2019s social media protection service suggested the incidents were just the tip of the iceberg. The service said it had seen a 13-fold increase \u2060in online abuse during the group stage of the World Cup. Racially motivated abuse was the single largest category, making up 11% of flagged posts \u2013 up from 8% during the 2022 World Cup in Qatar \u2013 leading Fifa to note: \u201cthe data trends show a concerning direction of travel in terms of racially aggravated abuse\u201d. More than 100 posts had been referred to law enforcement officials, it added. While some of the increased social media activity could be owing to the tournament\u2019s expanded format or better detection systems, Okafor said the data was broadly in line with what Kick It Out was hearing on the ground. \u201cWhat we\u2019ve seen in English football is a week-on-week increase in discrimination towards players, match officials and their families,\u201d he said. \u201cI think it\u2019s no surprise that we\u2019re seeing the Dutch players, the German players, the French players, the English players all facing racial abuse because that\u2019s been the picture we\u2019ve seen this season in domestic football, but also in seasons before that.\u201d As a growing number of political leaders express racist thoughts and views, the window of what had become normalised had shifted, said Jacco van Sterkenburg, a professor who studies racism in sports at Erasmus University, in Rotterdam, the Netherlands. \u201cMost people would dismiss explicit racism, but the more implicit, subtle forms of racism have become almost more acceptable, or they are not easily detected any more because of the broader atmosphere,\u201d he said. \u201cAnd that subtle form of racism is the breeding"
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.379,
-      "scores": {
-        "High House War": 0.176,
-        "High House Coin": 0.379,
-        "High House Shadow": 0.134,
-        "High House Life": 0.025,
-        "High House Iron": 0.138,
-        "High House Words": 0.196,
-        "High House Chains": 0.317
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "America Was Being Played. The Bessent Doctrine Says Those Days Are Over.",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/scott-bessent-trade-economy.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -202,40 +202,46 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "UKRAINE",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.315,
-      "confidence": 0.48,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "POLITICIAN WANTS",
-      "actor_b": "LEBANON",
-      "relationship": "neutral",
-      "goldstein_avg": -0.626,
-      "confidence": 0.48,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
+      "house_a": "High House Coin",
+      "house_b": "High House Life",
       "actor_a": "IRAN",
+      "actor_b": "POLITICIAN WANTS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.915,
+      "confidence": 0.62,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Life",
+      "actor_a": "UKRAINE",
+      "actor_b": "POLITICIAN WANTS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.925,
+      "confidence": 0.62,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "UKRAINE",
       "actor_b": "LEBANON",
-      "relationship": "opposed",
-      "goldstein_avg": -2.572,
-      "confidence": 0.48,
+      "relationship": "neutral",
+      "goldstein_avg": -0.978,
+      "confidence": 0.62,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.451,
+      "source": "gdelt_volume"
+    }
+  }
 }
