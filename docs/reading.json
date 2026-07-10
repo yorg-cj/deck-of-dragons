@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "cards": [
     {
       "house": "High House Shadow",
@@ -89,6 +89,35 @@
       "position": "WANING"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.402,
+      "scores": {
+        "High House War": 0.075,
+        "High House Coin": 0.159,
+        "High House Shadow": 0.075,
+        "High House Life": 0.402,
+        "High House Iron": 0.068,
+        "High House Words": 0.16,
+        "High House Chains": 0.219
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Exclusive | Asia\u2019s top climate scientist warns of \u2018humanitarian disasters\u2019 as Earth teeters",
+        "url": "https://www.scmp.com/news/china/science/article/3360016/asias-top-climate-scientist-warns-humanitarian-disasters-earth-teeters?module=spotlight&pgtype=homepage",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -112,35 +141,6 @@
       "article": {
         "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
         "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.383,
-      "scores": {
-        "High House War": -0.058,
-        "High House Coin": 0.028,
-        "High House Shadow": -0.031,
-        "High House Life": 0.383,
-        "High House Iron": 0.043,
-        "High House Words": 0.055,
-        "High House Chains": 0.019
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "This Former G.O.P. Politician Wants to Take Politics Out of Climate Change",
-        "url": "https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html",
         "source": "nyt",
         "full_text": null
       },
@@ -179,68 +179,42 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.307,
+      "confidence": 0.335,
       "scores": {
-        "High House War": 0.171,
-        "High House Coin": 0.258,
-        "High House Shadow": 0.052,
-        "High House Life": 0.087,
-        "High House Iron": 0.066,
-        "High House Words": 0.232,
-        "High House Chains": 0.307
+        "High House War": 0.051,
+        "High House Coin": 0.275,
+        "High House Shadow": 0.08,
+        "High House Life": 0.096,
+        "High House Iron": 0.081,
+        "High House Words": 0.113,
+        "High House Chains": 0.335
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.543,
+        "confidence": 0.545,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "Lebanon\u2019s Christians Fear Sovereignty Will Be Traded in Regional Diplomacy",
-        "url": "https://www.ncregister.com/cna/lebanon-s-christians-fear-sovereignty-will-be-traded-in-regional-diplomacy",
+        "title": "Azerbaijan spills beans on its foreign state debt by July 2026",
+        "url": "https://www.trend.az/business/4205718.html",
         "source": "worldnews",
         "full_text": null
       },
       "position": "EMERGING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Life",
-      "actor_a": "IRAN",
-      "actor_b": "POLITICIAN WANTS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.915,
-      "confidence": 0.62,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Life",
-      "actor_a": "UKRAINE",
-      "actor_b": "POLITICIAN WANTS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.925,
-      "confidence": 0.62,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "UKRAINE",
-      "actor_b": "LEBANON",
-      "relationship": "neutral",
-      "goldstein_avg": -0.978,
-      "confidence": 0.62,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.451,
+      "trend_ratio": 0.473,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.644,
       "source": "gdelt_volume"
     }
   }
