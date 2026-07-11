@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,87 +33,58 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.498,
-      "scores": {
-        "High House War": 0.051,
-        "High House Coin": 0.11,
-        "High House Shadow": 0.211,
-        "High House Life": 0.108,
-        "High House Iron": 0.498,
-        "High House Words": 0.094,
-        "High House Chains": 0.083
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "How a Niche Technology Became a Choke Point for A.I.",
-        "url": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": true,
-      "confidence": 0.41,
-      "scores": {
-        "High House War": 0.146,
-        "High House Coin": 0.41,
-        "High House Shadow": 0.146,
-        "High House Life": 0.037,
-        "High House Iron": 0.1,
-        "High House Words": 0.121,
-        "High House Chains": 0.107
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes \u2013 as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh-us-strikes-iran-return-sanctions-tehran-federal-reserve-minutes-live-updates",
-        "source": "guardian",
-        "full_text": "Oil and gas prices jumped, stock markets slid and government bond yields rose after the US and Iran traded fresh strikes and Donald Trump said the shaky ceasefire was \u201cover\u201d. Brent crude, the global benchmark, climbed 5% to $77.86 a barrel. In stock markets, the UK\u2019s FTSE 100 fell 1%, or 110 points, to 10,556 while Germany\u2019s Dax tumbled 1.6% and Spain\u2019s Ibex lost 2%. Speaking at a NATO summit in Ankara, Trump also said he was cutting off trade with Spain over defence spending). On Wall Street, the S&amp;P 500 index fell nearly 0.5% while the Dow Jones slid 0.9% and the Nasdaq slipped 0.3%. In Asia, Japan\u2019s Nikkei ended the day 2.1% lower while China\u2019s CSI 300 declined 0.77% and South Korea\u2019s Kospi tumbled 5.5%, also hit by a sell-off in semiconductor shares. Eurozone government bond yields rose to their highest levels in almost a month, as higher oil prices stoked inflation fears. The yield, or interest rate, on Germany\u2019s 10-year bond rose 5 basis points to 3.034%, the highest since 11 July, as bonds sold off (yields move inversely to prices). The two-year bond yield, which is more sensitive to European Central Bank interest rate expectations, also climbed 5bps, to 2.637%, the highest since 22 June. The yield on the 10-year UK government bond, known as gilt, climbed 9bps to 4.94%. Thank you for reading. We\u2019ll be back tomorrow. Take care (and stay cool) \u2013 JK Wall Street is set to open lower, following sharp declines in European and Asian stock markets. Investors are spooked by remarks from Donald Trump, who said an interim deal aimed at ending the war with Iran is \u201cover\u201d. This has pushed crude oil prices sharply higher. Brent crude, the global benchmark, is up 5.1% at $77.9 a barrel. It extended gains after the US president\u2019s remarks, but was already 3.4% higher in early trading today, after the US and Iran traded strikes. Matthew Ryan, head of market strategy at Ebury, told Reuters: The million dollar question is whether this marks a complete breakdown in negotiations and a reutrn to hostilities, or merely a temporary setback. Energy stocks are rising whe travel shares fell, with higher ol prices stoking concerns over fuel costs and demand. Technology stocks also remain under pressure after a turbulent period in recent weeks, as investors reassess the AI boom. On the FTSE 100 index in London, BP, Shell and British Gas parent Centrica are leading the gains. The Dutch prosecutor\u2019s office said today it is launching legal action against the Dutch branch of the Indian steelmaker Tata Steel, over allegations of deliberate discharge of harmful substances into the environment. The prosecutor\u2019s office said, according to Reuters: The public prosecutor\u2019s office suspects the firm of having committed various criminal offences, including deliberate and unlawful release of harmful substances into the atmosphere, which could have adverse consequences for public health. A criminal investigation, focused on the process of steel production and operation of Tata Steel\u2019s coke oven gas plants, was launched in the wake of a complaint lodged in 2022 by a lawyer representing more than 800 complainants, the prosecution service said. Having examined the case file, the public prosecutor\u2019s office considers the criminal investigation provides sufficient evidence to bring criminal proceedings against the firm and take the case to court. Tata Steel IJmuiden, the Indian multinational\u2019s main Dutch-based steelworks, is also suspected of having \u201cfailed in its duty of care\u201d. The prosecutor\u2019s office accuses the company, among other things, of failing to carry out sufficient maintenance, operating \u201cwithout authorisation\u201d and failing to report \u201cseveral incidents involving raw coke\u201d, which is the product resulting from coal combustion. Coke is used in blast furnaces to convert iron ore to iron that can be further refined to produce steel. But resulting emissions comprise toxic air pollutants. In response, Tata Steel IJmuiden (TSIJ) said it took the concerns expressed"
-      },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
       "reversed": false,
-      "confidence": 0.402,
+      "confidence": 0.427,
       "scores": {
-        "High House War": 0.075,
-        "High House Coin": 0.159,
-        "High House Shadow": 0.075,
-        "High House Life": 0.402,
-        "High House Iron": 0.068,
-        "High House Words": 0.16,
-        "High House Chains": 0.219
+        "High House War": 0.118,
+        "High House Coin": 0.166,
+        "High House Shadow": 0.243,
+        "High House Life": 0.186,
+        "High House Iron": 0.427,
+        "High House Words": 0.101,
+        "High House Chains": 0.2
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.599
       },
       "article": {
-        "title": "Exclusive | Asia\u2019s top climate scientist warns of \u2018humanitarian disasters\u2019 as Earth teeters",
-        "url": "https://www.scmp.com/news/china/science/article/3360016/asias-top-climate-scientist-warns-humanitarian-disasters-earth-teeters?module=spotlight&pgtype=homepage",
+        "title": "Macroscope | Don\u2019t expect the rising tide of AI to lift all boats",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3360068/dont-expect-rising-tide-ai-lift-all-boats?module=opinion&pgtype=homepage",
         "source": "worldnews",
         "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.394,
+      "scores": {
+        "High House War": 0.065,
+        "High House Coin": 0.065,
+        "High House Shadow": 0.144,
+        "High House Life": 0.394,
+        "High House Iron": -0.004,
+        "High House Words": 0.044,
+        "High House Chains": 0.033
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat ",
+        "url": "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc",
+        "source": "guardian",
+        "full_text": "Nearly two months after the Democratic Republic of the Congo (DRC) confirmed an Ebola outbreak in one province, the virus is continuing to spread rapidly, reaching more parts of the country and infecting more people. According to government data from 8 July, 1,759 cases and 600 deaths have been recorded. The virus has also spread to Uganda, where there have been 20 confirmed cases, including two deaths. The outbreaks are caused by the rare Bundibugyo variant, which has no approved treatment or vaccine. Wessam Mankoula, the head of emergency preparedness and response for the Africa Centres for Disease Control and Prevention, told reporters on Thursday that the outbreak was the fastest growing ever, not only of the previous Bundibugyo outbreaks but of all the different viruses that cause Ebola. In another worrying development, the Congolese health ministry said suspected cases had now been recorded in the provinces of Tshopo and Haut-U\u00e9l\u00e9, indicating the continued spread of the disease beyond the centre in Ituri. Experts say the spread of the disease has been intensified by several factors, including ongoing conflict, aid cuts and attacks on healthcare workers and treatment centres. They also warn that the outbreak could become the deadliest on record. How have these factors affected the spread of the disease and measures to contain the outbreak? A dangerous overlap of conflict and disease The DRC outbreak was first reported in May in Ituri province in the north-east. It has spread to the neighbouring provinces of North Kivu and South Kivu. The three regions are sites of lengthy armed conflicts, involving different actors, that have caused deaths and displacements. Ituri is the centre of a long-running conflict between militias vying for control of its mineral resources. Ladd Serwat, a senior analyst at the Acled conflict monitoring group, said armed groups in the province have complicated humanitarian access in the past, particularly where communities are perceived to be aligned with rival ethnic groups. In North Kivu and South Kivu, the Congolese army and allied militia are fighting the M23 rebel coalition. The government and the rebels control different parts of the province. Serwat said that although health workers can travel through the provinces, the administrations will make it more difficult to coordinate the medical response and the sharing of information. He added: \u201cThe overlap between militant activity, population displacement and weak state control could significantly complicate efforts to contain the outbreak. An assessment by the International Organisation for Migration earlier this year found that 3.3 million displaced people live in Ituri, North Kivu and South Kivu, the last of which hosts 1.2 million alone. The collapse of humanitarian funding Humanitarian funding for the DRC declined sharply in 2025, largely because the Trump administration froze foreign aid assistance to programmes funded through the state department. Carla Martinez, the DRC head at the UN\u2019s Office for the Coordination of Humanitarian Affairs, said the reduction in funding forced more than 10 humanitarian organisations to reduce or suspend activities. That weakened local health systems and surveillance networks, making it harder to detect and contain outbreaks quickly and increasing the risks posed by Ebola and other diseases, she explained. \u201cThe Ebola outbreak is a stark reminder that when humanitarian systems are underfunded, they become more vulnerable to new emergencies,\u201d she said. \u201cWithout additional resources, both the public health response and broader humanitarian operations will come under increasing strain, with potentially serious consequences for the DRC and the wider region.\u201d Healthcare under attack Healthcare workers and treatment centres for Ebola have come under attack both in the current outbreak and past ones in Ituri, North Kivu and South Kivu. The incidents include violence, riots and property damage, and disrupt the provis"
       },
       "position": "FOUNDATION"
     },
@@ -147,6 +118,35 @@
       "position": "WILD"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.383,
+      "scores": {
+        "High House War": 0.224,
+        "High House Coin": 0.383,
+        "High House Shadow": 0.185,
+        "High House Life": 0.203,
+        "High House Iron": 0.216,
+        "High House Words": 0.223,
+        "High House Chains": 0.351
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "The World\u2019s Superpowers Are Scrambling for an Edge. It Makes All of Us Less Safe.",
+        "url": "https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
@@ -173,49 +173,38 @@
         "source": "guardian",
         "full_text": "As players in the World Cup shore up their tactics and hone their teamwork skills ahead of the quarter-finals, a chorus of voices have warned that the rise of divisive political rhetoric is translating into an intensifying challenge for players on the pitch: a surge in racism. \u201cThere\u2019s a huge issue,\u201d said Samuel Okafor, the chief executive of Kick It Out, a UK-based organisation that seeks to tackle discrimination in football. \u201cThe political climate that we\u2019re facing is clearly finding its way into football. And it\u2019s making a huge difference in the levels of abuse we\u2019re seeing \u2013 people are certainly being emboldened now more than ever.\u201d The abuse is heightened by the fact that social media firms, for the most part, remain unaccountable for ensuring that their platforms are free from discrimination, he said. \u201cWhat should be a moment of celebration is clearly being marred by the abuse that\u2019s happening online but also in stadiums.\u201d Among the first to sound the alarm during the tournament was the global players\u2019 union Fifpro, which said this week that players were facing \u201ca growing pattern of abuse\u201d as it called for collective action to protect them. \u201cIn recent weeks, players have faced abuse online and in person, much of it racist and discriminatory,\u201d it said in a statement. \u201cThere has been intimidation and hostility beyond the pitch. These incidents are not isolated; they point to a systemic pattern that cannot remain an accepted part of football or society.\u201d The tournament has been punctuated by a spate of incidents, from the Dutch football association, the KNVB, saying it had filed an official complaint after players were targeted online with racist abuse following the Netherland\u2019s loss against Morocco, to the Paris prosecutor this week launching an investigation into the alleged racist attack on Kylian Mbapp\u00e9 by a Paraguayan senator. Earlier this month, the mayor of London, Sadiq Khan, called on the media regulator, Ofcom, to investigate what he described as the \u201cout of control\u201d online racism directed at World Cup players, including the England squad. \u201cWe can\u2019t allow a vile minority to divide us,\u201d he said on social media, while the former Yugoslavia and Atl\u00e9tico Madrid striker Rade Bogdanovi\u0107 caused outrage by making a racist comment on Serbian TV about Black players. Data collected by Fifa\u2019s social media protection service suggested the incidents were just the tip of the iceberg. The service said it had seen a 13-fold increase \u2060in online abuse during the group stage of the World Cup. Racially motivated abuse was the single largest category, making up 11% of flagged posts \u2013 up from 8% during the 2022 World Cup in Qatar \u2013 leading Fifa to note: \u201cthe data trends show a concerning direction of travel in terms of racially aggravated abuse\u201d. More than 100 posts had been referred to law enforcement officials, it added. While some of the increased social media activity could be owing to the tournament\u2019s expanded format or better detection systems, Okafor said the data was broadly in line with what Kick It Out was hearing on the ground. \u201cWhat we\u2019ve seen in English football is a week-on-week increase in discrimination towards players, match officials and their families,\u201d he said. \u201cI think it\u2019s no surprise that we\u2019re seeing the Dutch players, the German players, the French players, the English players all facing racial abuse because that\u2019s been the picture we\u2019ve seen this season in domestic football, but also in seasons before that.\u201d As a growing number of political leaders express racist thoughts and views, the window of what had become normalised had shifted, said Jacco van Sterkenburg, a professor who studies racism in sports at Erasmus University, in Rotterdam, the Netherlands. \u201cMost people would dismiss explicit racism, but the more implicit, subtle forms of racism have become almost more acceptable, or they are not easily detected any more because of the broader atmosphere,\u201d he said. \u201cAnd that subtle form of racism is the breeding"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.335,
+      "confidence": 0.363,
       "scores": {
-        "High House War": 0.051,
-        "High House Coin": 0.275,
-        "High House Shadow": 0.08,
-        "High House Life": 0.096,
-        "High House Iron": 0.081,
-        "High House Words": 0.113,
-        "High House Chains": 0.335
+        "High House War": 0.056,
+        "High House Coin": 0.186,
+        "High House Shadow": 0.008,
+        "High House Life": 0.043,
+        "High House Iron": 0.069,
+        "High House Words": 0.21,
+        "High House Chains": 0.363
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.528,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.96
       },
       "article": {
-        "title": "Azerbaijan spills beans on its foreign state debt by July 2026",
-        "url": "https://www.trend.az/business/4205718.html",
+        "title": "Explained: Why the South China Sea Arbitration Still Matters",
+        "url": "https://abclive.in/2026/07/11/explained-why-the-south-china-sea-arbitration-still-matters",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.473,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.644,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
