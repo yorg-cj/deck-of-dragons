@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,31 +31,31 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.427,
+      "confidence": 0.423,
       "scores": {
-        "High House War": 0.118,
-        "High House Coin": 0.166,
-        "High House Shadow": 0.243,
-        "High House Life": 0.186,
-        "High House Iron": 0.427,
-        "High House Words": 0.101,
-        "High House Chains": 0.2
+        "High House War": 0.031,
+        "High House Coin": 0.341,
+        "High House Shadow": 0.071,
+        "High House Life": 0.154,
+        "High House Iron": 0.09,
+        "High House Words": 0.221,
+        "High House Chains": 0.423
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.599
+        "sentiment_score": 0.526
       },
       "article": {
-        "title": "Macroscope | Don\u2019t expect the rising tide of AI to lift all boats",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3360068/dont-expect-rising-tide-ai-lift-all-boats?module=opinion&pgtype=homepage",
-        "source": "worldnews",
-        "full_text": null
+        "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+        "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+        "source": "guardian",
+        "full_text": "The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements. EU foreign ministers meeting in Brussels on Monday will discuss a possible ban on imports from the settlements, against an ongoing humanitarian crisis in Gaza, where a UN inquiry found Israel to be committing a genocide, and surging state-backed violence in the occupied West Bank, which has killed at least 235 children. But the 27 ministers are not expected to take decisions about trade amid persistent divisions about how to respond to Israel\u2019s prime minister, Benjamin Netanyahu, and his government. A part or total ban on imports from settlements is one of three options presented by the European Commission in a paper seen by the Guardian. The other two options are high tariffs that make trade economically unviable or an import licensing system. The leaked paper was first reported by Euronews. Written in cautious, bureaucratic language, the paper notes that the options \u201ccan have a substantive impact on the EU-Israel relationship, also in view of the upcoming election\u201d, underscoring that the commission is mindful of Israel\u2019s general election later this year. Israelis are due to go to the polls by 27 October, the first electoral test for Netanyahu since the 7 October 2023 terror attacks by Hamas. Under the EU-Israel agreement, goods from the occupied Palestinian territories (the Golan Heights, Gaza and the West Bank, including East Jerusalem) are not entitled to the preferential trade terms that apply to Israel. At least 10 European member states, including Belgium, the Netherlands and Spain, say the EU has an obligation to end trade with occupied territories, following a ruling from the international court of justice (ICJ) in 2024 that called on Israel to end its occupation of the Palestinian territories \u201cas rapidly as possible\u201d. The ruling found multiple breaches of international law by Israel including activities that amounted to apartheid. It said that states had to \u201ctake steps to prevent trade or investment relations that assists in the maintenance of the illegal situation created by Israel in the occupied Palestinian territory\u201d. This call to end trade with the settlements is backed by more than 100 legal scholars, who wrote to the European Commission\u2019s most senior trade and foreign policy officials this month affirming the EU\u2019s \u201cinternational legal obligation\u201d. Ignacio Garc\u00eda Bercero, a former senior trade official at the commission, who signed the letter, said: \u201cThe only way to ensure compliance with the opinion of the ICJ is a ban on trade with the illegal settlements. Any other option will not be effective in view of Israeli policy to compensate settlement producers from tariffs paid on their exports to the EU.\u201d A recent investigation by NGO Global Echo found that Israeli exporters benefit from illegal tax breaks for products cultivated in settlements, while Israeli tax authorities permit misleading labels. One in six shipments that the NGO investigated contained agricultural products that had originated in settlements in occupied Palestinian territory and the Syrian Golan Heights, at least 42% of which had been mislabelled as Israeli-grown. But the EU is not expected to act anytime soon, amid an ongoing dispute about whether a ban on trade with illegal settlements can be done via a qualified majority vote or requires unanimity. After Monday\u2019s meeting, EU foreign ministers will not gather in a decision-making format until October. The maximalist outcome from Monday, sources suggested, could be a call from a simple majority of member states to demand a legal proposal on ending illegal settlement trade. Alberto Alemanno, a law professor at the HEC Paris business school, said: \u201cEach month of delay doesn\u2019t just postpone compliance, it deepens the EU\u2019s own legal liability for sustaining trade with an unlawful occupation.\u201d One senior EU diplomat said it had bee"
       },
       "position": "ASCENDING"
     },
@@ -92,73 +92,15 @@
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.393,
+      "confidence": 0.39,
       "scores": {
-        "High House War": 0.393,
-        "High House Coin": 0.126,
-        "High House Shadow": 0.21,
-        "High House Life": 0.103,
-        "High House Iron": 0.106,
-        "High House Words": 0.266,
-        "High House Chains": 0.162
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.971
-      },
-      "article": {
-        "title": "The War in Ukraine Has Now Gone On Longer Than World War I",
-        "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.383,
-      "scores": {
-        "High House War": 0.224,
-        "High House Coin": 0.383,
-        "High House Shadow": 0.185,
-        "High House Life": 0.203,
-        "High House Iron": 0.216,
-        "High House Words": 0.223,
-        "High House Chains": 0.351
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "The World\u2019s Superpowers Are Scrambling for an Edge. It Makes All of Us Less Safe.",
-        "url": "https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.368,
-      "scores": {
-        "High House War": 0.008,
-        "High House Coin": 0.053,
-        "High House Shadow": 0.164,
-        "High House Life": 0.093,
-        "High House Iron": -0.072,
-        "High House Words": 0.368,
-        "High House Chains": 0.055
+        "High House War": 0.39,
+        "High House Coin": 0.145,
+        "High House Shadow": 0.181,
+        "High House Life": 0.08,
+        "High House Iron": 0.054,
+        "High House Words": 0.248,
+        "High House Chains": 0.19
       },
       "reversal": {
         "reversed": false,
@@ -168,39 +110,97 @@
         "sentiment_score": 0.951
       },
       "article": {
-        "title": "Increase in racism during World Cup reflects \u2018growing pattern of abuse\u2019",
-        "url": "https://www.theguardian.com/world/2026/jul/09/world-cup-racism-increase-social-media-kylian-mbappe",
-        "source": "guardian",
-        "full_text": "As players in the World Cup shore up their tactics and hone their teamwork skills ahead of the quarter-finals, a chorus of voices have warned that the rise of divisive political rhetoric is translating into an intensifying challenge for players on the pitch: a surge in racism. \u201cThere\u2019s a huge issue,\u201d said Samuel Okafor, the chief executive of Kick It Out, a UK-based organisation that seeks to tackle discrimination in football. \u201cThe political climate that we\u2019re facing is clearly finding its way into football. And it\u2019s making a huge difference in the levels of abuse we\u2019re seeing \u2013 people are certainly being emboldened now more than ever.\u201d The abuse is heightened by the fact that social media firms, for the most part, remain unaccountable for ensuring that their platforms are free from discrimination, he said. \u201cWhat should be a moment of celebration is clearly being marred by the abuse that\u2019s happening online but also in stadiums.\u201d Among the first to sound the alarm during the tournament was the global players\u2019 union Fifpro, which said this week that players were facing \u201ca growing pattern of abuse\u201d as it called for collective action to protect them. \u201cIn recent weeks, players have faced abuse online and in person, much of it racist and discriminatory,\u201d it said in a statement. \u201cThere has been intimidation and hostility beyond the pitch. These incidents are not isolated; they point to a systemic pattern that cannot remain an accepted part of football or society.\u201d The tournament has been punctuated by a spate of incidents, from the Dutch football association, the KNVB, saying it had filed an official complaint after players were targeted online with racist abuse following the Netherland\u2019s loss against Morocco, to the Paris prosecutor this week launching an investigation into the alleged racist attack on Kylian Mbapp\u00e9 by a Paraguayan senator. Earlier this month, the mayor of London, Sadiq Khan, called on the media regulator, Ofcom, to investigate what he described as the \u201cout of control\u201d online racism directed at World Cup players, including the England squad. \u201cWe can\u2019t allow a vile minority to divide us,\u201d he said on social media, while the former Yugoslavia and Atl\u00e9tico Madrid striker Rade Bogdanovi\u0107 caused outrage by making a racist comment on Serbian TV about Black players. Data collected by Fifa\u2019s social media protection service suggested the incidents were just the tip of the iceberg. The service said it had seen a 13-fold increase \u2060in online abuse during the group stage of the World Cup. Racially motivated abuse was the single largest category, making up 11% of flagged posts \u2013 up from 8% during the 2022 World Cup in Qatar \u2013 leading Fifa to note: \u201cthe data trends show a concerning direction of travel in terms of racially aggravated abuse\u201d. More than 100 posts had been referred to law enforcement officials, it added. While some of the increased social media activity could be owing to the tournament\u2019s expanded format or better detection systems, Okafor said the data was broadly in line with what Kick It Out was hearing on the ground. \u201cWhat we\u2019ve seen in English football is a week-on-week increase in discrimination towards players, match officials and their families,\u201d he said. \u201cI think it\u2019s no surprise that we\u2019re seeing the Dutch players, the German players, the French players, the English players all facing racial abuse because that\u2019s been the picture we\u2019ve seen this season in domestic football, but also in seasons before that.\u201d As a growing number of political leaders express racist thoughts and views, the window of what had become normalised had shifted, said Jacco van Sterkenburg, a professor who studies racism in sports at Erasmus University, in Rotterdam, the Netherlands. \u201cMost people would dismiss explicit racism, but the more implicit, subtle forms of racism have become almost more acceptable, or they are not easily detected any more because of the broader atmosphere,\u201d he said. \u201cAnd that subtle form of racism is the breeding"
+        "title": "'Preparing for massive rocket fire': IDF unveils first operational records from 2006 Lebanon war",
+        "url": "https://www.ynetnews.com/article/sjlqyaevfe",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.375,
+      "scores": {
+        "High House War": 0.101,
+        "High House Coin": 0.375,
+        "High House Shadow": 0.16,
+        "High House Life": 0.143,
+        "High House Iron": 0.144,
+        "High House Words": 0.136,
+        "High House Chains": 0.194
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.972
+      },
+      "article": {
+        "title": "A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.",
+        "url": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.372,
+      "scores": {
+        "High House War": 0.058,
+        "High House Coin": 0.099,
+        "High House Shadow": 0.181,
+        "High House Life": 0.222,
+        "High House Iron": 0.372,
+        "High House Words": 0.119,
+        "High House Chains": 0.105
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.541,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.984
+      },
+      "article": {
+        "title": "Anthropic Won a Reprieve From Washington. Is It Enough?",
+        "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.363,
+      "confidence": 0.278,
       "scores": {
-        "High House War": 0.056,
-        "High House Coin": 0.186,
-        "High House Shadow": 0.008,
-        "High House Life": 0.043,
-        "High House Iron": 0.069,
-        "High House Words": 0.21,
-        "High House Chains": 0.363
+        "High House War": -0.036,
+        "High House Coin": 0.066,
+        "High House Shadow": 0.146,
+        "High House Life": 0.264,
+        "High House Iron": 0.013,
+        "High House Words": 0.278,
+        "High House Chains": 0.072
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.528,
+        "confidence": 0.535,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.96
+        "sentiment_score": 0.973
       },
       "article": {
-        "title": "Explained: Why the South China Sea Arbitration Still Matters",
-        "url": "https://abclive.in/2026/07/11/explained-why-the-south-china-sea-arbitration-still-matters",
-        "source": "worldnews",
-        "full_text": null
+        "title": "The 13 biggest myths about heatwaves \u2013 and how to bust them ",
+        "url": "https://www.theguardian.com/environment/2026/jul/11/the-13-biggest-myths-about-heatwaves-and-how-to-bust-them",
+        "source": "guardian",
+        "full_text": "Some people \u2013 and media organisations \u2013 still have difficulty connecting the heatwaves currently gripping much of the world and human-caused climate chaos. Others are in outright denial. So how to address their evasions, distractions and lies? The Guardian has trawled through climate sceptics\u2019 claims and put their doubts to one of the UK\u2019s top climate scientists, Prof Ed Hawkins at the University of Reading. As the inventor of the famous \u201cclimate stripes\u201d graphic, which visually represents the change in temperature as measured in each country, region or city over at least a century, he has arguably done as good a job in communicating global heating as anyone. Here are his responses to those who ignore or downplay the truth. It has been hot, but mostly bearable. Can\u2019t we just get used to this as the new normal? The \u201cnormal\u201d for humans and other life is fundamentally changing: high temperatures today are likely to seem cool in comparison with those of the future. The warmest 10 years on record have all happened in the past decade. And while an average global increase of 1C or 1.5C doesn\u2019t sound like much \u2013 and might even seem quite nice on a typical day \u2013 that is not how we experience a changing climate. The extremes are often changing faster than the mean. For example, while the global average rose by 1C, heatwaves in southern England have become 3C hotter. Scientists disagree on how much humanity is affecting the climate, right? No. We are certain that global warming is caused by human activities, primarily burning fossil fuels such as gas, oil and coal. Every heatwave and every summer is hotter than it would otherwise have been without those greenhouse gas emissions. That\u2019s the simple message from climate scientists and experts around the world. This is a complex subject and there are degrees of uncertainty. Isn\u2019t there room for doubt? The physics and chemistry are very simple: the more we increase greenhouse gas levels in the atmosphere, the more we will warm the climate. Those basics have been known since the 1850s, with the first quantification of the effect of increasing carbon dioxide levels being made in the 1890s. In 1938, Guy Callendar, an English steam engineer, was the first person to show that the world had already warmed by about 0.3C, and linked this to the rise in carbon dioxide levels in the atmosphere and the amount of coal that had been burned. That was more than 80 years ago. Today, the evidence is overwhelming. There is no doubt among scientists even if other people still refuse to believe it. Aren\u2019t heatwaves this year caused by natural weather cycles? I heard it was because of El Ni\u00f1o We\u2019ve always had, and we\u2019ll always have in the future, times when the weather patterns align to give us extreme weather such as heatwaves and floods. But now the consequences are worse because of our warmer world. El Ni\u00f1o is a natural fluctuation every few years in temperatures in the tropical Pacific, which affects weather patterns around the world but especially in South America, the US, Africa, Australia and parts of Asia. But the current El Ni\u00f1o has just started and won\u2019t be peaking until around Christmas of this year \u2013 and is forecast to be a very big one. How about the theory that this is happening because the Earth\u2019s orbit is moving closer to the sun? The Earth\u2019s orbit around the sun does affect our climate on very long timescales, over tens of thousands of years. At the time of the invention of the steam engine in the 18th century, this was pushing the Earth on to a slightly cooler path. Yet, what we have seen instead is a very rapid warming, which is not caused by the changes in the Earth\u2019s orbit. It is because the Industrial Revolution led to the burning of many more fossil fuels. Many remember the 1976 heatwave in the UK. How is this summer any different? There has been a big change in our climate in recent decades. In 1976, northern Europe was an isolated hotspot surrounded by regions experiencing a relatively co"
       },
       "position": "WANING"
     }
