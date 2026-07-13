@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,64 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.486,
+      "scores": {
+        "High House War": 0.042,
+        "High House Coin": 0.486,
+        "High House Shadow": 0.114,
+        "High House Life": 0.036,
+        "High House Iron": 0.125,
+        "High House Words": 0.101,
+        "High House Chains": 0.245
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "THE ECONOMIST: Visa and Mastercard face growing threat as world against America\u2019s global financial dominance",
+        "url": "https://thewest.com.au/business/the-economist/the-economist-visa-and-mastercard-face-growing-threat-as-world-against-americas-global-financial-dominance-c-22568441",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.444,
+      "scores": {
+        "High House War": 0.123,
+        "High House Coin": 0.156,
+        "High House Shadow": 0.196,
+        "High House Life": 0.03,
+        "High House Iron": 0.444,
+        "High House Words": 0.029,
+        "High House Chains": 0.012
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "US Tech Layoffs Surge: 123,653 Jobs Cut in H1 2026 Amid AI Shift, Says Report",
+        "url": "https://www.latestly.com/technology/us-tech-layoffs-surge-123653-jobs-cut-in-h1-2026-amid-ai-shift-says-report-7514815.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
@@ -57,154 +115,117 @@
         "source": "guardian",
         "full_text": "The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements. EU foreign ministers meeting in Brussels on Monday will discuss a possible ban on imports from the settlements, against an ongoing humanitarian crisis in Gaza, where a UN inquiry found Israel to be committing a genocide, and surging state-backed violence in the occupied West Bank, which has killed at least 235 children. But the 27 ministers are not expected to take decisions about trade amid persistent divisions about how to respond to Israel\u2019s prime minister, Benjamin Netanyahu, and his government. A part or total ban on imports from settlements is one of three options presented by the European Commission in a paper seen by the Guardian. The other two options are high tariffs that make trade economically unviable or an import licensing system. The leaked paper was first reported by Euronews. Written in cautious, bureaucratic language, the paper notes that the options \u201ccan have a substantive impact on the EU-Israel relationship, also in view of the upcoming election\u201d, underscoring that the commission is mindful of Israel\u2019s general election later this year. Israelis are due to go to the polls by 27 October, the first electoral test for Netanyahu since the 7 October 2023 terror attacks by Hamas. Under the EU-Israel agreement, goods from the occupied Palestinian territories (the Golan Heights, Gaza and the West Bank, including East Jerusalem) are not entitled to the preferential trade terms that apply to Israel. At least 10 European member states, including Belgium, the Netherlands and Spain, say the EU has an obligation to end trade with occupied territories, following a ruling from the international court of justice (ICJ) in 2024 that called on Israel to end its occupation of the Palestinian territories \u201cas rapidly as possible\u201d. The ruling found multiple breaches of international law by Israel including activities that amounted to apartheid. It said that states had to \u201ctake steps to prevent trade or investment relations that assists in the maintenance of the illegal situation created by Israel in the occupied Palestinian territory\u201d. This call to end trade with the settlements is backed by more than 100 legal scholars, who wrote to the European Commission\u2019s most senior trade and foreign policy officials this month affirming the EU\u2019s \u201cinternational legal obligation\u201d. Ignacio Garc\u00eda Bercero, a former senior trade official at the commission, who signed the letter, said: \u201cThe only way to ensure compliance with the opinion of the ICJ is a ban on trade with the illegal settlements. Any other option will not be effective in view of Israeli policy to compensate settlement producers from tariffs paid on their exports to the EU.\u201d A recent investigation by NGO Global Echo found that Israeli exporters benefit from illegal tax breaks for products cultivated in settlements, while Israeli tax authorities permit misleading labels. One in six shipments that the NGO investigated contained agricultural products that had originated in settlements in occupied Palestinian territory and the Syrian Golan Heights, at least 42% of which had been mislabelled as Israeli-grown. But the EU is not expected to act anytime soon, amid an ongoing dispute about whether a ban on trade with illegal settlements can be done via a qualified majority vote or requires unanimity. After Monday\u2019s meeting, EU foreign ministers will not gather in a decision-making format until October. The maximalist outcome from Monday, sources suggested, could be a call from a simple majority of member states to demand a legal proposal on ending illegal settlement trade. Alberto Alemanno, a law professor at the HEC Paris business school, said: \u201cEach month of delay doesn\u2019t just postpone compliance, it deepens the EU\u2019s own legal liability for sustaining trade with an unlawful occupation.\u201d One senior EU diplomat said it had bee"
       },
-      "position": "ASCENDING"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.394,
-      "scores": {
-        "High House War": 0.065,
-        "High House Coin": 0.065,
-        "High House Shadow": 0.144,
-        "High House Life": 0.394,
-        "High House Iron": -0.004,
-        "High House Words": 0.044,
-        "High House Chains": 0.033
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
-      },
-      "article": {
-        "title": "Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat ",
-        "url": "https://www.theguardian.com/world/2026/jul/10/visualised-how-conflict-aid-cuts-and-health-worker-attacks-are-helping-ebola-spread-in-drc",
-        "source": "guardian",
-        "full_text": "Nearly two months after the Democratic Republic of the Congo (DRC) confirmed an Ebola outbreak in one province, the virus is continuing to spread rapidly, reaching more parts of the country and infecting more people. According to government data from 8 July, 1,759 cases and 600 deaths have been recorded. The virus has also spread to Uganda, where there have been 20 confirmed cases, including two deaths. The outbreaks are caused by the rare Bundibugyo variant, which has no approved treatment or vaccine. Wessam Mankoula, the head of emergency preparedness and response for the Africa Centres for Disease Control and Prevention, told reporters on Thursday that the outbreak was the fastest growing ever, not only of the previous Bundibugyo outbreaks but of all the different viruses that cause Ebola. In another worrying development, the Congolese health ministry said suspected cases had now been recorded in the provinces of Tshopo and Haut-U\u00e9l\u00e9, indicating the continued spread of the disease beyond the centre in Ituri. Experts say the spread of the disease has been intensified by several factors, including ongoing conflict, aid cuts and attacks on healthcare workers and treatment centres. They also warn that the outbreak could become the deadliest on record. How have these factors affected the spread of the disease and measures to contain the outbreak? A dangerous overlap of conflict and disease The DRC outbreak was first reported in May in Ituri province in the north-east. It has spread to the neighbouring provinces of North Kivu and South Kivu. The three regions are sites of lengthy armed conflicts, involving different actors, that have caused deaths and displacements. Ituri is the centre of a long-running conflict between militias vying for control of its mineral resources. Ladd Serwat, a senior analyst at the Acled conflict monitoring group, said armed groups in the province have complicated humanitarian access in the past, particularly where communities are perceived to be aligned with rival ethnic groups. In North Kivu and South Kivu, the Congolese army and allied militia are fighting the M23 rebel coalition. The government and the rebels control different parts of the province. Serwat said that although health workers can travel through the provinces, the administrations will make it more difficult to coordinate the medical response and the sharing of information. He added: \u201cThe overlap between militant activity, population displacement and weak state control could significantly complicate efforts to contain the outbreak. An assessment by the International Organisation for Migration earlier this year found that 3.3 million displaced people live in Ituri, North Kivu and South Kivu, the last of which hosts 1.2 million alone. The collapse of humanitarian funding Humanitarian funding for the DRC declined sharply in 2025, largely because the Trump administration froze foreign aid assistance to programmes funded through the state department. Carla Martinez, the DRC head at the UN\u2019s Office for the Coordination of Humanitarian Affairs, said the reduction in funding forced more than 10 humanitarian organisations to reduce or suspend activities. That weakened local health systems and surveillance networks, making it harder to detect and contain outbreaks quickly and increasing the risks posed by Ebola and other diseases, she explained. \u201cThe Ebola outbreak is a stark reminder that when humanitarian systems are underfunded, they become more vulnerable to new emergencies,\u201d she said. \u201cWithout additional resources, both the public health response and broader humanitarian operations will come under increasing strain, with potentially serious consequences for the DRC and the wider region.\u201d Healthcare under attack Healthcare workers and treatment centres for Ebola have come under attack both in the current outbreak and past ones in Ituri, North Kivu and South Kivu. The incidents include violence, riots and property damage, and disrupt the provis"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
       "reversed": false,
       "confidence": 0.39,
       "scores": {
-        "High House War": 0.39,
-        "High House Coin": 0.145,
-        "High House Shadow": 0.181,
-        "High House Life": 0.08,
-        "High House Iron": 0.054,
-        "High House Words": 0.248,
-        "High House Chains": 0.19
+        "High House War": 0.085,
+        "High House Coin": 0.157,
+        "High House Shadow": 0.078,
+        "High House Life": 0.39,
+        "High House Iron": 0.059,
+        "High House Words": 0.154,
+        "High House Chains": 0.203
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.951
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "'Preparing for massive rocket fire': IDF unveils first operational records from 2006 Lebanon war",
-        "url": "https://www.ynetnews.com/article/sjlqyaevfe",
+        "title": "Asia\u2019s top climate scientist warns of \u2018humanitarian disasters\u2019 as Earth teeters",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/asias-top-climate-scientist-warns-of-humanitarian-disasters-as-earth-teeters",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.375,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.101,
-        "High House Coin": 0.375,
-        "High House Shadow": 0.16,
-        "High House Life": 0.143,
-        "High House Iron": 0.144,
-        "High House Words": 0.136,
-        "High House Chains": 0.194
+        "High House War": 0.102,
+        "High House Coin": 0.173,
+        "High House Shadow": 0.189,
+        "High House Life": 0.122,
+        "High House Iron": -0.027,
+        "High House Words": 0.377,
+        "High House Chains": 0.102
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.972
+        "sentiment_score": 0.887
       },
       "article": {
-        "title": "A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.",
-        "url": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.372,
-      "scores": {
-        "High House War": 0.058,
-        "High House Coin": 0.099,
-        "High House Shadow": 0.181,
-        "High House Life": 0.222,
-        "High House Iron": 0.372,
-        "High House Words": 0.119,
-        "High House Chains": 0.105
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.541,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
-      },
-      "article": {
-        "title": "Anthropic Won a Reprieve From Washington. Is It Enough?",
-        "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html",
-        "source": "nyt",
+        "title": "Press review: Hormuz crisis overshadows Iran nuclear issue and EU divided on Russia talks",
+        "url": "https://tass.com/pressreview/2159319",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.278,
+      "confidence": 0.341,
       "scores": {
-        "High House War": -0.036,
-        "High House Coin": 0.066,
-        "High House Shadow": 0.146,
-        "High House Life": 0.264,
-        "High House Iron": 0.013,
-        "High House Words": 0.278,
-        "High House Chains": 0.072
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.535,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.973
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "The 13 biggest myths about heatwaves \u2013 and how to bust them ",
-        "url": "https://www.theguardian.com/environment/2026/jul/11/the-13-biggest-myths-about-heatwaves-and-how-to-bust-them",
-        "source": "guardian",
-        "full_text": "Some people \u2013 and media organisations \u2013 still have difficulty connecting the heatwaves currently gripping much of the world and human-caused climate chaos. Others are in outright denial. So how to address their evasions, distractions and lies? The Guardian has trawled through climate sceptics\u2019 claims and put their doubts to one of the UK\u2019s top climate scientists, Prof Ed Hawkins at the University of Reading. As the inventor of the famous \u201cclimate stripes\u201d graphic, which visually represents the change in temperature as measured in each country, region or city over at least a century, he has arguably done as good a job in communicating global heating as anyone. Here are his responses to those who ignore or downplay the truth. It has been hot, but mostly bearable. Can\u2019t we just get used to this as the new normal? The \u201cnormal\u201d for humans and other life is fundamentally changing: high temperatures today are likely to seem cool in comparison with those of the future. The warmest 10 years on record have all happened in the past decade. And while an average global increase of 1C or 1.5C doesn\u2019t sound like much \u2013 and might even seem quite nice on a typical day \u2013 that is not how we experience a changing climate. The extremes are often changing faster than the mean. For example, while the global average rose by 1C, heatwaves in southern England have become 3C hotter. Scientists disagree on how much humanity is affecting the climate, right? No. We are certain that global warming is caused by human activities, primarily burning fossil fuels such as gas, oil and coal. Every heatwave and every summer is hotter than it would otherwise have been without those greenhouse gas emissions. That\u2019s the simple message from climate scientists and experts around the world. This is a complex subject and there are degrees of uncertainty. Isn\u2019t there room for doubt? The physics and chemistry are very simple: the more we increase greenhouse gas levels in the atmosphere, the more we will warm the climate. Those basics have been known since the 1850s, with the first quantification of the effect of increasing carbon dioxide levels being made in the 1890s. In 1938, Guy Callendar, an English steam engineer, was the first person to show that the world had already warmed by about 0.3C, and linked this to the rise in carbon dioxide levels in the atmosphere and the amount of coal that had been burned. That was more than 80 years ago. Today, the evidence is overwhelming. There is no doubt among scientists even if other people still refuse to believe it. Aren\u2019t heatwaves this year caused by natural weather cycles? I heard it was because of El Ni\u00f1o We\u2019ve always had, and we\u2019ll always have in the future, times when the weather patterns align to give us extreme weather such as heatwaves and floods. But now the consequences are worse because of our warmer world. El Ni\u00f1o is a natural fluctuation every few years in temperatures in the tropical Pacific, which affects weather patterns around the world but especially in South America, the US, Africa, Australia and parts of Asia. But the current El Ni\u00f1o has just started and won\u2019t be peaking until around Christmas of this year \u2013 and is forecast to be a very big one. How about the theory that this is happening because the Earth\u2019s orbit is moving closer to the sun? The Earth\u2019s orbit around the sun does affect our climate on very long timescales, over tens of thousands of years. At the time of the invention of the steam engine in the 18th century, this was pushing the Earth on to a slightly cooler path. Yet, what we have seen instead is a very rapid warming, which is not caused by the changes in the Earth\u2019s orbit. It is because the Industrial Revolution led to the burning of many more fossil fuels. Many remember the 1976 heatwave in the UK. How is this summer any different? There has been a big change in our climate in recent decades. In 1976, northern Europe was an isolated hotspot surrounded by regions experiencing a relatively co"
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "AMERICA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.231,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "AMERICA",
+      "actor_b": "NATO",
+      "relationship": "opposed",
+      "goldstein_avg": -1.548,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {}
 }
