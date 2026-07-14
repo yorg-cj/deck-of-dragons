@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,62 +31,33 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.486,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.476,
       "scores": {
-        "High House War": 0.042,
-        "High House Coin": 0.486,
-        "High House Shadow": 0.114,
-        "High House Life": 0.036,
-        "High House Iron": 0.125,
-        "High House Words": 0.101,
-        "High House Chains": 0.245
+        "High House War": 0.059,
+        "High House Coin": 0.032,
+        "High House Shadow": 0.079,
+        "High House Life": 0.118,
+        "High House Iron": 0.476,
+        "High House Words": 0.035,
+        "High House Chains": 0.116
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "THE ECONOMIST: Visa and Mastercard face growing threat as world against America\u2019s global financial dominance",
-        "url": "https://thewest.com.au/business/the-economist/the-economist-visa-and-mastercard-face-growing-threat-as-world-against-americas-global-financial-dominance-c-22568441",
+        "title": "India well-positioned to become global hub for AI-native talent: Nasscom",
+        "url": "https://indianews.com.au/india-well-positioned-to-become-global-hub-for-ai-native-talent-nasscom",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.444,
-      "scores": {
-        "High House War": 0.123,
-        "High House Coin": 0.156,
-        "High House Shadow": 0.196,
-        "High House Life": 0.03,
-        "High House Iron": 0.444,
-        "High House Words": 0.029,
-        "High House Chains": 0.012
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "US Tech Layoffs Surge: 123,653 Jobs Cut in H1 2026 Amid AI Shift, Says Report",
-        "url": "https://www.latestly.com/technology/us-tech-layoffs-surge-123653-jobs-cut-in-h1-2026-amid-ai-shift-says-report-7514815.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
@@ -115,62 +86,62 @@
         "source": "guardian",
         "full_text": "The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements. EU foreign ministers meeting in Brussels on Monday will discuss a possible ban on imports from the settlements, against an ongoing humanitarian crisis in Gaza, where a UN inquiry found Israel to be committing a genocide, and surging state-backed violence in the occupied West Bank, which has killed at least 235 children. But the 27 ministers are not expected to take decisions about trade amid persistent divisions about how to respond to Israel\u2019s prime minister, Benjamin Netanyahu, and his government. A part or total ban on imports from settlements is one of three options presented by the European Commission in a paper seen by the Guardian. The other two options are high tariffs that make trade economically unviable or an import licensing system. The leaked paper was first reported by Euronews. Written in cautious, bureaucratic language, the paper notes that the options \u201ccan have a substantive impact on the EU-Israel relationship, also in view of the upcoming election\u201d, underscoring that the commission is mindful of Israel\u2019s general election later this year. Israelis are due to go to the polls by 27 October, the first electoral test for Netanyahu since the 7 October 2023 terror attacks by Hamas. Under the EU-Israel agreement, goods from the occupied Palestinian territories (the Golan Heights, Gaza and the West Bank, including East Jerusalem) are not entitled to the preferential trade terms that apply to Israel. At least 10 European member states, including Belgium, the Netherlands and Spain, say the EU has an obligation to end trade with occupied territories, following a ruling from the international court of justice (ICJ) in 2024 that called on Israel to end its occupation of the Palestinian territories \u201cas rapidly as possible\u201d. The ruling found multiple breaches of international law by Israel including activities that amounted to apartheid. It said that states had to \u201ctake steps to prevent trade or investment relations that assists in the maintenance of the illegal situation created by Israel in the occupied Palestinian territory\u201d. This call to end trade with the settlements is backed by more than 100 legal scholars, who wrote to the European Commission\u2019s most senior trade and foreign policy officials this month affirming the EU\u2019s \u201cinternational legal obligation\u201d. Ignacio Garc\u00eda Bercero, a former senior trade official at the commission, who signed the letter, said: \u201cThe only way to ensure compliance with the opinion of the ICJ is a ban on trade with the illegal settlements. Any other option will not be effective in view of Israeli policy to compensate settlement producers from tariffs paid on their exports to the EU.\u201d A recent investigation by NGO Global Echo found that Israeli exporters benefit from illegal tax breaks for products cultivated in settlements, while Israeli tax authorities permit misleading labels. One in six shipments that the NGO investigated contained agricultural products that had originated in settlements in occupied Palestinian territory and the Syrian Golan Heights, at least 42% of which had been mislabelled as Israeli-grown. But the EU is not expected to act anytime soon, amid an ongoing dispute about whether a ban on trade with illegal settlements can be done via a qualified majority vote or requires unanimity. After Monday\u2019s meeting, EU foreign ministers will not gather in a decision-making format until October. The maximalist outcome from Monday, sources suggested, could be a call from a simple majority of member states to demand a legal proposal on ending illegal settlement trade. Alberto Alemanno, a law professor at the HEC Paris business school, said: \u201cEach month of delay doesn\u2019t just postpone compliance, it deepens the EU\u2019s own legal liability for sustaining trade with an unlawful occupation.\u201d One senior EU diplomat said it had bee"
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.39,
+      "confidence": 0.383,
       "scores": {
-        "High House War": 0.085,
-        "High House Coin": 0.157,
-        "High House Shadow": 0.078,
-        "High House Life": 0.39,
-        "High House Iron": 0.059,
-        "High House Words": 0.154,
-        "High House Chains": 0.203
+        "High House War": -0.058,
+        "High House Coin": 0.028,
+        "High House Shadow": -0.031,
+        "High House Life": 0.383,
+        "High House Iron": 0.043,
+        "High House Words": 0.055,
+        "High House Chains": 0.019
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Asia\u2019s top climate scientist warns of \u2018humanitarian disasters\u2019 as Earth teeters",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/asias-top-climate-scientist-warns-of-humanitarian-disasters-as-earth-teeters",
-        "source": "worldnews",
+        "title": "This Former G.O.P. Politician Wants to Take Politics Out of Climate Change",
+        "url": "https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Coin",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.377,
+      "confidence": 0.375,
       "scores": {
-        "High House War": 0.102,
-        "High House Coin": 0.173,
-        "High House Shadow": 0.189,
-        "High House Life": 0.122,
-        "High House Iron": -0.027,
-        "High House Words": 0.377,
-        "High House Chains": 0.102
+        "High House War": 0.101,
+        "High House Coin": 0.375,
+        "High House Shadow": 0.16,
+        "High House Life": 0.143,
+        "High House Iron": 0.144,
+        "High House Words": 0.136,
+        "High House Chains": 0.194
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.887
+        "sentiment_score": 0.972
       },
       "article": {
-        "title": "Press review: Hormuz crisis overshadows Iran nuclear issue and EU divided on Russia talks",
-        "url": "https://tass.com/pressreview/2159319",
-        "source": "worldnews",
+        "title": "A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.",
+        "url": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
@@ -178,54 +149,94 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
+      "reversed": false,
+      "confidence": 0.359,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.359,
+        "High House Coin": 0.179,
+        "High House Shadow": 0.19,
+        "High House Life": 0.02,
+        "High House Iron": 0.147,
+        "High House Words": 0.207,
+        "High House Chains": 0.148
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.856
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Trump says US reinstating blockade on Iranian ports \u2013 as it happened",
+        "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+        "source": "guardian",
+        "full_text": "We\u2019re closing this page now and will continue our live coverage of the Middle East crisis on a new blog here, including a summary of the latest key developments. Thanks for following along. US Central Command says it has finished the military\u2019s latest wave of strikes against Iran. It said in a statement posted on X: During the five-hour mission, U.S. forces successfully struck military targets across Iran including Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, and Bandar Abbas to further degrade Iran\u2019s ability to attack commercial shipping Centcom said it targeted \u201cIranian coastal defense systems, missile and drone sites, and maritime capabilities\u201d. More than 50,000 US service members were currently deployed across the Middle East, it added. Looking more widely at the latest US strikes, Iranian media have reported explosions in the port city of Bandar Abbas, Iran\u2019s Kish and Qeshm islands and on Abu Musa Island in the Gulf. Residents in the city of Jam in Iran\u2019s Bushehr province also heard several explosions, Iran\u2019s Fars news agency said, but the exact location of the blasts was not clear. No casualties were reported. Iranian media reports of explosions continued for more than three hours, Reuters is saying. Iran\u2019s south-western Khuzestan province was hit by US projectiles early on Tuesday, Iran\u2019s official news agency Irna reported, citing a provincial security official, adding that four people were wounded and rescue operations were under way. A loud explosion was also heard in Iran\u2019s southern city of Bushehr, according to Iran\u2019s semi-official Mehr news agency. Iran\u2019s state TV \u200ccited the Iranian army as saying that it targeted a \u201chostile\u201d US vessel with cruise missiles and US facilities and equipment in Kuwait with drones. Iranian media also said Iran\u2019s Revolutionary Guards shot down a US MQ-1 drone over Hormuz, while sirens sounded early on Tuesday in Bahrain \u2013 home to another US military base. Bushehr in southern Iran has been hit in a renewed US attack, according to Iran\u2019s Nournews. Explosions had earlier been heard in the port city of Bushehr, according to Iranian media, after earlier reports of several blasts being heard in Bushehr province. The province is home to Iran\u2019s only civilian nuclear plant. Oil prices have risen 2% to their highest in four weeks as the renewed US-Iran hostilities heighten uncertainty about energy \u2060flows through the strait of Hormuz. Brent crude futures climbed $1.68, \u2060or 2%, to $84.98 a barrel by 0051 GMT on Tuesday, while US West Texas Intermediate crude rose $1.65, or 2.1%, to $79.79 a barrel. Brent crude surged 9.6% in \u2060the previous session, its biggest daily gain since May 2020, Reuters reports. Oil prices are now at their highest since the US and Iran signed their memorandum of \u2060understanding on 17 June aimed at ending their war. Bahrain\u2019s air defences have intercepted and destroyed Iranian aerial attacks on the country, an adviser to the king has posted on social media. Sirens sounded earlier in the Gulf nation \u2013 continuing their activation a number of times in the past day \u2013 and people were urged to seek safe shelter. Bahrain\u2019s military has accused Tehran of targeting civilians in its latest attacks there, which Iran said targeted US military facilities and infrastructure. Explosions have been heard again in southern Iran\u2019s port city of Bushehr, according to the Mehr news agency, which reportedly said earlier that several blasts had been heard in the Jam governate of Bushehr province. The semi-official Iranian agency was earlier quoted as saying US projectiles had hit several areas in Omidiyeh in Khuzestan province to the north. The US has been carrying out a third day of strikes that Donald Trump says is targeting Iran\u2019s attack capabilities over the strait of Hormuz as both sides assert they control the vital energy route. Alarm sirens have sounded in Bahrain and people should head to the nearest safe location, the interior ministry is saying on social media. The country earlier accused "
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.321,
+      "scores": {
+        "High House War": 0.011,
+        "High House Coin": 0.114,
+        "High House Shadow": 0.156,
+        "High House Life": 0.027,
+        "High House Iron": -0.128,
+        "High House Words": 0.321,
+        "High House Chains": 0.107
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.598
+      },
+      "article": {
+        "title": "Tuesday briefing: The law that Hillsborough built \u2013 and the bitter final battle to get it through",
+        "url": "https://www.theguardian.com/world/2026/jul/14/tuesday-briefing-the-law-that-hillsborough-built-and-the-long-arduous-path-of-justice",
+        "source": "guardian",
+        "full_text": "Good morning. We think we know this story, the one about the 97 who went to watch a football match on a sunny afternoon. Perhaps you remember, as I do, watching footage of the lethal crush at Sheffield Wednesday\u2019s Hillsborough stadium, on the evening news in your childhood living room. Or maybe you read later how South Yorkshire police presented a series of false narratives that blamed Liverpool football club supporters, rather than take responsibility for their own catastrophic mismanagement of the FA Cup semi-final. Today, after a decade of campaigning, a new law criminalising public bodies and officials that lie to the British public, and supporting people fighting these authorities for the truth, is expected to complete it final stages in the Commons, pushed through by Keir Starmer as one of his final acts as prime minister. But why did a law championed by Labour since its time in opposition almost fail? I spoke to David Conn, who has been reporting on Hillsborough for 30 years, about the families\u2019 final battle. First, the headlines. Five big stories UK news | British counter-terrorism police are now leading the investigation into the death of Ann Widdecombe in a shock development that has renewed the debate over the security of politicians. A 28-year-old man from Rotherham is being held in custody on suspicion of her murder. Middle East | The US has launched its third consecutive night of strikes on Iran hours after Donald Trump said Washington would reinstate a maritime blockade on the country and, in an apparently policy reversal, charge ships for safe passage. UK politics | Andy Burnham is to become Britain\u2019s next prime minister after winning the backing of 349 Labour MPs, including all eligible members of Keir Starmer\u2019s current cabinet, making it impossible for any rival to secure enough nominations to challenge him. Environment | Most of the UK media stories about the record-breaking heatwave that struck in June failed to mention the climate crisis, analysis has found. Even fewer pieces drew a link between the heatwave and government policies designed to tackle the climate crisis. US news | The US government has already paid back tens of billions of dollars in tariffs it collected before the supreme court ruled them illegal, according to budget figures released on Monday. In depth: \u2018The Hillsborough families have always been underestimated \u2013 and now they\u2019ve succeeded\u2019 In 2016, the conclusions of the second inquest into the Hillsborough deaths at last fully vindicated the families. A jury found that those who died were unlawfully killed due to gross negligence manslaughter by match commander chief superintendent David Duckenfield and that no behaviour by Liverpool supporters contributed to the disaster. The 97th victim, Andrew Devine, died in 2021 of injuries sustained in the crush. (Later, Duckenfield was found not guilty of gross negligence manslaughter, one of a number of unsuccessful individual criminal prosecutions.) \u201cImmediately after, the families adopted the Hillsborough law as their positive legacy from the ordeal they had suffered,\u201d David explains. \u201cThey wanted a duty of candour for public officials and authorities to be introduced and equality of funding for legal representation for people fighting for justice like them.\u201d At the first inquest, families received no public funding for legal representation, while senior police officers and other public bodies had state-funded legal teams. A law in this vein was first proposed as a private member\u2019s bill by stalwart advocate of the cause Andy Burnham in 2017, when he was a Labour MP, but languished during the Tory administration. When Labour was elected in 2024, expectations were high: the Hillsborough law was a defining manifesto commitment and Keir Starmer was evidently intent on taking ownership of the reforms, which he announced at two party conferences and personally introduced in the Commons. But by last winter, progress was mired in a bitter and intractab"
       },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "AMERICA",
-      "actor_b": "IRAN",
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "INDIA",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -2.231,
+      "goldstein_avg": -2.103,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
+      "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "AMERICA",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -1.548,
+      "actor_a": "POLITICIAN WANTS",
+      "actor_b": "TRUMP",
+      "relationship": "neutral",
+      "goldstein_avg": -0.811,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 2.309,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.049,
+      "source": "gdelt_volume"
+    }
+  }
 }
