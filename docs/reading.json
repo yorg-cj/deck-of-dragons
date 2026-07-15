@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,28 +33,28 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.476,
+      "reversed": true,
+      "confidence": 0.449,
       "scores": {
-        "High House War": 0.059,
-        "High House Coin": 0.032,
-        "High House Shadow": 0.079,
-        "High House Life": 0.118,
-        "High House Iron": 0.476,
-        "High House Words": 0.035,
-        "High House Chains": 0.116
+        "High House War": 0.105,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.334,
+        "High House Life": 0.096,
+        "High House Iron": 0.449,
+        "High House Words": 0.104,
+        "High House Chains": 0.044
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "India well-positioned to become global hub for AI-native talent: Nasscom",
-        "url": "https://indianews.com.au/india-well-positioned-to-become-global-hub-for-ai-native-talent-nasscom",
-        "source": "worldnews",
+        "title": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
+        "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
@@ -63,28 +63,28 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.423,
+      "confidence": 0.408,
       "scores": {
-        "High House War": 0.031,
-        "High House Coin": 0.341,
-        "High House Shadow": 0.071,
-        "High House Life": 0.154,
-        "High House Iron": 0.09,
-        "High House Words": 0.221,
-        "High House Chains": 0.423
+        "High House War": 0.062,
+        "High House Coin": 0.191,
+        "High House Shadow": 0.107,
+        "High House Life": 0.106,
+        "High House Iron": 0.004,
+        "High House Words": 0.252,
+        "High House Chains": 0.408
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.526
+        "sentiment_score": 0.97
       },
       "article": {
-        "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
-        "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+        "title": "The UK and international law \u2013 Palestine is the test",
+        "url": "https://www.theguardian.com/world/2026/jul/14/the-uk-and-international-law-palestine-is-the-test",
         "source": "guardian",
-        "full_text": "The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements. EU foreign ministers meeting in Brussels on Monday will discuss a possible ban on imports from the settlements, against an ongoing humanitarian crisis in Gaza, where a UN inquiry found Israel to be committing a genocide, and surging state-backed violence in the occupied West Bank, which has killed at least 235 children. But the 27 ministers are not expected to take decisions about trade amid persistent divisions about how to respond to Israel\u2019s prime minister, Benjamin Netanyahu, and his government. A part or total ban on imports from settlements is one of three options presented by the European Commission in a paper seen by the Guardian. The other two options are high tariffs that make trade economically unviable or an import licensing system. The leaked paper was first reported by Euronews. Written in cautious, bureaucratic language, the paper notes that the options \u201ccan have a substantive impact on the EU-Israel relationship, also in view of the upcoming election\u201d, underscoring that the commission is mindful of Israel\u2019s general election later this year. Israelis are due to go to the polls by 27 October, the first electoral test for Netanyahu since the 7 October 2023 terror attacks by Hamas. Under the EU-Israel agreement, goods from the occupied Palestinian territories (the Golan Heights, Gaza and the West Bank, including East Jerusalem) are not entitled to the preferential trade terms that apply to Israel. At least 10 European member states, including Belgium, the Netherlands and Spain, say the EU has an obligation to end trade with occupied territories, following a ruling from the international court of justice (ICJ) in 2024 that called on Israel to end its occupation of the Palestinian territories \u201cas rapidly as possible\u201d. The ruling found multiple breaches of international law by Israel including activities that amounted to apartheid. It said that states had to \u201ctake steps to prevent trade or investment relations that assists in the maintenance of the illegal situation created by Israel in the occupied Palestinian territory\u201d. This call to end trade with the settlements is backed by more than 100 legal scholars, who wrote to the European Commission\u2019s most senior trade and foreign policy officials this month affirming the EU\u2019s \u201cinternational legal obligation\u201d. Ignacio Garc\u00eda Bercero, a former senior trade official at the commission, who signed the letter, said: \u201cThe only way to ensure compliance with the opinion of the ICJ is a ban on trade with the illegal settlements. Any other option will not be effective in view of Israeli policy to compensate settlement producers from tariffs paid on their exports to the EU.\u201d A recent investigation by NGO Global Echo found that Israeli exporters benefit from illegal tax breaks for products cultivated in settlements, while Israeli tax authorities permit misleading labels. One in six shipments that the NGO investigated contained agricultural products that had originated in settlements in occupied Palestinian territory and the Syrian Golan Heights, at least 42% of which had been mislabelled as Israeli-grown. But the EU is not expected to act anytime soon, amid an ongoing dispute about whether a ban on trade with illegal settlements can be done via a qualified majority vote or requires unanimity. After Monday\u2019s meeting, EU foreign ministers will not gather in a decision-making format until October. The maximalist outcome from Monday, sources suggested, could be a call from a simple majority of member states to demand a legal proposal on ending illegal settlement trade. Alberto Alemanno, a law professor at the HEC Paris business school, said: \u201cEach month of delay doesn\u2019t just postpone compliance, it deepens the EU\u2019s own legal liability for sustaining trade with an unlawful occupation.\u201d One senior EU diplomat said it had bee"
+        "full_text": "Pippa Crerar\u2019s focus on action is right (Burnham\u2019s apology over Gaza marks \u2018reset moment\u2019 as Labour seeks to win back progressive voters, 9 July). May we add one element: the law. Two years ago, the international court of justice advised that the 1967 occupation of Palestine is unlawful. Keir Starmer worked to uphold international law on Ukraine. Rightly, he recognised the state of Palestine alongside Israel, and confirmed that the occupation is unlawful. Consequences should follow, but we still await the government\u2019s assessment of the ICJ opinion. Steps to end the occupation are needed. No state that values the decisions of UN bodies should prolong it. Our country needs a rules-based international order. The UK relies on due process for the conduct of international affairs. It is in the UK\u2019s interest to challenge the \u201cmight is right\u201d fallacy. The rule of law helps keep us safe, when made effective \u2013 domestically and internationally. Lord Denning observed that \u201cthe rules of international law \u2026 do form part of our English law\u201d. The two are intertwined. Trade in goods and services with illegal settlements prolongs the occupation. Israel derives economic benefit from stolen land. The government should ban settlement trade, including financial services. The measures taken against Russia should apply to Israel, which is breaking the same laws. Israel should be held to account for ethnic cleansing and worse in Gaza and the West Bank. Diplomacy ignoring the law is ill-advised. The UN security council \u2013 including the UK \u2013 has outsourced Gaza to the Board of Peace, prolonging the suffering of 2 million Palestinians. There is a duty to protect civilians. Israel does the opposite. As the archbishop of Canterbury said, we must not look away. Nor do words suffice. The government should act with partners to secure unrestricted access for food, medicines and temporary accommodation \u2013 with consequences if access is denied. The October 2025 \u201cceasefire\u201d has not ended the violence, with no access for MPs and international journalists. Foes and friends are breaking laws which help keep us safe. The UK government\u2019s inconsistency undermines the laws on which we rely. Vincent Fean Former consul-general, Jerusalem Helena Kennedy KC Labour, House of Lords John Kerr Crossbencher, House of Lords and former permanent secretary, Foreign Office Dominic Grieve KC Peter Hain Labour, House of Lords Jeremy Greenstock Former ambassador to the UN Emyr Jones Parry Former ambassador to the UN David Manning Former ambassador to the US William Patey Former ambassador to Afghanistan"
       },
       "position": "FOUNDATION"
     },
@@ -207,12 +207,22 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
+      "house_a": "High House Chains",
+      "house_b": "High House Life",
+      "actor_a": "PALESTINE",
+      "actor_b": "POLITICIAN WANTS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.241,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
       "house_b": "High House War",
-      "actor_a": "INDIA",
+      "actor_a": "PALESTINE",
       "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -2.103,
+      "goldstein_avg": -1.978,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -222,7 +232,17 @@
       "actor_a": "POLITICIAN WANTS",
       "actor_b": "TRUMP",
       "relationship": "neutral",
-      "goldstein_avg": -0.811,
+      "goldstein_avg": -0.675,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "HILLSBOROUGH",
+      "relationship": "neutral",
+      "goldstein_avg": -0.187,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -230,12 +250,7 @@
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 2.309,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.049,
+      "trend_ratio": 2.655,
       "source": "gdelt_volume"
     }
   }
