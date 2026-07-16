@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.474,
+      "scores": {
+        "High House War": 0.474,
+        "High House Coin": 0.085,
+        "High House Shadow": 0.096,
+        "High House Life": 0.06,
+        "High House Iron": 0.152,
+        "High House Words": 0.196,
+        "High House Chains": 0.189
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.953
+      },
+      "article": {
+        "title": "The hardest part of war isn\u2019t fighting it, it\u2019s ending it wisely - opinion",
+        "url": "https://www.jpost.com/defense-and-tech/article-902669",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
@@ -57,7 +86,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.43,
+      "scores": {
+        "High House War": 0.031,
+        "High House Coin": 0.118,
+        "High House Shadow": -0.048,
+        "High House Life": 0.43,
+        "High House Iron": 0.065,
+        "High House Words": 0.098,
+        "High House Chains": 0.128
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "source": "guardian",
+        "full_text": "Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month. Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have been a routine weather event into a climate catastrophe. They also warn that the countries affected must adapt to a frightening new reality. \u201cThe climate is changing faster than most nations can adapt,\u201d said Friederike Otto, a professor of climate science at Imperial College London. \u201cAdapting to these now common events is critical, but so is reducing emissions much further and faster, to allow us time to keep up with the changes we\u2019ve already put into motion. Quite simply, until emissions stop these extremes will only grow worse.\u201d Residents on the Gulf of Guinea coast expect rain this time of year. Rainy season runs from May until the end of July. Granted, this year it had been particularly heavy, but what began on 20 June caught people by surprise. Over the course of 72 hours, intense rainfall drenched the densely populated coastal regions of C\u00f4te d\u2019Ivoire, Ghana, Togo and Nigeria. More than 140mm of rain fell in some cities in less than a day. The deluge overwhelmed drainage systems, triggering a series of flash floods. From Lagos to Monrovia in Liberia, the overflow inundated neighbourhoods and washed away markets. It submerged roads and swamped infrastructure. At least 34 people died in Ghana. Five died in Togo. In C\u00f4te d\u2019Ivoire, 59 have died as a result of floods since May. On Thursday, Otto and the World Weather Attribution team said such a deluge was five times more likely in today\u2019s climate. Heavy, three-day downpours in the region had increased in intensity by roughly 23% since record-keeping began, they said. It will not be long until something similar occurs again, they warned. With the climate 1.4C hotter than before the industrial use of fossil fuels, they expect rainfall of a similar scale to explode above the Gulf of Guinea every two to four years. To quantify the role the climate crisis had played in the disaster, scientists compared historical weather observations with climate model simulations. They focused specifically on the three most extreme days of rainfall. Despite climate models often struggling to recreate similar events in regions in the global south, they showed climate change had caused a 4% increase in intensity. The researchers said this made them confident that greenhouse gas emissions had intensified the event. Joyce Kimutai, who researches extreme weather and climate change at Imperial College London, was the lead author on the study. She said: \u201cClimate models typically struggle to capture the full scale of tropical precipitation trends when we look at extreme events like this one. \u201cAs such, the fact that we found such a role for climate change is significant. Combined with the very wetter trend in the observational-based data, it\u2019s clear that human-caused warming made this event worse, and wetter, with devastating impacts. \u201cThis study is a clear example of the need for international cooperation on climate justice. Industrialised nations have a responsibility to help nations like Togo, C\u00f4te d\u2019Ivoire and Ghana to adapt to a worsening problem that they didn\u2019t cause.\u201d"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -85,35 +143,6 @@
         "url": "https://www.theguardian.com/world/2026/jul/14/the-uk-and-international-law-palestine-is-the-test",
         "source": "guardian",
         "full_text": "Pippa Crerar\u2019s focus on action is right (Burnham\u2019s apology over Gaza marks \u2018reset moment\u2019 as Labour seeks to win back progressive voters, 9 July). May we add one element: the law. Two years ago, the international court of justice advised that the 1967 occupation of Palestine is unlawful. Keir Starmer worked to uphold international law on Ukraine. Rightly, he recognised the state of Palestine alongside Israel, and confirmed that the occupation is unlawful. Consequences should follow, but we still await the government\u2019s assessment of the ICJ opinion. Steps to end the occupation are needed. No state that values the decisions of UN bodies should prolong it. Our country needs a rules-based international order. The UK relies on due process for the conduct of international affairs. It is in the UK\u2019s interest to challenge the \u201cmight is right\u201d fallacy. The rule of law helps keep us safe, when made effective \u2013 domestically and internationally. Lord Denning observed that \u201cthe rules of international law \u2026 do form part of our English law\u201d. The two are intertwined. Trade in goods and services with illegal settlements prolongs the occupation. Israel derives economic benefit from stolen land. The government should ban settlement trade, including financial services. The measures taken against Russia should apply to Israel, which is breaking the same laws. Israel should be held to account for ethnic cleansing and worse in Gaza and the West Bank. Diplomacy ignoring the law is ill-advised. The UN security council \u2013 including the UK \u2013 has outsourced Gaza to the Board of Peace, prolonging the suffering of 2 million Palestinians. There is a duty to protect civilians. Israel does the opposite. As the archbishop of Canterbury said, we must not look away. Nor do words suffice. The government should act with partners to secure unrestricted access for food, medicines and temporary accommodation \u2013 with consequences if access is denied. The October 2025 \u201cceasefire\u201d has not ended the violence, with no access for MPs and international journalists. Foes and friends are breaking laws which help keep us safe. The UK government\u2019s inconsistency undermines the laws on which we rely. Vincent Fean Former consul-general, Jerusalem Helena Kennedy KC Labour, House of Lords John Kerr Crossbencher, House of Lords and former permanent secretary, Foreign Office Dominic Grieve KC Peter Hain Labour, House of Lords Jeremy Greenstock Former ambassador to the UN Emyr Jones Parry Former ambassador to the UN David Manning Former ambassador to the US William Patey Former ambassador to Afghanistan"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.383,
-      "scores": {
-        "High House War": -0.058,
-        "High House Coin": 0.028,
-        "High House Shadow": -0.031,
-        "High House Life": 0.383,
-        "High House Iron": 0.043,
-        "High House Words": 0.055,
-        "High House Chains": 0.019
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "This Former G.O.P. Politician Wants to Take Politics Out of Climate Change",
-        "url": "https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html",
-        "source": "nyt",
-        "full_text": null
       },
       "position": "WILD"
     },
@@ -147,35 +176,6 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.359,
-        "High House Coin": 0.179,
-        "High House Shadow": 0.19,
-        "High House Life": 0.02,
-        "High House Iron": 0.147,
-        "High House Words": 0.207,
-        "High House Chains": 0.148
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.856
-      },
-      "article": {
-        "title": "Trump says US reinstating blockade on Iranian ports \u2013 as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-        "source": "guardian",
-        "full_text": "We\u2019re closing this page now and will continue our live coverage of the Middle East crisis on a new blog here, including a summary of the latest key developments. Thanks for following along. US Central Command says it has finished the military\u2019s latest wave of strikes against Iran. It said in a statement posted on X: During the five-hour mission, U.S. forces successfully struck military targets across Iran including Bushehr, Chah Bahar, Jask, Konarak, Abu Musa, and Bandar Abbas to further degrade Iran\u2019s ability to attack commercial shipping Centcom said it targeted \u201cIranian coastal defense systems, missile and drone sites, and maritime capabilities\u201d. More than 50,000 US service members were currently deployed across the Middle East, it added. Looking more widely at the latest US strikes, Iranian media have reported explosions in the port city of Bandar Abbas, Iran\u2019s Kish and Qeshm islands and on Abu Musa Island in the Gulf. Residents in the city of Jam in Iran\u2019s Bushehr province also heard several explosions, Iran\u2019s Fars news agency said, but the exact location of the blasts was not clear. No casualties were reported. Iranian media reports of explosions continued for more than three hours, Reuters is saying. Iran\u2019s south-western Khuzestan province was hit by US projectiles early on Tuesday, Iran\u2019s official news agency Irna reported, citing a provincial security official, adding that four people were wounded and rescue operations were under way. A loud explosion was also heard in Iran\u2019s southern city of Bushehr, according to Iran\u2019s semi-official Mehr news agency. Iran\u2019s state TV \u200ccited the Iranian army as saying that it targeted a \u201chostile\u201d US vessel with cruise missiles and US facilities and equipment in Kuwait with drones. Iranian media also said Iran\u2019s Revolutionary Guards shot down a US MQ-1 drone over Hormuz, while sirens sounded early on Tuesday in Bahrain \u2013 home to another US military base. Bushehr in southern Iran has been hit in a renewed US attack, according to Iran\u2019s Nournews. Explosions had earlier been heard in the port city of Bushehr, according to Iranian media, after earlier reports of several blasts being heard in Bushehr province. The province is home to Iran\u2019s only civilian nuclear plant. Oil prices have risen 2% to their highest in four weeks as the renewed US-Iran hostilities heighten uncertainty about energy \u2060flows through the strait of Hormuz. Brent crude futures climbed $1.68, \u2060or 2%, to $84.98 a barrel by 0051 GMT on Tuesday, while US West Texas Intermediate crude rose $1.65, or 2.1%, to $79.79 a barrel. Brent crude surged 9.6% in \u2060the previous session, its biggest daily gain since May 2020, Reuters reports. Oil prices are now at their highest since the US and Iran signed their memorandum of \u2060understanding on 17 June aimed at ending their war. Bahrain\u2019s air defences have intercepted and destroyed Iranian aerial attacks on the country, an adviser to the king has posted on social media. Sirens sounded earlier in the Gulf nation \u2013 continuing their activation a number of times in the past day \u2013 and people were urged to seek safe shelter. Bahrain\u2019s military has accused Tehran of targeting civilians in its latest attacks there, which Iran said targeted US military facilities and infrastructure. Explosions have been heard again in southern Iran\u2019s port city of Bushehr, according to the Mehr news agency, which reportedly said earlier that several blasts had been heard in the Jam governate of Bushehr province. The semi-official Iranian agency was earlier quoted as saying US projectiles had hit several areas in Omidiyeh in Khuzestan province to the north. The US has been carrying out a third day of strikes that Donald Trump says is targeting Iran\u2019s attack capabilities over the strait of Hormuz as both sides assert they control the vital energy route. Alarm sirens have sounded in Bahrain and people should head to the nearest safe location, the interior ministry is saying on social media. The country earlier accused "
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
@@ -207,50 +207,25 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Chains",
-      "house_b": "High House Life",
-      "actor_a": "PALESTINE",
-      "actor_b": "POLITICIAN WANTS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.241,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "PALESTINE",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -1.978,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "POLITICIAN WANTS",
-      "actor_b": "TRUMP",
+      "house_b": "High House Chains",
+      "actor_a": "WEST AFRICA",
+      "actor_b": "PALESTINE",
       "relationship": "neutral",
-      "goldstein_avg": -0.675,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "HILLSBOROUGH",
-      "relationship": "neutral",
-      "goldstein_avg": -0.187,
+      "goldstein_avg": -0.278,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.422,
+      "source": "gdelt_volume"
+    },
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 2.655,
+      "trend_ratio": 1.734,
       "source": "gdelt_volume"
     }
   }
