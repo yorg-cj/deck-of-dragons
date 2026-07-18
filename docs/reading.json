@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "cards": [
     {
       "house": "High House Shadow",
@@ -86,7 +86,7 @@
         "source": "guardian",
         "full_text": "Dozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month. Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have been a routine weather event into a climate catastrophe. They also warn that the countries affected must adapt to a frightening new reality. \u201cThe climate is changing faster than most nations can adapt,\u201d said Friederike Otto, a professor of climate science at Imperial College London. \u201cAdapting to these now common events is critical, but so is reducing emissions much further and faster, to allow us time to keep up with the changes we\u2019ve already put into motion. Quite simply, until emissions stop these extremes will only grow worse.\u201d Residents on the Gulf of Guinea coast expect rain this time of year. Rainy season runs from May until the end of July. Granted, this year it had been particularly heavy, but what began on 20 June caught people by surprise. Over the course of 72 hours, intense rainfall drenched the densely populated coastal regions of C\u00f4te d\u2019Ivoire, Ghana, Togo and Nigeria. More than 140mm of rain fell in some cities in less than a day. The deluge overwhelmed drainage systems, triggering a series of flash floods. From Lagos to Monrovia in Liberia, the overflow inundated neighbourhoods and washed away markets. It submerged roads and swamped infrastructure. At least 34 people died in Ghana. Five died in Togo. In C\u00f4te d\u2019Ivoire, 59 have died as a result of floods since May. On Thursday, Otto and the World Weather Attribution team said such a deluge was five times more likely in today\u2019s climate. Heavy, three-day downpours in the region had increased in intensity by roughly 23% since record-keeping began, they said. It will not be long until something similar occurs again, they warned. With the climate 1.4C hotter than before the industrial use of fossil fuels, they expect rainfall of a similar scale to explode above the Gulf of Guinea every two to four years. To quantify the role the climate crisis had played in the disaster, scientists compared historical weather observations with climate model simulations. They focused specifically on the three most extreme days of rainfall. Despite climate models often struggling to recreate similar events in regions in the global south, they showed climate change had caused a 4% increase in intensity. The researchers said this made them confident that greenhouse gas emissions had intensified the event. Joyce Kimutai, who researches extreme weather and climate change at Imperial College London, was the lead author on the study. She said: \u201cClimate models typically struggle to capture the full scale of tropical precipitation trends when we look at extreme events like this one. \u201cAs such, the fact that we found such a role for climate change is significant. Combined with the very wetter trend in the observational-based data, it\u2019s clear that human-caused warming made this event worse, and wetter, with devastating impacts. \u201cThis study is a clear example of the need for international cooperation on climate justice. Industrialised nations have a responsibility to help nations like Togo, C\u00f4te d\u2019Ivoire and Ghana to adapt to a worsening problem that they didn\u2019t cause.\u201d"
       },
-      "position": "WANING"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -121,27 +121,27 @@
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.355,
+      "confidence": 0.349,
       "scores": {
-        "High House War": 0.354,
-        "High House Coin": 0.355,
-        "High House Shadow": 0.2,
-        "High House Life": 0.047,
-        "High House Iron": 0.119,
-        "High House Words": 0.266,
-        "High House Chains": 0.28
+        "High House War": 0.128,
+        "High House Coin": 0.349,
+        "High House Shadow": 0.26,
+        "High House Life": 0.134,
+        "High House Iron": 0.256,
+        "High House Words": 0.139,
+        "High House Chains": 0.24
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "US, Iran trade attacks in return to full-blown war",
-        "url": "https://punchng.com/us-iran-trade-attacks-in-return-to-full-blown-war",
-        "source": "worldnews",
+        "title": "A.I. Is Running on Borrowed Money",
+        "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -173,36 +173,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.276,
+      "confidence": 0.323,
       "scores": {
-        "High House War": 0.204,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.168,
-        "High House Life": 0.115,
-        "High House Iron": -0.007,
-        "High House Words": 0.276,
-        "High House Chains": 0.115
+        "High House War": -0.071,
+        "High House Coin": 0.23,
+        "High House Shadow": 0.273,
+        "High House Life": 0.031,
+        "High House Iron": -0.046,
+        "High House Words": 0.323,
+        "High House Chains": 0.137
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Iran reports fresh strikes near Qeshm Island and accuses US over \u2018barbaric\u2019 hospital attack \u2013 as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+        "title": "Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
+        "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
         "source": "guardian",
-        "full_text": "We\u2019re pausing our live coverage now, here is a summary of the day\u2019s main developments: Iranian news agencies have reported that the United States has launched strikes around Iran\u2019s Gulf island of Qeshm near the strait of Hormuz, as renewed hostilities flared between Washington and Tehran. Fars news agency reported an \u201cAmerican missile strike in the vicinity of Qeshm\u201d, citing local authorities, while Tasnim news agency said one of its correspondents reported locations around Qeshm \u201cwere struck by projectiles from the American enemy\u201d. Iran has accused the US of launching a \u201cbarbaric attack\u201d near a children\u2019s cancer hospital in Ahvaz south-west of the country. The Iranian foreign ministry spokesperson, Esmail Baghaei, said the hospital was forced to evacuate, causing \u201csevere suffering and anxiety\u201d for the children being treated there. The Kuwaiti army said it was responding to renewed drone attacks from Iran after facing strikes overnight. \u201cKuwaiti air defences are currently engaging hostile drone attacks following the Iranian aggression,\u201d the army said in a statement. Yemen\u2019s Houthi leader \u2060Abdul Malik al-Houthi said on Thursday \u2060that \u2060all Saudi oil and other vital facilities \u2060would be targets for the group\u2019s \u2060missiles and drones if Riyadh \u200cinvolved itself \u200cin what he \u200cdescribed as \u201ccomprehensive aggression\u201d against Yemen and moved toward escalation. The Houthis fired missiles at \u200cSaudi Arabia after they accused the kingdom of bombing an airport under their control on Monday, \u2060breaking a four-year truce in the conflict between the two sides. AFP and Reuters have reported a drone struck a ship located off the port in Iraq\u2019s southern province of Basra. Citing oil and security sources, the news agencies said the ship, which was \u201ccarrying American-branded cars\u201d, had arrived from the UAE today and was hit near an oil terminal. Crude oil \u2060loading has been suspended at all Iraqi terminals \u2060as a result of the incident. The Gaza recovery plan being pursued by Donald Trump\u2019s Board of Peace (BoP) has shrunk dramatically from an ambitious blueprint for the reconstruction of the whole territory to a small pilot project in the south of the strip. Even the envisaged pilot scheme \u2013 involving a temporary camp for a tiny fraction of Gaza\u2019s 2 million displaced people, with a Palestinian administration, police and a small international security force \u2013 is not expected to take shape before the end of the year. Iraqi prime minister Ali al-Zaidi has ordered an inquiry into a foiled attempt to smuggle weapons to Hezbollah in Lebanon via its border. Iraqi authorities will \u201ccoordinate\u201d with Syria on the matter, the Iraqi government\u2019s security media cell said in a statement, after its neighbour said it had seized a shipment that included missiles at the border. Oil prices are up by about 1% amid growing US-Iran tensions over the strait of Hormuz and other key shipping channels in the Gulf. Brent crude, the international benchmark for oil prices, is up by 1% to $85.85 a barrel. The Lebanese foreign minister, Youssef Raggi, said Lebanon has made a decision to \u201cend Hezbollah\u2019s military presence\u201d and that decisions on war and foreign policy are the \u201cexclusive prerogative of the Lebanese state\u201d. The Lebanese government is pushing to disarm Hezbollah, one of the most heavily armed militias in the Middle East, and it has become a central component of the US-brokered talks between Lebanon and Israel. Reuters has reported that Benjamin Netanyahu will not travel to the US next \u2060week because the \u200cfuneral \u200cof Republican Senator Lindsey Graham has been \u200cpostponed until the end of the month, the Israeli prime minister\u2019s office said. Earlier Israeli reports suggested Netanyahu had been set to fly to Washington on Saturday to attend memorial events for Graham, who died on Saturday, and potentially meet Donald Trump. India\u2019s government has ordered shipowners not to deploy Indian crew members on vessels that require passing through the strait of Hormuz as violence escalate"
+        "full_text": "A US senator has accused Meta of using lawfare in \u201cefforts to destroy\u201d a whistleblower who made allegations about the social media company\u2019s dealings with China and its treatment of teenagers. In a letter to its founder, Mark Zuckerberg, the Republican senator Josh Hawley demanded to know what measures Meta had taken to monitor Sarah Wynn-Williams, Facebook\u2019s former global head of public policy, and her family. He also accused the firm of trying to make \u201ctruthful speech so perilous that no whistleblower like Ms Wynn-Williams can ever afford it\u201d. Wynn-Williams made her allegations in a memoir, Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism but under an interim arbitration ruling secured by Meta she is unable to speak about the book, which contains claims about it working with the Chinese government on censorship tools, and its platforms\u2019 negative impacts on teenagers. She sat in silence on stage at the Hay literary festival in Wales earlier this year after taking legal advice, and is suing Meta over the restrictions it secured over her. Meta strongly disputes Wynn-Williams\u2019s book, saying it contains several false claims, and describes her legal case as a ploy to shift more copies. Hawley, whose senate judiciary subcommittee on crime and counter-terrorism took evidence from Wynn-Williams last year, said: \u201cMeta\u2019s efforts to destroy Ms Wynn-Williams with lawfare are a matter of grave public concern.\u201d \u201cMs Wynn-Williams raised serious questions about Meta\u2019s dealings with the Chinese government, the harms Meta\u2019s platforms pose to users, and Meta\u2019s representations to Congress,\u201d Hawley wrote in his letter, seen by the Guardian. \u201cMs Wynn-Williams testified notwithstanding extraordinary pressure from Meta to silence her before the hearing. When she made her allegations public, Meta moved aggressively to gag her through a private arbitration. \u201cTo this day, Meta continues to relentlessly pursue her in arbitration, attempting to bankrupt her and subjecting her and her family to constant stress.\u201d Hawley demanded documents relating to any Meta attempts to \u201cmonitor, track, record, or catalog Ms Wynn-Williams\u2019 or her family members\u2019 public statements, interviews, social media activity, or public or private travel\u201d. In a recent lawsuit launched against Meta, Wynn-Williams\u2019s legal team accused the company of surveilling her public appearances, including photographing her and making written records of her movements and travel in the UK. A Meta spokesperson said in a statement: \u201cThis former employee is trying to use the legal process to sell books, which an arbitrator already ruled broke the agreement she signed with the company when she accepted a large severance payment years ago. \u201cHer book is divorced from reality, disparaging and riddled with false claims.\u201d Meta also disputes that she is threatened with bankruptcy, stating in legal documents that she was paid a $780,000 (\u00a3580,000) severance package, which was the subject of intense legal negotiations. New York magazine has previously reported that Wynn-Williams was paid an advance for her book of more than $500,000. On the claim that Meta continues to use the arbitration process to block Wynn-Williams from speaking out about her book, the company\u2019s legal filing states that she \u201chas long waived any objection to arbitration by actively participating in it, seeking relief, filing a counterclaim, and insisting that the arbitrator should decide the issues she raised\u201d. Meta has previously said it did \u201cnot operate our services in China today\u201d. It has said it once looked at doing so, but that the idea was dropped. It has previously denied targeting teenagers based on their emotional state. Hawley said allegations about Meta\u2019s treatment of Wynn-Williams were \u201cdeeply troubling\u201d. \u201cCongress cannot permit giant corporations like Meta to crush good people who blow the whistle on corporate wrongdoing,\u201d his letter states."
       },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
   "relationships": [
@@ -212,45 +212,25 @@
       "actor_a": "WEST AFRICA",
       "actor_b": "NATO",
       "relationship": "neutral",
-      "goldstein_avg": -0.667,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -2.338,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -3.063,
+      "goldstein_avg": -0.664,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Shadow": {
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.152,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.9,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
       "trend": "falling",
       "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.323,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.828,
       "source": "gdelt_volume"
     }
   }
