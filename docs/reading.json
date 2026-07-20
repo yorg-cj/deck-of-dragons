@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "cards": [
     {
       "house": "High House Shadow",
@@ -88,7 +88,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -117,36 +117,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.375,
-      "scores": {
-        "High House War": 0.375,
-        "High House Coin": 0.161,
-        "High House Shadow": 0.159,
-        "High House Life": -0.001,
-        "High House Iron": 0.055,
-        "High House Words": 0.272,
-        "High House Chains": 0.124
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "US military buildup signals possible major escalation with Iran",
-        "url": "https://www.ynetnews.com/article/s1cf00z5nfl",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -175,54 +146,88 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.349,
+      "confidence": 0.306,
       "scores": {
-        "High House War": 0.188,
-        "High House Coin": 0.128,
-        "High House Shadow": 0.222,
+        "High House War": -0.065,
+        "High House Coin": 0.075,
+        "High House Shadow": 0.164,
         "High House Life": 0.061,
-        "High House Iron": 0.017,
-        "High House Words": 0.349,
-        "High House Chains": 0.158
+        "High House Iron": -0.135,
+        "High House Words": 0.306,
+        "High House Chains": -0.031
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.983
+        "sentiment_score": 0.696
       },
       "article": {
-        "title": "Middle East crisis live: US launches new round of airstrikes to \u2018swiftly punish\u2019 Iran after American troops killed ",
-        "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+        "title": "Farage\u2019s furious clash with Times editor stuns figures close to him",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
         "source": "guardian",
-        "full_text": "The Guardian\u2019s defence and security editor, Dan Sabbagh, has written an interesting analysis piece about why Iran has more than enough capability to inflict damage despite the US being the superior military power. Here is an extract from his story, which was published last Friday: A frustrated US is exploring how to bend Iran to its will, after Trump described the country\u2019s leaders as \u201cscum\u201d and \u201csick people\u201d at this month\u2019s Nato summit, though it is not obvious how that can be done without a substantial ground campaign, for which the US is not prepared for, nor has the appetite for. Military escalation was considered at a White House Situation Room meeting on Tuesday, followed by leaks that the options considered included bombing another deep-lying nuclear site at Pickaxe Mountain \u2013 which would have no effect on the now critical Hormuz dynamic \u2013 or a seizure of the strategic Kharg Island, through which 90% of Iran\u2019s oil exports would flow if there was no US blockade. It is perfectly possible for the US to capture Kharg or any other small location on the ground, but the challenge would be holding on, as it would be inevitably targeted by Iranian missiles and drones. Meanwhile, continued US bombing will further reduce stockpiles of hard-to-make air defence interceptors, depleted by a half, and expensive missiles, down by a quarter to a third, based on estimates from the Center for Strategic and International Studies thinktank. Bahrain\u2019s interior ministry has urged residents to head to the nearest safe place of shelter as sirens sounded across the country. We\u2019ll bring you more as it comes in. The US president, Donald Trump, held a brief phone call with NewsNation in which he talked about the Iranian attack on Jordan on Friday that killed two American service members. Trump said the troops died \u201cin service of our country\u201d and stated again that the war on Iran was launched in order to never allow Iran to have a nuclear weapon. Asked about Iran\u2019s assertion that it was no longer honouring the memorandum of understanding, Trump replied: \u201cI couldn\u2019t care less.\u201d Trump angrily declared the ceasefire \u201cover\u201d earlier this month but in reality he has very little leverage over Tehran as it can still assert control over the strait of Hormuz and thereby effect global energy prices, a politically sensitive topic for the president ahead of the US midterms. And Iran could expand the conflict further with help from its regional allies. Reuters reported on Thursday that Iran has asked Yemen\u2019s Houthis to stand ready to close the Red Sea oil route if the US strikes Iranian power infrastructure, which would wreak havoc on the world economy. Iran could also inflict severe damage on US allied-Gulf countries if American forces decide to escalate the war, such as through sustained and widespread attacks on desalination plants across the region, which would have a devastating civilian cost. Tehran has already retaliated to US attacks by hitting power and desalination plants in Kuwait, threatening daily life in the small country which relies on desalinated water for about 90% of its drinking water. But so far these attacks have been relatively limited in scope. In a post to X about an hour ago, Kuwait\u2019s army said it was dealing with hostile missile and drone attacks, following what it described as \u201cIranian aggression\u201d. The statement said that any explosions that are heard would likely be the sound of air defence systems intercepting the hostile attacks. The Iranian army said earlier that it targeted two US bases in Kuwait with drones, hitting an ammunition depot at camp Buehring (formerly camp Udairi) and radar and air surveillance systems at the Ali Al Salem air base, in retaliation for US strikes on Iran overnight. It was not immediately clear whether the Iranian attacks were successful or intercepted. The US military said it launched new airstrikes against Iran to \u201cswiftly punish\u201d the country\u2019s Revolutionary Guard for an attack in Jordan that killed two "
+        "full_text": "Nigel Farage is no stranger to expressing his ire at what he regards as the liberal establishment, but even figures close to him were surprised at the tirade of anger he unleashed upon the editor of the Times. The exchange, which is said to have included an expletive aimed at Tony Gallagher, was triggered by the Reform UK leader\u2019s outrage that the paper was planning to run a story about his houses, which he said endangered his family. A source with knowledge of the encounter said it ended in \u201ca strong confrontation\u201d. It is a fragile moment for Reform\u2019s relationship with Britain\u2019s rightwing media, whose coverage of Farage and his byelection gamble has taken a negative turn since questions were raised about his funding and finances. Coverage by the Times and the Sun, part of Rupert Murdoch\u2019s News UK stable, as well as the Daily Telegraph and the Daily Mail, has made for tough reading for Reform in recent days. While the Telegraph has given column inches to party figures to air their grievances at the media, recent stories have also described Farage\u2019s decision to subject himself to a \u201cpeople versus the establishment\u201d byelection in Clacton as a \u201csummer gamble\u201d and a farce. Meanwhile, Kemi Badenoch appeared in its pages stating the Conservative party \u201cis for serious people, not a retirement home for failed politicians\u201d \u2013 a jibe at Reform\u2019s collection of Tory defectors. The Mail has run a positive interview with Farage, but an editorial on the same day read: \u201cHow quickly times \u2013 and political fortunes \u2013 can change. It is only weeks since Reform UK\u2019s rise appeared almost unstoppable. But two byelection defeats and concerns over leader Nigel Farage\u2019s financial affairs have significantly altered the landscape.\u201d This time last year, Farage was wooing News UK\u2019s leaders and readers, seen as a crucial group in converting Reform\u2019s poll lead into a broad enough power base to make a serious assault on Downing Street. He pressed flesh at the news group\u2019s summer party and dined with the Sun\u2019s editor, Victoria Newton. By then, Reform had already seen its local election slogan, \u201cBritain is broken\u201d, emblazoned on the Sun\u2019s front page. In recent days, however, a damning verdict on Farage\u2019s current predicament was delivered by Trevor Kavanagh, the Sun\u2019s veteran political commentator and a figure close to Murdoch. \u201cWe are witnessing the sudden death of a political movement which began as the UK Independence party, morphed into the Brexit party, and now Reform,\u201d he wrote. \u201cOr, to simply name names, Nigel Farage.\u201d Figures within Reform continue to believe they have a case that the Times should not have published a story containing a picture of a property where one of Farage\u2019s children lives. They say the death of Ann Widdecombe has underlined their argument. A senior News UK figure is said to have reached out to Farage for a meeting. A Times spokesperson said: \u201cWe stand by our journalism, and do not accept that the published photograph identified the location of any property or presented a security risk.\u201d At News UK, Reform\u2019s anger is seen more as a sign of frustration at failing to decisively win over the titles or more of their readers. Farage\u2019s decision to raise the spectre of the Leveson inquiry, which examined the ethics of the press and recommended stricter regulation, has also gone down incredibly badly with the leadership of the rightwing media. The timing was unfortunate. Many across the titles have been celebrating the Mail\u2019s victory this month over a group of litigants including Prince Harry, who failed in their attempt to sue over alleged unlawful information-gathering techniques. The claimants had been supported by campaigners for tighter press regulation. One senior editor said Farage had abandoned attempts to build broad support in favour of appealing to his base, resulting in attacks on the press. \u201cIt\u2019s straight out of Trump world,\u201d they said. \u201cDemonise the messenger, rally the base, undermine the MSM.\u201d Figures within Reform say they ar"
       },
-      "position": "WANING"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Coin",
-      "house_b": "High House War",
+      "house_b": "High House Words",
       "actor_a": "RUSSIA",
-      "actor_b": "IRAN",
+      "actor_b": "TIMES",
       "relationship": "opposed",
-      "goldstein_avg": -2.457,
+      "goldstein_avg": -1.578,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Shadow": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend_ratio": 0.639,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 4.045,
       "source": "gdelt_volume"
     }
   }
