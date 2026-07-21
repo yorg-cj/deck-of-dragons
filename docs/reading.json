@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,62 +33,31 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.449,
+      "reversed": false,
+      "confidence": 0.442,
       "scores": {
-        "High House War": 0.105,
-        "High House Coin": 0.203,
-        "High House Shadow": 0.334,
-        "High House Life": 0.096,
-        "High House Iron": 0.449,
-        "High House Words": 0.104,
-        "High House Chains": 0.044
+        "High House War": 0.041,
+        "High House Coin": 0.196,
+        "High House Shadow": 0.257,
+        "High House Life": 0.073,
+        "High House Iron": 0.442,
+        "High House Words": 0.038,
+        "High House Chains": 0.062
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.934
       },
       "article": {
-        "title": "Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?",
-        "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html",
+        "title": "American A.I. Giants Face Fresh Tests",
+        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.42,
-      "scores": {
-        "High House War": 0.04,
-        "High House Coin": 0.42,
-        "High House Shadow": 0.261,
-        "High House Life": 0.028,
-        "High House Iron": 0.082,
-        "High House Words": 0.228,
-        "High House Chains": 0.294
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
-      },
-      "article": {
-        "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-        "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -117,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
@@ -146,7 +115,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.349,
+      "scores": {
+        "High House War": 0.128,
+        "High House Coin": 0.349,
+        "High House Shadow": 0.26,
+        "High House Life": 0.134,
+        "High House Iron": 0.256,
+        "High House Words": 0.139,
+        "High House Chains": 0.24
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "A.I. Is Running on Borrowed Money",
+        "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -175,60 +173,38 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.306,
+      "confidence": 0.323,
       "scores": {
-        "High House War": -0.065,
-        "High House Coin": 0.075,
-        "High House Shadow": 0.164,
-        "High House Life": 0.061,
-        "High House Iron": -0.135,
-        "High House Words": 0.306,
-        "High House Chains": -0.031
+        "High House War": 0.215,
+        "High House Coin": 0.069,
+        "High House Shadow": 0.212,
+        "High House Life": 0.127,
+        "High House Iron": 0.187,
+        "High House Words": 0.323,
+        "High House Chains": 0.159
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.696
+        "sentiment_score": 0.758
       },
       "article": {
-        "title": "Farage\u2019s furious clash with Times editor stuns figures close to him",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
-        "source": "guardian",
-        "full_text": "Nigel Farage is no stranger to expressing his ire at what he regards as the liberal establishment, but even figures close to him were surprised at the tirade of anger he unleashed upon the editor of the Times. The exchange, which is said to have included an expletive aimed at Tony Gallagher, was triggered by the Reform UK leader\u2019s outrage that the paper was planning to run a story about his houses, which he said endangered his family. A source with knowledge of the encounter said it ended in \u201ca strong confrontation\u201d. It is a fragile moment for Reform\u2019s relationship with Britain\u2019s rightwing media, whose coverage of Farage and his byelection gamble has taken a negative turn since questions were raised about his funding and finances. Coverage by the Times and the Sun, part of Rupert Murdoch\u2019s News UK stable, as well as the Daily Telegraph and the Daily Mail, has made for tough reading for Reform in recent days. While the Telegraph has given column inches to party figures to air their grievances at the media, recent stories have also described Farage\u2019s decision to subject himself to a \u201cpeople versus the establishment\u201d byelection in Clacton as a \u201csummer gamble\u201d and a farce. Meanwhile, Kemi Badenoch appeared in its pages stating the Conservative party \u201cis for serious people, not a retirement home for failed politicians\u201d \u2013 a jibe at Reform\u2019s collection of Tory defectors. The Mail has run a positive interview with Farage, but an editorial on the same day read: \u201cHow quickly times \u2013 and political fortunes \u2013 can change. It is only weeks since Reform UK\u2019s rise appeared almost unstoppable. But two byelection defeats and concerns over leader Nigel Farage\u2019s financial affairs have significantly altered the landscape.\u201d This time last year, Farage was wooing News UK\u2019s leaders and readers, seen as a crucial group in converting Reform\u2019s poll lead into a broad enough power base to make a serious assault on Downing Street. He pressed flesh at the news group\u2019s summer party and dined with the Sun\u2019s editor, Victoria Newton. By then, Reform had already seen its local election slogan, \u201cBritain is broken\u201d, emblazoned on the Sun\u2019s front page. In recent days, however, a damning verdict on Farage\u2019s current predicament was delivered by Trevor Kavanagh, the Sun\u2019s veteran political commentator and a figure close to Murdoch. \u201cWe are witnessing the sudden death of a political movement which began as the UK Independence party, morphed into the Brexit party, and now Reform,\u201d he wrote. \u201cOr, to simply name names, Nigel Farage.\u201d Figures within Reform continue to believe they have a case that the Times should not have published a story containing a picture of a property where one of Farage\u2019s children lives. They say the death of Ann Widdecombe has underlined their argument. A senior News UK figure is said to have reached out to Farage for a meeting. A Times spokesperson said: \u201cWe stand by our journalism, and do not accept that the published photograph identified the location of any property or presented a security risk.\u201d At News UK, Reform\u2019s anger is seen more as a sign of frustration at failing to decisively win over the titles or more of their readers. Farage\u2019s decision to raise the spectre of the Leveson inquiry, which examined the ethics of the press and recommended stricter regulation, has also gone down incredibly badly with the leadership of the rightwing media. The timing was unfortunate. Many across the titles have been celebrating the Mail\u2019s victory this month over a group of litigants including Prince Harry, who failed in their attempt to sue over alleged unlawful information-gathering techniques. The claimants had been supported by campaigners for tighter press regulation. One senior editor said Farage had abandoned attempts to build broad support in favour of appealing to his base, resulting in attacks on the press. \u201cIt\u2019s straight out of Trump world,\u201d they said. \u201cDemonise the messenger, rally the base, undermine the MSM.\u201d Figures within Reform say they ar"
+        "title": "Rebranding Nepal: Soft power as the foundation of strategic statecraft",
+        "url": "https://thehimalayantimes.com/opinion/rebranding-nepal-soft-power-as-the-foundation-of-strategic-statecraft",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "RUSSIA",
-      "actor_b": "TIMES",
-      "relationship": "opposed",
-      "goldstein_avg": -1.578,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.639,
-      "source": "gdelt_volume"
-    },
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 4.045,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
