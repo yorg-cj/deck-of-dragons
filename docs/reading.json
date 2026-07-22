@@ -1,6 +1,35 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.455,
+      "scores": {
+        "High House War": 0.086,
+        "High House Coin": 0.198,
+        "High House Shadow": 0.256,
+        "High House Life": 0.125,
+        "High House Iron": 0.455,
+        "High House Words": 0.151,
+        "High House Chains": 0.154
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.535,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.972
+      },
+      "article": {
+        "title": "Will the U.S. and China Build Walls Around A.I.?",
+        "url": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,94 +57,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.442,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.196,
-        "High House Shadow": 0.257,
-        "High House Life": 0.073,
-        "High House Iron": 0.442,
-        "High House Words": 0.038,
-        "High House Chains": 0.062
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.934
-      },
-      "article": {
-        "title": "American A.I. Giants Face Fresh Tests",
-        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "ASCENDING"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.404,
+      "confidence": 0.447,
       "scores": {
-        "High House War": 0.015,
-        "High House Coin": -0.001,
-        "High House Shadow": 0.016,
-        "High House Life": 0.404,
-        "High House Iron": -0.006,
-        "High House Words": 0.032,
-        "High House Chains": 0.039
+        "High House War": 0.083,
+        "High House Coin": 0.005,
+        "High House Shadow": 0.141,
+        "High House Life": 0.447,
+        "High House Iron": -0.01,
+        "High House Words": 0.081,
+        "High House Chains": -0.013
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.533,
+        "confidence": 0.543,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.968
+        "sentiment_score": 0.987
       },
       "article": {
-        "title": "Climate Change and Air Pollution Combo Is a \u2018Double Whammy\u2019 for Health",
-        "url": "https://www.nytimes.com/article/heat-air-pollution-climate.html",
+        "title": "What the Cyclospora Outbreak Reveals",
+        "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
-      "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -144,7 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -173,38 +144,84 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.323,
+      "confidence": 0.307,
       "scores": {
-        "High House War": 0.215,
-        "High House Coin": 0.069,
-        "High House Shadow": 0.212,
-        "High House Life": 0.127,
-        "High House Iron": 0.187,
-        "High House Words": 0.323,
-        "High House Chains": 0.159
+        "High House War": 0.227,
+        "High House Coin": 0.236,
+        "High House Shadow": 0.055,
+        "High House Life": 0.026,
+        "High House Iron": 0.045,
+        "High House Words": 0.18,
+        "High House Chains": 0.307
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.758
+        "sentiment_score": 0.947
       },
       "article": {
-        "title": "Rebranding Nepal: Soft power as the foundation of strategic statecraft",
-        "url": "https://thehimalayantimes.com/opinion/rebranding-nepal-soft-power-as-the-foundation-of-strategic-statecraft",
+        "title": "Why are Greece and T\u00fcrkiye at odds? Understanding the decades-long tensions between two NATO allies",
+        "url": "https://news.az/news/why-are-greece-and-turkiye-at-odds-understanding-the-decades-long-tensions-between-two-nato-allies",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.303,
+      "scores": {
+        "High House War": 0.223,
+        "High House Coin": 0.144,
+        "High House Shadow": 0.192,
+        "High House Life": 0.077,
+        "High House Iron": 0.024,
+        "High House Words": 0.303,
+        "High House Chains": 0.183
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.538,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.978
+      },
+      "article": {
+        "title": "\u2018It\u2019s truly hell here\u2019: airstrikes, repression and water shortages become \u2018new normal\u2019 for Iranians",
+        "url": "https://www.theguardian.com/world/2026/jul/22/its-truly-hell-here-airstrikes-repression-and-water-shortages-become-new-normal-for-iranians",
+        "source": "guardian",
+        "full_text": "As US airstrikes hit port and inland cities in Iran, and Tehran strikes at the US\u2019s Middle East allies, the escalating conflict has left many Iranians fearing that, amid war and a worsening human rights crisis, they remain trapped in a cycle of violence and repression with no way out. Bandar Abbas, on the strait of Hormuz and the headquarters of the Iranian navy, has been hit by strikes every night since the latest escalation began nearly two weeks ago. Soroush*, a writer based in the city who secretly publishes a newsletter documenting human rights violations in Iran, described a \u201cnew normal\u201d for its residents. \u201cWe need to accept this could just be our new reality now and it\u2019s worked because we are less afraid as each day goes on,\u201d the 37-year-old said. \u201cWe are less afraid of the future because we are now forced to accept this is the new normal. There\u2019s no one coming to save us from the bombs or the regime\u2019s bullets. Our brains have tricked us into making peace with this new reality.\u201d For those living near the port, loud explosions followed by prolonged power cuts have become the norm over the past week. Mehnaz*, 39, depends on the internet for her work and says she was already struggling with the government-imposed internet shutdown, which has severely affected her earnings. \u201cWe always had power cuts, but the hours have now extended and I fear I can\u2019t rely on my online work any more. The war is far from the end and daily life is becoming harder under the bombs, power cuts and internet shutdowns. It\u2019s truly hell here,\u201d she said. Another port city reportedly struck by the US this week was Jask. State media claimed US strikes hit 100 civilian vessels and that an attack on the Bonji desalination plant left 20 villages without drinking water. Moein*, a resident of Jask, said that although the water supply had been restored, residents were in panic and scrambling to prepare for a long-running war. \u201cThat\u2019s just it. The heat is rising and if we lack water supply due to these attacks, we will die of heat exhaustion and thirst. Supply is back now, but we are now making sure to prepare for future attacks and we have to save as much water as we can.\u201d A strike in June on water facilities in the coastal city of Sirik also reportedly left thousands of residents rationing water and struggling with daily chores. Nik Kowsar, a US-based Iranian journalist and water issues analyst, said the war was having a severe impact on civilians \u2013 and such concerns did not equate to support for the country\u2019s rulers. \u201cIranians can despise the regime and want the IRGC [Islamic Revolutionary Guard Corps] dismantled while still being horrified by attacks that leave ordinary families without water, electricity, medicine or income,\u201d he said. \u201cAttacking desalination plants in Iran\u2019s hot and dry south is particularly dangerous. When temperatures climb above 40C, losing access to drinking water can quickly become a matter of life and death. Bombing the infrastructure people rely on will not make Iranians embrace those carrying out the attacks. It may weaken the government, but ordinary people pay the immediate price, and the country is left with damage that could take years to repair,\u201d adds Kowsar. Others who spoke to the Guardian highlighted Iran\u2019s dire human rights situation, with at least 400 people reportedly executed since the beginning of this year, including teenagers, foreign nationals, protesters and former political prisoners. According to the Oslo-based group Iran Human Rights, hundreds more are believed to be facing capital punishment. \u201cThe US government will now take revenge for its personnel killed by the regime and the regime will in retaliation pick up more teenagers and hang them in revenge for the killing of [Ali] Khamenei,\u201d Soroush said. \u201cThis is just the beginning of more Iranian lives being on the line either for the US or the regime. I am deeply saddened and feel helpless.\u201d * Names have been changed"
+      },
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
-  "house_trends": {}
+  "relationships": [
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "NATO",
+      "actor_b": "GREECE",
+      "relationship": "neutral",
+      "goldstein_avg": -0.447,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.66,
+      "source": "gdelt_volume"
+    }
+  }
 }
