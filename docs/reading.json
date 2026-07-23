@@ -1,35 +1,6 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.455,
-      "scores": {
-        "High House War": 0.086,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.256,
-        "High House Life": 0.125,
-        "High House Iron": 0.455,
-        "High House Words": 0.151,
-        "High House Chains": 0.154
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.535,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.972
-      },
-      "article": {
-        "title": "Will the U.S. and China Build Walls Around A.I.?",
-        "url": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,7 +28,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
       "house": "High House Life",
@@ -86,32 +57,32 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.349,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.442,
       "scores": {
-        "High House War": 0.128,
-        "High House Coin": 0.349,
-        "High House Shadow": 0.26,
-        "High House Life": 0.134,
-        "High House Iron": 0.256,
-        "High House Words": 0.139,
-        "High House Chains": 0.24
+        "High House War": 0.041,
+        "High House Coin": 0.196,
+        "High House Shadow": 0.257,
+        "High House Life": 0.073,
+        "High House Iron": 0.442,
+        "High House Words": 0.038,
+        "High House Chains": 0.062
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
+        "sentiment_score": 0.934
       },
       "article": {
-        "title": "A.I. Is Running on Borrowed Money",
-        "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+        "title": "American A.I. Giants Face Fresh Tests",
+        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
         "source": "nyt",
         "full_text": null
       },
@@ -121,27 +92,27 @@
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.341,
+      "confidence": 0.425,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.425,
+        "High House Coin": 0.133,
+        "High House Shadow": 0.175,
+        "High House Life": 0.119,
+        "High House Iron": 0.032,
+        "High House Words": 0.118,
+        "High House Chains": 0.151
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.539,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.98
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
+        "title": "Trump Eyes Military Strikes in Mali as JNIM-Tuareg Alliance Kills 50 Soldiers",
+        "url": "https://easternherald.com/2026/07/23/trump-mali-military-strikes-jnim-tuareg-sahel",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -150,77 +121,114 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.307,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.227,
-        "High House Coin": 0.236,
-        "High House Shadow": 0.055,
-        "High House Life": 0.026,
-        "High House Iron": 0.045,
-        "High House Words": 0.18,
-        "High House Chains": 0.307
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.947
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Why are Greece and T\u00fcrkiye at odds? Understanding the decades-long tensions between two NATO allies",
-        "url": "https://news.az/news/why-are-greece-and-turkiye-at-odds-understanding-the-decades-long-tensions-between-two-nato-allies",
-        "source": "worldnews",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.365,
+      "scores": {
+        "High House War": 0.24,
+        "High House Coin": 0.365,
+        "High House Shadow": 0.245,
+        "High House Life": 0.153,
+        "High House Iron": 0.138,
+        "High House Words": 0.213,
+        "High House Chains": 0.257
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.976
+      },
+      "article": {
+        "title": "Trump\u2019s New Trade Fights (and Deals)",
+        "url": "https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.303,
+      "confidence": 0.31,
       "scores": {
-        "High House War": 0.223,
-        "High House Coin": 0.144,
-        "High House Shadow": 0.192,
-        "High House Life": 0.077,
-        "High House Iron": 0.024,
-        "High House Words": 0.303,
-        "High House Chains": 0.183
+        "High House War": -0.036,
+        "High House Coin": 0.056,
+        "High House Shadow": 0.236,
+        "High House Life": -0.075,
+        "High House Iron": -0.02,
+        "High House Words": 0.31,
+        "High House Chains": 0.063
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.538,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.978
+        "confidence": 0.7,
+        "matched_signals": [
+          "silenced",
+          "banned"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.657
       },
       "article": {
-        "title": "\u2018It\u2019s truly hell here\u2019: airstrikes, repression and water shortages become \u2018new normal\u2019 for Iranians",
-        "url": "https://www.theguardian.com/world/2026/jul/22/its-truly-hell-here-airstrikes-repression-and-water-shortages-become-new-normal-for-iranians",
+        "title": "\u2018A statement of freedom\u2019: T-shirt slogan goes viral and book sales rocket in Taiwan after Hong Kong raids",
+        "url": "https://www.theguardian.com/world/2026/jul/23/taiwan-hong-kong-independent-bookstore-raids-china-censorship",
         "source": "guardian",
-        "full_text": "As US airstrikes hit port and inland cities in Iran, and Tehran strikes at the US\u2019s Middle East allies, the escalating conflict has left many Iranians fearing that, amid war and a worsening human rights crisis, they remain trapped in a cycle of violence and repression with no way out. Bandar Abbas, on the strait of Hormuz and the headquarters of the Iranian navy, has been hit by strikes every night since the latest escalation began nearly two weeks ago. Soroush*, a writer based in the city who secretly publishes a newsletter documenting human rights violations in Iran, described a \u201cnew normal\u201d for its residents. \u201cWe need to accept this could just be our new reality now and it\u2019s worked because we are less afraid as each day goes on,\u201d the 37-year-old said. \u201cWe are less afraid of the future because we are now forced to accept this is the new normal. There\u2019s no one coming to save us from the bombs or the regime\u2019s bullets. Our brains have tricked us into making peace with this new reality.\u201d For those living near the port, loud explosions followed by prolonged power cuts have become the norm over the past week. Mehnaz*, 39, depends on the internet for her work and says she was already struggling with the government-imposed internet shutdown, which has severely affected her earnings. \u201cWe always had power cuts, but the hours have now extended and I fear I can\u2019t rely on my online work any more. The war is far from the end and daily life is becoming harder under the bombs, power cuts and internet shutdowns. It\u2019s truly hell here,\u201d she said. Another port city reportedly struck by the US this week was Jask. State media claimed US strikes hit 100 civilian vessels and that an attack on the Bonji desalination plant left 20 villages without drinking water. Moein*, a resident of Jask, said that although the water supply had been restored, residents were in panic and scrambling to prepare for a long-running war. \u201cThat\u2019s just it. The heat is rising and if we lack water supply due to these attacks, we will die of heat exhaustion and thirst. Supply is back now, but we are now making sure to prepare for future attacks and we have to save as much water as we can.\u201d A strike in June on water facilities in the coastal city of Sirik also reportedly left thousands of residents rationing water and struggling with daily chores. Nik Kowsar, a US-based Iranian journalist and water issues analyst, said the war was having a severe impact on civilians \u2013 and such concerns did not equate to support for the country\u2019s rulers. \u201cIranians can despise the regime and want the IRGC [Islamic Revolutionary Guard Corps] dismantled while still being horrified by attacks that leave ordinary families without water, electricity, medicine or income,\u201d he said. \u201cAttacking desalination plants in Iran\u2019s hot and dry south is particularly dangerous. When temperatures climb above 40C, losing access to drinking water can quickly become a matter of life and death. Bombing the infrastructure people rely on will not make Iranians embrace those carrying out the attacks. It may weaken the government, but ordinary people pay the immediate price, and the country is left with damage that could take years to repair,\u201d adds Kowsar. Others who spoke to the Guardian highlighted Iran\u2019s dire human rights situation, with at least 400 people reportedly executed since the beginning of this year, including teenagers, foreign nationals, protesters and former political prisoners. According to the Oslo-based group Iran Human Rights, hundreds more are believed to be facing capital punishment. \u201cThe US government will now take revenge for its personnel killed by the regime and the regime will in retaliation pick up more teenagers and hang them in revenge for the killing of [Ali] Khamenei,\u201d Soroush said. \u201cThis is just the beginning of more Iranian lives being on the line either for the US or the regime. I am deeply saddened and feel helpless.\u201d * Names have been changed"
+        "full_text": "Walking out of one of Hong Kong\u2019s last remaining independent bookstores, hands behind her back but head held high, the woman\u2019s T-shirt was emblazoned with a simple slogan: \u201cI am a bookstore employee\u201d. Escorted by police, the woman was among five people arrested during raids on two bookstores last week, suspected of displaying and selling publications with \u201cseditious\u201d content, a national security crime which carries a maximum sentence of 10 years. Since then, the T-shirt phrase has spread far and wide on Taiwanese social media amid concern for the fate of Hong Kong\u2019s booksellers. Taiwan is now the only place in the Chinese-speaking world where people can openly express their feelings about repression by the Chinese government. On the social media platform Threads, booksellers, lawmakers and activists shared the hashtag \u201cI am a bookstore employee\u201d to show their support for Hong Kong. Taiwan\u2019s president, Lai Ching-te, also weighed in, writing on Facebook: \u201cIdeas and words should never be silenced by political pressure\u201d. It is the third time in recent months that people in Hong Kong linked to independent bookstores have been arrested. The Hong Kong authorities have not specified what the allegedly seditious books were in the latest raids. But after the arrest, Hong Kong\u2019s security chief, Chris Tang, said that booksellers had a responsibility to ensure their books were lawful, \u201cjust like merchants selling food have to make sure their food won\u2019t make people sick\u201d. All five arrested in last week\u2019s raids have since been released on bail. The Hong Kong police declined to comment further, but reports that the offending books may have included Let Only Red Flowers Bloom: Identity and Belonging in Xi Jinping\u2019s China, written by NPR journalist Emily Feng, prompted a run on the book in Taiwan. The Taiwanese publisher, Acropolis Publishing, ordered an emergency reprint of 10,000 additional copies last week. Sara Sung, a senior editor at Acropolis, said some readers were buying copies as \u201ca statement of democracy and freedom\u201d. \u201cThey\u2019re showing that they will not be silenced or intimidated by censorship from China,\u201d Sung said. Chang Hui-ju, the owner of Touat Books, an independent bookshop in Taipei, Taiwan\u2019s capital, said she was completely out of stock of Feng\u2019s book. \u201cBefore this, hardly anyone paid attention to it,\u201d Chang said. \u201cBut right after the incident, the book sold out everywhere.\u201d The ban \u2018only made me more curious\u2019 Another Taipei store, Kuo\u2019s Astral Bookshop, also sold out of the book. One customer looking in vain for a copy, Wu Jia-xuan, said she was not normally interested in China-related books but that her interest had been piqued by the Hong Kong arrests. \u201cThe fact that it had been banned only made [me] more curious,\u201d Wu said. Feng\u2019s book examines Chinese leader Xi Jinping\u2019s ideological control over the country. One chapter, titled The Bookseller, focuses on the prominent Hong Kong bookseller Lam Wing-kee. Lam was arrested by Chinese authorities in 2015 but later escaped custody and fled to Taiwan, where he re-opened his bookstore, Causeway Bay Books, in Taipei. Lam died earlier this month and the fate of his Taipei store is uncertain: the closed-up shopfront is covered with notes, flowers and cans of beer left by his supporters. Lam\u2019s story charts the uneasy and complex relationship that Taiwan and Hong Kong have with each other, as well as with mainland China. Taiwan has never been part of the People\u2019s Republic of China. But Beijing has long claimed the self-governing island as part of its territory and has vowed to unify it with China. One path to peaceful unification, suggested by Beijing, is for Taiwan to be ruled under a \u201cone country, two systems\u201d framework, similar to Hong Kong. Over 80% of Taiwanese reject that idea. In Taiwan, politicians from the ruling Democratic People\u2019s party (DPP), which rejects the idea of closer ties with China, have pointed to Hong Kong as an example of the dangers of what happens under Chine"
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "NATO",
-      "actor_b": "GREECE",
+      "house_b": "High House Words",
+      "actor_a": "MALI",
+      "actor_b": "TAIWAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.447,
+      "goldstein_avg": -0.127,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.66,
+      "trend": "rising",
+      "trend_ratio": 1.177,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 1.199,
       "source": "gdelt_volume"
     }
   }
