@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "cards": [
     {
       "house": "High House Shadow",
@@ -118,31 +118,31 @@
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.424,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.046,
+        "High House Coin": 0.055,
+        "High House Shadow": 0.303,
+        "High House Life": 0.107,
+        "High House Iron": 0.003,
+        "High House Words": 0.424,
+        "High House Chains": 0.093
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
+        "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
+        "source": "guardian",
+        "full_text": "A political lobbying firm secretly paying journalists for articles favourable to its clients is facing calls to reveal full details of the payments, after the practice was denounced as a dangerous \u201cattack on democracy\u201d. MPs, senior lobbyists and transparency campaigners all condemned the behaviour of CT Group, the firm co-founded by the campaign strategist Lynton Crosby, an election guru previously hired by David Cameron and Boris Johnson. There were calls for an overhaul of lobbying rules and demands for CT Group to reveal the full extent of the practice, exposed after a four-month Guardian investigation. \u201cLobbyists paying journalists to produce apparently independent articles is an attack on the ethics of journalism, public relations and, indeed, on democracy,\u201d said Alastair McCapra, the chief executive of the Chartered Institute of Public Relations. CT Group is not a member of the body. \u201cAnyone can practise public relations in this country without belonging to a professional body or answering to a code of conduct. The majority do that ethically but these reported practices undermine our profession and erode the credibility on which responsible lobbying and public relations depend.\u201d Lobbyists for CT Group told an undercover reporter they had paid journalists to place apparently independent stories in newspapers. They also offered hundreds of pounds in cash incentives to do the same for a property industry client and said that in return for the payment, CT Group would have increased editorial control. Jemimah Steinfeld, the chief executive of Index on Censorship, said: \u201cTo spin what is lobbying as journalism is shortsighted and frankly dangerous.\u201d She called on CT Group to launch an internal investigation. Steve Goodrich, the head of research and investigations at Transparency International UK, said: \u201cWhen lobbyists secretly pay journalists to write favourable coverage for their clients, it undermines the integrity of the press. This investigation raises serious questions about the conduct of CT Group, and about how widespread these hidden arrangements are across the lobbying industry.\u201d Luke Taylor, a Liberal Democrat member of parliament\u2019s public administration and constitutional affairs committee, said there should now be \u201cfull transparency on when money has changed hands when it comes to reporting\u201d. \u201cAcross the board we are seeing worrying signs of our democracy being in peril,\u201d he said. \u201cA truly free press is a fundamental pillar of a healthy democracy and so we must do everything in our power to maintain it.\u201d Sam Carling, a Labour MP on the committee, said: \u201cIf secret payments or other ethical failings are taking place widely, then the government ought to consider giving the Office of the Registrar of Consultant Lobbyists regulatory powers to hold lobbyists to account.\u201d Rupa Huq, a Labour member of the Commons media select committee, said: \u201cWe need more transparency in lobbying which almost feels like the wild west, such is the lack of regulation.\u201d She added: \u201cI hope the new Andy Burnham government can grip this issue.\u201d The Guardian began investigating the arrangements after CT Group approached a freelance journalist and offered to pay him to pitch a piece to a British national newspaper about problems caused for the housebuilding industry by the Building Safety Regulator, set up in the wake of the Grenfell Tower fire that killed 72 people. CT Group is a lobbying company with a \u00a340m-a-year turnover whose recent clients include the tobacco firm Philip Morris and the owner of the football club Manchester City. In a statement, CT Group said: \u201cWe do not comment publicly on work we do for clients and we therefore cannot respond to the specific allegations you have made.\u201d It said the events had been \u201cdeliberately mischaracterised\u201d and that it had not engaged the undercover journalist to do anything and did not pay him anything. It said the journalist was looking for work and \u201cchased us relentlessly over a period of more than s"
       },
       "position": "WILD"
     },
@@ -150,85 +150,71 @@
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.365,
+      "confidence": 0.388,
       "scores": {
-        "High House War": 0.24,
-        "High House Coin": 0.365,
-        "High House Shadow": 0.245,
-        "High House Life": 0.153,
-        "High House Iron": 0.138,
-        "High House Words": 0.213,
-        "High House Chains": 0.257
+        "High House War": 0.148,
+        "High House Coin": 0.388,
+        "High House Shadow": 0.184,
+        "High House Life": 0.018,
+        "High House Iron": 0.176,
+        "High House Words": 0.224,
+        "High House Chains": 0.358
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.976
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Trump\u2019s New Trade Fights (and Deals)",
-        "url": "https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html",
-        "source": "nyt",
+        "title": "Trump\u2019s trade wars are back\u2014despite the Supreme Court",
+        "url": "https://www.livemint.com/global/trumps-trade-wars-are-back-despite-the-supreme-court-11784860453609.html",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.31,
+      "confidence": 0.366,
       "scores": {
-        "High House War": -0.036,
-        "High House Coin": 0.056,
-        "High House Shadow": 0.236,
-        "High House Life": -0.075,
-        "High House Iron": -0.02,
-        "High House Words": 0.31,
-        "High House Chains": 0.063
+        "High House War": 0.1,
+        "High House Coin": 0.292,
+        "High House Shadow": 0.23,
+        "High House Life": 0.107,
+        "High House Iron": 0.065,
+        "High House Words": 0.19,
+        "High House Chains": 0.366
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "silenced",
-          "banned"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.657
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "\u2018A statement of freedom\u2019: T-shirt slogan goes viral and book sales rocket in Taiwan after Hong Kong raids",
-        "url": "https://www.theguardian.com/world/2026/jul/23/taiwan-hong-kong-independent-bookstore-raids-china-censorship",
-        "source": "guardian",
-        "full_text": "Walking out of one of Hong Kong\u2019s last remaining independent bookstores, hands behind her back but head held high, the woman\u2019s T-shirt was emblazoned with a simple slogan: \u201cI am a bookstore employee\u201d. Escorted by police, the woman was among five people arrested during raids on two bookstores last week, suspected of displaying and selling publications with \u201cseditious\u201d content, a national security crime which carries a maximum sentence of 10 years. Since then, the T-shirt phrase has spread far and wide on Taiwanese social media amid concern for the fate of Hong Kong\u2019s booksellers. Taiwan is now the only place in the Chinese-speaking world where people can openly express their feelings about repression by the Chinese government. On the social media platform Threads, booksellers, lawmakers and activists shared the hashtag \u201cI am a bookstore employee\u201d to show their support for Hong Kong. Taiwan\u2019s president, Lai Ching-te, also weighed in, writing on Facebook: \u201cIdeas and words should never be silenced by political pressure\u201d. It is the third time in recent months that people in Hong Kong linked to independent bookstores have been arrested. The Hong Kong authorities have not specified what the allegedly seditious books were in the latest raids. But after the arrest, Hong Kong\u2019s security chief, Chris Tang, said that booksellers had a responsibility to ensure their books were lawful, \u201cjust like merchants selling food have to make sure their food won\u2019t make people sick\u201d. All five arrested in last week\u2019s raids have since been released on bail. The Hong Kong police declined to comment further, but reports that the offending books may have included Let Only Red Flowers Bloom: Identity and Belonging in Xi Jinping\u2019s China, written by NPR journalist Emily Feng, prompted a run on the book in Taiwan. The Taiwanese publisher, Acropolis Publishing, ordered an emergency reprint of 10,000 additional copies last week. Sara Sung, a senior editor at Acropolis, said some readers were buying copies as \u201ca statement of democracy and freedom\u201d. \u201cThey\u2019re showing that they will not be silenced or intimidated by censorship from China,\u201d Sung said. Chang Hui-ju, the owner of Touat Books, an independent bookshop in Taipei, Taiwan\u2019s capital, said she was completely out of stock of Feng\u2019s book. \u201cBefore this, hardly anyone paid attention to it,\u201d Chang said. \u201cBut right after the incident, the book sold out everywhere.\u201d The ban \u2018only made me more curious\u2019 Another Taipei store, Kuo\u2019s Astral Bookshop, also sold out of the book. One customer looking in vain for a copy, Wu Jia-xuan, said she was not normally interested in China-related books but that her interest had been piqued by the Hong Kong arrests. \u201cThe fact that it had been banned only made [me] more curious,\u201d Wu said. Feng\u2019s book examines Chinese leader Xi Jinping\u2019s ideological control over the country. One chapter, titled The Bookseller, focuses on the prominent Hong Kong bookseller Lam Wing-kee. Lam was arrested by Chinese authorities in 2015 but later escaped custody and fled to Taiwan, where he re-opened his bookstore, Causeway Bay Books, in Taipei. Lam died earlier this month and the fate of his Taipei store is uncertain: the closed-up shopfront is covered with notes, flowers and cans of beer left by his supporters. Lam\u2019s story charts the uneasy and complex relationship that Taiwan and Hong Kong have with each other, as well as with mainland China. Taiwan has never been part of the People\u2019s Republic of China. But Beijing has long claimed the self-governing island as part of its territory and has vowed to unify it with China. One path to peaceful unification, suggested by Beijing, is for Taiwan to be ruled under a \u201cone country, two systems\u201d framework, similar to Hong Kong. Over 80% of Taiwanese reject that idea. In Taiwan, politicians from the ruling Democratic People\u2019s party (DPP), which rejects the idea of closer ties with China, have pointed to Hong Kong as an example of the dangers of what happens under Chine"
+        "title": "N\u2019Assembly threatens sanctions against MDAs defying legislative oversight",
+        "url": "https://punchng.com/nassembly-threatens-sanctions-against-mdas-defying-legislative-oversight",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "MALI",
-      "actor_b": "TAIWAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.127,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House Life": {
       "trend": "rising",
-      "trend_ratio": 1.177,
+      "trend_ratio": 1.479,
       "source": "gdelt_volume"
     },
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.199,
+      "trend_ratio": 2.22,
       "source": "gdelt_volume"
     }
   }
