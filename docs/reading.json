@@ -1,35 +1,6 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "cards": [
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.455,
-      "scores": {
-        "High House War": 0.247,
-        "High House Coin": 0.146,
-        "High House Shadow": 0.455,
-        "High House Life": 0.058,
-        "High House Iron": 0.24,
-        "High House Words": 0.219,
-        "High House Chains": 0.152
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.756
-      },
-      "article": {
-        "title": "How Putin Turned Japan Into a Den of Spies",
-        "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -57,7 +28,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
       "house": "High House Iron",
@@ -86,36 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.425,
-      "scores": {
-        "High House War": 0.425,
-        "High House Coin": 0.133,
-        "High House Shadow": 0.175,
-        "High House Life": 0.119,
-        "High House Iron": 0.032,
-        "High House Words": 0.118,
-        "High House Chains": 0.151
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.539,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.98
-      },
-      "article": {
-        "title": "Trump Eyes Military Strikes in Mali as JNIM-Tuareg Alliance Kills 50 Soldiers",
-        "url": "https://easternherald.com/2026/07/23/trump-mali-military-strikes-jnim-tuareg-sahel",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Words",
@@ -144,77 +86,173 @@
         "source": "guardian",
         "full_text": "A political lobbying firm secretly paying journalists for articles favourable to its clients is facing calls to reveal full details of the payments, after the practice was denounced as a dangerous \u201cattack on democracy\u201d. MPs, senior lobbyists and transparency campaigners all condemned the behaviour of CT Group, the firm co-founded by the campaign strategist Lynton Crosby, an election guru previously hired by David Cameron and Boris Johnson. There were calls for an overhaul of lobbying rules and demands for CT Group to reveal the full extent of the practice, exposed after a four-month Guardian investigation. \u201cLobbyists paying journalists to produce apparently independent articles is an attack on the ethics of journalism, public relations and, indeed, on democracy,\u201d said Alastair McCapra, the chief executive of the Chartered Institute of Public Relations. CT Group is not a member of the body. \u201cAnyone can practise public relations in this country without belonging to a professional body or answering to a code of conduct. The majority do that ethically but these reported practices undermine our profession and erode the credibility on which responsible lobbying and public relations depend.\u201d Lobbyists for CT Group told an undercover reporter they had paid journalists to place apparently independent stories in newspapers. They also offered hundreds of pounds in cash incentives to do the same for a property industry client and said that in return for the payment, CT Group would have increased editorial control. Jemimah Steinfeld, the chief executive of Index on Censorship, said: \u201cTo spin what is lobbying as journalism is shortsighted and frankly dangerous.\u201d She called on CT Group to launch an internal investigation. Steve Goodrich, the head of research and investigations at Transparency International UK, said: \u201cWhen lobbyists secretly pay journalists to write favourable coverage for their clients, it undermines the integrity of the press. This investigation raises serious questions about the conduct of CT Group, and about how widespread these hidden arrangements are across the lobbying industry.\u201d Luke Taylor, a Liberal Democrat member of parliament\u2019s public administration and constitutional affairs committee, said there should now be \u201cfull transparency on when money has changed hands when it comes to reporting\u201d. \u201cAcross the board we are seeing worrying signs of our democracy being in peril,\u201d he said. \u201cA truly free press is a fundamental pillar of a healthy democracy and so we must do everything in our power to maintain it.\u201d Sam Carling, a Labour MP on the committee, said: \u201cIf secret payments or other ethical failings are taking place widely, then the government ought to consider giving the Office of the Registrar of Consultant Lobbyists regulatory powers to hold lobbyists to account.\u201d Rupa Huq, a Labour member of the Commons media select committee, said: \u201cWe need more transparency in lobbying which almost feels like the wild west, such is the lack of regulation.\u201d She added: \u201cI hope the new Andy Burnham government can grip this issue.\u201d The Guardian began investigating the arrangements after CT Group approached a freelance journalist and offered to pay him to pitch a piece to a British national newspaper about problems caused for the housebuilding industry by the Building Safety Regulator, set up in the wake of the Grenfell Tower fire that killed 72 people. CT Group is a lobbying company with a \u00a340m-a-year turnover whose recent clients include the tobacco firm Philip Morris and the owner of the football club Manchester City. In a statement, CT Group said: \u201cWe do not comment publicly on work we do for clients and we therefore cannot respond to the specific allegations you have made.\u201d It said the events had been \u201cdeliberately mischaracterised\u201d and that it had not engaged the undercover journalist to do anything and did not pay him anything. It said the journalist was looking for work and \u201cchased us relentlessly over a period of more than s"
       },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.409,
+      "scores": {
+        "High House War": 0.092,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.409,
+        "High House Life": 0.01,
+        "High House Iron": 0.011,
+        "High House Words": 0.164,
+        "High House Chains": 0.074
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+        "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.388,
+      "reversed": true,
+      "confidence": 0.408,
       "scores": {
-        "High House War": 0.148,
-        "High House Coin": 0.388,
-        "High House Shadow": 0.184,
-        "High House Life": 0.018,
-        "High House Iron": 0.176,
-        "High House Words": 0.224,
-        "High House Chains": 0.358
+        "High House War": 0.133,
+        "High House Coin": 0.408,
+        "High House Shadow": 0.304,
+        "High House Life": -0.029,
+        "High House Iron": 0.006,
+        "High House Words": 0.232,
+        "High House Chains": 0.321
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.982
+      },
+      "article": {
+        "title": "Four people, nine entities tied to Iran financial evasion network sanctioned by US Treasury",
+        "url": "https://www.jpost.com/international/article-903591",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.407,
+      "scores": {
+        "High House War": 0.407,
+        "High House Coin": 0.173,
+        "High House Shadow": 0.163,
+        "High House Life": 0.053,
+        "High House Iron": 0.04,
+        "High House Words": 0.27,
+        "High House Chains": 0.219
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.989
       },
       "article": {
-        "title": "Trump\u2019s trade wars are back\u2014despite the Supreme Court",
-        "url": "https://www.livemint.com/global/trumps-trade-wars-are-back-despite-the-supreme-court-11784860453609.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.366,
-      "scores": {
-        "High House War": 0.1,
-        "High House Coin": 0.292,
-        "High House Shadow": 0.23,
-        "High House Life": 0.107,
-        "High House Iron": 0.065,
-        "High House Words": 0.19,
-        "High House Chains": 0.366
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "N\u2019Assembly threatens sanctions against MDAs defying legislative oversight",
-        "url": "https://punchng.com/nassembly-threatens-sanctions-against-mdas-defying-legislative-oversight",
+        "title": "US-Iran War: Latest Developments",
+        "url": "https://www.kyivpost.com/post/81039",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.339,
+      "scores": {
+        "High House War": 0.147,
+        "High House Coin": 0.294,
+        "High House Shadow": 0.038,
+        "High House Life": 0.059,
+        "High House Iron": 0.214,
+        "High House Words": 0.168,
+        "High House Chains": 0.339
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.822
+      },
+      "article": {
+        "title": "Critical Analysis of the Proposed India\u2013Israel FTA",
+        "url": "https://abclive.in/2026/07/25/critical-analysis-of-the-proposed-india-israel-fta",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.479,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Coin",
+      "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.033,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 2.22,
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "JAPAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.706,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "JAPAN",
+      "actor_b": "INDIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.48,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "INDIA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.702,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.466,
       "source": "gdelt_volume"
     }
   }
