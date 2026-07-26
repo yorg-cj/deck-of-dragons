@@ -1,6 +1,35 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.545,
+      "scores": {
+        "High House War": 0.05,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.233,
+        "High House Life": 0.064,
+        "High House Iron": 0.545,
+        "High House Words": 0.002,
+        "High House Chains": -0.011
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "Is AI Adoption Changing Hiring Trends Across Tech Companies? Here's What Study Says",
+        "url": "https://www.latestly.com/technology/is-ai-adoption-changing-hiring-trends-across-tech-companies-heres-what-study-says-7532638.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -28,65 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.442,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.196,
-        "High House Shadow": 0.257,
-        "High House Life": 0.073,
-        "High House Iron": 0.442,
-        "High House Words": 0.038,
-        "High House Chains": 0.062
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.934
-      },
-      "article": {
-        "title": "American A.I. Giants Face Fresh Tests",
-        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.424,
-      "scores": {
-        "High House War": 0.046,
-        "High House Coin": 0.055,
-        "High House Shadow": 0.303,
-        "High House Life": 0.107,
-        "High House Iron": 0.003,
-        "High House Words": 0.424,
-        "High House Chains": 0.093
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
-        "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
-        "source": "guardian",
-        "full_text": "A political lobbying firm secretly paying journalists for articles favourable to its clients is facing calls to reveal full details of the payments, after the practice was denounced as a dangerous \u201cattack on democracy\u201d. MPs, senior lobbyists and transparency campaigners all condemned the behaviour of CT Group, the firm co-founded by the campaign strategist Lynton Crosby, an election guru previously hired by David Cameron and Boris Johnson. There were calls for an overhaul of lobbying rules and demands for CT Group to reveal the full extent of the practice, exposed after a four-month Guardian investigation. \u201cLobbyists paying journalists to produce apparently independent articles is an attack on the ethics of journalism, public relations and, indeed, on democracy,\u201d said Alastair McCapra, the chief executive of the Chartered Institute of Public Relations. CT Group is not a member of the body. \u201cAnyone can practise public relations in this country without belonging to a professional body or answering to a code of conduct. The majority do that ethically but these reported practices undermine our profession and erode the credibility on which responsible lobbying and public relations depend.\u201d Lobbyists for CT Group told an undercover reporter they had paid journalists to place apparently independent stories in newspapers. They also offered hundreds of pounds in cash incentives to do the same for a property industry client and said that in return for the payment, CT Group would have increased editorial control. Jemimah Steinfeld, the chief executive of Index on Censorship, said: \u201cTo spin what is lobbying as journalism is shortsighted and frankly dangerous.\u201d She called on CT Group to launch an internal investigation. Steve Goodrich, the head of research and investigations at Transparency International UK, said: \u201cWhen lobbyists secretly pay journalists to write favourable coverage for their clients, it undermines the integrity of the press. This investigation raises serious questions about the conduct of CT Group, and about how widespread these hidden arrangements are across the lobbying industry.\u201d Luke Taylor, a Liberal Democrat member of parliament\u2019s public administration and constitutional affairs committee, said there should now be \u201cfull transparency on when money has changed hands when it comes to reporting\u201d. \u201cAcross the board we are seeing worrying signs of our democracy being in peril,\u201d he said. \u201cA truly free press is a fundamental pillar of a healthy democracy and so we must do everything in our power to maintain it.\u201d Sam Carling, a Labour MP on the committee, said: \u201cIf secret payments or other ethical failings are taking place widely, then the government ought to consider giving the Office of the Registrar of Consultant Lobbyists regulatory powers to hold lobbyists to account.\u201d Rupa Huq, a Labour member of the Commons media select committee, said: \u201cWe need more transparency in lobbying which almost feels like the wild west, such is the lack of regulation.\u201d She added: \u201cI hope the new Andy Burnham government can grip this issue.\u201d The Guardian began investigating the arrangements after CT Group approached a freelance journalist and offered to pay him to pitch a piece to a British national newspaper about problems caused for the housebuilding industry by the Building Safety Regulator, set up in the wake of the Grenfell Tower fire that killed 72 people. CT Group is a lobbying company with a \u00a340m-a-year turnover whose recent clients include the tobacco firm Philip Morris and the owner of the football club Manchester City. In a statement, CT Group said: \u201cWe do not comment publicly on work we do for clients and we therefore cannot respond to the specific allegations you have made.\u201d It said the events had been \u201cdeliberately mischaracterised\u201d and that it had not engaged the undercover journalist to do anything and did not pay him anything. It said the journalist was looking for work and \u201cchased us relentlessly over a period of more than s"
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Shadow",
@@ -115,35 +86,62 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.387,
+      "scores": {
+        "High House War": 0.144,
+        "High House Coin": 0.244,
+        "High House Shadow": 0.074,
+        "High House Life": 0.12,
+        "High House Iron": 0.112,
+        "High House Words": 0.286,
+        "High House Chains": 0.387
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.701
+      },
+      "article": {
+        "title": "E.U. Debate About Import Ban Reveals Deep Divides Over Israel",
+        "url": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "WILD"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.408,
+      "reversed": false,
+      "confidence": 0.379,
       "scores": {
-        "High House War": 0.133,
-        "High House Coin": 0.408,
-        "High House Shadow": 0.304,
-        "High House Life": -0.029,
-        "High House Iron": 0.006,
-        "High House Words": 0.232,
-        "High House Chains": 0.321
+        "High House War": 0.157,
+        "High House Coin": 0.379,
+        "High House Shadow": 0.039,
+        "High House Life": 0.108,
+        "High House Iron": 0.117,
+        "High House Words": 0.16,
+        "High House Chains": 0.255
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
+        "sentiment_score": 0.813
       },
       "article": {
-        "title": "Four people, nine entities tied to Iran financial evasion network sanctioned by US Treasury",
-        "url": "https://www.jpost.com/international/article-903591",
-        "source": "worldnews",
+        "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+        "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -151,58 +149,58 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": false,
-      "confidence": 0.407,
+      "reversed": true,
+      "confidence": 0.364,
       "scores": {
-        "High House War": 0.407,
-        "High House Coin": 0.173,
-        "High House Shadow": 0.163,
-        "High House Life": 0.053,
-        "High House Iron": 0.04,
-        "High House Words": 0.27,
-        "High House Chains": 0.219
+        "High House War": 0.364,
+        "High House Coin": 0.225,
+        "High House Shadow": 0.161,
+        "High House Life": 0.012,
+        "High House Iron": 0.049,
+        "High House Words": 0.258,
+        "High House Chains": 0.204
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.538,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.989
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.978
       },
       "article": {
-        "title": "US-Iran War: Latest Developments",
-        "url": "https://www.kyivpost.com/post/81039",
-        "source": "worldnews",
+        "title": "Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns",
+        "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.339,
+      "confidence": 0.279,
       "scores": {
-        "High House War": 0.147,
-        "High House Coin": 0.294,
-        "High House Shadow": 0.038,
-        "High House Life": 0.059,
-        "High House Iron": 0.214,
-        "High House Words": 0.168,
-        "High House Chains": 0.339
+        "High House War": 0.218,
+        "High House Coin": 0.146,
+        "High House Shadow": 0.186,
+        "High House Life": 0.074,
+        "High House Iron": -0.011,
+        "High House Words": 0.279,
+        "High House Chains": 0.114
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.822
+        "sentiment_score": 0.901
       },
       "article": {
-        "title": "Critical Analysis of the Proposed India\u2013Israel FTA",
-        "url": "https://abclive.in/2026/07/25/critical-analysis-of-the-proposed-india-israel-fta",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Middle East crisis is \u2018getting out of control\u2019, UN chief warns \u2013 as it happened",
+        "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+        "source": "guardian",
+        "full_text": "Our live coverage of the Middle East crisis is now ending, but you can read our latest story from the region here. The US military carried out a 13th consecutive night of strikes on Iran, targeting drone facilities, coastal surveillance sites and more. The wave of attacks lasted more \u2060than two hours, according to the US Central Command. Iranian state media reported explosions along the strait of Hormuz in Qeshm and Bandar Abbas, where two people were reportedly injured, as well as to the north-west near Andimeshk and Omidiyeh. The UN secretary general, Ant\u00f3nio Guterres, warned that the Middle East is being pushed to the \u201cedge of the unimaginable\u201d amid mounting fears over the trajectory of the conflict. \u201cThe situation is getting out of control. It is teetering on the edge of the unimaginable. The region is being pulled into an ever-widening circle of confrontation. One crisis feeds another. One escalation triggers the next,\u201d Guterres told a security council meeting. \u201cAs this dynamic spreads, the political objectives are becoming increasingly obscured by the confrontation itself.\u201d It comes after Donald Trump said he was close to deciding whether to launch \u201ca massive attack\u201d against Iran, on a scale larger than strikes already witnessed during the months-long conflict with Tehran as the US president flounders in his attempts to get a grip on the spiralling crisis in the region. Speaking to Axios, the US president said: \u201cI am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it.\u201d He acknowledged that such a decision would have consequences but said he had not yet made a final determination. Israel \u201cwould join in two minutes if I ask them to\u201d, he added, before saying: \u201cWe don\u2019t need anybody.\u201d Trump\u2019s comments followed the earlier threat of \u201cmajor military punishment\u201d against Iran and the Houthis, after the Iran-backed Yemeni militia\u2019s attacks on two Saudi Arabian oil tankers in the Red Sea. The Houthi attacks threatened the safety of a second major maritime route connecting the Suez canal to the Red Sea and Gulf of Aden. They also came amid reports that Iran had sent military advisers and drone parts to the Houthis 10 days ago. Trump wrote on social media: \u201cIf [the Houthis] do this again, the US will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves.\u201d In a separate development, Trump clarified that an announced agreement that the US would help Saudi Arabia with its civilian nuclear programme would require the kingdom to normalise relations with Israel through the Abraham Accords, a move Saudi Arabia has long resisted until there is demonstrable movement on Palestinian rights and statehood. During Thursday\u2019s press briefing, Karoline Leavitt, the White House press secretary, reiterated that the Saudi Arabia nuclear deal is \u201ccontingent\u201d on the kingdom on joining the Abraham Accords. \u201cThe president is always the final dealmaker, as you know... He has said, if they don\u2019t join the Abraham accords, the deal is off,\u201d she said. It emerged later that Trump had not spoken to Saudi Arabia about the new condition. Oil prices once again surged past the symbolic $100 for a barrel of Brent crude, the international benchmark, and amid indications the price could go higher still. Now that the shaky ceasefire with the US has ruptured, AFP reports that rights groups fear Iran will ramp up executions to intimidate its citizens into silence. Iran has pressed ahead with executions since the earliest phase of the war finished in March, in what activists see as an attempt to instil fear in society and prevent a repeat of the protests that shook the leadership earlier this year. \u201cWith the breakdown of the ceasefire and the resumption of the war, we are deeply concerned that the authorities will exploit the situation to intensify the execution of political prisoners,\u201d Mahmood"
       },
       "position": "EMERGING"
     }
@@ -210,7 +208,7 @@
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House Coin",
+      "house_b": "High House War",
       "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
       "actor_b": "IRAN",
       "relationship": "neutral",
@@ -220,39 +218,24 @@
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "JAPAN",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.706,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
       "house_b": "High House Chains",
       "actor_a": "JAPAN",
-      "actor_b": "INDIA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.48,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "INDIA",
+      "actor_b": "ISRAEL",
       "relationship": "opposed",
-      "goldstein_avg": -2.702,
+      "goldstein_avg": -1.515,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House Life": {
+      "trend": "stable",
+      "trend_ratio": 0.988,
+      "source": "gdelt_volume"
+    },
     "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.466,
+      "trend_ratio": 0.735,
       "source": "gdelt_volume"
     }
   }
