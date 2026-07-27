@@ -1,35 +1,6 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.545,
-      "scores": {
-        "High House War": 0.05,
-        "High House Coin": 0.105,
-        "High House Shadow": 0.233,
-        "High House Life": 0.064,
-        "High House Iron": 0.545,
-        "High House Words": 0.002,
-        "High House Chains": -0.011
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "Is AI Adoption Changing Hiring Trends Across Tech Companies? Here's What Study Says",
-        "url": "https://www.latestly.com/technology/is-ai-adoption-changing-hiring-trends-across-tech-companies-heres-what-study-says-7532638.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -54,6 +25,35 @@
       "article": {
         "title": "What the Cyclospora Outbreak Reveals",
         "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.442,
+      "scores": {
+        "High House War": 0.041,
+        "High House Coin": 0.196,
+        "High House Shadow": 0.257,
+        "High House Life": 0.073,
+        "High House Iron": 0.442,
+        "High House Words": 0.038,
+        "High House Chains": 0.062
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.934
+      },
+      "article": {
+        "title": "American A.I. Giants Face Fresh Tests",
+        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
         "source": "nyt",
         "full_text": null
       },
@@ -87,6 +87,35 @@
         "full_text": null
       },
       "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.4,
+      "scores": {
+        "High House War": 0.4,
+        "High House Coin": 0.191,
+        "High House Shadow": 0.214,
+        "High House Life": 0.164,
+        "High House Iron": 0.032,
+        "High House Words": 0.185,
+        "High House Chains": 0.195
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.761
+      },
+      "article": {
+        "title": "Why are Mali's separatists and al-Qaeda-linked militants fighting together?",
+        "url": "https://news.az/news/why-are-mali-s-separatists-and-al-qaeda-linked-militants-fighting-together",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -144,73 +173,44 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.364,
-      "scores": {
-        "High House War": 0.364,
-        "High House Coin": 0.225,
-        "High House Shadow": 0.161,
-        "High House Life": 0.012,
-        "High House Iron": 0.049,
-        "High House Words": 0.258,
-        "High House Chains": 0.204
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.538,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.978
-      },
-      "article": {
-        "title": "Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns",
-        "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.279,
+      "confidence": 0.3,
       "scores": {
-        "High House War": 0.218,
-        "High House Coin": 0.146,
-        "High House Shadow": 0.186,
-        "High House Life": 0.074,
-        "High House Iron": -0.011,
-        "High House Words": 0.279,
-        "High House Chains": 0.114
+        "High House War": 0.184,
+        "High House Coin": 0.128,
+        "High House Shadow": 0.237,
+        "High House Life": 0.056,
+        "High House Iron": -0.024,
+        "High House Words": 0.3,
+        "High House Chains": 0.07
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.901
+        "sentiment_score": 0.933
       },
       "article": {
-        "title": "Middle East crisis is \u2018getting out of control\u2019, UN chief warns \u2013 as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+        "title": "Andy Burnham says he will disagree with Trump in public if necessary",
+        "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
         "source": "guardian",
-        "full_text": "Our live coverage of the Middle East crisis is now ending, but you can read our latest story from the region here. The US military carried out a 13th consecutive night of strikes on Iran, targeting drone facilities, coastal surveillance sites and more. The wave of attacks lasted more \u2060than two hours, according to the US Central Command. Iranian state media reported explosions along the strait of Hormuz in Qeshm and Bandar Abbas, where two people were reportedly injured, as well as to the north-west near Andimeshk and Omidiyeh. The UN secretary general, Ant\u00f3nio Guterres, warned that the Middle East is being pushed to the \u201cedge of the unimaginable\u201d amid mounting fears over the trajectory of the conflict. \u201cThe situation is getting out of control. It is teetering on the edge of the unimaginable. The region is being pulled into an ever-widening circle of confrontation. One crisis feeds another. One escalation triggers the next,\u201d Guterres told a security council meeting. \u201cAs this dynamic spreads, the political objectives are becoming increasingly obscured by the confrontation itself.\u201d It comes after Donald Trump said he was close to deciding whether to launch \u201ca massive attack\u201d against Iran, on a scale larger than strikes already witnessed during the months-long conflict with Tehran as the US president flounders in his attempts to get a grip on the spiralling crisis in the region. Speaking to Axios, the US president said: \u201cI am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it.\u201d He acknowledged that such a decision would have consequences but said he had not yet made a final determination. Israel \u201cwould join in two minutes if I ask them to\u201d, he added, before saying: \u201cWe don\u2019t need anybody.\u201d Trump\u2019s comments followed the earlier threat of \u201cmajor military punishment\u201d against Iran and the Houthis, after the Iran-backed Yemeni militia\u2019s attacks on two Saudi Arabian oil tankers in the Red Sea. The Houthi attacks threatened the safety of a second major maritime route connecting the Suez canal to the Red Sea and Gulf of Aden. They also came amid reports that Iran had sent military advisers and drone parts to the Houthis 10 days ago. Trump wrote on social media: \u201cIf [the Houthis] do this again, the US will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves.\u201d In a separate development, Trump clarified that an announced agreement that the US would help Saudi Arabia with its civilian nuclear programme would require the kingdom to normalise relations with Israel through the Abraham Accords, a move Saudi Arabia has long resisted until there is demonstrable movement on Palestinian rights and statehood. During Thursday\u2019s press briefing, Karoline Leavitt, the White House press secretary, reiterated that the Saudi Arabia nuclear deal is \u201ccontingent\u201d on the kingdom on joining the Abraham Accords. \u201cThe president is always the final dealmaker, as you know... He has said, if they don\u2019t join the Abraham accords, the deal is off,\u201d she said. It emerged later that Trump had not spoken to Saudi Arabia about the new condition. Oil prices once again surged past the symbolic $100 for a barrel of Brent crude, the international benchmark, and amid indications the price could go higher still. Now that the shaky ceasefire with the US has ruptured, AFP reports that rights groups fear Iran will ramp up executions to intimidate its citizens into silence. Iran has pressed ahead with executions since the earliest phase of the war finished in March, in what activists see as an attempt to instil fear in society and prevent a repeat of the protests that shook the leadership earlier this year. \u201cWith the breakdown of the ceasefire and the resumption of the war, we are deeply concerned that the authorities will exploit the situation to intensify the execution of political prisoners,\u201d Mahmood"
+        "full_text": "Andy Burnham has promised to disagree with Donald Trump if necessary, including in public, in his first big broadcast interview since becoming prime minister. Burnham\u2019s comments came as Wes Streeting, the new defence secretary, said he did not believe the Trump administration was looking for allies who \u201csuck up\u201d, but rather those with the confidence to set out disagreements when needed. Burnham, who is a relative novice when it comes to foreign policy, spoke at length to the US president shortly after entering No 10, in a call described by Downing Street officials as warm. But with Washington resuming its attacks on Iran, there is the potential for early tensions, with Burnham sticking to the policy under Keir Starmer of not backing US offensive operations, something that prompted fierce public attacks from Trump. Speaking to BBC One\u2019s Sunday with Laura Kuenssberg programme, Burnham said: \u201cI can\u2019t at any point say that I won\u2019t take a different opinion from him [Trump], that I will need to voice a different idea that is right for Britain.\u201d The prime minister said that if needed, he would set out his differences with Trump in public: \u201cYou have to defend your own national interest before anything else. That\u2019s what you\u2019re required to do if you\u2019re to do this job properly.\u201d Streeting, in an interview on Sunday with Sky News\u2019 Sunday with Trevor Phillips, said he had spoken to his US counterpart, Pete Hegseth, and had been plain about the continued differences over Iran. He said: \u201cI was clear that we have not supported offensive action in Iran and we won\u2019t support offensive action in Iran. But there are plenty of things that we can and should do together.\u201d Such straightforwardness was valued by Trump and his team, Streeting argued: \u201cThe first thing you do is, you don\u2019t suck up. My impression is, President Trump, his administration \u2013 that\u2019s not what they\u2019re looking for. He\u2019s a straight talker.\u201d Asked if he trusted the US president, Streeting said: \u201cI don\u2019t know him, but I do trust the United States.\u201d Being in the defence job, he added, had granted him \u201ca unique insight into just how close and integral that relationship is when it comes to defence and security\u201d. Burnham, in his interview with the BBC, ruled out the idea of a swift general election to potentially capitalise on any bounce in the polls for Labour. \u201cThere\u2019s no early general election. I don\u2019t think people want it,\u201d he said, adding that people had \u201cvoted for a manifesto\u201d in 2024. He said: \u201cI just think what I most need to do is get Britain focused on getting the country back where it should be.\u201d On defence spending, Burnham said he was \u201cvery aware\u201d of the desire of John Healey, who resigned as defence secretary under Starmer and is now chancellor, to increase defence spending quickly to 3% of GDP, but refused to give a timetable. He said: \u201cThe first challenge facing us both is to ensure that the defence investment plan is fully funded and that\u2019s the thing that\u2019s right in front of us and we need to work that through as we go towards the budget later this year.\u201d Streeting told Sky that as defence secretary he had a duty to make sure any increased budget was spent wisely. He said: \u201cThere have clearly been longstanding issues with things like defence procurement, value for money. And as I said to the team at the Ministry of Defence this week, these things matter not just in abstract and because it\u2019s the right thing to do to spend money wisely, it\u2019s also because it matters because we\u2019re asking a lot of taxpayers.\u201d"
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House War",
+      "house_b": "High House Words",
       "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
-      "actor_b": "IRAN",
+      "actor_b": "TRUMP",
       "relationship": "neutral",
       "goldstein_avg": -0.033,
       "confidence": 0.9,
@@ -221,21 +221,21 @@
       "house_b": "High House Chains",
       "actor_a": "JAPAN",
       "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -1.515,
+      "relationship": "neutral",
+      "goldstein_avg": -1.419,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
+    "High House War": {
       "trend": "stable",
-      "trend_ratio": 0.988,
+      "trend_ratio": 0.85,
       "source": "gdelt_volume"
     },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.735,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 1.438,
       "source": "gdelt_volume"
     }
   }
