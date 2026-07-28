@@ -1,6 +1,35 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.448,
+      "scores": {
+        "High House War": 0.096,
+        "High House Coin": 0.192,
+        "High House Shadow": 0.265,
+        "High House Life": 0.143,
+        "High House Iron": 0.448,
+        "High House Words": 0.121,
+        "High House Chains": 0.032
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.848
+      },
+      "article": {
+        "title": "Open or Shut? The A.I. Debate That\u2019s Driving a Wedge Through Big Tech.",
+        "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -25,35 +54,6 @@
       "article": {
         "title": "What the Cyclospora Outbreak Reveals",
         "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.442,
-      "scores": {
-        "High House War": 0.041,
-        "High House Coin": 0.196,
-        "High House Shadow": 0.257,
-        "High House Life": 0.073,
-        "High House Iron": 0.442,
-        "High House Words": 0.038,
-        "High House Chains": 0.062
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.934
-      },
-      "article": {
-        "title": "American A.I. Giants Face Fresh Tests",
-        "url": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
         "source": "nyt",
         "full_text": null
       },
@@ -87,35 +87,6 @@
         "full_text": null
       },
       "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.4,
-      "scores": {
-        "High House War": 0.4,
-        "High House Coin": 0.191,
-        "High House Shadow": 0.214,
-        "High House Life": 0.164,
-        "High House Iron": 0.032,
-        "High House Words": 0.185,
-        "High House Chains": 0.195
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.761
-      },
-      "article": {
-        "title": "Why are Mali's separatists and al-Qaeda-linked militants fighting together?",
-        "url": "https://news.az/news/why-are-mali-s-separatists-and-al-qaeda-linked-militants-fighting-together",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -173,69 +144,123 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.3,
+      "confidence": 0.338,
       "scores": {
-        "High House War": 0.184,
-        "High House Coin": 0.128,
-        "High House Shadow": 0.237,
-        "High House Life": 0.056,
-        "High House Iron": -0.024,
-        "High House Words": 0.3,
-        "High House Chains": 0.07
+        "High House War": 0.073,
+        "High House Coin": 0.003,
+        "High House Shadow": 0.282,
+        "High House Life": 0.209,
+        "High House Iron": 0.156,
+        "High House Words": 0.338,
+        "High House Chains": -0.008
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.933
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Andy Burnham says he will disagree with Trump in public if necessary",
-        "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
-        "source": "guardian",
-        "full_text": "Andy Burnham has promised to disagree with Donald Trump if necessary, including in public, in his first big broadcast interview since becoming prime minister. Burnham\u2019s comments came as Wes Streeting, the new defence secretary, said he did not believe the Trump administration was looking for allies who \u201csuck up\u201d, but rather those with the confidence to set out disagreements when needed. Burnham, who is a relative novice when it comes to foreign policy, spoke at length to the US president shortly after entering No 10, in a call described by Downing Street officials as warm. But with Washington resuming its attacks on Iran, there is the potential for early tensions, with Burnham sticking to the policy under Keir Starmer of not backing US offensive operations, something that prompted fierce public attacks from Trump. Speaking to BBC One\u2019s Sunday with Laura Kuenssberg programme, Burnham said: \u201cI can\u2019t at any point say that I won\u2019t take a different opinion from him [Trump], that I will need to voice a different idea that is right for Britain.\u201d The prime minister said that if needed, he would set out his differences with Trump in public: \u201cYou have to defend your own national interest before anything else. That\u2019s what you\u2019re required to do if you\u2019re to do this job properly.\u201d Streeting, in an interview on Sunday with Sky News\u2019 Sunday with Trevor Phillips, said he had spoken to his US counterpart, Pete Hegseth, and had been plain about the continued differences over Iran. He said: \u201cI was clear that we have not supported offensive action in Iran and we won\u2019t support offensive action in Iran. But there are plenty of things that we can and should do together.\u201d Such straightforwardness was valued by Trump and his team, Streeting argued: \u201cThe first thing you do is, you don\u2019t suck up. My impression is, President Trump, his administration \u2013 that\u2019s not what they\u2019re looking for. He\u2019s a straight talker.\u201d Asked if he trusted the US president, Streeting said: \u201cI don\u2019t know him, but I do trust the United States.\u201d Being in the defence job, he added, had granted him \u201ca unique insight into just how close and integral that relationship is when it comes to defence and security\u201d. Burnham, in his interview with the BBC, ruled out the idea of a swift general election to potentially capitalise on any bounce in the polls for Labour. \u201cThere\u2019s no early general election. I don\u2019t think people want it,\u201d he said, adding that people had \u201cvoted for a manifesto\u201d in 2024. He said: \u201cI just think what I most need to do is get Britain focused on getting the country back where it should be.\u201d On defence spending, Burnham said he was \u201cvery aware\u201d of the desire of John Healey, who resigned as defence secretary under Starmer and is now chancellor, to increase defence spending quickly to 3% of GDP, but refused to give a timetable. He said: \u201cThe first challenge facing us both is to ensure that the defence investment plan is fully funded and that\u2019s the thing that\u2019s right in front of us and we need to work that through as we go towards the budget later this year.\u201d Streeting told Sky that as defence secretary he had a duty to make sure any increased budget was spent wisely. He said: \u201cThere have clearly been longstanding issues with things like defence procurement, value for money. And as I said to the team at the Ministry of Defence this week, these things matter not just in abstract and because it\u2019s the right thing to do to spend money wisely, it\u2019s also because it matters because we\u2019re asking a lot of taxpayers.\u201d"
+        "title": "AI weathercaster\u2019s outfit reignites debate in South Korea over sexism in broadcasting",
+        "url": "https://www.straitstimes.com/asia/east-asia/ai-weathercasters-outfit-reignites-debate-in-south-korea-over-sexism-in-broadcasting",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
-      "actor_b": "TRUMP",
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "JAPAN",
+      "actor_b": "NATO",
       "relationship": "neutral",
-      "goldstein_avg": -0.033,
+      "goldstein_avg": -0.591,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "JAPAN",
-      "actor_b": "ISRAEL",
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "ISRAEL",
+      "actor_b": "NATO",
+      "relationship": "opposed",
+      "goldstein_avg": -1.944,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "ISRAEL",
+      "actor_b": "SOUTH KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -1.419,
+      "goldstein_avg": -1.118,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "NATO",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.534,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.85,
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     },
     "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.891,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
       "trend": "rising",
-      "trend_ratio": 1.438,
+      "trend_ratio": 1.374,
       "source": "gdelt_volume"
     }
   }
