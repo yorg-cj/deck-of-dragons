@@ -1,35 +1,6 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.448,
-      "scores": {
-        "High House War": 0.096,
-        "High House Coin": 0.192,
-        "High House Shadow": 0.265,
-        "High House Life": 0.143,
-        "High House Iron": 0.448,
-        "High House Words": 0.121,
-        "High House Chains": 0.032
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.848
-      },
-      "article": {
-        "title": "Open or Shut? The A.I. Debate That\u2019s Driving a Wedge Through Big Tech.",
-        "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -55,6 +26,35 @@
         "title": "What the Cyclospora Outbreak Reveals",
         "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
         "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.444,
+      "scores": {
+        "High House War": 0.054,
+        "High House Coin": 0.059,
+        "High House Shadow": 0.082,
+        "High House Life": 0.102,
+        "High House Iron": 0.444,
+        "High House Words": 0.001,
+        "High House Chains": 0.016
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "Israel's quantum leap: Israel reaches for new technological revolution through development hub",
+        "url": "https://www.jpost.com/business-and-innovation/article-903971",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
@@ -89,58 +89,58 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.387,
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.405,
       "scores": {
-        "High House War": 0.144,
-        "High House Coin": 0.244,
-        "High House Shadow": 0.074,
-        "High House Life": 0.12,
-        "High House Iron": 0.112,
-        "High House Words": 0.286,
-        "High House Chains": 0.387
+        "High House War": 0.048,
+        "High House Coin": 0.405,
+        "High House Shadow": 0.246,
+        "High House Life": 0.127,
+        "High House Iron": 0.315,
+        "High House Words": 0.156,
+        "High House Chains": 0.154
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.701
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "E.U. Debate About Import Ban Reveals Deep Divides Over Israel",
-        "url": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
-        "source": "nyt",
+        "title": "Cheaper Chinese AI Models Could Trigger 'Massive Capital Destruction' in US Markets: Jefferies",
+        "url": "https://www.rediff.com/money/report/chinese-ai-models-threaten-us-market-dominance-warns-jefferies-strategist/20260729.htm",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.379,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.157,
-        "High House Coin": 0.379,
-        "High House Shadow": 0.039,
-        "High House Life": 0.108,
-        "High House Iron": 0.117,
-        "High House Words": 0.16,
-        "High House Chains": 0.255
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.813
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
-        "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
         "source": "nyt",
         "full_text": null
       },
@@ -149,16 +149,45 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
+      "reversed": false,
+      "confidence": 0.364,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.364,
+        "High House Coin": 0.146,
+        "High House Shadow": 0.054,
+        "High House Life": 0.003,
+        "High House Iron": 0.097,
+        "High House Words": 0.086,
+        "High House Chains": 0.113
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.836
+      },
+      "article": {
+        "title": "Major Gulf fighting restarts as US and Saudi strike Iran's allies in Iraq",
+        "url": "https://www.straitstimes.com/asia/major-gulf-fighting-restarts-as-us-and-saudi-strike-irans-allies-in-iraq",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.334,
+      "scores": {
+        "High House War": 0.195,
+        "High House Coin": 0.171,
+        "High House Shadow": 0.063,
+        "High House Life": -0.066,
+        "High House Iron": -0.045,
+        "High House Words": 0.334,
+        "High House Chains": 0.22
       },
       "reversal": {
         "reversed": true,
@@ -168,37 +197,8 @@
         "sentiment_score": 0.995
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.338,
-      "scores": {
-        "High House War": 0.073,
-        "High House Coin": 0.003,
-        "High House Shadow": 0.282,
-        "High House Life": 0.209,
-        "High House Iron": 0.156,
-        "High House Words": 0.338,
-        "High House Chains": -0.008
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "AI weathercaster\u2019s outfit reignites debate in South Korea over sexism in broadcasting",
-        "url": "https://www.straitstimes.com/asia/east-asia/ai-weathercasters-outfit-reignites-debate-in-south-korea-over-sexism-in-broadcasting",
+        "title": "US Iran war: Iran rejects Trump's claim of US talks, says Washington 'pleaded' to end conflict",
+        "url": "https://www.mid-day.com/news/world-news/article/us-iran-war-iran-rejects-trumps-claim-of-us-talks-says-washington-pleaded-to-end-conflict-23642144",
         "source": "worldnews",
         "full_text": null
       },
@@ -207,42 +207,42 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
+      "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "JAPAN",
-      "actor_b": "NATO",
+      "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
+      "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.591,
+      "goldstein_avg": -0.033,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
       "actor_a": "ISRAEL",
-      "actor_b": "NATO",
+      "actor_b": "JAPAN",
       "relationship": "opposed",
-      "goldstein_avg": -1.944,
+      "goldstein_avg": -1.572,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
+      "house_a": "High House Iron",
       "house_b": "High House Words",
       "actor_a": "ISRAEL",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.118,
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.914,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House War",
       "house_b": "High House Words",
-      "actor_a": "NATO",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.534,
+      "actor_a": "IRAN",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.927,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -250,17 +250,17 @@
   "house_trends": {
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend_ratio": 0.153,
       "source": "gdelt_volume"
     },
     "High House Coin": {
       "trend": "stable",
-      "trend_ratio": 0.891,
+      "trend_ratio": 0.868,
       "source": "gdelt_volume"
     },
     "High House Words": {
       "trend": "rising",
-      "trend_ratio": 1.374,
+      "trend_ratio": 1.357,
       "source": "gdelt_volume"
     }
   }
