@@ -1,6 +1,35 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.483,
+      "scores": {
+        "High House War": 0.128,
+        "High House Coin": 0.114,
+        "High House Shadow": 0.289,
+        "High House Life": 0.195,
+        "High House Iron": 0.483,
+        "High House Words": 0.129,
+        "High House Chains": 0.074
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.959
+      },
+      "article": {
+        "title": "Others Also Read",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/31/ai-data-centres-in-space-a-system-to-cool-chips-could-help",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,9 +57,9 @@
         "title": "Hackers steal sensitive data from UK Department for Education and police",
         "url": "https://www.theguardian.com/technology/2026/jul/29/department-for-education-police-hackers-cybercrime",
         "source": "guardian",
-        "full_text": "The Department for Education and a police database have been targeted by a cyber-attack, exposing more than 740,000 pieces of data. Details of government officials, senior school leaders, university staff, police officers and members of the public have been taken by hackers. Just over 600,000 lines of data have been stolen from the DfE\u2019s help-desk portal. They show parent and staff contacts including full names, email addresses, phone numbers and job titles, according to a \u201cleak\u201d website set up by the hackers. A smaller package of similar data has been taken from the department\u2019s Turing portal, which manages a scheme for students studying abroad. The hackers have also breached the police national legal database (PNLD), which provides legal assistance to UK police forces. The cybercriminals claimed to have taken 135,000 pieces of data. The PNLD said the details taken related to \u201cpolice officers and those working in criminal justice including their name, the force or organisation they work for and their work email address\u201d. Some names and addresses of members of the public who had previously submitted a question to the Ask the Police service had also been taken. It said the database did not hold confidential victim, witness or offender information. While embarrassing, the breach of the police legal database is not thought to be serious. A previously unknown hacking gang calling itself ExfilSquad claimed it had carried out the attack and posted samples of the data on its leak site, a typical gambit for cybercriminals seeking money for the information they have stolen. The hackers are demanding a payment from the DfE and PNLD in exchange for not posting all the data, according to screen grabs seen by the Guardian. The message states that only a small sample of data has been posted for now but indicates that all of it will be uploaded if the DfE, PNLD and other hacking victims do not make an unspecified payment. \u201cThe payment we request of you is simply a rounding error compared to the litigation costs of your data leaking. Be smart and just pay,\u201d said the gang. The message is apparently directed at 14 hacking victims including the DfE. The list of alleged victims includes a UK university that has been contacted by the Guardian. Sophos, a cybersecurity company that provided the screenshots, said the data samples appeared to be legitimate. It added that an account on the social media platform X apparently belonging to the group had been suspended but had been illustrated by a picture of a cybersecurity researcher who had been targeted before by members of the Com, a sprawling ecosystem of native English-speaking hackers. However, it is understood that the DfE has not seen evidence that ransomware \u2013 a type of malicious software that locks up a victim\u2019s IT systems \u2013 had been deployed in the hack. The Times, which first reported the DfE hack, said the data included details of government officials, senior school leaders and university staff. The DfE is responsible for early years, schools, higher and further education in England. The PNLD hack includes the theft of passwords used to access the site. One senior source briefed on the PNLD leak said: \u201cThe risk is low. The question is, if you use your password for the PNLD, do you use it for more sensitive systems?\u201d The database is hosted by West Yorkshire police and is open for forces across England and Wales to view. The source added that it was \u201cearly days in our understanding of what has happened.\u201d Any hack of two other police databases \u2013 the police national database and the police national computer \u2013 would have been deemed far more serious. It is not believed that any direct information about officers in sensitive postings could be gleaned from the data leaked. The government said it was working closely with the National Cyber Security Centre and the National Crime Agency on the DfE hack. The DfE and PNLD have also reported the incident to the Information Commissioner\u2019s Office, the data"
+        "full_text": "The Department for Education and a police database have been targeted by a cyber-attack, exposing more than 740,000 pieces of data. Details of government officials, senior school leaders, university staff, police officers and members of the public have been taken by hackers. Just over 600,000 lines of data have been stolen from the DfE\u2019s help-desk portal. They show parent and staff contacts including full names, email addresses, phone numbers and job titles, according to a \u201cleak\u201d website set up by the hackers. A smaller package of similar data has been taken from the department\u2019s Turing portal, which manages a scheme for students studying abroad. The hackers have also breached the police national legal database (PNLD), which provides legal assistance to UK police forces. The cybercriminals claimed to have taken 135,000 pieces of data. The PNLD said the details taken related to \u201cpolice officers and those working in criminal justice including their name, the force or organisation they work for and their work email address\u201d. Some names and email addresses of members of the public who had previously submitted a question to the Ask the Police service had also been taken. It said the database did not hold confidential victim, witness or offender information. While embarrassing, the breach of the police legal database is not thought to be serious. A previously unknown hacking gang calling itself ExfilSquad claimed it had carried out the attack and posted samples of the data on its leak site, a typical gambit for cybercriminals seeking money for the information they have stolen. The hackers are demanding a payment from the DfE and PNLD in exchange for not posting all the data, according to screen grabs seen by the Guardian. The message states that only a small sample of data has been posted for now but indicates that all of it will be uploaded if the DfE, PNLD and other hacking victims do not make an unspecified payment. \u201cThe payment we request of you is simply a rounding error compared to the litigation costs of your data leaking. Be smart and just pay,\u201d said the gang. The message is apparently directed at 14 hacking victims including the DfE. The list of alleged victims includes a UK university that has been contacted by the Guardian. Sophos, a cybersecurity company that provided the screenshots, said the data samples appeared to be legitimate. It added that an account on the social media platform X apparently belonging to the group had been suspended but had been illustrated by a picture of a cybersecurity researcher who had been targeted before by members of the Com, a sprawling ecosystem of native English-speaking hackers. However, it is understood that the DfE has not seen evidence that ransomware \u2013 a type of malicious software that locks up a victim\u2019s IT systems \u2013 had been deployed in the hack. The Times, which first reported the DfE hack, said the data included details of government officials, senior school leaders and university staff. The DfE is responsible for early years, schools, higher and further education in England. The PNLD hack includes the theft of passwords used to access the site. One senior source briefed on the PNLD leak said: \u201cThe risk is low. The question is, if you use your password for the PNLD, do you use it for more sensitive systems?\u201d The database is hosted by West Yorkshire police and is open for forces across England and Wales to view. The source added that it was \u201cearly days in our understanding of what has happened.\u201d Any hack of two other police databases \u2013 the police national database and the police national computer \u2013 would have been deemed far more serious. It is not believed that any direct information about officers in sensitive postings could be gleaned from the data leaked. The government said it was working closely with the National Cyber Security Centre and the National Crime Agency on the DfE hack. The DfE and PNLD have also reported the incident to the Information Commissioner\u2019s Office, th"
       },
-      "position": "CENTER"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Life",
@@ -59,38 +88,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.441,
-      "scores": {
-        "High House War": 0.011,
-        "High House Coin": 0.106,
-        "High House Shadow": 0.247,
-        "High House Life": 0.192,
-        "High House Iron": 0.441,
-        "High House Words": 0.073,
-        "High House Chains": 0.006
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "addiction"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.614
-      },
-      "article": {
-        "title": "Debate over AI\u2019s future divides Silicon Valley as China gains ground",
-        "url": "https://www.theguardian.com/technology/2026/jul/27/silicon-valley-ai-open-source-china",
-        "source": "guardian",
-        "full_text": "Hello, and welcome to TechScape. This week we\u2019ll be looking at a debate over the future of artificial intelligence that\u2019s dividing the tech industry, as well as how the European Union gave Google a slap on the wrist for anti-competitive behavior. And we\u2019ll also catch you up on the avalanche of lawsuits accusing social media companies of getting young people addicted to their products. Silicon Valley\u2019s divide over the future of AI Over the past week some of the biggest names in tech have weighed in on a debate about the future of artificial intelligence, one which has resurged after the release of new Chinese AI models. Nvidia\u2019s CEO, Jensen Huang, the Microsoft CEO, Satya Nadella, and Elon Musk have all posted in recent days about the need for open-source AI \u2013 which, broadly speaking, refers to the types of AI models that are freely available and allow users to modify them. \u201cOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty,\u201d Huang said in his first ever post on X. Huang\u2019s post on Friday also linked to an open letter started by Microsoft that was signed by a wide range of prominent venture capital firms and tech companies including SpaceX, Nvidia, Palantir and Andreessen Horowitz. The letter argued that open models were necessary for \u201ccreating opportunities for innovation and prosperity across the country\u201d and that the tech industry, as well as the US government, should embrace them. Notably absent from the letter was Anthropic, which has taken the other side in the debate. The company has long argued that open-source AI is dangerous because it is harder to regulate and put safety guardrails on than proprietary models like their Claude chatbot. OpenAI, which did sign Microsoft\u2019s letter, has also made similar arguments in the past. Last week, Dean Ball, the head of strategic futures at OpenAI, warned on X that embracing an open-source policy would benefit China and could lead to \u201cfull AI communism\u201d. Both sides in this fight also have clear economic incentives for where they land on open-source AI. Venture capital firms have been concerned about the rising AI costs to businesses, while chip companies like Nvidia benefit from more widespread demand for their products. Anthropic and OpenAI, meanwhile, have developed a sizable lead over other frontier AI firms in the US, and cheaper, more easily accessible open-source models present an obvious challenge to their dominance. The debate over the benefits and drawbacks of open-source AI has been a longstanding issue in the tech industry, but what\u2019s bringing it to a head this month is the release of a new Chinese AI open source model that can compete with some of the best American-made counterparts. The model, called Kimi K3, has rattled Silicon Valley and the White House as executives and officials argue how to respond. Just as the tech industry is split on open models, the Trump administration is similarly divided. The treasury secretary, Scott Bessent, last week accused the Chinese models of stealing US intellectual property to create their products, claiming the White House could sanction foreign AI labs. Now, the administration appears to be unable to agree on whether to impose restrictions on Chinese products, like Kimi K3, or whether to keep the status quo since some American companies have become reliant on these cheaper models. Social media companies settle another major lawsuit just before trial After a jury delivered a bruising loss to Meta and YouTube in March, finding the companies liable for inflicting harm on young people, the tech firms have since avoided going back to court. Another lawsuit in a series of thousands of cases over social media addiction and harm to children was slated to go to trial in Los Angeles on Monday, but at the 11th hour the two sides brokered a deal. The case was brought by a 15-year-old boy from Florida with the initials RKC. He said he started using social media when he was about eight, "
-      },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
@@ -121,7 +119,36 @@
         "source": "guardian",
         "full_text": "US-Saudi strikes on Iran-backed militia in Iraq have pushed the region into \u201cuncharted territory\u201d, analysts have warned. Amid stark warnings of a widening and increasingly \u201cunpredictable\u201d conflict, Riyadh\u2019s decision to publicly join the US in striking sites associated with Iraq\u2019s Popular Mobilisation Forces (PMF), killing at least 20 fighters, has added another complicating dimension to the war. The strikes on Wednesday came after a brief lull in direct US attacks on targets in Iran, but Tehran\u2019s allies in Yemen and beyond have become increasingly drawn in. Iran, meanwhile, launched missiles at US military installations in Jordan in its first attack in the region since the pause in fighting with the US. Those tit-for-tat strikes seemed to indicate the pause in fighting was at an end The US president, Donald Trump, said the US would be \u201cbe hitting [Iran] hard\u201d, even as he claimed the strikes in Iraq were coordinated with the government, despite Baghdad\u2019s condemnation. Also on Wednesday, explosions \u2060hit a natural gas loading port on the Mediterranean Sea in Damietta, Egypt, reportedly involving a drone strike, the first reported strike on Egypt in the war. The source of the drone was unclear. The British maritime security company Ambrey said a US-owned floating storage tanker there had been hit by a drone, in another potential spread of the Middle East war. In Baghdad, the Iraqi presidency called the air raids on the PMF, also known as al-Hashd al-Shaabi \u2013 an armed alliance that includes powerful pro-Iran factions \u2013 \u201ca blatant violation of Iraq\u2019s sovereignty, targeting its official institutions\u201d. The PMF is a network of Shia-majority factions that was established in 2014 to fight the Islamic State group. Their efforts were overseen by the Iranian general, Qassem Suleimani, the former head of the al-Quds force, the foreign operations arm of Iran\u2019s Islamic Revolutionary Guard Corps. Suleimani was killed by a US missile strike in Baghdad during Trump\u2019s first term. The Iraqi \u2060prime minister, Ali al-Zaidi, who recently met Trump, \u2060called off a planned meeting \u2060with Saudi Arabia\u2019s Crown Prince Mohammed bin \u2060Salman in \u200cJeddah on \u200cThursday in the wake of the strikes. Iraq\u2019s Harakat \u2060Hezbollah \u2060al-Nujaba, an Iran-backed \u2060militia, added that \u200cWashington\u2019s and \u200cRiyadh\u2019s interests \u200cand security would face \u200cconsequences. Mourners shouted Shia \u2060sectarian slogans and \u201cDeath to America!\u201d as they carried the bodies of slain fighters in body bags out of a hospital in Mosul, northern Iraq. Iraq, heavily affected by the closure of the strait of Hormuz, through which most of its oil is exported, has struggled to prevent the war between the US and Iran spilling over its borders. Its governments have tried to maintain a delicate balance between the US, which invaded the Shia-majority country in 2003, and Iran, which has long sought to exert influence there and has backed powerful militias that played a leading role in the fight against IS. While Saudi Arabia has reportedly been involved in a handful of secretive strikes on Iran as part of the war, Riyadh\u2019s overt involvement marks a new turning point in the conflict. Yemen\u2019s Iran-backed Houthi rebels announced a blockade of Saudi ports and cargoes at the entrance to the Red Sea barely a week ago. The latest serious flare-up in fighting follows days in which Tehran and its proxies have targeted bases and facilities of the US and its allies, including in Saudi Arabia, despite the brief US pause. The sense of growing chaos in the Middle East was summed up by Sanam Vakil, the director of the Middle East and north Africa programme at the Chatham House thinktank. \u201cEveryone is trying make sense of something that is increasingly senseless,\u201d she said. \u201cOne view is that the informal [US] pause in direct strikes on Iran saw a shift from Tehran to its proxies to maintain pressure [on Washington]. But there is no longer any plausible deniability because everyone knows how the relationships are intertwined.\u201d On the "
       },
-      "position": "WILD"
+      "position": "WANING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.382,
+      "scores": {
+        "High House War": 0.264,
+        "High House Coin": 0.212,
+        "High House Shadow": 0.178,
+        "High House Life": 0.031,
+        "High House Iron": 0.023,
+        "High House Words": 0.382,
+        "High House Chains": 0.253
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Iran\u2019s war with the US is not its only conflict as internal crises mount",
+        "url": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
+        "source": "guardian",
+        "full_text": "Iran, in the middle of an escalating five-month war with the US, continues to stumble from one internal crisis to another \u2013 whether it is over public executions, the rising cost of living, the alleged bias of the state broadcaster or even the post-midnight destruction of pavements outside liberal-leaning Tehran cafes. Very little that happens in Iran, cultural or political, momentous or trivial, does so uncontested. But there is now a growing threat of a long diplomatic deadlock, forged by mutual distrust in which neither side believes the other will stick to any agreement. That impasse has occurred as the war broadens, drawing in Yemen, Iraq and now Egypt. In Iran, at least, the advocates of escalation are winning. As a result, a convergence of Iran\u2019s conflicts, internal and external, becomes more likely. Parts of the Trump administration and the Iranian opposition \u2013 including Reza Pahlavi, the son of the former deposed Shah \u2013 have never abandoned the belief that the Iranian government is on the brink of collapse. What is true is that the picture of cohesive if brittle society presented by the millions attending the funeral of the supreme leader Ali Khamenei earlier this month revealed only one side of the public mood. \u2018We just practise enduring\u2019 Masoud Pezeshkian, Iran\u2019s president, rarely tires of warning that the conditions that led to the bloody protests in January remain. At a recent meeting of the supreme judicial council he argued: \u201cIran is engaged in a full-scale war. Today\u2019s war is not just a war of missiles; the enemy has come to the conclusion that it cannot force the Iranian nation to surrender through military attacks. The most important battlefield today is the economy and livelihood of the people. If economic pressures cause social discontent to form and this discontent spreads, the enormous social capital that the people have created in support of the system will be lost.\u201d Undoubtedly dissent, in the form of despair, exists. Golshan Fathi, a Tehran human rights activist, recently wrote on her social media page: \u201cThe same sick cycle repeats \u2026 morning \u2026 the call to prayer, news of an execution \u2026 noon with power cuts, afternoon the water stops \u2026 dusk, the anxiety of war and renewed attacks on cities, and at midnight, the earth trembles. \u201cAnd tomorrow, the same story again. Caught between natural disasters, management failures, and man-made crises \u2026 every day we don\u2019t live, we just practise enduring. Repetition, repetition, repetition \u2026 until a weary land no longer asks: \u2018What will tomorrow bring?\u2019 It just waits to see: \u2018When will the next crisis arrive?\u2019\u201d Dissent in the form of political protest also exists, whether it is those inside jails or citizens in the squares of Isfahan protesting against the current wave of intimidatory public executions. Many critics ask why the punishment of the accused takes place in public gallows, yet their trials are held in secret courts. On Monday the political bureau of the Nation\u2019s Union party warned that ignoring the protests over the wave of executions could have \u201cdevastating consequences\u201d, and urged academics and religious scholars to intervene to end this state violence. \u2018War has no winners\u2019 Azar Mansouri, once a close reformist ally of Pezeshkian, warned last week at the annual meeting of the Iranian reformist front about a small but vocal group that seemed determined to portray negotiated agreements with the US as retreats or defeat. War, she warned, \u201cis not just a confrontation between military forces and armies. It is the destruction of the economy, the erosion of social capital, the spread of despair, the emigration of elites, the increase in poverty and the loss of opportunities for development. Ultimately, it threatens the future of the nation.\u201d Similarly a \u201cwe do not want war\u201d statement signed by 268 political activists this month said they believed the overwhelming majority opposed war, and this should be tested in a public vote. Another letter from 1,000 activists "
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -156,77 +183,83 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.314,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.18,
-        "High House Coin": 0.168,
-        "High House Shadow": 0.132,
-        "High House Life": 0.069,
-        "High House Iron": 0.021,
-        "High House Words": 0.359,
-        "High House Chains": 0.099
+        "High House War": 0.188,
+        "High House Coin": 0.251,
+        "High House Shadow": 0.21,
+        "High House Life": 0.071,
+        "High House Iron": 0.123,
+        "High House Words": 0.283,
+        "High House Chains": 0.314
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.605
+        "sentiment_score": 0.748
       },
       "article": {
-        "title": "What is behind Israel\u2019s escalating rhetoric against Turkey and Syria? - analysis",
-        "url": "https://www.jpost.com/middle-east/article-904084",
+        "title": "Critical Analysis: Can Washington \u2018Rent\u2019 Pakistan Away from China?",
+        "url": "https://abclive.in/2026/07/31/us-rent-pakistan-china-critical-analysis",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House Iron",
+      "house_b": "High House Chains",
       "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
       "actor_b": "CHINA",
       "relationship": "neutral",
       "goldstein_avg": -0.017,
       "confidence": 0.9,
       "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "IRAQ",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.907,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "IRAQ",
+      "actor_b": "CHINA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.601,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "IRAN",
+      "actor_b": "CHINA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.302,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Words": {
+    "High House Life": {
       "trend": "rising",
-      "trend_ratio": 1.374,
+      "trend_ratio": 2.24,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.682,
       "source": "gdelt_volume"
     }
   }
