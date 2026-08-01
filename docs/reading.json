@@ -1,66 +1,6 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.483,
-      "scores": {
-        "High House War": 0.128,
-        "High House Coin": 0.114,
-        "High House Shadow": 0.289,
-        "High House Life": 0.195,
-        "High House Iron": 0.483,
-        "High House Words": 0.129,
-        "High House Chains": 0.074
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.959
-      },
-      "article": {
-        "title": "Others Also Read",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/31/ai-data-centres-in-space-a-system-to-cool-chips-could-help",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.468,
-      "scores": {
-        "High House War": 0.087,
-        "High House Coin": 0.1,
-        "High House Shadow": 0.468,
-        "High House Life": 0.082,
-        "High House Iron": 0.113,
-        "High House Words": 0.157,
-        "High House Chains": 0.085
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "leaked"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Hackers steal sensitive data from UK Department for Education and police",
-        "url": "https://www.theguardian.com/technology/2026/jul/29/department-for-education-police-hackers-cybercrime",
-        "source": "guardian",
-        "full_text": "The Department for Education and a police database have been targeted by a cyber-attack, exposing more than 740,000 pieces of data. Details of government officials, senior school leaders, university staff, police officers and members of the public have been taken by hackers. Just over 600,000 lines of data have been stolen from the DfE\u2019s help-desk portal. They show parent and staff contacts including full names, email addresses, phone numbers and job titles, according to a \u201cleak\u201d website set up by the hackers. A smaller package of similar data has been taken from the department\u2019s Turing portal, which manages a scheme for students studying abroad. The hackers have also breached the police national legal database (PNLD), which provides legal assistance to UK police forces. The cybercriminals claimed to have taken 135,000 pieces of data. The PNLD said the details taken related to \u201cpolice officers and those working in criminal justice including their name, the force or organisation they work for and their work email address\u201d. Some names and email addresses of members of the public who had previously submitted a question to the Ask the Police service had also been taken. It said the database did not hold confidential victim, witness or offender information. While embarrassing, the breach of the police legal database is not thought to be serious. A previously unknown hacking gang calling itself ExfilSquad claimed it had carried out the attack and posted samples of the data on its leak site, a typical gambit for cybercriminals seeking money for the information they have stolen. The hackers are demanding a payment from the DfE and PNLD in exchange for not posting all the data, according to screen grabs seen by the Guardian. The message states that only a small sample of data has been posted for now but indicates that all of it will be uploaded if the DfE, PNLD and other hacking victims do not make an unspecified payment. \u201cThe payment we request of you is simply a rounding error compared to the litigation costs of your data leaking. Be smart and just pay,\u201d said the gang. The message is apparently directed at 14 hacking victims including the DfE. The list of alleged victims includes a UK university that has been contacted by the Guardian. Sophos, a cybersecurity company that provided the screenshots, said the data samples appeared to be legitimate. It added that an account on the social media platform X apparently belonging to the group had been suspended but had been illustrated by a picture of a cybersecurity researcher who had been targeted before by members of the Com, a sprawling ecosystem of native English-speaking hackers. However, it is understood that the DfE has not seen evidence that ransomware \u2013 a type of malicious software that locks up a victim\u2019s IT systems \u2013 had been deployed in the hack. The Times, which first reported the DfE hack, said the data included details of government officials, senior school leaders and university staff. The DfE is responsible for early years, schools, higher and further education in England. The PNLD hack includes the theft of passwords used to access the site. One senior source briefed on the PNLD leak said: \u201cThe risk is low. The question is, if you use your password for the PNLD, do you use it for more sensitive systems?\u201d The database is hosted by West Yorkshire police and is open for forces across England and Wales to view. The source added that it was \u201cearly days in our understanding of what has happened.\u201d Any hack of two other police databases \u2013 the police national database and the police national computer \u2013 would have been deemed far more serious. It is not believed that any direct information about officers in sensitive postings could be gleaned from the data leaked. The government said it was working closely with the National Cyber Security Centre and the National Crime Agency on the DfE hack. The DfE and PNLD have also reported the incident to the Information Commissioner\u2019s Office, th"
-      },
-      "position": "ASCENDING"
-    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -88,67 +28,96 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "CENTER"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.391,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.435,
       "scores": {
-        "High House War": 0.391,
-        "High House Coin": 0.153,
-        "High House Shadow": 0.154,
-        "High House Life": 0.028,
-        "High House Iron": 0.07,
-        "High House Words": 0.209,
-        "High House Chains": 0.181
+        "High House War": 0.097,
+        "High House Coin": 0.155,
+        "High House Shadow": 0.18,
+        "High House Life": 0.001,
+        "High House Iron": 0.435,
+        "High House Words": -0.069,
+        "High House Chains": -0.028
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Intel Benefits From a New Shift in A.I. Spending",
+        "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.409,
+      "scores": {
+        "High House War": 0.092,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.409,
+        "High House Life": 0.01,
+        "High House Iron": 0.011,
+        "High House Words": 0.164,
+        "High House Chains": 0.074
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "blockade"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.729
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "US-Saudi strikes in Iraq push region into \u2018uncharted territory\u2019, analysts warn",
-        "url": "https://www.theguardian.com/world/2026/jul/29/us-saudi-strikes-in-iraq-have-pushed-the-region-into-uncharted-territory-analysts-warn",
-        "source": "guardian",
-        "full_text": "US-Saudi strikes on Iran-backed militia in Iraq have pushed the region into \u201cuncharted territory\u201d, analysts have warned. Amid stark warnings of a widening and increasingly \u201cunpredictable\u201d conflict, Riyadh\u2019s decision to publicly join the US in striking sites associated with Iraq\u2019s Popular Mobilisation Forces (PMF), killing at least 20 fighters, has added another complicating dimension to the war. The strikes on Wednesday came after a brief lull in direct US attacks on targets in Iran, but Tehran\u2019s allies in Yemen and beyond have become increasingly drawn in. Iran, meanwhile, launched missiles at US military installations in Jordan in its first attack in the region since the pause in fighting with the US. Those tit-for-tat strikes seemed to indicate the pause in fighting was at an end The US president, Donald Trump, said the US would be \u201cbe hitting [Iran] hard\u201d, even as he claimed the strikes in Iraq were coordinated with the government, despite Baghdad\u2019s condemnation. Also on Wednesday, explosions \u2060hit a natural gas loading port on the Mediterranean Sea in Damietta, Egypt, reportedly involving a drone strike, the first reported strike on Egypt in the war. The source of the drone was unclear. The British maritime security company Ambrey said a US-owned floating storage tanker there had been hit by a drone, in another potential spread of the Middle East war. In Baghdad, the Iraqi presidency called the air raids on the PMF, also known as al-Hashd al-Shaabi \u2013 an armed alliance that includes powerful pro-Iran factions \u2013 \u201ca blatant violation of Iraq\u2019s sovereignty, targeting its official institutions\u201d. The PMF is a network of Shia-majority factions that was established in 2014 to fight the Islamic State group. Their efforts were overseen by the Iranian general, Qassem Suleimani, the former head of the al-Quds force, the foreign operations arm of Iran\u2019s Islamic Revolutionary Guard Corps. Suleimani was killed by a US missile strike in Baghdad during Trump\u2019s first term. The Iraqi \u2060prime minister, Ali al-Zaidi, who recently met Trump, \u2060called off a planned meeting \u2060with Saudi Arabia\u2019s Crown Prince Mohammed bin \u2060Salman in \u200cJeddah on \u200cThursday in the wake of the strikes. Iraq\u2019s Harakat \u2060Hezbollah \u2060al-Nujaba, an Iran-backed \u2060militia, added that \u200cWashington\u2019s and \u200cRiyadh\u2019s interests \u200cand security would face \u200cconsequences. Mourners shouted Shia \u2060sectarian slogans and \u201cDeath to America!\u201d as they carried the bodies of slain fighters in body bags out of a hospital in Mosul, northern Iraq. Iraq, heavily affected by the closure of the strait of Hormuz, through which most of its oil is exported, has struggled to prevent the war between the US and Iran spilling over its borders. Its governments have tried to maintain a delicate balance between the US, which invaded the Shia-majority country in 2003, and Iran, which has long sought to exert influence there and has backed powerful militias that played a leading role in the fight against IS. While Saudi Arabia has reportedly been involved in a handful of secretive strikes on Iran as part of the war, Riyadh\u2019s overt involvement marks a new turning point in the conflict. Yemen\u2019s Iran-backed Houthi rebels announced a blockade of Saudi ports and cargoes at the entrance to the Red Sea barely a week ago. The latest serious flare-up in fighting follows days in which Tehran and its proxies have targeted bases and facilities of the US and its allies, including in Saudi Arabia, despite the brief US pause. The sense of growing chaos in the Middle East was summed up by Sanam Vakil, the director of the Middle East and north Africa programme at the Chatham House thinktank. \u201cEveryone is trying make sense of something that is increasingly senseless,\u201d she said. \u201cOne view is that the informal [US] pause in direct strikes on Iran saw a shift from Tehran to its proxies to maintain pressure [on Washington]. But there is no longer any plausible deniability because everyone knows how the relationships are intertwined.\u201d On the "
+        "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+        "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
-      "title": "The Weaver",
+      "title": "The Herald",
       "reversed": true,
-      "confidence": 0.382,
+      "confidence": 0.396,
       "scores": {
-        "High House War": 0.264,
-        "High House Coin": 0.212,
-        "High House Shadow": 0.178,
-        "High House Life": 0.031,
-        "High House Iron": 0.023,
-        "High House Words": 0.382,
-        "High House Chains": 0.253
+        "High House War": 0.051,
+        "High House Coin": 0.125,
+        "High House Shadow": 0.237,
+        "High House Life": 0.156,
+        "High House Iron": 0.035,
+        "High House Words": 0.396,
+        "High House Chains": 0.082
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "misinformation"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.69
       },
       "article": {
-        "title": "Iran\u2019s war with the US is not its only conflict as internal crises mount",
-        "url": "https://www.theguardian.com/world/2026/jul/30/iran-war-us-conflict-internal-crises-economy-dissent",
+        "title": "Local media needs support if devolution push is to succeed, publishers say",
+        "url": "https://www.theguardian.com/politics/2026/aug/01/publishers-call-for-stronger-local-media-under-andy-burnham-devolution",
         "source": "guardian",
-        "full_text": "Iran, in the middle of an escalating five-month war with the US, continues to stumble from one internal crisis to another \u2013 whether it is over public executions, the rising cost of living, the alleged bias of the state broadcaster or even the post-midnight destruction of pavements outside liberal-leaning Tehran cafes. Very little that happens in Iran, cultural or political, momentous or trivial, does so uncontested. But there is now a growing threat of a long diplomatic deadlock, forged by mutual distrust in which neither side believes the other will stick to any agreement. That impasse has occurred as the war broadens, drawing in Yemen, Iraq and now Egypt. In Iran, at least, the advocates of escalation are winning. As a result, a convergence of Iran\u2019s conflicts, internal and external, becomes more likely. Parts of the Trump administration and the Iranian opposition \u2013 including Reza Pahlavi, the son of the former deposed Shah \u2013 have never abandoned the belief that the Iranian government is on the brink of collapse. What is true is that the picture of cohesive if brittle society presented by the millions attending the funeral of the supreme leader Ali Khamenei earlier this month revealed only one side of the public mood. \u2018We just practise enduring\u2019 Masoud Pezeshkian, Iran\u2019s president, rarely tires of warning that the conditions that led to the bloody protests in January remain. At a recent meeting of the supreme judicial council he argued: \u201cIran is engaged in a full-scale war. Today\u2019s war is not just a war of missiles; the enemy has come to the conclusion that it cannot force the Iranian nation to surrender through military attacks. The most important battlefield today is the economy and livelihood of the people. If economic pressures cause social discontent to form and this discontent spreads, the enormous social capital that the people have created in support of the system will be lost.\u201d Undoubtedly dissent, in the form of despair, exists. Golshan Fathi, a Tehran human rights activist, recently wrote on her social media page: \u201cThe same sick cycle repeats \u2026 morning \u2026 the call to prayer, news of an execution \u2026 noon with power cuts, afternoon the water stops \u2026 dusk, the anxiety of war and renewed attacks on cities, and at midnight, the earth trembles. \u201cAnd tomorrow, the same story again. Caught between natural disasters, management failures, and man-made crises \u2026 every day we don\u2019t live, we just practise enduring. Repetition, repetition, repetition \u2026 until a weary land no longer asks: \u2018What will tomorrow bring?\u2019 It just waits to see: \u2018When will the next crisis arrive?\u2019\u201d Dissent in the form of political protest also exists, whether it is those inside jails or citizens in the squares of Isfahan protesting against the current wave of intimidatory public executions. Many critics ask why the punishment of the accused takes place in public gallows, yet their trials are held in secret courts. On Monday the political bureau of the Nation\u2019s Union party warned that ignoring the protests over the wave of executions could have \u201cdevastating consequences\u201d, and urged academics and religious scholars to intervene to end this state violence. \u2018War has no winners\u2019 Azar Mansouri, once a close reformist ally of Pezeshkian, warned last week at the annual meeting of the Iranian reformist front about a small but vocal group that seemed determined to portray negotiated agreements with the US as retreats or defeat. War, she warned, \u201cis not just a confrontation between military forces and armies. It is the destruction of the economy, the erosion of social capital, the spread of despair, the emigration of elites, the increase in poverty and the loss of opportunities for development. Ultimately, it threatens the future of the nation.\u201d Similarly a \u201cwe do not want war\u201d statement signed by 268 political activists this month said they believed the overwhelming majority opposed war, and this should be tested in a public vote. Another letter from 1,000 activists "
+        "full_text": "Greater support for local media is needed to hold mayors and councils to account under Andy Burnham\u2019s plans for devolution, which would involve a massive transfer of power into local government, publishers have said. A range of figures involved with local news broadly welcomed new plans unveiled by the prime minister, but said that monetising content, barriers erected by populist politicians and the roles of big tech and the BBC were among the challenges they faced. Theo Bamber, the chief executive of the News Media Association, the trade body representing UK national, regional and local news publishers, said that any moves to give people greater control would be an illusion unless the decisions affecting their lives could be scrutinised by trusted and professional local journalists. \u201cWe were interested that the government\u2019s announcements about greater devolution have not mentioned press or media policy,\u201d he said. \u201cWe believe that is a mistake because the two should not be siloed and, ultimately, the success of devolution is dependent on scrutiny.\u201d Bamber said that 46 million people a month were consuming local media and that this was proof of the resilience of the sector. He also said it was a counter to the proliferation of misinformation amid unrest in Southampton and Belfast recently. However, as No 10 moved to devolve more power from Westminster to regions, there was also concern that these plans came as some journalists found their access to meetings was being limited, or were being sidelined as policymakers cut down on press conferences or chose to use social media instead. A Reform UK council leader\u2019s decision to ban his councillors from engaging with a prominent local newspaper was condemned last year as a \u201cmassive attack on local democracy\u201d and a sign of things to come should the party form the next government. There has also been unease that Keir Starmer\u2019s administration appeared to embrace influencers, and that Burnham has been relatively slow to make himself available to face questions. The National Union of Journalists (NUJ) warned that a lack of a strong local news sector would threaten any devolution agenda and that support could not be left to the \u201cvagaries of the market\u201d. \u201cAccess to trusted local news is essential for democracy to thrive. However, millions across the UK now live in news deserts and the industry has faced decades of decline,\u201d said Laura Davison, the NUJ general secretary, who noted large-scale job losses and the fact that about 300 local papers had closed since 2005.\u201d John McDonnell, the veteran Labour MP and secretary of the NUJ\u2019s parliamentary group, said: \u201cIf power is to be devolved on any scale then there is an even greater need for securing the role of local media to report on and hold local decision makers to account. This needs resourcing to make effective.\u201d Under a scheme announced earlier this year, the government will provide up to \u00a312m of funding over two years to support local news outlets as it tries to fill so-called \u201cnews deserts\u201d. Local media outlets in print, online, radio or TV can bid for grants to support their financial sustainability and transition to digital business models under the new fund. However, there are calls for additional support, including from those involved in startups seeking to make up for the lack of an established news outlet in some areas. Mike Harris, the publisher of the Lead, an independent progressive digital newspaper, said: \u201cWe\u2019ve launched the first new local titles in many of the communities in the UK most at threat from the far right, but it\u2019s unbelievably challenging making the business model work. \u201cPeople in working-class communities do donate and subscribe to our local newspapers but it\u2019s hard to make the model work in comparison with launching in wealthier cities with lots of middle-class professionals. The Local News Fund is a great start but with the spread of extremist online content, often seeded by foreign dictatorships or far-right gr"
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
@@ -180,86 +149,110 @@
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.314,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
       "scores": {
-        "High House War": 0.188,
-        "High House Coin": 0.251,
-        "High House Shadow": 0.21,
-        "High House Life": 0.071,
-        "High House Iron": 0.123,
-        "High House Words": 0.283,
-        "High House Chains": 0.314
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.748
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Critical Analysis: Can Washington \u2018Rent\u2019 Pakistan Away from China?",
-        "url": "https://abclive.in/2026/07/31/us-rent-pakistan-china-critical-analysis",
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WANING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.31,
+      "scores": {
+        "High House War": 0.196,
+        "High House Coin": 0.267,
+        "High House Shadow": 0.161,
+        "High House Life": 0.07,
+        "High House Iron": -0.006,
+        "High House Words": 0.301,
+        "High House Chains": 0.31
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.519,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.944
+      },
+      "article": {
+        "title": "West Asia war: Anti-ICC campaign is about defending Netanyahu, not me, says Trump",
+        "url": "https://www.mid-day.com/news/world-news/article/west-asia-war-anti-icc-campaign-is-about-defending-netanyahu-not-me-says-trump-23642663",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "THE CYCLOSPORA OUTBREAK REVEALS",
-      "actor_b": "CHINA",
+      "house_a": "High House Iron",
+      "house_b": "High House Shadow",
+      "actor_a": "INTEL",
+      "actor_b": "JAPAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.017,
+      "goldstein_avg": -0.202,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "IRAQ",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -3.907,
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "INTEL",
+      "actor_b": "NATO",
+      "relationship": "neutral",
+      "goldstein_avg": -0.047,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "JAPAN",
+      "actor_b": "NATO",
+      "relationship": "neutral",
+      "goldstein_avg": -0.903,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House War",
       "house_b": "High House Chains",
-      "actor_a": "IRAQ",
-      "actor_b": "CHINA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.601,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "CHINA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.302,
+      "actor_a": "NATO",
+      "actor_b": "NETANYAHU",
+      "relationship": "neutral",
+      "goldstein_avg": -1.1,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 2.24,
-      "source": "gdelt_volume"
-    },
     "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.682,
+      "trend_ratio": 0.774,
       "source": "gdelt_volume"
     }
   }
