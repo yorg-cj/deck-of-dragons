@@ -1,6 +1,35 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.547,
+      "scores": {
+        "High House War": 0.079,
+        "High House Coin": 0.169,
+        "High House Shadow": 0.313,
+        "High House Life": 0.15,
+        "High House Iron": 0.547,
+        "High House Words": 0.141,
+        "High House Chains": 0.089
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.529,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.961
+      },
+      "article": {
+        "title": "China\u2019s tech advances are causing chaos from Silicon Valley to the White House",
+        "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+        "source": "guardian",
+        "full_text": "Over the past month, a series of advancements in China\u2019s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond. Silicon Valley has long pointed to China\u2019s tech industry as a competitive threat and used its growth as rationale for why US firms should not face regulatory oversight that could slow them down. In recent weeks, however, China\u2019s progress has pushed US tech CEOs past vague warnings and into open disagreement over how to address Chinese-made products upending their industry. The most immediate threat to Silicon Valley\u2019s status quo has come from a series of Chinese-made open-source, open-weight AI models that are free to download and use. The models, such as Moonshot AI\u2019s Kimi K3, are powerful enough to compete in some applications with proprietary and comparatively expensive AI products from OpenAI and Anthropic. The emergence of China\u2019s open-source AI alternatives has caused divisions in both the White House and US tech industry over whether to oppose or embrace these new models. On one side are chip manufacturers who see revenue opportunities from increased AI usage and tech companies concerned about OpenAI and Anthropic\u2019s growing dominance in the AI industry. On the other is Anthropic and OpenAI, which face profit pressures from open source models and argue that Chinese-made models pose security risks. The White House is similarly divided, historically hawkish on China\u2019s tech industry but wary of blocking low-cost AI models that American businesses have come to rely on. Treasury secretary Scott Bessent suggested in recent weeks that the US could sanction Chinese AI firms over alleged intellectual property theft from American companies, while commerce secretary Howard Lutnick has received letters from tech-startup founders asking him not to cut off access to open models. Amid reports that the Trump administration was considering banning or limiting the use of China\u2019s open source models, a swath of prominent big tech companies including Microsoft, Nvidia, Palantir and Meta also recently published a letter urging lawmakers to refrain from putting restrictions on open models. Additionally, Nvidia\u2019s CEO Jensen Huang went to Capitol Hill on Tuesday to meet with Democratic and Republican party leaders to lobby in support of open models. While facing heat from China and other tech companies, OpenAI and Anthropic revealed in recent weeks that their AI models went rogue during cybersecurity tests and hacked into outside organizations. OpenAI CEO Sam Altman visited lawmakers and administration officials this week to discuss controls on AI following the incident. That forced Donald Trump to field questions about whether he would put more safety restrictions on AI development. \u201cWe have to be careful in both ways. We don\u2019t want to restrict them when all of a sudden we come in second to China,\u201d Trump said, adding: \u201cI know many of these people. I don\u2019t want to restrict them from doing great work.\u201d While the Trump administration debates potential safety controls and limits on Chinese-made AI models, it took tangible action this week against China\u2019s increasingly prominent robotics industry. The Federal Communications Commission announced on Tuesday a ban on humanoid robots from China over what it alleged was an unacceptable national security risk. China\u2019s humanoid robots from companies such as Unitree have been the subject of numerous viral videos this year, showcasing their ability to dance or interact with people when programmed to do so. The FCC alleged that the robots could also steal data or surveil US citizens, as well as threaten US manufacturing and supply chains. The FCC\u2019s decision further escalates the US competition with China over emerging technologies and comes as fears over China\u2019s tech have shifted financial markets. A report from the Information this week stating that China had "
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -28,36 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.435,
-      "scores": {
-        "High House War": 0.097,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.18,
-        "High House Life": 0.001,
-        "High House Iron": 0.435,
-        "High House Words": -0.069,
-        "High House Chains": -0.028
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Intel Benefits From a New Shift in A.I. Spending",
-        "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Shadow",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
@@ -117,7 +117,7 @@
         "source": "guardian",
         "full_text": "Greater support for local media is needed to hold mayors and councils to account under Andy Burnham\u2019s plans for devolution, which would involve a massive transfer of power into local government, publishers have said. A range of figures involved with local news broadly welcomed new plans unveiled by the prime minister, but said that monetising content, barriers erected by populist politicians and the roles of big tech and the BBC were among the challenges they faced. Theo Bamber, the chief executive of the News Media Association, the trade body representing UK national, regional and local news publishers, said that any moves to give people greater control would be an illusion unless the decisions affecting their lives could be scrutinised by trusted and professional local journalists. \u201cWe were interested that the government\u2019s announcements about greater devolution have not mentioned press or media policy,\u201d he said. \u201cWe believe that is a mistake because the two should not be siloed and, ultimately, the success of devolution is dependent on scrutiny.\u201d Bamber said that 46 million people a month were consuming local media and that this was proof of the resilience of the sector. He also said it was a counter to the proliferation of misinformation amid unrest in Southampton and Belfast recently. However, as No 10 moved to devolve more power from Westminster to regions, there was also concern that these plans came as some journalists found their access to meetings was being limited, or were being sidelined as policymakers cut down on press conferences or chose to use social media instead. A Reform UK council leader\u2019s decision to ban his councillors from engaging with a prominent local newspaper was condemned last year as a \u201cmassive attack on local democracy\u201d and a sign of things to come should the party form the next government. There has also been unease that Keir Starmer\u2019s administration appeared to embrace influencers, and that Burnham has been relatively slow to make himself available to face questions. The National Union of Journalists (NUJ) warned that a lack of a strong local news sector would threaten any devolution agenda and that support could not be left to the \u201cvagaries of the market\u201d. \u201cAccess to trusted local news is essential for democracy to thrive. However, millions across the UK now live in news deserts and the industry has faced decades of decline,\u201d said Laura Davison, the NUJ general secretary, who noted large-scale job losses and the fact that about 300 local papers had closed since 2005.\u201d John McDonnell, the veteran Labour MP and secretary of the NUJ\u2019s parliamentary group, said: \u201cIf power is to be devolved on any scale then there is an even greater need for securing the role of local media to report on and hold local decision makers to account. This needs resourcing to make effective.\u201d Under a scheme announced earlier this year, the government will provide up to \u00a312m of funding over two years to support local news outlets as it tries to fill so-called \u201cnews deserts\u201d. Local media outlets in print, online, radio or TV can bid for grants to support their financial sustainability and transition to digital business models under the new fund. However, there are calls for additional support, including from those involved in startups seeking to make up for the lack of an established news outlet in some areas. Mike Harris, the publisher of the Lead, an independent progressive digital newspaper, said: \u201cWe\u2019ve launched the first new local titles in many of the communities in the UK most at threat from the far right, but it\u2019s unbelievably challenging making the business model work. \u201cPeople in working-class communities do donate and subscribe to our local newspapers but it\u2019s hard to make the model work in comparison with launching in wealthier cities with lots of middle-class professionals. The Local News Fund is a great start but with the spread of extremist online content, often seeded by foreign dictatorships or far-right gr"
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -149,110 +149,100 @@
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.31,
+      "confidence": 0.367,
       "scores": {
-        "High House War": 0.196,
-        "High House Coin": 0.267,
-        "High House Shadow": 0.161,
-        "High House Life": 0.07,
-        "High House Iron": -0.006,
-        "High House Words": 0.301,
-        "High House Chains": 0.31
+        "High House War": 0.367,
+        "High House Coin": 0.163,
+        "High House Shadow": 0.201,
+        "High House Life": 0.024,
+        "High House Iron": -0.039,
+        "High House Words": 0.269,
+        "High House Chains": 0.168
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.519,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.944
+        "sentiment_score": 0.982
       },
       "article": {
-        "title": "West Asia war: Anti-ICC campaign is about defending Netanyahu, not me, says Trump",
-        "url": "https://www.mid-day.com/news/world-news/article/west-asia-war-anti-icc-campaign-is-about-defending-netanyahu-not-me-says-trump-23642663",
+        "title": "Report: Iran used cease-fire to plan wider regional campaign against U.S.",
+        "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-02/ty-article/.premium/report-iran-used-cease-fire-to-plan-wider-regional-campaign-against-u-s/0000019f-bfec-ded7-adbf-ffef02580000",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "ASCENDING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "INTEL",
-      "actor_b": "JAPAN",
+      "house_b": "High House Life",
+      "actor_a": "CHINA",
+      "actor_b": "THE CYCLOSPORA OUTBREAK REVEALS",
       "relationship": "neutral",
-      "goldstein_avg": -0.202,
+      "goldstein_avg": -0.017,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Iron",
       "house_b": "High House War",
-      "actor_a": "INTEL",
-      "actor_b": "NATO",
-      "relationship": "neutral",
-      "goldstein_avg": -0.047,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "JAPAN",
-      "actor_b": "NATO",
-      "relationship": "neutral",
-      "goldstein_avg": -0.903,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "NATO",
-      "actor_b": "NETANYAHU",
-      "relationship": "neutral",
-      "goldstein_avg": -1.1,
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.176,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
     "High House War": {
       "trend": "falling",
-      "trend_ratio": 0.774,
+      "trend_ratio": 0.742,
       "source": "gdelt_volume"
     }
   }
