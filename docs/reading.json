@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "cards": [
     {
       "house": "High House Iron",
@@ -57,7 +57,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Shadow",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -117,7 +117,7 @@
         "source": "guardian",
         "full_text": "Greater support for local media is needed to hold mayors and councils to account under Andy Burnham\u2019s plans for devolution, which would involve a massive transfer of power into local government, publishers have said. A range of figures involved with local news broadly welcomed new plans unveiled by the prime minister, but said that monetising content, barriers erected by populist politicians and the roles of big tech and the BBC were among the challenges they faced. Theo Bamber, the chief executive of the News Media Association, the trade body representing UK national, regional and local news publishers, said that any moves to give people greater control would be an illusion unless the decisions affecting their lives could be scrutinised by trusted and professional local journalists. \u201cWe were interested that the government\u2019s announcements about greater devolution have not mentioned press or media policy,\u201d he said. \u201cWe believe that is a mistake because the two should not be siloed and, ultimately, the success of devolution is dependent on scrutiny.\u201d Bamber said that 46 million people a month were consuming local media and that this was proof of the resilience of the sector. He also said it was a counter to the proliferation of misinformation amid unrest in Southampton and Belfast recently. However, as No 10 moved to devolve more power from Westminster to regions, there was also concern that these plans came as some journalists found their access to meetings was being limited, or were being sidelined as policymakers cut down on press conferences or chose to use social media instead. A Reform UK council leader\u2019s decision to ban his councillors from engaging with a prominent local newspaper was condemned last year as a \u201cmassive attack on local democracy\u201d and a sign of things to come should the party form the next government. There has also been unease that Keir Starmer\u2019s administration appeared to embrace influencers, and that Burnham has been relatively slow to make himself available to face questions. The National Union of Journalists (NUJ) warned that a lack of a strong local news sector would threaten any devolution agenda and that support could not be left to the \u201cvagaries of the market\u201d. \u201cAccess to trusted local news is essential for democracy to thrive. However, millions across the UK now live in news deserts and the industry has faced decades of decline,\u201d said Laura Davison, the NUJ general secretary, who noted large-scale job losses and the fact that about 300 local papers had closed since 2005.\u201d John McDonnell, the veteran Labour MP and secretary of the NUJ\u2019s parliamentary group, said: \u201cIf power is to be devolved on any scale then there is an even greater need for securing the role of local media to report on and hold local decision makers to account. This needs resourcing to make effective.\u201d Under a scheme announced earlier this year, the government will provide up to \u00a312m of funding over two years to support local news outlets as it tries to fill so-called \u201cnews deserts\u201d. Local media outlets in print, online, radio or TV can bid for grants to support their financial sustainability and transition to digital business models under the new fund. However, there are calls for additional support, including from those involved in startups seeking to make up for the lack of an established news outlet in some areas. Mike Harris, the publisher of the Lead, an independent progressive digital newspaper, said: \u201cWe\u2019ve launched the first new local titles in many of the communities in the UK most at threat from the far right, but it\u2019s unbelievably challenging making the business model work. \u201cPeople in working-class communities do donate and subscribe to our local newspapers but it\u2019s hard to make the model work in comparison with launching in wealthier cities with lots of middle-class professionals. The Local News Fund is a great start but with the spread of extremist online content, often seeded by foreign dictatorships or far-right gr"
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
@@ -175,36 +175,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.367,
+      "confidence": 0.341,
       "scores": {
-        "High House War": 0.367,
-        "High House Coin": 0.163,
-        "High House Shadow": 0.201,
-        "High House Life": 0.024,
-        "High House Iron": -0.039,
-        "High House Words": 0.269,
-        "High House Chains": 0.168
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Report: Iran used cease-fire to plan wider regional campaign against U.S.",
-        "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-02/ty-article/.premium/report-iran-used-cease-fire-to-plan-wider-regional-campaign-against-u-s/0000019f-bfec-ded7-adbf-ffef02580000",
-        "source": "worldnews",
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
@@ -217,32 +217,22 @@
       "goldstein_avg": -0.017,
       "confidence": 0.9,
       "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.176,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Words": {
+    "High House Life": {
       "trend": "falling",
       "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.926,
       "source": "gdelt_volume"
     },
     "High House Chains": {
       "trend": "falling",
       "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.742,
       "source": "gdelt_volume"
     }
   }
