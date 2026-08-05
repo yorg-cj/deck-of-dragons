@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "cards": [
     {
       "house": "High House Life",
@@ -89,30 +89,30 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.385,
+      "confidence": 0.379,
       "scores": {
-        "High House War": 0.082,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.311,
-        "High House Life": 0.093,
-        "High House Iron": 0.218,
-        "High House Words": 0.385,
-        "High House Chains": 0.153
+        "High House War": 0.379,
+        "High House Coin": 0.09,
+        "High House Shadow": 0.203,
+        "High House Life": 0.133,
+        "High House Iron": 0.082,
+        "High House Words": 0.159,
+        "High House Chains": 0.11
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Why has North Korea rejected US-led cyber threat allegations, and what is the dispute about?",
-        "url": "https://news.az/news/why-has-north-korea-rejected-us-led-cyber-threat-allegations-and-what-is-the-dispute-about",
-        "source": "worldnews",
+        "title": "How the Ukraine War Became a Fight for the Skies",
+        "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -147,30 +147,30 @@
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.297,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.118,
+        "High House Coin": 0.161,
+        "High House Shadow": 0.065,
+        "High House Life": -0.056,
+        "High House Iron": 0.025,
+        "High House Words": 0.297,
+        "High House Chains": 0.157
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
+        "title": "US and\u00a0Iran\u00a0having &amp;#8216;very good discussions&amp;#8217;,\u00a0Trump says",
+        "url": "https://cyprus-mail.com/2026/08/05/us-and-iran-having-very-good-discussions-trump-says",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "EMERGING"
@@ -208,31 +208,31 @@
   "relationships": [
     {
       "house_a": "High House Iron",
-      "house_b": "High House War",
+      "house_b": "High House Shadow",
       "actor_a": "INTEL",
-      "actor_b": "NATO",
+      "actor_b": "JAPAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.141,
+      "goldstein_avg": 0.012,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "INTEL",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.414,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House War",
+      "house_b": "High House Words",
       "actor_a": "JAPAN",
-      "actor_b": "NATO",
+      "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -1.224,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "NORTH KOREA",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -1.729,
+      "goldstein_avg": -1.488,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -240,7 +240,17 @@
   "house_trends": {
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 1.0,
+      "trend_ratio": 0.943,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.896,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
