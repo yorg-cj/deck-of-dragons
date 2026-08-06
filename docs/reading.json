@@ -1,6 +1,64 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "cards": [
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.462,
+      "scores": {
+        "High House War": 0.17,
+        "High House Coin": 0.166,
+        "High House Shadow": 0.462,
+        "High House Life": 0.13,
+        "High House Iron": 0.117,
+        "High House Words": 0.255,
+        "High House Chains": 0.258
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.937
+      },
+      "article": {
+        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.452,
+      "scores": {
+        "High House War": 0.452,
+        "High House Coin": 0.145,
+        "High House Shadow": 0.238,
+        "High House Life": 0.123,
+        "High House Iron": 0.158,
+        "High House Words": 0.195,
+        "High House Chains": 0.189
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "The War That\u2019s Happening Above Russia and Ukraine",
+        "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
     {
       "house": "High House Life",
       "title": "The King",
@@ -28,92 +86,65 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "WANING"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.435,
+      "confidence": 0.425,
       "scores": {
-        "High House War": 0.097,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.18,
-        "High House Life": 0.001,
-        "High House Iron": 0.435,
-        "High House Words": -0.069,
-        "High House Chains": -0.028
+        "High House War": 0.176,
+        "High House Coin": 0.204,
+        "High House Shadow": 0.24,
+        "High House Life": 0.113,
+        "High House Iron": 0.425,
+        "High House Words": 0.25,
+        "High House Chains": 0.223
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "Intel Benefits From a New Shift in A.I. Spending",
-        "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.409,
-      "scores": {
-        "High House War": 0.092,
-        "High House Coin": 0.105,
-        "High House Shadow": 0.409,
-        "High House Life": 0.01,
-        "High House Iron": 0.011,
-        "High House Words": 0.164,
-        "High House Chains": 0.074
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.544,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
-        "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+        "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
+        "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.379,
+      "confidence": 0.418,
       "scores": {
-        "High House War": 0.379,
-        "High House Coin": 0.09,
+        "High House War": -0.006,
+        "High House Coin": 0.062,
         "High House Shadow": 0.203,
-        "High House Life": 0.133,
-        "High House Iron": 0.082,
-        "High House Words": 0.159,
-        "High House Chains": 0.11
+        "High House Life": 0.131,
+        "High House Iron": -0.059,
+        "High House Words": 0.418,
+        "High House Chains": 0.131
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "press freedom"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "How the Ukraine War Became a Fight for the Skies",
-        "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Pakistani authorities ban international media from reporting in most of country",
+        "url": "https://www.theguardian.com/world/2026/aug/05/pakistani-authorities-ban-international-media-from-reporting-in-most-of-country",
+        "source": "guardian",
+        "full_text": "Pakistani authorities have imposed severe new restrictions on international media, including barring them from reporting in most of the country, in a move that has provoked a significant backlash from journalist organisations. According to the new rules anyone, including Pakistani nationals, should seek permission first if they want to report from anywhere in Pakistan except three cities \u2013 Islamabad, Karachi and Lahore. Pakistan is ranked 153 out of 180 on the World Press Freedom Index. Successive regimes there have imposed restrictions and censorship on local media. But this is the first time they have put restrictions on international media. The sudden announcement of new rules came after the killing of dozens of protesters in Pakistan-administered Kashmir, which was only reported by international media. Al Jazeera\u2019s website was restricted in Pakistan after it reported on the bloody protests and the news that people were boycotting regional elections from Muzaffarabad, the capital of Pakistan\u2019s Kashmir. Pakistan\u2019s information ministry derided Al Jazeera\u2019s reporting as \u201cyellow journalism\u201d, a derogatory term used for sensationalised reporting. Authorities have not publicly announced a ban of the news website, but it remains inaccessible without a VPN. The BBC reported from Pakistan-administered Kashmir and quoted protesters and people who accused Pakistani security forces of firing at unarmed protesters. Pakistani authorities issued a strongly worded denial and asked all journalists to immediately leave Kashmir. The new rules, which the ministry of information called the Foreign Media Facilitation Guidelines 2026, do not specify a timeframe for how long it would take for journalists to be granted permission to report. Nasir Zaidi, a former general secretary at the Pakistan Federal Union of Journalists and a senior journalist, said that international media has been objectively reporting on protest movements, crackdowns on opposition parties and the repressive political situation in Pakistan. \u201cFor decades, various governments have always tried to kill the news and they failed because of the reporting of international media and now it came up with these repressive rules to curb the movement of journalists. They don\u2019t want the truth to be reported,\u201d said Zaidi. The government denies that the new rules are a blanket restriction on the movement of journalists or constrict media. Zaidi, who was subjected to public flogging during the military dictatorship of Gen Zia ul-Haq for raising his voice for media rights, said that he had never witnessed such times before. \u201cDespite the fact I have worked during martial laws, but, such curbs and restrictions on international media were unseen. It is worse than martial law,\u201d he added. According to the new guidelines, the accreditation and registration is mandatory for international media outlets and journalists in the country. The new rules also state that journalists can lose their accreditation for \u201cacts against ideology, sovereignty, security or public order of Pakistan\u201d. Legal experts and journalists have said that these stipulations are vague and difficult to interpret. \u201cPakistan is sending a very wrong message to the world with all these rules curbing free speech and freedom of international media,\u201d said Zaidi."
       },
       "position": "WILD"
     },
@@ -147,108 +178,38 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.297,
-      "scores": {
-        "High House War": 0.118,
-        "High House Coin": 0.161,
-        "High House Shadow": 0.065,
-        "High House Life": -0.056,
-        "High House Iron": 0.025,
-        "High House Words": 0.297,
-        "High House Chains": 0.157
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "US and\u00a0Iran\u00a0having &amp;#8216;very good discussions&amp;#8217;,\u00a0Trump says",
-        "url": "https://cyprus-mail.com/2026/08/05/us-and-iran-having-very-good-discussions-trump-says",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.27,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.135,
-        "High House Coin": 0.151,
-        "High House Shadow": 0.156,
-        "High House Life": 0.084,
-        "High House Iron": 0.061,
-        "High House Words": 0.24,
-        "High House Chains": 0.27
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "The illusion of the unitary state and the inevitability of federation in Cyprus",
-        "url": "https://cyprus-mail.com/2026/07/28/the-illusion-of-the-unitary-state-and-the-inevitability-of-federation-in-cyprus",
-        "source": "worldnews",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Shadow",
-      "actor_a": "INTEL",
-      "actor_b": "JAPAN",
-      "relationship": "neutral",
-      "goldstein_avg": 0.012,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "INTEL",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.414,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "JAPAN",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.488,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.943,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 0.896,
-      "source": "gdelt_volume"
-    },
-    "High House Chains": {
+    "High House Life": {
       "trend": "falling",
       "trend_ratio": 0.0,
       "source": "gdelt_volume"
