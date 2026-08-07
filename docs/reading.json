@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "cards": [
     {
       "house": "High House Shadow",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Iron",
@@ -115,7 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
@@ -151,67 +151,103 @@
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.379,
+      "reversed": true,
+      "confidence": 0.31,
       "scores": {
-        "High House War": 0.157,
-        "High House Coin": 0.379,
-        "High House Shadow": 0.039,
-        "High House Life": 0.108,
-        "High House Iron": 0.117,
-        "High House Words": 0.16,
-        "High House Chains": 0.255
+        "High House War": 0.103,
+        "High House Coin": 0.31,
+        "High House Shadow": 0.172,
+        "High House Life": 0.038,
+        "High House Iron": 0.234,
+        "High House Words": 0.085,
+        "High House Chains": -0.015
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.813
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
-        "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
-      "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "title": "Why Wall Street Is Feeling So Bullish",
+        "url": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.276,
+      "scores": {
+        "High House War": 0.194,
+        "High House Coin": 0.231,
+        "High House Shadow": 0.013,
+        "High House Life": 0.011,
+        "High House Iron": 0.004,
+        "High House Words": 0.227,
+        "High House Chains": 0.276
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.524,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.952
+      },
+      "article": {
+        "title": "Iran and Oman agree on coordinates of route through strait of Hormuz, says Iranian foreign ministry \u2013 as it happened ",
+        "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Iran and Oman have agreed a route for ships transiting the strait of Hormuz and are finalising the draft deal for jointly managing the waterway, Tehran\u2019s foreign ministry said Wednesday. But, spokesperson Esmaeil Baghei stressed that any reopening of the strait would depend on the United States fulfilling what Tehran sees as its commitment to end its own naval blockade of Iran\u2019s ports. A joint statement will be issued from Iran and Oman \u201cif certain parties do not obstruct this process\u201d , Baghei said, apparently referring to the US. Two regional officials briefed on the negotiations told the AP that the potential deal was a temporary solution to the dispute over the strait, and will pave the way for the US and Iran to resume negotiations on Tehran\u2019s nuclear program. Israel launched attacks in southern Lebanon after accusing Hezbollah of violating the ceasefire, despite ongoing US-mediated peace talks between Israel and Lebanon in Rome. At least one person was killed and 11 others injured in Israeli strikes on the southern town of Tibnin. The strikes came after the IDF issued a warning for people in the southern village of Mansouri to flee their homes \u2013 the first time in more than a month that the military had issued such an order ahead of an imminent strike. It comes as the United Nations said more than 800,000 people displaced by war have begun returning to their homes in Lebanon. Oil prices rose after Yemen\u2019s \u2060Iran-aligned Houthi rebels said they targeted a Saudi oil tanker in the Red Sea as part of their naval blockade of Saudi Arabia. Brent crude futures were up 81 cents, or 1.02%, at $80.17 a barrel by 12pm GMT. \u2060US West Texas Intermediate futures gained 34 cents, or 0.45%, to $76.11. The Houthis said they had launched a missile attack on a Saudi \u200coil tanker off the coast \u200cof Yanbu, a key port for Saudi crude oil exports. This is the eighth ship they have attacked since 22 July, when they announced that they were imposing a naval blockade on Saudi Arabia. Iran\u2019s president Masoud Pezeshkian said in an interview aired by state TV on Wednesday that interaction with the country\u2019s Supreme Leader Mojtaba Khamenei is currently \u201cvery difficult\u201d. Mojtaba has not made any public appearances since he became supreme leader, replacing his father, Ayatollah Ali Khamenei, who was killed in one of the first strikes launched against Iran by the US and Israel. More on the Houthi attacks. The group \u201csuccessfully targeted the Saudi oil tanker Wafa in the northern Red Sea, off the coast of Yanbu, with a number of ballistic missiles,\u201d spokesman Yahya Saree said in a video statement. In a later statement, Saree said the rebels targeted the \u201cSaudi oil tanker Daisy in the Gulf of Aden with a ballistic missile\u201d, referring to the waterway that connects to the Red Sea. The Houthis declared they will escalate attacks in the northern Red Sea because Saudi Arabia is diverting its oil tankers there from the south in response to their blockade. Nine Saudi oil tankers have been targeted since the start of the blockade last month, according to figures given by a Houthi military spokesman. Yemen\u2019s Iran-aligned Houthis said they targeted a Saudi Arabian oil vessel in the Gulf of Aden, the group\u2019s military spokesperson said in a statement, Reuters reported. The Houthis said they also launched a missile attack on a Saudi oil tanker off the coast of the kingdom\u2019s Red Sea port city of Yanbu. There was no confirmation from Saudi Arabia on either incident. The Houthis\u2019 military spokesperson, Yahya Saree, did not say when the attacks took place. On Tuesday, the Houthis warned shipping companies that their tankers risk being attacked if they use Saudi Arabian ports. The Houthis imposed a naval blockade on Saudi Arabia in the Red Sea last month in response to what they described as a Saudi siege on Yemen, an allegation Riyadh has denied. US Central Command said its forces have redirected 48 commercial vessels, disabled two and boarded two as part of its Iran blockade."
+      },
+      "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House War",
+      "house_b": "High House Iron",
+      "actor_a": "RUSSIA",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.368,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "RUSSIA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.02,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.048,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.002,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 1.03,
       "source": "gdelt_volume"
     }
   }
