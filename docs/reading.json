@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "cards": [
     {
       "house": "High House Shadow",
@@ -62,89 +62,31 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.425,
-      "scores": {
-        "High House War": 0.176,
-        "High House Coin": 0.204,
-        "High House Shadow": 0.24,
-        "High House Life": 0.113,
-        "High House Iron": 0.425,
-        "High House Words": 0.25,
-        "High House Chains": 0.223
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
-      },
-      "article": {
-        "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
-        "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
-      "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
       "reversed": true,
-      "confidence": 0.358,
+      "confidence": 0.429,
       "scores": {
-        "High House War": 0.358,
-        "High House Coin": 0.188,
-        "High House Shadow": 0.111,
-        "High House Life": 0.046,
-        "High House Iron": 0.05,
-        "High House Words": 0.223,
-        "High House Chains": 0.261
+        "High House War": 0.028,
+        "High House Coin": 0.148,
+        "High House Shadow": 0.187,
+        "High House Life": 0.048,
+        "High House Iron": 0.429,
+        "High House Words": 0.035,
+        "High House Chains": 0.039
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.546,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "Critical Analysis of Makkah Joint Defence Agreement",
-        "url": "https://abclive.in/2026/08/08/makkah-joint-defence-agreement-critical-analysis",
+        "title": "China Tech Layoffs: Massive Job Cuts Hit Overworked Programmers Amid AI Wave",
+        "url": "https://www.latestly.com/technology/china-tech-layoffs-massive-job-cuts-hit-overworked-programmers-amid-ai-wave-7552056.html",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -173,43 +115,149 @@
         "source": "guardian",
         "full_text": "Time to wrap up\u2026 US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated. The unemployment rate, however, held steady at 4.1%. Economists had projected an unchanged unemployment rate and 83,000 new jobs for the month. The latest data from the Bureau of Labor Statistics illustrates the continued summer slump in job growth amid ongoing conflict in the Middle East. Pressure has been mounting within the US Federal Reserve to raise interest rates to combat persistently high inflation, but July\u2019s job report and its latest revisions may cool those expectations at the central bank\u2019s next meeting. July\u2019s job losses were concentrated in local government education, with 50,000 jobs lost, and retail, which lost 19,000. The private sector, however, gained 30,000 jobs, with growth focused once again in healthcare. Shares rose on Wall Street after the report was released, as traders calculated that the US Federal Reserve was less likely to raise interest rates in September. This also knocked the dollar. Elsewhere\u2026 Global food prices have hit their highest level in three and a half years, as summer heatwaves and conflict in Ukraine and the Middle East push up crop costs. The UN Food and Agriculture Organization (FAO) index of food commodity prices rose last month to its highest level since January 2023, after a jump in prices for cereals, sugar and vegetable oil. The US aviation regulator has ordered inspections of the fuselages of Boeing 737 Max planes for possible cracks in a component. The Federal Aviation Administration airworthiness directive will affect an estimated 471 aircraft and follows reports of cracks in earlier Boeing models. The inspections, which will start from September, follow a similar FAA regime for previous Boeing 737 Next Generation models dating back to 2021. UK house prices were broadly stagnant in July as prospective buyers were squeezed by higher mortgage rates, uncertainty around the Middle East and stretched affordability, according to the lender Lloyds. Have a lovely weekend! GW Chris Zaccarelli, chief investment officer for Northlight Asset Management, argues that today\u2019s jobs report is a \u201cgame changer\u201d, because it takes some of the focus off fears of high US inflation. Zaccarelli adds, via CNBC: \u201cBefore today, many were expecting that the Fed had no choice but to raise rates in order to fight stubbornly high inflation, because the job market was so strong, but this report shows that isn\u2019t the case.\u201d Gold has hit a \u2060seven week high after today\u2019s unexpected drop in US payrolls. Spot gold jumped by 3%, and is now trading around $4,345 an ounce. July\u2019s weak US jobs report underlines there is no need for the Federal Reserve to rush into an interest rate rise, argues Steve Blitz, chief US economist at TS Lombard. Say goodbye to September, maybe even December too. [Fed chair Kevin] Warsh\u2019s reaction function is growth (it\u2019s that simple), rooted in the strong belief that growth can be accompanied by low inflation. Inflation is a lagging indicator, and high oil prices and tariffs are working their way out of the inflation data. Given that, and strong Q2 productivity data (a residual, but Warsh will run with it in any event), there is zero chance of a rate hike. I have been writing this from the get-go from a policy bias standpoint. The softer employment data bring into question whether even a rate hike is required. Because data trends matter most, let\u2019s wait and see how the trends work out. Point is \u2013 there is no rush for action. US wage growth also slowed last month, today\u2019s jobs report shows. On an annual basis, wage growth eased to 3.2%, down from 3.5% in June, which is another indication that the labor market is cooling. Fawad Razaqzada, market analyst at Forex.com, says: The softer wage figures will provide some reassurance to policymakers concerned about persi"
       },
-      "position": "EMERGING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.09,
+        "High House Shadow": 0.242,
+        "High House Life": 0.14,
+        "High House Iron": 0.046,
+        "High House Words": 0.212,
+        "High House Chains": 0.151
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.658
+      },
+      "article": {
+        "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+        "source": "guardian",
+        "full_text": "As the boat approached the riverbank, camouflaged figures watched from the tree line. Behind them, in the dim understory of the jungle, a commander of the National Liberation Army (ELN) sat with his rifle on his lap, amid the buzz and whine of insects and the thwacks of machetes on bamboo as his troops set up camp, hidden from enemy drones. Colombia\u2019s 62-year old armed conflict is on the brink of a new chapter, with the country\u2019s new president, Abelardo de la Espriella, who takes office on Friday, vowing an end to peace talks and launch a new military offensive. Colombia\u2019s last guerrilla group says it is ready for whatever might come. \u201cWhere we can go on the offensive, we will,\u201d said the commander of the group\u2019s Western War Front, who goes by the moniker Yerson. \u201cAnd if the ELN leadership says we have to carry out a military offensive at the national level, we will. Attacks in cities, in the countryside, wherever.\u201d Yerson and his troops were deep in the Pacific department of Choc\u00f3, in an ELN stronghold accessible only after hours of river travel, where humid heat soaks through the cloud cover. Occasional communities, each a line of wooden shacks on stilts, broke the dense forest on the banks. Giant mining barges were moored on the river, with diggers clawing up the riverbed to extract the particles of gold it contains. The ELN and rival armed groups fight to control the San Juan River, its resources and its population. At one point in the journey, armed men from the Gulf Clan, a violent paramilitary group, stopped the Guardian\u2019s boat to question the passengers, before promising to liberate the area from the ELN. Yerson was unfazed. \u201cAll of the ELN territories are being invaded by bands of mercenaries,\u201d he said. \u201cThey are very violent, but they are not disputing political power.\u201d Colombia\u2019s conflict began in the 1960s, rooted in extreme land inequality and exclusionary politics. Leftwing guerrillas emerged to challenge the state, battling government forces later allied with rightwing paramilitaries, forerunners of the Gulf Clan. Money from cocaine trafficking fuelled all sides. The conflict has killed hundreds of thousands of people and displaced millions. Along with the Revolutionary Armed Forces of Colombia (Farc), the ELN was the most important of the guerrilla groups. Founded in 1964, it fused Marxism-Leninism with Che Guevara\u2019s foco theory \u2013 the idea that a small armed band in a remote rural area can eventually topple the state \u2013 and Liberation theology, which framed the struggle against poverty and oppression as an expression of Christian faith. In their pursuit of revolution, the two groups have carried out killings and kidnappings, and forced the confinement and displacement of civilian populations. The Farc demobilised in 2016 after striking a peace deal with the Colombian state, but the ELN says its members will only lay down arms after the country\u2019s political and economic system has been transformed. \u201cThe Farc surrendered in exchange for nothing,\u201d said Yerson, adding that subsequent presidents have failed to fully implement the peace deal, while former Farc combatants have been killed. Gustavo Petro, a leftist who was a guerrilla with the defunct M-19 in the 1980s, was elected president in 2022 on a promise of \u201ctotal peace\u201d, vowing to make good on the Farcdeal and negotiate with all of Colombia\u2019s remaining armed groups on the left and right. But after a few years, almost all the talks \u2013 including those with the largest groups \u2013 the ELN, the Gulf Clan and Farc dissidents who refused to demobilise in 2016 \u2013 either stalled or collapsed. Yerson rejected the idea that the election of Colombia\u2019s first leftist president meant that the ELN\u2019s goals could be achieved through the current political system. \u201cThey handed out lands [to the poor]. They did a kind of pension reform. They were looking for ways to improve healthcare,\u201d he said. \u201cBut in the end these are small things. They don\u2019t help with the popular awakening.\u201d In Yerso"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.333,
+      "confidence": 0.329,
       "scores": {
-        "High House War": 0.222,
-        "High House Coin": 0.212,
-        "High House Shadow": 0.303,
-        "High House Life": 0.033,
-        "High House Iron": 0.129,
-        "High House Words": 0.333,
+        "High House War": 0.116,
+        "High House Coin": 0.103,
+        "High House Shadow": 0.277,
+        "High House Life": 0.091,
+        "High House Iron": -0.024,
+        "High House Words": 0.329,
         "High House Chains": 0.117
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.544,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Iran-US war latest: Furious Trump hits out at \u2018leakers\u2019 after reports US is low on precision missiles",
-        "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-hormuz-israel-oman-b3029677.html",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Friday briefing: What the Jason Arday row reveals about equality in modern Britain",
+        "url": "https://www.theguardian.com/world/2026/aug/07/friday-briefing-what-the-jason-arday-row-reveals-about-equality-in-modern-britain",
+        "source": "guardian",
+        "full_text": "Good morning. Instinct told me we should avoid this story. Europe is on fire, Gaza is besieged and Donald Trump remains in control of the world\u2019s largest nuclear arsenal. Allegations against British sociologist Jason Arday of CV-zhuzhing and plagiarism in his PhD thesis (\u201cAn exploration of peer-mentoring among student teachers\u2019 to inform reflective practice within the context of action research\u201d) felt rather parochial by comparison. Then there\u2019s the context: 41-year-old Arday was a Black Cambridge professor. It\u2019s hard to believe pure academic rigour motivated his initial accusers or those now engaging in vitriolic DEI-bashing. Others rushed to defend Arday \u2013 a well-rehearsed reaction learned from a cycle of bad-faith, culture-war attacks. Many of us simply aren\u2019t sure what to say. And yet \u2026 Arday\u2019s case has proved inescapable this week; the fallout now prompting a far-reaching debate about academia, hiring practices, inequity and structural racism; the standards and expectations of Black people in public life. Today, we explore all this, with the help of Guardian columnist and the Long Wave writer Nesrine Malik. That\u2019s after the headlines. Five big stories US news | A federal judge has temporarily halted an order requiring Donald Trump to turn over detailed financial information about his business empire to the BBC as part of an ongoing libel lawsuit. UK politics | The government is \u201curgently\u201d identifying any grooming gang perpetrators who may still be eligible for early prison release after concerns were raised about a potential loophole in the system. Gaza | Donald Trump\u2019s Board of Peace, which was set up in January to oversee the reconstruction of Gaza, has finally issued its first construction contract: a project to build a military outpost. Heatwave | Temperature records have been broken in several countries across central and eastern Europe as the extreme weather that has caused wildfires and droughts across the continent continues. Science | Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe. In depth: \u2018Why would I lie?\u2019 In First Edition this week, I\u2019ve written about Nigel Farage and Gianni Infantino\u2019s latest scandals. During my reporting, I was struck by the extent of their previous indiscretions, while both have managed to maintain and grow their positions of power. Arday has already resigned. It was only last week that the Telegraph suggested more than 100 passages of his PhD thesis closely resembled the work of another student. That story didn\u2019t appear in isolation. Two academics in particular had been complaining about Arday, Nathan Cofnas and David Harris, both of whom had previously expressed what politely may be called \u201ccontroversial\u201d views on race. Arday rejected plagiarism claims. An investigation by Liverpool John Moores University, where he completed his doctoral research, did not uphold complaints against him. Cambridge University had previously defended Arday, labelling complaints a \u201cvile smear campaign to undermine his credibility\u201d. Then on Saturday, the Guardian\u2019s Lanre Bakare published a story detailing further claims. Senior academics told Lanre the plagiarism allegations held. \u201cI think it\u2019s plagiarism and it\u2019s obvious,\u201d one said. \u201cThere is, in my judgment, a case to answer here,\u201d said another. Lanre\u2019s reporting also looked at other statements Arday has made about his life and career. Arday claimed to have completed 30 marathons in 35 days, to have run 600 miles in six days, and to have raised \u00a35m (sometimes more) for charity, accomplishments he altered on questioning. Arday told the Guardian he had been the target of a series of violent threats: a severed pig\u2019s head sent to his family home; twice he was confronted by an intruder on Cambridge University property, the second time with a knife. Despite extensive investigation \u2013 including interviewing the butcher said"
       },
       "position": "WANING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.25,
+      "scores": {
+        "High House War": 0.071,
+        "High House Coin": 0.143,
+        "High House Shadow": 0.147,
+        "High House Life": 0.103,
+        "High House Iron": -0.105,
+        "High House Words": 0.191,
+        "High House Chains": 0.25
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "expelled"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "They Were Eager to Return Home. Then the U.S. Bombed Iran.",
+        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "CHINA",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -2.14,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "COLOMBIA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.039,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "BRITAIN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.772,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "COLOMBIA",
+      "actor_b": "BRITAIN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.08,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.897,
+      "source": "gdelt_volume"
+    },
     "High House Words": {
       "trend": "falling",
-      "trend_ratio": 0.197,
+      "trend_ratio": 0.195,
       "source": "gdelt_volume"
     }
   }
