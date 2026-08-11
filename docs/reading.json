@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.467,
+      "confidence": 0.462,
       "scores": {
-        "High House War": 0.43,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.467,
-        "High House Life": 0.136,
-        "High House Iron": 0.225,
-        "High House Words": 0.339,
-        "High House Chains": 0.204
+        "High House War": 0.17,
+        "High House Coin": 0.166,
+        "High House Shadow": 0.462,
+        "High House Life": 0.13,
+        "High House Iron": 0.117,
+        "High House Words": 0.255,
+        "High House Chains": 0.258
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.724
+        "sentiment_score": 0.937
       },
       "article": {
-        "title": "What America Learned About Democracy When It Gained Stealth",
-        "url": "https://warontherocks.com/cogs-of-war/what-america-learned-about-democracy-when-it-gained-stealth",
-        "source": "worldnews",
+        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -62,27 +62,27 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.432,
+      "reversed": false,
+      "confidence": 0.442,
       "scores": {
-        "High House War": -0.006,
-        "High House Coin": 0.029,
-        "High House Shadow": 0.213,
-        "High House Life": 0.158,
-        "High House Iron": 0.432,
-        "High House Words": 0.102,
-        "High House Chains": 0.037
+        "High House War": 0.162,
+        "High House Coin": 0.122,
+        "High House Shadow": 0.171,
+        "High House Life": 0.102,
+        "High House Iron": 0.442,
+        "High House Words": 0.084,
+        "High House Chains": 0.073
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.535,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.972
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "AI policies may need to change every few months as technology evolves: CSIR-NIScPR Director",
-        "url": "https://www.livemint.com/technology/ai-policies-may-need-to-change-every-few-months-as-technology-evolves-csir-niscpr-director-11786349552176.html",
+        "title": "Dramatic split: The new map of upheavals in Israeli tech",
+        "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905164",
         "source": "worldnews",
         "full_text": null
       },
@@ -92,56 +92,27 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.393,
-      "scores": {
-        "High House War": 0.277,
-        "High House Coin": 0.277,
-        "High House Shadow": 0.171,
-        "High House Life": 0.111,
-        "High House Iron": 0.055,
-        "High House Words": 0.352,
-        "High House Chains": 0.393
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.515
-      },
-      "article": {
-        "title": "Critical Analysis of the IMO\u2019s Role in the Strait of Hormuz Crisis",
-        "url": "https://abclive.in/2026/08/10/imo-role-strait-of-hormuz-crisis",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
       "confidence": 0.373,
       "scores": {
-        "High House War": 0.373,
-        "High House Coin": 0.059,
-        "High House Shadow": 0.209,
-        "High House Life": 0.065,
-        "High House Iron": 0.077,
-        "High House Words": 0.154,
-        "High House Chains": 0.116
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.769
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "North Korea to deploy 50,000 soldiers to support Russia in war against Ukraine",
-        "url": "https://www.independent.co.uk/bulletin/news/north-korea-soldiers-russia-ukraine-war-b3030225.html",
-        "source": "worldnews",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -173,7 +144,36 @@
         "source": "guardian",
         "full_text": "More than half the accounts that posted on Elon Musk\u2019s X about the rioting in Belfast and the civil disorder in Southampton in June were based outside the UK, an analysis by the Guardian can reveal. Of the 8,672 accounts whose combined posts about the events exceeded 1,000 views, just 45.3% were shown as from the UK, according to the social media platform\u2019s own location function. One in six (16.8%) came from the US, 4.5% from Ireland, and about a quarter from all European countries other than the UK. Seven of the 12 most-read tweets about Belfast and Southampton came from the US \u2013 including one from Musk himself and two other US \u201calt-right\u201d commentators \u2013 while an eighth was linked to North America. The analysis underlines that US rightwing actors are seeking to influence the UK and boost their position on X in moments of disorder \u2013 an exploitation of flashpoint events that has only intermittently attracted political attention in Britain. Nearly a third of all 43,000 posts on X relating to the two incidents contained racist or anti-immigration comments. Almost one in 10 relating to Belfast contained calls for violence or paramilitary or vigilante action. Imran Ahmed, the chief executive of the Centre for Countering Digital Hate, said the data demonstrated that X had become \u201ca weapon of choice\u201d for hostile foreign actors seeking to manipulate shocking and divisive content. Their goal, he added, was \u201cto amplify local tragedies and crises, intensify racist narratives, and incite violence in communities they have never set foot in and to whom they have no real connection.\u201d A post from Musk after the life sentencing of the killer of 18-year-old Henry Nowak, who had been falsely accused of racism by police after being stabbed in Southampton, has been viewed more than 28m times. \u201cLegacy mainstream media, same ones who wrote about George Floyd millions of times, are dead silent about Nowak,\u201d Musk posted shortly before 3pm on 2 June, in effect promoting his own platform at a time of heightened tension and disorder in the Hampshire port. Eleven police officers were injured on the night of 2 June in Southampton as people claiming to protest over Nowak\u2019s murder marched to the site of his death. This followed a rally, addressed by the far-right activist Tommy Robinson, outside the city\u2019s main police station. Musk is based in the US and has not visited the UK since November 2023. A Guardian analysis last month found he posted about race and immigration in the UK twice as often as he did about SpaceX in the run-up to the aerospace company\u2019s initial public offering in June. Security experts including Fiona Hill, a former adviser to the US and UK governments, have warned that the UK is a soft target for online manipulation by overseas actors because it does not take the idea of civil, or \u201cpsychological\u201d, defence seriously. Dr Julia Ebner, a researcher at the Institute for Strategic Dialogue and the University of Oxford, said flashpoint episodes such as in Southampton and Belfast had become \u201cstrategic events\u201d for far-right actors seeking to amplify and exploit them. \u201cThey are using the UK as a negative example, smearing the UK to promote their own narratives of western civilisational decay or social collapse,\u201d Ebner said. \u201cBut the other purpose is to influence UK politics, and European politics more widely,\u201d using crisis moments to \u201cpromote a strong, strengthened far-right wave across the world\u201d. Four of the top 12 most-seen tweets came from UK accounts: two were by the leader of the Restore Britain party, Rupert Lowe, whom Musk has endorsed; another was from GB News, while the most popular, with 37.6m views, was written by the \u201canti-woke\u201d rightwing political commentator Konstantin Kisin. Other accounts located in the US were anonymous, though familiar. @EndWokeness posted a blurry still image of a black man attacking a white man in Belfast on 8 June, saying the full video was \u201ctoo graphic\u201d to post. It attracted 16.3m views. The assault, a stab"
       },
-      "position": "WANING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
     },
     {
       "house": "High House Coin",
@@ -202,30 +202,19 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "AMERICA",
-      "actor_b": "BELFAST",
-      "relationship": "neutral",
-      "goldstein_avg": 0.194,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 0.91,
+      "trend_ratio": 0.864,
       "source": "gdelt_volume"
     },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 2.056,
       "source": "gdelt_volume"
     }
   }
