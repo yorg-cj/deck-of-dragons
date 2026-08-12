@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "cards": [
     {
       "house": "High House Shadow",
@@ -63,30 +63,59 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.442,
+      "confidence": 0.437,
       "scores": {
-        "High House War": 0.162,
-        "High House Coin": 0.122,
-        "High House Shadow": 0.171,
-        "High House Life": 0.102,
-        "High House Iron": 0.442,
-        "High House Words": 0.084,
-        "High House Chains": 0.073
+        "High House War": -0.025,
+        "High House Coin": 0.069,
+        "High House Shadow": 0.075,
+        "High House Life": 0.21,
+        "High House Iron": 0.437,
+        "High House Words": 0.025,
+        "High House Chains": 0.046
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.963
       },
       "article": {
-        "title": "Dramatic split: The new map of upheavals in Israeli tech",
-        "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-905164",
-        "source": "worldnews",
-        "full_text": null
+        "title": "AI\u2019s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+        "source": "guardian",
+        "full_text": "AI-driven productivity gains enable more planet-heating pollution from fossil fuels than they avoid from renewables, a study has found. Researchers modelled the technical potential for AI to boost clean power generation along with projections for how it can help produce coal, oil and gas. Across 64 scenarios, they found net yearly carbon pollution rose by 0.47-1.8 gigatonnes, or about 1-5% of the energy sector\u2019s annual emissions. The study is the first to quantify the climate impact of AI across the full power sector. Previous research has explored its indirect climate benefits \u2013 such as reducing renewable downtime and optimising electricity grids \u2013 while ignoring the extra pollution from increasing productivity in drilling oil wells and extracting gas. \u201cWhat most studies have done so far \u2026 is compare the datacentre energy use with the emissions savings AI has,\u201d said Lynn Kaack, an assistant professor of computer science and public policy at the Hertie School who provided feedback on a draft of the research. \u201cThey completely omit this picture of AI causing increases in emissions.\u201d The researchers found net emissions only fell in scenarios where AI did not increase productivity in the fossil fuel sector. If clean and dirty energy facilities were to adopt AI at similar rates, they found, the productivity gains for renewables would have to outpace those for fossil fuels by at least four times for emissions to break even. Holly Alpine, a co-author of the study and a former Microsoft employee who left to co-found the Enabled Emissions campaign group, said the research team used a conservative assumption that AI adoption would happen at the same rate for fossil fuels and renewables. \u201cFossil fuel applications are already happening at scale today \u2013 real contracts, real deployment, with evidence from industry operators and financial analysts,\u201d she said. \u201cRenewables applications are still largely at the pilot or academic-study stage \u2013 more speculative, more dependent on deployment barriers like permitting and interconnection getting resolved.\u201d The International Energy Agency estimates that AI could boost technically recoverable oil and gas reserves by 5% and cut the cost of deepwater offshore projects by 10%. Oil and gas executives have been enthusiastic about the extra fuel that AI has allowed them to find, and celebrated its emerging impact as \u201cthe next fracking boom\u201d. Saudi Aramco said last year that it had embedded AI \u201cin everything\u201d, increasing productivity and the number of wells, while earlier this summer Equinor attributed 27 discoveries on the Norwegian continental shelf to new seismic technologies and AI. The findings include the Lofn and Langermann oil wells, which the company said was the largest discovery it operated in 2025. \u201cAI was key, from automated data interpretation to efficient well planning,\u201d it said in a video at its capital markets day in June. Rystad Energy, an independent research and energy intelligence company based in Oslo, estimated in May that digitalisation and AI would create close to $500bn (\u00a3370bn) in cumulative value for fossil fuel exploration and production companies between 2026 and 2030 \u2013 the result of more efficient operations, increased production, and shorter development timelines. \u201cThe returns are already visible in the industry,\u201d its analysts wrote, citing hundreds of millions of dollars in reported AI-related savings from Equinor and Abu Dhabi\u2019s Adnoc. Climate scientists and energy experts have been troubled by the rapid construction of increasingly large and energy-hungry AI datacentres, which are typically powered by burning fossil gas. The researchers did not factor datacentre energy demand into their calculations but found AI enables productivity gains in the fossil fuel sector that result in emissions at least three times current estimates for datacentres. They cautioned that the results were a \u201cdirectional and structural finding, not a precise forecast\u201d, though the broad relationship h"
       },
       "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.397,
+      "scores": {
+        "High House War": 0.097,
+        "High House Coin": 0.397,
+        "High House Shadow": 0.162,
+        "High House Life": 0.011,
+        "High House Iron": 0.204,
+        "High House Words": 0.124,
+        "High House Chains": 0.09
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.988
+      },
+      "article": {
+        "title": "Oil prices hover near $90 a barrel and gold hits two-month high as Trump makes new demands on Iran \u2013 as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
+        "source": "guardian",
+        "full_text": "Time to wrap up for the day. Our main stories: Thanks for reading! we\u2019ll be back tomorrow. Bye! \u2013 JK My colleagues, the Guardian\u2019s energy correspondent Jillian Ambrose and environment editor Damian Carrington are currently answering questions from readers about oil companies. Last week, they published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. They\u2019re online now to discuss their story and any other questions you might have. Wall Street has got off to a lacklustre start. The S&amp;P 500 if flat, Dow Jones managed a 0.4% rise and the Nasdaq is down 0.2%. Over here, the UK\u2019s FTSE 100 eked out a 0.2% gain, up 24 points at 10,885. The Daw in Frankfurt is 0.4% ahead while the CAC in Paris edged 0.15% higher, the FTSE MIB rose 0.3% and the Ibex in Madrid climbed 0.5%. There is little economic data this week, apart from the US consumer price inflation reading for July, out on Wednesday and eagerly awaited by markets, followed by producer prices on Thursday. It is August\u2026 Oil prices have fallen back, after jumping more than 2% to the highest since late July earlier, with Brent touching $90.03 a barrel. Brent is now down 73 cents, or 0.8%, at $8.99 a barrel. Spot gold dipped 0.1% to $4,383 an ounce, affter hitting its highest level since 5 June at $4,434.84. Hotel prices have surged in key European cities as hundreds of thousands of tourists flock to see the first total eclipse visible from the continent this century. Iceland\u2019s capital, Reykjav\u00edk, has seen one of the biggest jumps in hotel room prices, being one of the few accessible locations to see the full eclipse before evening on Wednesday. Tourists there have been shelling out $793 (\u00a3587) on average to secure a room on Wednesday, a 98% jump compared with the same day last year, according to data from the travel and hospitality data group Lighthouse Intelligence. Spain is also steeling itself for an influx of tourists, as one of the best places on the European continent to view the total solar eclipse. The finance ministry said on Monday that it expected 460,000 overseas tourists to visit specifically to see the eclipse. The rate for a room in A Coru\u00f1a in the north of Spain was up 135% compared with last year to $451 on average, while prices in Mallorca, where the eclipse is expected to be visible on the horizon at sunset, were up by 24% at about $448. In Santiago de Compostela and Bilbao, hotel room prices have risen 34% and 67% respectively. Asda is to outsource its 3,500 cleaning staff in a move the GMB union has described as \u2018detestable\u2019. The workers will switch over to two third-party companies \u2013 Bidvest and NIC Cleaning Services \u2013 and retain their terms and conditions in the process. The shift comes as Asda battles to turn around slumping profits and falling sales since a debt-fuelled \u00a36.8bn takeover in 2020 by the billionaire Issa brothers and the private equity firm TDR Capital. TDR has since taken majority control of the supermarket which is at risk of losing its spot as the UK\u2019s third largest grocer to Aldi after non-fuel sales slid 3.3% to \u00a321bn last year. The latest job changes come after Asda reduced its workforce by more than 7,000 roles last year. Hundreds of Asda security guards employed by outsourcing firm Mitie are being consulted on potential redundancy or reduced hours, more than 100 head office jobs have been recently cut while 1,000 jobs in its George clothing and homewares business were outsourced to logistics firm DHL last year. Rachelle Wilkins, GMB organiser, said: Loyal, hard working cleaning staff will be worried sick about whether their job will still pay the bills or whether the axe will fall on them.\u201d She claimed that outsourcing companies often offered worse pay and conditions once they had taken over a service. However, David Lepley, the chief operating officer at Asda, said: Our ambition is to deliver the cleanest stores in retail. We continue to review and invest"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -114,35 +143,6 @@
         "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
         "source": "nyt",
         "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.37,
-      "scores": {
-        "High House War": 0.037,
-        "High House Coin": 0.025,
-        "High House Shadow": 0.291,
-        "High House Life": 0.088,
-        "High House Iron": 0.037,
-        "High House Words": 0.37,
-        "High House Chains": 0.014
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.542,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.985
-      },
-      "article": {
-        "title": "Most X accounts posting about Belfast and Southampton unrest were based outside UK",
-        "url": "https://www.theguardian.com/world/2026/aug/09/x-accounts-posts-belfast-southampton-riots-june-2026-analysis",
-        "source": "guardian",
-        "full_text": "More than half the accounts that posted on Elon Musk\u2019s X about the rioting in Belfast and the civil disorder in Southampton in June were based outside the UK, an analysis by the Guardian can reveal. Of the 8,672 accounts whose combined posts about the events exceeded 1,000 views, just 45.3% were shown as from the UK, according to the social media platform\u2019s own location function. One in six (16.8%) came from the US, 4.5% from Ireland, and about a quarter from all European countries other than the UK. Seven of the 12 most-read tweets about Belfast and Southampton came from the US \u2013 including one from Musk himself and two other US \u201calt-right\u201d commentators \u2013 while an eighth was linked to North America. The analysis underlines that US rightwing actors are seeking to influence the UK and boost their position on X in moments of disorder \u2013 an exploitation of flashpoint events that has only intermittently attracted political attention in Britain. Nearly a third of all 43,000 posts on X relating to the two incidents contained racist or anti-immigration comments. Almost one in 10 relating to Belfast contained calls for violence or paramilitary or vigilante action. Imran Ahmed, the chief executive of the Centre for Countering Digital Hate, said the data demonstrated that X had become \u201ca weapon of choice\u201d for hostile foreign actors seeking to manipulate shocking and divisive content. Their goal, he added, was \u201cto amplify local tragedies and crises, intensify racist narratives, and incite violence in communities they have never set foot in and to whom they have no real connection.\u201d A post from Musk after the life sentencing of the killer of 18-year-old Henry Nowak, who had been falsely accused of racism by police after being stabbed in Southampton, has been viewed more than 28m times. \u201cLegacy mainstream media, same ones who wrote about George Floyd millions of times, are dead silent about Nowak,\u201d Musk posted shortly before 3pm on 2 June, in effect promoting his own platform at a time of heightened tension and disorder in the Hampshire port. Eleven police officers were injured on the night of 2 June in Southampton as people claiming to protest over Nowak\u2019s murder marched to the site of his death. This followed a rally, addressed by the far-right activist Tommy Robinson, outside the city\u2019s main police station. Musk is based in the US and has not visited the UK since November 2023. A Guardian analysis last month found he posted about race and immigration in the UK twice as often as he did about SpaceX in the run-up to the aerospace company\u2019s initial public offering in June. Security experts including Fiona Hill, a former adviser to the US and UK governments, have warned that the UK is a soft target for online manipulation by overseas actors because it does not take the idea of civil, or \u201cpsychological\u201d, defence seriously. Dr Julia Ebner, a researcher at the Institute for Strategic Dialogue and the University of Oxford, said flashpoint episodes such as in Southampton and Belfast had become \u201cstrategic events\u201d for far-right actors seeking to amplify and exploit them. \u201cThey are using the UK as a negative example, smearing the UK to promote their own narratives of western civilisational decay or social collapse,\u201d Ebner said. \u201cBut the other purpose is to influence UK politics, and European politics more widely,\u201d using crisis moments to \u201cpromote a strong, strengthened far-right wave across the world\u201d. Four of the top 12 most-seen tweets came from UK accounts: two were by the leader of the Restore Britain party, Rupert Lowe, whom Musk has endorsed; another was from GB News, while the most popular, with 37.6m views, was written by the \u201canti-woke\u201d rightwing political commentator Konstantin Kisin. Other accounts located in the US were anonymous, though familiar. @EndWokeness posted a blurry still image of a black man attacking a white man in Belfast on 8 June, saying the full video was \u201ctoo graphic\u201d to post. It attracted 16.3m views. The assault, a stab"
       },
       "position": "WILD"
     },
@@ -176,45 +176,45 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.335,
+      "confidence": 0.332,
       "scores": {
-        "High House War": 0.098,
-        "High House Coin": 0.335,
-        "High House Shadow": 0.178,
-        "High House Life": 0.103,
-        "High House Iron": 0.101,
-        "High House Words": 0.026,
-        "High House Chains": 0.139
+        "High House War": 0.043,
+        "High House Coin": 0.16,
+        "High House Shadow": 0.269,
+        "High House Life": 0.099,
+        "High House Iron": -0.093,
+        "High House Words": 0.332,
+        "High House Chains": 0.179
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Warsh and the Fed Face a New Test",
-        "url": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Amnesty International says Farage putting \u2018hate and inhumanity\u2019 over leadership with El Salvador prison plan \u2013 as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Andy Burnham has been warned that changing the terms of the prisoners\u2019 early release scheme so PC Andrew Harper\u2019s killers are kept behind bars would force another spate of early releases before the next general election. A dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the early hours of Monday. Amnesty International UK has condemned Reform UK\u2019s proposal to send foreign prisoners to serve the rest of their sentences in El Salvador, saying it is an example of politicians choosing to put \u201chate, violence and inhumanity\u201d ahead of leadership. (See 2.23pm.) GB News is being investigated by the UK\u2019s media regulator after a guest appeared to link pride parades with bestiality and paedophilia. The Treasury \u201cmaterially contributed\u201d to the death of Chloe Moffat, a 26-year-old personal assistant who took her own life after facing disciplinary proceedings, a coroner has found. For a full list of all the stories covered on the blog today, do scroll through the list of key event headlines near the top of the blog. Danny Shaw, the home affairs commentator and former BBC correspondent who briefly worked as a Labour adviser on home affairs policy, says he thinks Downing Street is wrong to say it can\u2019t find a way of excluding PC Andrew Harper\u2019s killers from the early release scheme. (See 12.46pm.) This is wrong. Govt can block Pc Harper\u2019s killers\u2019 early release and ensure there\u2019s enough prison space - through emergency legislation in September: 1. Exclude prisoners jailed for 10+ years for manslaughter from early release (220 people, including Pc Harper\u2019s killers, Bowers and Cole) 2. Release on tag &amp; curfew, after risk assessment, people jailed for up to 12 months (up to 2,700 people). All it takes is imagination and political will. Reform UK has confirmed that it would legislate to stop charities helping asylum seekers who come to the UK. Responding to an Express report about how many items Care4Calais has given to help migrants in France and the UK, Zia Yusuf, Reform\u2019s home affairs spokesperson, said: Care4Calais is not a charity. It is a facilitator of illegal migration, actively aiding the mass arrival of unvetted, fighting-age males into Britain at a cost of billions to the taxpayer. Successive Tory and Labour governments have colluded by looking the other way. Reform UK will pass the \u2018Polanski Law\u2019 to criminalise any act that assists or encourages illegal entry, punishable by two years\u2019 imprisonment. We will treat those who enable this invasion as the accomplices they are and shut them down immediately. Yusuf described this as \u201cPolanski\u2019s law\u201d when he first proposed it earlier this year because Zack Polanski, the Green party leader, is a proud supporter of the rights of asylum seekers. The Scottish Conservatives are urging the Scottish Greens to withdraw the whip from Q Manivannan MSP over their comment about rape being a \u201cspectrum\u201d. (See 1.48pm.) Meghan Gallacher, equalities spokesperson for the Scottish Tories, said: These remarks from an extremist Scottish Greens MSP were appalling and beyond the pale. It is deeply alarming that anyone, but especially an elected representative, would ever seek to minimise the seriousness of rape and suggest that there is a spectrum of offences. Q Manivannan\u2019s comments were so unacceptable that I believe Scottish Greens co-leaders Ross Greer and Gillian Mackay must now remove the whip from them. Aileen O\u2019Connor, chair of the Thames Valley Police Federation, has said that Downing Street\u2019s failure to block the early release of two of the men who killed PC Andrew Harper (see 12.46pm) is \u201cindefensible\u201d. In a statement, she said: The public are speaking loudly and clearly. They agree with us that the government are firmly on the wrong side of this. What they are doing is indefensible. And they simply cannot defend it. They must listen. The prime minister must listen. If you kill a police officer there should be no early release. No ifs. No buts. Haroon Siddique has"
       },
       "position": "WANING"
     }
   ],
   "relationships": [],
   "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.864,
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 1.229,
       "source": "gdelt_volume"
     },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 2.056,
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.895,
       "source": "gdelt_volume"
     }
   }
