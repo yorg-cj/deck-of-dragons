@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.448,
+      "scores": {
+        "High House War": 0.032,
+        "High House Coin": 0.179,
+        "High House Shadow": 0.264,
+        "High House Life": 0.142,
+        "High House Iron": 0.448,
+        "High House Words": 0.011,
+        "High House Chains": 0.002
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
+        "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+        "source": "guardian",
+        "full_text": "The prediction was stark: artificial intelligence advancements would wipe out jobs en masse. \u201cHalf\u201d of all entry-level white collar jobs would vanish, Anthropic\u2019s CEO, Dario Amodei, said in May 2025. A month later, OpenAI\u2019s CEO, Sam Altman, went further, foreseeing the end of \u201ccertain job categories\u201d. Companies began citing AI in their layoffs. Workers organized. And students reconsidered their future careers. But a year later, the mass carnage hasn\u2019t shown up. Even as AI capabilities have rapidly advanced and AI companies have hurtled towards trillion-dollar stock market debuts, economic transformation hasn\u2019t kept pace, similar to previous tech revolutions, economists say. As a result, CEOs are reframing and softening their stances, suggesting AI augments workers rather than replaces them. Despite the lack of mass job devastation, a shift is still under way: AI is changing the nature of work, with employers increasingly expecting job seekers to have AI skills. And over the long term, AI could shift more jobs to freelance and contract work as companies figure out which skills they do need, some economists predict. Data from a recent Stanford Institute for Economic Policy Research analysis shows that AI hasn\u2019t yet caused major job displacement. Since 2022, the year ChatGPT launched, the unemployment rate for the 20% of workers most exposed to AI rose by 0.77 percentage points, less than the 0.85 percentage-point increase for the least-exposed workers, the report showed. AI could be a factor in recent graduates\u2019 rising unemployment, which hit 5.6% compared with the national average of 4.2% earlier this year. But factors including remote work and the unwinding of pandemic-era overhiring probably also played roles, the report states. \u201cEmployment trends in the occupations [where] we would expect to see the impacts first are largely stable,\u201d said Erika McEntarfer, fellow at the Stanford Institute and co-author of the report. \u201cIt took decades for the computer revolution to fully transform labor markets in the workforce, and what we\u2019re seeing right now looks a lot like that.\u201d But accurately measuring AI\u2019s impact on employment is a challenge. Government statistics are dated by nature and don\u2019t track the impact of specific technologies, while private industry figures, though more current, are less comprehensive. So even though economists generally agree that AI will have an impact, they struggle to predict how big and when. Jobs are changing, not disappearing For now, AI\u2019s biggest impact is not on the number of jobs, but on the nature of them. It\u2019s consolidating roles, discouraging new hiring for tasks that can be automated, and raising the bar for who gets in, leaving unemployment numbers largely untouched. Hiring trends show that AI is becoming more important for employers. About 74% of employers consider AI skills a strong advantage or requirement, with 13% requiring them company-wide versus just in technical roles, according to ZipRecruiter\u2019s latest employer survey. Half of the polled employers expect candidates to already be practical or advanced AI users on day one. And sometimes the requirements don\u2019t show up directly as \u201cAI\u201d in job listings, but rather as rising expectations around speed, quality and self-sufficiency. \u201cThe clearest trend line is a rising bar rather than a shrinking pool,\u201d said Nicole Bachaud, a labor economist at ZipRecruiter. \u201cThe labor market challenge for workers is increasingly about skills-matching rather than pure job scarcity.\u201d Employers have simultaneously added and cut within the same functions \u2013 tech, customer support, and business management and operations \u2013 signaling that \u201cemployers are still figuring out the exact skill set needed for success\u201d, Bachaud added. Nicholas Bloom, an economics professor at Stanford University, refers to this as turbulence in the job market. AI is destroying some jobs and creating others that have to implement, sell, fix and develop AI systems, he said. Robert Seamans, a p"
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
@@ -56,35 +85,6 @@
         "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
         "source": "nyt",
         "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.437,
-      "scores": {
-        "High House War": -0.025,
-        "High House Coin": 0.069,
-        "High House Shadow": 0.075,
-        "High House Life": 0.21,
-        "High House Iron": 0.437,
-        "High House Words": 0.025,
-        "High House Chains": 0.046
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.963
-      },
-      "article": {
-        "title": "AI\u2019s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
-        "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
-        "source": "guardian",
-        "full_text": "AI-driven productivity gains enable more planet-heating pollution from fossil fuels than they avoid from renewables, a study has found. Researchers modelled the technical potential for AI to boost clean power generation along with projections for how it can help produce coal, oil and gas. Across 64 scenarios, they found net yearly carbon pollution rose by 0.47-1.8 gigatonnes, or about 1-5% of the energy sector\u2019s annual emissions. The study is the first to quantify the climate impact of AI across the full power sector. Previous research has explored its indirect climate benefits \u2013 such as reducing renewable downtime and optimising electricity grids \u2013 while ignoring the extra pollution from increasing productivity in drilling oil wells and extracting gas. \u201cWhat most studies have done so far \u2026 is compare the datacentre energy use with the emissions savings AI has,\u201d said Lynn Kaack, an assistant professor of computer science and public policy at the Hertie School who provided feedback on a draft of the research. \u201cThey completely omit this picture of AI causing increases in emissions.\u201d The researchers found net emissions only fell in scenarios where AI did not increase productivity in the fossil fuel sector. If clean and dirty energy facilities were to adopt AI at similar rates, they found, the productivity gains for renewables would have to outpace those for fossil fuels by at least four times for emissions to break even. Holly Alpine, a co-author of the study and a former Microsoft employee who left to co-found the Enabled Emissions campaign group, said the research team used a conservative assumption that AI adoption would happen at the same rate for fossil fuels and renewables. \u201cFossil fuel applications are already happening at scale today \u2013 real contracts, real deployment, with evidence from industry operators and financial analysts,\u201d she said. \u201cRenewables applications are still largely at the pilot or academic-study stage \u2013 more speculative, more dependent on deployment barriers like permitting and interconnection getting resolved.\u201d The International Energy Agency estimates that AI could boost technically recoverable oil and gas reserves by 5% and cut the cost of deepwater offshore projects by 10%. Oil and gas executives have been enthusiastic about the extra fuel that AI has allowed them to find, and celebrated its emerging impact as \u201cthe next fracking boom\u201d. Saudi Aramco said last year that it had embedded AI \u201cin everything\u201d, increasing productivity and the number of wells, while earlier this summer Equinor attributed 27 discoveries on the Norwegian continental shelf to new seismic technologies and AI. The findings include the Lofn and Langermann oil wells, which the company said was the largest discovery it operated in 2025. \u201cAI was key, from automated data interpretation to efficient well planning,\u201d it said in a video at its capital markets day in June. Rystad Energy, an independent research and energy intelligence company based in Oslo, estimated in May that digitalisation and AI would create close to $500bn (\u00a3370bn) in cumulative value for fossil fuel exploration and production companies between 2026 and 2030 \u2013 the result of more efficient operations, increased production, and shorter development timelines. \u201cThe returns are already visible in the industry,\u201d its analysts wrote, citing hundreds of millions of dollars in reported AI-related savings from Equinor and Abu Dhabi\u2019s Adnoc. Climate scientists and energy experts have been troubled by the rapid construction of increasingly large and energy-hungry AI datacentres, which are typically powered by burning fossil gas. The researchers did not factor datacentre energy demand into their calculations but found AI enables productivity gains in the fossil fuel sector that result in emissions at least three times current estimates for datacentres. They cautioned that the results were a \u201cdirectional and structural finding, not a precise forecast\u201d, though the broad relationship h"
       },
       "position": "FOUNDATION"
     },
@@ -179,42 +179,53 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.332,
+      "confidence": 0.312,
       "scores": {
-        "High House War": 0.043,
-        "High House Coin": 0.16,
-        "High House Shadow": 0.269,
-        "High House Life": 0.099,
-        "High House Iron": -0.093,
-        "High House Words": 0.332,
-        "High House Chains": 0.179
+        "High House War": 0.14,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.116,
+        "High House Life": 0.072,
+        "High House Iron": 0.06,
+        "High House Words": 0.312,
+        "High House Chains": 0.268
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Amnesty International says Farage putting \u2018hate and inhumanity\u2019 over leadership with El Salvador prison plan \u2013 as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "source": "guardian",
-        "full_text": "Andy Burnham has been warned that changing the terms of the prisoners\u2019 early release scheme so PC Andrew Harper\u2019s killers are kept behind bars would force another spate of early releases before the next general election. A dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the early hours of Monday. Amnesty International UK has condemned Reform UK\u2019s proposal to send foreign prisoners to serve the rest of their sentences in El Salvador, saying it is an example of politicians choosing to put \u201chate, violence and inhumanity\u201d ahead of leadership. (See 2.23pm.) GB News is being investigated by the UK\u2019s media regulator after a guest appeared to link pride parades with bestiality and paedophilia. The Treasury \u201cmaterially contributed\u201d to the death of Chloe Moffat, a 26-year-old personal assistant who took her own life after facing disciplinary proceedings, a coroner has found. For a full list of all the stories covered on the blog today, do scroll through the list of key event headlines near the top of the blog. Danny Shaw, the home affairs commentator and former BBC correspondent who briefly worked as a Labour adviser on home affairs policy, says he thinks Downing Street is wrong to say it can\u2019t find a way of excluding PC Andrew Harper\u2019s killers from the early release scheme. (See 12.46pm.) This is wrong. Govt can block Pc Harper\u2019s killers\u2019 early release and ensure there\u2019s enough prison space - through emergency legislation in September: 1. Exclude prisoners jailed for 10+ years for manslaughter from early release (220 people, including Pc Harper\u2019s killers, Bowers and Cole) 2. Release on tag &amp; curfew, after risk assessment, people jailed for up to 12 months (up to 2,700 people). All it takes is imagination and political will. Reform UK has confirmed that it would legislate to stop charities helping asylum seekers who come to the UK. Responding to an Express report about how many items Care4Calais has given to help migrants in France and the UK, Zia Yusuf, Reform\u2019s home affairs spokesperson, said: Care4Calais is not a charity. It is a facilitator of illegal migration, actively aiding the mass arrival of unvetted, fighting-age males into Britain at a cost of billions to the taxpayer. Successive Tory and Labour governments have colluded by looking the other way. Reform UK will pass the \u2018Polanski Law\u2019 to criminalise any act that assists or encourages illegal entry, punishable by two years\u2019 imprisonment. We will treat those who enable this invasion as the accomplices they are and shut them down immediately. Yusuf described this as \u201cPolanski\u2019s law\u201d when he first proposed it earlier this year because Zack Polanski, the Green party leader, is a proud supporter of the rights of asylum seekers. The Scottish Conservatives are urging the Scottish Greens to withdraw the whip from Q Manivannan MSP over their comment about rape being a \u201cspectrum\u201d. (See 1.48pm.) Meghan Gallacher, equalities spokesperson for the Scottish Tories, said: These remarks from an extremist Scottish Greens MSP were appalling and beyond the pale. It is deeply alarming that anyone, but especially an elected representative, would ever seek to minimise the seriousness of rape and suggest that there is a spectrum of offences. Q Manivannan\u2019s comments were so unacceptable that I believe Scottish Greens co-leaders Ross Greer and Gillian Mackay must now remove the whip from them. Aileen O\u2019Connor, chair of the Thames Valley Police Federation, has said that Downing Street\u2019s failure to block the early release of two of the men who killed PC Andrew Harper (see 12.46pm) is \u201cindefensible\u201d. In a statement, she said: The public are speaking loudly and clearly. They agree with us that the government are firmly on the wrong side of this. What they are doing is indefensible. And they simply cannot defend it. They must listen. The prime minister must listen. If you kill a police officer there should be no early release. No ifs. No buts. Haroon Siddique has"
+        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
+        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "TRUMP PRESSURES HAVANA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.012,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.229,
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.941,
       "source": "gdelt_volume"
     },
     "High House War": {
       "trend": "stable",
-      "trend_ratio": 0.895,
+      "trend_ratio": 1.146,
       "source": "gdelt_volume"
     }
   }
