@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.46,
+      "scores": {
+        "High House War": -0.074,
+        "High House Coin": 0.46,
+        "High House Shadow": 0.029,
+        "High House Life": 0.046,
+        "High House Iron": 0.064,
+        "High House Words": 0.069,
+        "High House Chains": 0.276
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.956
+      },
+      "article": {
+        "title": "1st RMB Clearing Bank in Europe Raises Questions for Global Financial System: Analysts",
+        "url": "https://www.theepochtimes.com/china/1st-rmb-clearing-bank-in-europe-raises-questions-for-global-financial-system-analysts-6074918",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
@@ -57,63 +86,63 @@
         "source": "guardian",
         "full_text": "The prediction was stark: artificial intelligence advancements would wipe out jobs en masse. \u201cHalf\u201d of all entry-level white collar jobs would vanish, Anthropic\u2019s CEO, Dario Amodei, said in May 2025. A month later, OpenAI\u2019s CEO, Sam Altman, went further, foreseeing the end of \u201ccertain job categories\u201d. Companies began citing AI in their layoffs. Workers organized. And students reconsidered their future careers. But a year later, the mass carnage hasn\u2019t shown up. Even as AI capabilities have rapidly advanced and AI companies have hurtled towards trillion-dollar stock market debuts, economic transformation hasn\u2019t kept pace, similar to previous tech revolutions, economists say. As a result, CEOs are reframing and softening their stances, suggesting AI augments workers rather than replaces them. Despite the lack of mass job devastation, a shift is still under way: AI is changing the nature of work, with employers increasingly expecting job seekers to have AI skills. And over the long term, AI could shift more jobs to freelance and contract work as companies figure out which skills they do need, some economists predict. Data from a recent Stanford Institute for Economic Policy Research analysis shows that AI hasn\u2019t yet caused major job displacement. Since 2022, the year ChatGPT launched, the unemployment rate for the 20% of workers most exposed to AI rose by 0.77 percentage points, less than the 0.85 percentage-point increase for the least-exposed workers, the report showed. AI could be a factor in recent graduates\u2019 rising unemployment, which hit 5.6% compared with the national average of 4.2% earlier this year. But factors including remote work and the unwinding of pandemic-era overhiring probably also played roles, the report states. \u201cEmployment trends in the occupations [where] we would expect to see the impacts first are largely stable,\u201d said Erika McEntarfer, fellow at the Stanford Institute and co-author of the report. \u201cIt took decades for the computer revolution to fully transform labor markets in the workforce, and what we\u2019re seeing right now looks a lot like that.\u201d But accurately measuring AI\u2019s impact on employment is a challenge. Government statistics are dated by nature and don\u2019t track the impact of specific technologies, while private industry figures, though more current, are less comprehensive. So even though economists generally agree that AI will have an impact, they struggle to predict how big and when. Jobs are changing, not disappearing For now, AI\u2019s biggest impact is not on the number of jobs, but on the nature of them. It\u2019s consolidating roles, discouraging new hiring for tasks that can be automated, and raising the bar for who gets in, leaving unemployment numbers largely untouched. Hiring trends show that AI is becoming more important for employers. About 74% of employers consider AI skills a strong advantage or requirement, with 13% requiring them company-wide versus just in technical roles, according to ZipRecruiter\u2019s latest employer survey. Half of the polled employers expect candidates to already be practical or advanced AI users on day one. And sometimes the requirements don\u2019t show up directly as \u201cAI\u201d in job listings, but rather as rising expectations around speed, quality and self-sufficiency. \u201cThe clearest trend line is a rising bar rather than a shrinking pool,\u201d said Nicole Bachaud, a labor economist at ZipRecruiter. \u201cThe labor market challenge for workers is increasingly about skills-matching rather than pure job scarcity.\u201d Employers have simultaneously added and cut within the same functions \u2013 tech, customer support, and business management and operations \u2013 signaling that \u201cemployers are still figuring out the exact skill set needed for success\u201d, Bachaud added. Nicholas Bloom, an economics professor at Stanford University, refers to this as turbulence in the job market. AI is destroying some jobs and creating others that have to implement, sell, fix and develop AI systems, he said. Robert Seamans, a p"
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.447,
-      "scores": {
-        "High House War": 0.083,
-        "High House Coin": 0.005,
-        "High House Shadow": 0.141,
-        "High House Life": 0.447,
-        "High House Iron": -0.01,
-        "High House Words": 0.081,
-        "High House Chains": -0.013
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.543,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.987
-      },
-      "article": {
-        "title": "What the Cyclospora Outbreak Reveals",
-        "url": "https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
       "reversed": false,
-      "confidence": 0.397,
+      "confidence": 0.422,
       "scores": {
-        "High House War": 0.097,
-        "High House Coin": 0.397,
-        "High House Shadow": 0.162,
-        "High House Life": 0.011,
-        "High House Iron": 0.204,
-        "High House Words": 0.124,
-        "High House Chains": 0.09
+        "High House War": 0.084,
+        "High House Coin": 0.05,
+        "High House Shadow": 0.065,
+        "High House Life": 0.422,
+        "High House Iron": -0.039,
+        "High House Words": 0.134,
+        "High House Chains": 0.04
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.988
+        "sentiment_score": 0.819
       },
       "article": {
-        "title": "Oil prices hover near $90 a barrel and gold hits two-month high as Trump makes new demands on Iran \u2013 as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-        "source": "guardian",
-        "full_text": "Time to wrap up for the day. Our main stories: Thanks for reading! we\u2019ll be back tomorrow. Bye! \u2013 JK My colleagues, the Guardian\u2019s energy correspondent Jillian Ambrose and environment editor Damian Carrington are currently answering questions from readers about oil companies. Last week, they published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. They\u2019re online now to discuss their story and any other questions you might have. Wall Street has got off to a lacklustre start. The S&amp;P 500 if flat, Dow Jones managed a 0.4% rise and the Nasdaq is down 0.2%. Over here, the UK\u2019s FTSE 100 eked out a 0.2% gain, up 24 points at 10,885. The Daw in Frankfurt is 0.4% ahead while the CAC in Paris edged 0.15% higher, the FTSE MIB rose 0.3% and the Ibex in Madrid climbed 0.5%. There is little economic data this week, apart from the US consumer price inflation reading for July, out on Wednesday and eagerly awaited by markets, followed by producer prices on Thursday. It is August\u2026 Oil prices have fallen back, after jumping more than 2% to the highest since late July earlier, with Brent touching $90.03 a barrel. Brent is now down 73 cents, or 0.8%, at $8.99 a barrel. Spot gold dipped 0.1% to $4,383 an ounce, affter hitting its highest level since 5 June at $4,434.84. Hotel prices have surged in key European cities as hundreds of thousands of tourists flock to see the first total eclipse visible from the continent this century. Iceland\u2019s capital, Reykjav\u00edk, has seen one of the biggest jumps in hotel room prices, being one of the few accessible locations to see the full eclipse before evening on Wednesday. Tourists there have been shelling out $793 (\u00a3587) on average to secure a room on Wednesday, a 98% jump compared with the same day last year, according to data from the travel and hospitality data group Lighthouse Intelligence. Spain is also steeling itself for an influx of tourists, as one of the best places on the European continent to view the total solar eclipse. The finance ministry said on Monday that it expected 460,000 overseas tourists to visit specifically to see the eclipse. The rate for a room in A Coru\u00f1a in the north of Spain was up 135% compared with last year to $451 on average, while prices in Mallorca, where the eclipse is expected to be visible on the horizon at sunset, were up by 24% at about $448. In Santiago de Compostela and Bilbao, hotel room prices have risen 34% and 67% respectively. Asda is to outsource its 3,500 cleaning staff in a move the GMB union has described as \u2018detestable\u2019. The workers will switch over to two third-party companies \u2013 Bidvest and NIC Cleaning Services \u2013 and retain their terms and conditions in the process. The shift comes as Asda battles to turn around slumping profits and falling sales since a debt-fuelled \u00a36.8bn takeover in 2020 by the billionaire Issa brothers and the private equity firm TDR Capital. TDR has since taken majority control of the supermarket which is at risk of losing its spot as the UK\u2019s third largest grocer to Aldi after non-fuel sales slid 3.3% to \u00a321bn last year. The latest job changes come after Asda reduced its workforce by more than 7,000 roles last year. Hundreds of Asda security guards employed by outsourcing firm Mitie are being consulted on potential redundancy or reduced hours, more than 100 head office jobs have been recently cut while 1,000 jobs in its George clothing and homewares business were outsourced to logistics firm DHL last year. Rachelle Wilkins, GMB organiser, said: Loyal, hard working cleaning staff will be worried sick about whether their job will still pay the bills or whether the axe will fall on them.\u201d She claimed that outsourcing companies often offered worse pay and conditions once they had taken over a service. However, David Lepley, the chief operating officer at Asda, said: Our ambition is to deliver the cleanest stores in retail. We continue to review and invest"
+        "title": "Reducing Childhood Vaccinations Is \u2018Unconscionable\u2019",
+        "url": "https://www.nytimes.com/2026/08/11/opinion/childhood-vaccinations.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.387,
+      "scores": {
+        "High House War": 0.387,
+        "High House Coin": 0.129,
+        "High House Shadow": 0.333,
+        "High House Life": 0.221,
+        "High House Iron": 0.239,
+        "High House Words": 0.243,
+        "High House Chains": 0.156
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.91
+      },
+      "article": {
+        "title": "\"Skies Are Changing\": Northrop Grumman Unveils Chain Gun To Defend Critical Infrastructure From Drone Swarm Attacks",
+        "url": "https://www.zerohedge.com/military/skies-are-changing-northrop-grumman-unveils-chain-gun-defend-critical-infrastructure-drone",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WILD"
     },
@@ -144,88 +173,43 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
-      "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.312,
+      "reversed": false,
+      "confidence": 0.369,
       "scores": {
-        "High House War": 0.14,
-        "High House Coin": 0.195,
-        "High House Shadow": 0.116,
-        "High House Life": 0.072,
-        "High House Iron": 0.06,
-        "High House Words": 0.312,
-        "High House Chains": 0.268
+        "High House War": 0.147,
+        "High House Coin": 0.127,
+        "High House Shadow": 0.225,
+        "High House Life": 0.241,
+        "High House Iron": -0.032,
+        "High House Words": 0.369,
+        "High House Chains": 0.225
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.935
       },
       "article": {
-        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
-        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
-        "source": "nyt",
+        "title": "Solidarity Is Not Enough: Why The World Must Force Accountability On Gaza Now",
+        "url": "https://www.scoop.co.nz/stories/HL2608/S00041/solidarity-is-not-enough-why-the-world-must-force-accountability-on-gaza-now.htm",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Coin",
-      "actor_a": "TRUMP PRESSURES HAVANA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.012,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 0.941,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.146,
+      "trend": "falling",
+      "trend_ratio": 0.813,
       "source": "gdelt_volume"
     }
   }
