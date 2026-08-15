@@ -1,92 +1,63 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.462,
+      "reversed": true,
+      "confidence": 0.529,
       "scores": {
-        "High House War": 0.17,
-        "High House Coin": 0.166,
-        "High House Shadow": 0.462,
-        "High House Life": 0.13,
-        "High House Iron": 0.117,
-        "High House Words": 0.255,
-        "High House Chains": 0.258
+        "High House War": 0.124,
+        "High House Coin": 0.143,
+        "High House Shadow": 0.529,
+        "High House Life": 0.002,
+        "High House Iron": 0.203,
+        "High House Words": 0.216,
+        "High House Chains": 0.102
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.541,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.937
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
+        "title": "The Secret Spy Network Feeding Russia\u2019s War Machine",
+        "url": "https://www.nytimes.com/2026/08/14/podcasts/the-daily/japan-russia-spy-war.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.46,
-      "scores": {
-        "High House War": -0.074,
-        "High House Coin": 0.46,
-        "High House Shadow": 0.029,
-        "High House Life": 0.046,
-        "High House Iron": 0.064,
-        "High House Words": 0.069,
-        "High House Chains": 0.276
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.956
-      },
-      "article": {
-        "title": "1st RMB Clearing Bank in Europe Raises Questions for Global Financial System: Analysts",
-        "url": "https://www.theepochtimes.com/china/1st-rmb-clearing-bank-in-europe-raises-questions-for-global-financial-system-analysts-6074918",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.448,
+      "confidence": 0.435,
       "scores": {
-        "High House War": 0.032,
-        "High House Coin": 0.179,
-        "High House Shadow": 0.264,
-        "High House Life": 0.142,
-        "High House Iron": 0.448,
-        "High House Words": 0.011,
-        "High House Chains": 0.002
+        "High House War": 0.024,
+        "High House Coin": 0.068,
+        "High House Shadow": 0.049,
+        "High House Life": 0.085,
+        "High House Iron": 0.435,
+        "High House Words": 0.008,
+        "High House Chains": 0.05
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.531,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.966
       },
       "article": {
-        "title": "AI was supposed to destroy jobs. Where\u2019s the carnage?",
-        "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-        "source": "guardian",
-        "full_text": "The prediction was stark: artificial intelligence advancements would wipe out jobs en masse. \u201cHalf\u201d of all entry-level white collar jobs would vanish, Anthropic\u2019s CEO, Dario Amodei, said in May 2025. A month later, OpenAI\u2019s CEO, Sam Altman, went further, foreseeing the end of \u201ccertain job categories\u201d. Companies began citing AI in their layoffs. Workers organized. And students reconsidered their future careers. But a year later, the mass carnage hasn\u2019t shown up. Even as AI capabilities have rapidly advanced and AI companies have hurtled towards trillion-dollar stock market debuts, economic transformation hasn\u2019t kept pace, similar to previous tech revolutions, economists say. As a result, CEOs are reframing and softening their stances, suggesting AI augments workers rather than replaces them. Despite the lack of mass job devastation, a shift is still under way: AI is changing the nature of work, with employers increasingly expecting job seekers to have AI skills. And over the long term, AI could shift more jobs to freelance and contract work as companies figure out which skills they do need, some economists predict. Data from a recent Stanford Institute for Economic Policy Research analysis shows that AI hasn\u2019t yet caused major job displacement. Since 2022, the year ChatGPT launched, the unemployment rate for the 20% of workers most exposed to AI rose by 0.77 percentage points, less than the 0.85 percentage-point increase for the least-exposed workers, the report showed. AI could be a factor in recent graduates\u2019 rising unemployment, which hit 5.6% compared with the national average of 4.2% earlier this year. But factors including remote work and the unwinding of pandemic-era overhiring probably also played roles, the report states. \u201cEmployment trends in the occupations [where] we would expect to see the impacts first are largely stable,\u201d said Erika McEntarfer, fellow at the Stanford Institute and co-author of the report. \u201cIt took decades for the computer revolution to fully transform labor markets in the workforce, and what we\u2019re seeing right now looks a lot like that.\u201d But accurately measuring AI\u2019s impact on employment is a challenge. Government statistics are dated by nature and don\u2019t track the impact of specific technologies, while private industry figures, though more current, are less comprehensive. So even though economists generally agree that AI will have an impact, they struggle to predict how big and when. Jobs are changing, not disappearing For now, AI\u2019s biggest impact is not on the number of jobs, but on the nature of them. It\u2019s consolidating roles, discouraging new hiring for tasks that can be automated, and raising the bar for who gets in, leaving unemployment numbers largely untouched. Hiring trends show that AI is becoming more important for employers. About 74% of employers consider AI skills a strong advantage or requirement, with 13% requiring them company-wide versus just in technical roles, according to ZipRecruiter\u2019s latest employer survey. Half of the polled employers expect candidates to already be practical or advanced AI users on day one. And sometimes the requirements don\u2019t show up directly as \u201cAI\u201d in job listings, but rather as rising expectations around speed, quality and self-sufficiency. \u201cThe clearest trend line is a rising bar rather than a shrinking pool,\u201d said Nicole Bachaud, a labor economist at ZipRecruiter. \u201cThe labor market challenge for workers is increasingly about skills-matching rather than pure job scarcity.\u201d Employers have simultaneously added and cut within the same functions \u2013 tech, customer support, and business management and operations \u2013 signaling that \u201cemployers are still figuring out the exact skill set needed for success\u201d, Bachaud added. Nicholas Bloom, an economics professor at Stanford University, refers to this as turbulence in the job market. AI is destroying some jobs and creating others that have to implement, sell, fix and develop AI systems, he said. Robert Seamans, a p"
+        "title": "America Wants to Make Its Own Humanoid Robots. That Won\u2019t Be Easy.",
+        "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Life",
@@ -118,98 +89,163 @@
       "position": "WILD"
     },
     {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.366,
+      "scores": {
+        "High House War": 0.168,
+        "High House Coin": 0.306,
+        "High House Shadow": 0.088,
+        "High House Life": -0.017,
+        "High House Iron": 0.044,
+        "High House Words": 0.143,
+        "High House Chains": 0.366
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules",
+        "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
+        "source": "guardian",
+        "full_text": "The UK defence company BAE Systems is to pay a $36m (\u00a326.7m) civil penalty after breaching US arms exports regulations more than 100 times. The US Department of State announced on Thursday that it had reached an administrative settlement with the US arm of BAE to resolve 104 violations of the Arms Export Control Act and the International Traffic in Arms Regulations. The breaches included the unauthorised exports of technical data to multiple countries, including China, and violations of directorate of defense trade controls authorisations involving various countries. BAE voluntarily disclosed all but one of the alleged violations, which helped it avoid a higher penalty. It also persuaded the state department to suspend half of the penalty, on the condition that the $18m was used to strengthen BAE\u2019s compliance programme. BAE Systems said it remained committed to ensuring full compliance with all applicable export control laws, and had \u201cthoroughly cooperated\u201d with the state department\u2019s review. \u201cWe have been working diligently to implement improvements to our BAE Systems Inc compliance programme over the last several years, and we will continue to do so. We take seriously our responsibility to protect critical information and support all our customers\u2019 security,\u201d the company added. The state department said the settlement highlighted \u201cthe importance of exporting defence articles pursuant only to appropriate authorisation from the department\u201d. BAE was accused of sending technical data related to printed wiring boards for use in global positioning system (GPS) to a manufacturer in China in December 2023. According to the state department, the company \u201crecognised its supply chain team did not fully understand the export control and compliance regulations\u201d and that its secure file transfer networks did not highlight export control warnings before the data was sent. The company also sent data related to printed wiring boards for use with military GPS to Canada in September 2021, after a licence agreement had expired, and the technical specification of an \u201cexplosive mixture\u201d to the UK. In another breach, technical data related to a US navy guided-missile destroyer were sent to Germany. A BAE subcontractor also \u201cfurnished defence services without authorisation\u201d on more than 17 separate occasions in Italy and France, and also in Indonesia, according to the state department. The company also accidentally exported without authorization a control system for a military gas-turbine engine to Switzerland."
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.387,
+      "confidence": 0.355,
       "scores": {
-        "High House War": 0.387,
-        "High House Coin": 0.129,
-        "High House Shadow": 0.333,
-        "High House Life": 0.221,
-        "High House Iron": 0.239,
-        "High House Words": 0.243,
-        "High House Chains": 0.156
+        "High House War": 0.355,
+        "High House Coin": 0.002,
+        "High House Shadow": 0.09,
+        "High House Life": 0.049,
+        "High House Iron": -0.011,
+        "High House Words": 0.157,
+        "High House Chains": 0.141
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.91
+        "sentiment_score": 0.889
       },
       "article": {
-        "title": "\"Skies Are Changing\": Northrop Grumman Unveils Chain Gun To Defend Critical Infrastructure From Drone Swarm Attacks",
-        "url": "https://www.zerohedge.com/military/skies-are-changing-northrop-grumman-unveils-chain-gun-defend-critical-infrastructure-drone",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
-      "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Abbas fought the Taliban alongside US and Australian troops. Now exiled in Iran, he feels abandoned",
+        "url": "https://www.theguardian.com/world/2026/aug/15/afghan-soldier-iran-war-abandoned-by-australia-us-british-troops-taliban",
+        "source": "guardian",
+        "full_text": "War is Abbas\u2019s* earliest memory. As a child, the first iteration of Taliban rule forced his family to flee \u2013 with nothing but the clothes on their backs and what food they could carry \u2013 for the relative safety of far-distant hills. War became his profession. Joining republican Afghanistan\u2019s fledgling army, Abbas fought alongside American, Australian and British troops, believing in the foreigners\u2019 ultimately false promise that they could bring peace and prosperity to his homeland. Conflict is his constant attendant now, over Afghanistan\u2019s border in neighbouring Iran, as the US, the country he fought with, rains bombs on the land of his exile. Back home, the resurgent Taliban \u2013 unreformed, unrepentant and firmly in charge \u2013 seek him still. The war \u2013 for all its varied complexions, it feels the same war \u2013 goes on. In the five years since Kabul dramatically fell back into the hands of the Taliban, those who served Afghanistan\u2019s republican government have found themselves the targets of violent retribution. Those who took up arms against the Taliban are particular targets. Abandoned US military databases \u2013 containing Afghans\u2019 personal and biometric data such as fingerprints, photographs, and home addresses \u2013 are being used to hunt former soldiers who served the \u201cinfidel\u201d west. Social media groups share information on the latest atrocities, videos of former soldiers being whipped in the street, shot in summary executions, or dragged away in night raids to be tortured in Taliban prisons. *** Abbas joined the military \u2013 initially at least \u2013 for the money. For a poor boy from the provinces, the army represented a regular income and a full belly, a reliable way to support his family. That there was a war on was barely a consideration: there was always a war on. After basic training, he passed a selection course to serve in the special forces. \u201cAt first I joined for money but when I entered the commandos everything changed,\u201d Abbas tells the Guardian. \u201cThere were foreign forces teaching us \u2026 they gave speeches about global terrorism. Sign up for a weekly email featuring our best reads \u201cIt was not about money any more. I became very committed; I just wanted to serve my country and fight Taliban and destroy the terrorist groups.\u201d He spent 12 years in the Afghan national army, most of those wearing the distinctive red badge of the special forces, \u201cand we fought many hard battles\u201d. Abbas served alongside Australian troops in southern Afghanistan, night-time missions by helicopter in late 2011, in the restive and mountainous Khas Uruzgan district. \u201cThere were many forces we served with: Germans in Kunduz, French in Kapisa, and especially we were with Americans. The Australian forces were in Uruzgan, and we went there. We took part in combat alongside them, especially in Khas Uruzgan, we \u2026 executed two missions with them by air.\u201d Abbas said he and his comrades \u201cwere always on the frontline\u201d. \u201cWe spent many days and nights with foreign forces. I performed combat duties in [approximately] 20 provinces of Afghanistan.\u201d He was wounded in a firefight in Laghman district, shot twice at close range. His bulletproof vest deflected the bullet that struck the left side of his chest, \u201cbut another hit my left arm, breaking the bone\u201d. He was taken by US helicopter to Bagram hospital: \u201cI still have a metal plate in my left arm.\u201d Abbas remembers the camaraderie of his days serving alongside western troops with fondness: \u201cWe risked our lives to help each other on and off the battlefield and to rescue one another. They always called us brothers.\u201d But he remembers too, the commitments that were made to him. \u201cThey promised they wouldn\u2019t abandon us. But in the end, when they withdrew, they simply left us. And they did it in such a way that we were left with our hands tied, the entire army was disarmed. \u201cThose who were high-ranking officials left, while the rest of us, sergeants like me, were left behind. No one even asked about us.\u201d When Kabul fell, Abbas was for"
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Coin",
+      "title": "The Throne",
       "reversed": false,
-      "confidence": 0.369,
+      "confidence": 0.349,
       "scores": {
-        "High House War": 0.147,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.225,
-        "High House Life": 0.241,
-        "High House Iron": -0.032,
-        "High House Words": 0.369,
-        "High House Chains": 0.225
+        "High House War": 0.016,
+        "High House Coin": 0.349,
+        "High House Shadow": 0.039,
+        "High House Life": 0.072,
+        "High House Iron": 0.103,
+        "High House Words": 0.062,
+        "High House Chains": 0.153
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.935
+        "sentiment_score": 0.775
       },
       "article": {
-        "title": "Solidarity Is Not Enough: Why The World Must Force Accountability On Gaza Now",
-        "url": "https://www.scoop.co.nz/stories/HL2608/S00041/solidarity-is-not-enough-why-the-world-must-force-accountability-on-gaza-now.htm",
+        "title": "UK economy shows surprising resilience \u2013 but that may not last",
+        "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+        "source": "guardian",
+        "full_text": "In the spring the International Monetary Fund warned Britain faced the heaviest economic blow from the Iran war among the world\u2019s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be proving the forecasters wrong. The latest official figures show the UK maintained its pole position as the fastest growing economy in the G7 in the first half of 2026. Despite the gloomy international backdrop and yet more domestic political uncertainty, consumers have largely continued spending and business investment has boomed. According to the Office for National Statistics, GDP growth slowed to 0.4% in the three months to June. But that slowdown, which was predicted by City economists, followed a bumper 0.6% growth rate in the first quarter. The monthly figures for June also showed growth of 0.3%, beating expectations for zero growth. Most City analysts say the economy is showing unexpected signs of resilience. Hotter weather and the England men\u2019s football team reaching the semi-final of the World Cup helped to fuel an upturn in consumer spending, with growth of 0.3%. Business investment jumped by 1.7%. Analysts say a big step up in the IT sector suggests the build out of computing power needed to run artificial intelligence played a contributing role. As a result, the number crunchers will more than probably need to revisit their forecasts, with an upgrade likely for the year. Deutsche Bank said it estimates a new annual growth figure of 1.1% \u2013 significantly above the IMF\u2019s spring forecast for Britain\u2019s economy to grow by 0.8%. For the new chancellor, John Healey, the figures are good news as he prepares to present his first budget on 28 October. They are also a crumb of comfort for his ousted predecessor, Rachel Reeves, who had claimed Britain could beat the downbeat forecasts made by the IMF. However, there are reasons why the unexpected resilience of Britain\u2019s economy is unlikely to last. After the surge in global oil prices prompted by the Iran war, and continuing market volatility, UK consumers may have fared better than expected amid the jump in petrol and diesel prices. But they were insulated from the rise in household gas and electricity bills by lower levels of energy demand during the summer months and the Ofgem energy price cap. The latest GDP figures cover the period when bills were protected. The cap then jumped by 13% from the start of July, which experts say could push millions of households into fuel poverty. Andy Burnham\u2019s \u201cbreathing space\u201d measures to ease the cost of living, including cutting VAT to reduce consumer electricity bills by an average of \u00a345 a year from October, will help. But headline inflation remains elevated and household resilience is thin after years of price growth. The stop-start fighting in the Middle East could add further to the pressure on energy costs, as global oil prices remain elevated. Geopolitical tensions are also bad news for business investment. For Healey, there is also the headache of how to pay for the measures to soften the financial blow for households and businesses, at the same time as finding space within the fragile public finances to accommodate higher defence spending and the prime minister\u2019s new spending priorities \u2013 including more cash for housing and infrastructure. Leaked Treasury forecasts, compiled before the latest data, show the economy growing by 0.9% this year, according to Bloomberg. That is below the 1.1% forecast by the Office for Budget Responsibility in March. If weaker growth and higher inflation persists over the five-year forecasting window, that will make the arithmetic tougher for Healey."
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.309,
+      "scores": {
+        "High House War": 0.158,
+        "High House Coin": 0.002,
+        "High House Shadow": 0.091,
+        "High House Life": 0.13,
+        "High House Iron": 0.079,
+        "High House Words": 0.309,
+        "High House Chains": 0.128
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.981
+      },
+      "article": {
+        "title": "South Korea makes fresh peace offer to North Korea amid rising tensions",
+        "url": "https://news.az/news/south-korea-makes-fresh-peace-offer-to-north-korea-amid-rising-tensions",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "BAE SYSTEMS",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.075,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "BAE SYSTEMS",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.016,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "IRAN",
+      "actor_b": "SOUTH KOREA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.697,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.813,
+    "High House Life": {
+      "trend": "stable",
+      "trend_ratio": 1.068,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 2.865,
       "source": "gdelt_volume"
     }
   }
