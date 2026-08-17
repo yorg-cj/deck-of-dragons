@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "cards": [
     {
       "house": "High House Shadow",
@@ -34,28 +34,28 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.435,
+      "confidence": 0.474,
       "scores": {
-        "High House War": 0.024,
-        "High House Coin": 0.068,
-        "High House Shadow": 0.049,
-        "High House Life": 0.085,
-        "High House Iron": 0.435,
-        "High House Words": 0.008,
-        "High House Chains": 0.05
+        "High House War": 0.007,
+        "High House Coin": 0.076,
+        "High House Shadow": 0.168,
+        "High House Life": 0.106,
+        "High House Iron": 0.474,
+        "High House Words": -0.029,
+        "High House Chains": 0.045
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.531,
+        "confidence": 0.541,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.966
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "America Wants to Make Its Own Humanoid Robots. That Won\u2019t Be Easy.",
-        "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Are Microsoft\u2019s AI plans being held back by a shortage of chips? ",
+        "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+        "source": "guardian",
+        "full_text": "The chips are quite small and some can be held in the palm of a hand. They are fundamental to the development of artificial intelligence models \u2013 and the world\u2019s biggest technology companies need vast numbers of them to keep ahead. Microsoft is one of them. And, on paper, it seems to have a problem. A Guardian investigation has found an apparent discrepancy between what the company has said about its AI capacity \u2013 and the number of advanced AI chips it has in operation. It is not a small shortfall either. Microsoft reportedly targeted having 1.8m AI chips installed in its datacentres around the globe by the end of 2024. Nearly two years on, in the middle of a $280bn (\u00a3208bn) expansion, the company has 2.2m AI chips installed, according to internal documents seen by the Guardian. This is less than half the number some experts had imagined. Put simply, the global AI arms race requires a massive build-out of datacentres that run on extremely expensive chips. The apparent discrepancy over the chips suggests Microsoft\u2019s newest datacentres may not be fully operational or, if they are, they do not have the chips they need. This highlights something even more fundamental about charting the progress being made in the development of AI technologies. The chips that power AI are made by Nvidia, one of the two most valuable companies in the world. Its supply chain is one of the most tightly held secrets in the entire industry. With almost no exceptions, Nvidia does not report how many of these chips it sells or to whom. Its clients, the world\u2019s biggest tech companies, in turn do not reveal how many they have. Without this information, it is very hard for anyone to know whether AI is booming or not. Microsoft: a power vacuum? In the past two years, Microsoft says it has built AI infrastructure at breakneck speed. Its chief executive, Satya Nadella, said last year it would double its global datacentre footprint by mid-2027. Since 2022 it has ploughed roughly $280bn into the land, buildings and computational infrastructure to build AI. This includes more than $41bn in the past quarter. But it is difficult to estimate how many datacentres Microsoft has built with this money. It is possible to assess the progress that the company is making by looking at what it has announced publicly, with a particular eye on the power it needs. Datacentres need electricity, so one way of estimating how many datacentres are operational is to add up the energy Microsoft has at its disposal \u2013 its AI capacity. Microsoft\u2019s own claims, set out in annual reports and quarterly earnings, suggest it has added 5GW of datacentre capacity over the past two years as part of its AI build-out. It says it now has hundreds of datacentres on five continents. Five gigawatts is a dizzying amount of energy \u2013 it is four times the size of the largest datacentre park in Europe. But Microsoft\u2019s total capacity should be even greater than this; it has been building AI infrastructure since 2022. How much greater is an open question. In an investor presentation from 2024, Microsoft reportedly claimed to have 5GW of datacentre capacity already installed. That would suggest it could now have a total of 10GW of capacity. It is unclear if all of these are AI datacentres \u2013 some could be for other cloud services. But Microsoft\u2019s own statements indicate that the overwhelming focus of its capital expenditures in recent years has been to build AI infrastructure. Ten gigawatts of AI datacentres would suggest Microsoft should have roughly 6.4m graphics processing units (GPUs). Shaolei Ren, a professor at the University of California, Riverside, said Microsoft\u2019s sustainability reports, which contain figures for its electricity usage and are published separately from its financials, painted a different picture. He said these reports suggest Microsoft\u2019s AI capacity in 2024 was probably closer to 1.2GW. But even this lower figure would indicate Microsoft would need roughly 4m AI chips \u2013 if it added 5GW o"
       },
       "position": "ASCENDING"
     },
@@ -89,155 +89,139 @@
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.355,
-      "scores": {
-        "High House War": 0.355,
-        "High House Coin": 0.002,
-        "High House Shadow": 0.09,
-        "High House Life": 0.049,
-        "High House Iron": -0.011,
-        "High House Words": 0.157,
-        "High House Chains": 0.141
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.889
-      },
-      "article": {
-        "title": "Abbas fought the Taliban alongside US and Australian troops. Now exiled in Iran, he feels abandoned",
-        "url": "https://www.theguardian.com/world/2026/aug/15/afghan-soldier-iran-war-abandoned-by-australia-us-british-troops-taliban",
-        "source": "guardian",
-        "full_text": "War is Abbas\u2019s* earliest memory. As a child, the first iteration of Taliban rule forced his family to flee \u2013 with nothing but the clothes on their backs and what food they could carry \u2013 for the relative safety of far-distant hills. War became his profession. Joining republican Afghanistan\u2019s fledgling army, Abbas fought alongside American, Australian and British troops, believing in the foreigners\u2019 ultimately false promise that they could bring peace and prosperity to his homeland. Conflict is his constant attendant now, over Afghanistan\u2019s border in neighbouring Iran, as the US, the country he fought with, rains bombs on the land of his exile. Back home, the resurgent Taliban \u2013 unreformed, unrepentant and firmly in charge \u2013 seek him still. The war \u2013 for all its varied complexions, it feels the same war \u2013 goes on. In the five years since Kabul dramatically fell back into the hands of the Taliban, those who served Afghanistan\u2019s republican government have found themselves the targets of violent retribution. Those who took up arms against the Taliban are particular targets. Abandoned US military databases \u2013 containing Afghans\u2019 personal and biometric data such as fingerprints, photographs, and home addresses \u2013 are being used to hunt former soldiers who served the \u201cinfidel\u201d west. Social media groups share information on the latest atrocities, videos of former soldiers being whipped in the street, shot in summary executions, or dragged away in night raids to be tortured in Taliban prisons. *** Abbas joined the military \u2013 initially at least \u2013 for the money. For a poor boy from the provinces, the army represented a regular income and a full belly, a reliable way to support his family. That there was a war on was barely a consideration: there was always a war on. After basic training, he passed a selection course to serve in the special forces. \u201cAt first I joined for money but when I entered the commandos everything changed,\u201d Abbas tells the Guardian. \u201cThere were foreign forces teaching us \u2026 they gave speeches about global terrorism. Sign up for a weekly email featuring our best reads \u201cIt was not about money any more. I became very committed; I just wanted to serve my country and fight Taliban and destroy the terrorist groups.\u201d He spent 12 years in the Afghan national army, most of those wearing the distinctive red badge of the special forces, \u201cand we fought many hard battles\u201d. Abbas served alongside Australian troops in southern Afghanistan, night-time missions by helicopter in late 2011, in the restive and mountainous Khas Uruzgan district. \u201cThere were many forces we served with: Germans in Kunduz, French in Kapisa, and especially we were with Americans. The Australian forces were in Uruzgan, and we went there. We took part in combat alongside them, especially in Khas Uruzgan, we \u2026 executed two missions with them by air.\u201d Abbas said he and his comrades \u201cwere always on the frontline\u201d. \u201cWe spent many days and nights with foreign forces. I performed combat duties in [approximately] 20 provinces of Afghanistan.\u201d He was wounded in a firefight in Laghman district, shot twice at close range. His bulletproof vest deflected the bullet that struck the left side of his chest, \u201cbut another hit my left arm, breaking the bone\u201d. He was taken by US helicopter to Bagram hospital: \u201cI still have a metal plate in my left arm.\u201d Abbas remembers the camaraderie of his days serving alongside western troops with fondness: \u201cWe risked our lives to help each other on and off the battlefield and to rescue one another. They always called us brothers.\u201d But he remembers too, the commitments that were made to him. \u201cThey promised they wouldn\u2019t abandon us. But in the end, when they withdrew, they simply left us. And they did it in such a way that we were left with our hands tied, the entire army was disarmed. \u201cThose who were high-ranking officials left, while the rest of us, sergeants like me, were left behind. No one even asked about us.\u201d When Kabul fell, Abbas was for"
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Coin",
       "title": "The Throne",
       "reversed": true,
-      "confidence": 0.335,
+      "confidence": 0.391,
       "scores": {
-        "High House War": 0.098,
-        "High House Coin": 0.335,
-        "High House Shadow": 0.178,
-        "High House Life": 0.103,
-        "High House Iron": 0.101,
-        "High House Words": 0.026,
-        "High House Chains": 0.139
+        "High House War": 0.003,
+        "High House Coin": 0.391,
+        "High House Shadow": 0.048,
+        "High House Life": 0.078,
+        "High House Iron": 0.051,
+        "High House Words": 0.013,
+        "High House Chains": 0.142
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
-      },
-      "article": {
-        "title": "Warsh and the Fed Face a New Test",
-        "url": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.301,
-      "scores": {
-        "High House War": 0.065,
-        "High House Coin": 0.291,
-        "High House Shadow": 0.207,
-        "High House Life": 0.26,
-        "High House Iron": -0.051,
-        "High House Words": 0.301,
-        "High House Chains": 0.275
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
+        "confidence": 0.6,
+        "matched_signals": [
+          "blockade"
+        ],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.981
+        "sentiment_score": 0.771
       },
       "article": {
-        "title": "UN warns sanctions chill is stopping Cuba aid",
-        "url": "https://www.jamaicaobserver.com/2026/08/15/un-warns-sanctions-chill-stopping-cuba-aid",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+        "source": "guardian",
+        "full_text": "Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on their hands when they should be raising interest rates to subdue inflationary pressures. The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022 when inflation soared above 10% in the UK and eurozone, and over 9% in the US. Central banks were plagued by accusations that they moved too slowly to confront inflation in the months after the Ukraine war started, when post-pandemic consumer spending was already stoking prices on everything from food to construction materials. It\u2019s now been five years since they all met their 2% inflation target and now they are asking themselves whether the continuing blockade of the strait of Hormuz will mean a sixth or seventh year of target-busting prices growth? The Federal Reserve seeks help US inflation edged lower to 3.4% in July from 3.5% in June and 4.2% in May, largely in response to falling petrol prices. Since the Bureau of Labor Statistics collected the data, the price of a barrel of Brent crude has risen again to about $90 \u2013 a figure that will push up the price of energy and transport across the US in the second half of the year. Fed officials are asking whether US inflation will climb back towards 4%, double its target. The US central bank\u2019s new boss, Kevin Warsh, has instigated an all-embracing review of the Fed\u2019s operations based on the advice of 15 outsiders that he says are among the most eminent experts and economists of the age. Many analysts have applauded him for recognising that a series of inflation shocks dating back to the arrival of Covid-19 have undermined the integrity and durability of central bank forecasting. Mohamed El-Erian, an economist and professor at the Wharton Business school, said Warsh recognised that many of the shibboleths of monetary policymaking had proved flawed. \u201cThe key issue for me is having someone there who\u2019s committed to long-overdue Fed reforms. This is essential for future Fed effectiveness, credibility and political independence,\u201d El-Erian says. Chief among the tools Warsh has already ditched is forward guidance \u2013 the explicit signalling of the likely future path of interest rates. He also declined to join other Fed policymakers in creating dot plots on a graph showing how the economy and inflation are expected to develop over the next couple of years. Among Warsh\u2019s 15 appointments to five subject committees is Lord Mervyn King, the former governor of the Bank of England, considered a founding father of inflation forecasting, but who has since argued that trying to predict the future is a fool\u2019s game. In King\u2019s 2022 book Radical Uncertainty, he argues that central banks should drop the idea that consumers and businesses act like atoms in a physics experiment because it strips out emotional responses to economic events. King says central banks should take more account of uncertainty in how people react and ditch a heavy reliance on economic models that claim to predict what is likely to happen. He describes forward guidance as \u201csilly\u201d when no central bank knows what the interest rate will be in six months or two years\u2019 time. \u201cIt will depend on what is happening in the economy,\u201d he says. El-Erian calls forward guidance \u201cspurious accuracy\u201d. What financial markets and the public need to know is the \u201creaction function\u201d. In other words, how the central bank will respond to different types of events. Charlie Bean, a professor at the London School of Economics and a former deputy governor of the BoE, says that, so far, Fed watchers don\u2019t have guidance on either the path of rates or the central bank\u2019s likely reaction to developments in the economy. \u201cWarsh is getting in a bit of a mess in the way he is not giving a guide to where rates are going and also not talking about how changes in the economy will affect rates,"
       },
       "position": "WANING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": true,
-      "confidence": 0.25,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.071,
-        "High House Coin": 0.143,
-        "High House Shadow": 0.147,
-        "High House Life": 0.103,
-        "High House Iron": -0.105,
-        "High House Words": 0.191,
-        "High House Chains": 0.25
+        "High House War": 0.373,
+        "High House Coin": 0.245,
+        "High House Shadow": 0.248,
+        "High House Life": 0.053,
+        "High House Iron": 0.291,
+        "High House Words": 0.249,
+        "High House Chains": 0.277
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "expelled"
-        ],
+        "confidence": 0.549,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "They Were Eager to Return Home. Then the U.S. Bombed Iran.",
-        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
-    }
-  ],
-  "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "AMERICA WANTS",
-      "actor_b": "CUBA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.471,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
     },
     {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "IRAN",
-      "actor_b": "CUBA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.253,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.312,
+      "scores": {
+        "High House War": 0.14,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.116,
+        "High House Life": 0.072,
+        "High House Iron": 0.06,
+        "High House Words": 0.312,
+        "High House Chains": 0.268
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
+        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     }
   ],
+  "relationships": [],
   "house_trends": {
     "High House Life": {
       "trend": "stable",
-      "trend_ratio": 1.068,
+      "trend_ratio": 1.081,
       "source": "gdelt_volume"
     },
-    "High House Words": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.697,
+      "trend_ratio": 0.639,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.764,
       "source": "gdelt_volume"
     }
   }
