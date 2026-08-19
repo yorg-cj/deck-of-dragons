@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "cards": [
     {
       "house": "High House Shadow",
@@ -63,30 +63,59 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.422,
+      "confidence": 0.444,
       "scores": {
-        "High House War": 0.084,
-        "High House Coin": 0.05,
-        "High House Shadow": 0.065,
-        "High House Life": 0.422,
-        "High House Iron": -0.039,
-        "High House Words": 0.134,
-        "High House Chains": 0.04
+        "High House War": 0.213,
+        "High House Coin": 0.035,
+        "High House Shadow": 0.09,
+        "High House Life": 0.444,
+        "High House Iron": 0.058,
+        "High House Words": 0.234,
+        "High House Chains": 0.204
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.819
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Reducing Childhood Vaccinations Is \u2018Unconscionable\u2019",
-        "url": "https://www.nytimes.com/2026/08/11/opinion/childhood-vaccinations.html",
+        "title": "Fiji strengthens humanitarian partnerships as disaster risks grow",
+        "url": "https://www.fijivillage.com/news/fiji-strengthens-humanitarian-partnerships-as-disaster-risks-grow-b35814",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.408,
+      "scores": {
+        "High House War": 0.045,
+        "High House Coin": 0.408,
+        "High House Shadow": 0.054,
+        "High House Life": 0.08,
+        "High House Iron": 0.066,
+        "High House Words": 0.101,
+        "High House Chains": 0.312
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "How Israel\u2019s Financial Chokehold Is Stifling the West Bank Economy",
+        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -120,113 +149,83 @@
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.37,
-      "scores": {
-        "High House War": 0.149,
-        "High House Coin": 0.363,
-        "High House Shadow": 0.194,
-        "High House Life": 0.15,
-        "High House Iron": 0.074,
-        "High House Words": 0.319,
-        "High House Chains": 0.37
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "The new geopolitical economy",
-        "url": "https://www.executive-magazine.com/business-all/analysis/the-new-geopolitical-economy",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The Throne",
       "reversed": false,
-      "confidence": 0.357,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.015,
-        "High House Coin": 0.357,
-        "High House Shadow": 0.044,
-        "High House Life": 0.067,
-        "High House Iron": 0.055,
-        "High House Words": 0.06,
-        "High House Chains": 0.165
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.556
-      },
-      "article": {
-        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
-        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
-        "source": "guardian",
-        "full_text": "As the Middle East crisis drags on into its sixth month, central banks sit in a tricky position. Oil prices remain at elevated levels, stoking inflationary pressures while also threatening to weigh on growth. The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022, when inflation soared above 10% in the UK and eurozone and over 9% in the US. Central banks were plagued by accusations that they moved too slowly to confront inflation in the months after the Ukraine war started, when post-pandemic consumer spending was already stoking prices on everything from food to construction materials. Now they are asking whether the continuing throttling of fossil fuel shipping through the strait of Hormuz will mean another year of target-busting prices growth. The Federal Reserve seeks help Last month US inflation edged lower to 3.4%, down from 3.5% in June and 4.2% in May, largely in response to easing petrol prices following the US memorandum of understanding with Iran. Since the Bureau of Labor Statistics collected the data, the price of a barrel of Brent crude has risen again to about $90 \u2013 a figure that will push up the price of energy and transport across the US in the second half of the year. Fed officials are asking whether US inflation will climb back towards 4%, double its target. The US central bank\u2019s new boss, Kevin Warsh, has instigated an all-embracing review of its operations based on the advice of 15 outsiders that he says are among the most eminent experts and economists of the age. Many analysts have applauded him for recognising that a series of inflation shocks dating back to the arrival of Covid-19 have undermined the integrity and durability of central bank forecasting. Mohamed El-Erian, an economist and professor at the Wharton Business school, said Warsh recognised that many of the shibboleths of monetary policymaking had proved flawed. \u201cThe key issue for me is having someone there who\u2019s committed to long-overdue Fed reforms. This is essential for future Fed effectiveness, credibility and political independence,\u201dhe said. Chief among the tools Warsh has already ditched is forward guidance \u2013 the explicit signalling of the likely future path of interest rates. He also declined to join other Fed policymakers in creating dot plots on a graph showing how the economy and inflation are expected to develop over the next couple of years. Among Warsh\u2019s 15 appointments to five subject committees is Mervyn King, the former governor of the Bank of England. Lord King is considered a founding father of inflation forecasting, but has since argued that central banks should take more account of uncertainty in how people react and ditch a heavy reliance on economic models that claim to predict likely outcomes. In his 2022 book Radical Uncertainty, he described forward guidance as \u201csilly\u201d when no central bank knows what the interest rate will be in six months or two years\u2019 time. El-Erian calls forward guidance \u201cspurious accuracy\u201d. What financial markets and the public need to know is the \u201creaction function\u201d. In other words, how the central bank will respond to different economic developments. Charlie Bean, a professor at the London School of Economics and a former deputy governor of the BoE, said that Warsh\u2019s changes mean that Fed watchers don\u2019t have guidance on either the path of rates or the central bank\u2019s likely reaction to events. \u201cWarsh is getting in a bit of a mess in the way he is not giving a guide to where rates are going and also not talking about how changes in the economy will affect rates,\u201d said Bean. \u201cIt means he is not saying anything of substance.\u201d The Fed held rates in July and financial market betting expects a hold again in September, though a rise is thought possible. Markets anticipate at least one, and possibly two, quarter-point increases by the middle of next year, taking the Fed\u2019s target rate from its current 3.5-3.75% range to 4-4"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.355,
-      "scores": {
-        "High House War": 0.135,
-        "High House Coin": 0.168,
-        "High House Shadow": 0.291,
-        "High House Life": 0.082,
-        "High House Iron": -0.029,
-        "High House Words": 0.355,
-        "High House Chains": 0.18
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.867
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "'We won't be bullied,' Britain tells Vladimir Putin after threat from London Embassy on Ukraine war",
-        "url": "https://www.standard.co.uk/news/uk/vladimir-putin-bully-britain-ukraine-drones-wildberries-b1293747.html",
-        "source": "worldnews",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.312,
+      "scores": {
+        "High House War": 0.14,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.116,
+        "High House Life": 0.072,
+        "High House Iron": 0.06,
+        "High House Words": 0.312,
+        "High House Chains": 0.268
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
+        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
+      "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "MICROSOFT",
+      "actor_a": "FIJI",
       "actor_b": "CHINA",
       "relationship": "neutral",
-      "goldstein_avg": -0.193,
+      "goldstein_avg": 0.102,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "THE WEST BANK ECONOMY",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.611,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.552,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
