@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.474,
-      "scores": {
-        "High House War": 0.007,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.168,
-        "High House Life": 0.106,
-        "High House Iron": 0.474,
-        "High House Words": -0.029,
-        "High House Chains": 0.045
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.541,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
-      },
-      "article": {
-        "title": "Are Microsoft\u2019s AI plans being held back by a shortage of chips? ",
-        "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-        "source": "guardian",
-        "full_text": "The chips are quite small and some can be held in the palm of a hand. They are fundamental to the development of artificial intelligence models \u2013 and the world\u2019s biggest technology companies need vast numbers of them to keep ahead. Microsoft is one of them. And, on paper, it seems to have a problem. A Guardian investigation has found an apparent discrepancy between what the company has said about its AI capacity \u2013 and the number of advanced AI chips it has in operation. It is not a small shortfall either. Microsoft reportedly targeted having 1.8m AI chips installed in its datacentres around the globe by the end of 2024. Nearly two years on, in the middle of a $280bn (\u00a3208bn) expansion, the company has 2.2m AI chips installed, according to internal documents seen by the Guardian. This is less than half the number some experts had imagined. Put simply, the global AI arms race requires a massive build-out of datacentres that run on extremely expensive chips. The apparent discrepancy over the chips suggests Microsoft\u2019s newest datacentres may not be fully operational or, if they are, they do not have the chips they need. This highlights something even more fundamental about charting the progress being made in the development of AI technologies. The chips that power AI are made by Nvidia, one of the two most valuable companies in the world. Its supply chain is one of the most tightly held secrets in the entire industry. With almost no exceptions, Nvidia does not report how many of these chips it sells or to whom. Its clients, the world\u2019s biggest tech companies, in turn do not reveal how many they have. Without this information, it is very hard for anyone to know whether AI is booming or not. Microsoft: a power vacuum? In the past two years, Microsoft says it has built AI infrastructure at breakneck speed. Its chief executive, Satya Nadella, said last year it would double its global datacentre footprint by mid-2027. Since 2022 it has ploughed roughly $280bn into the land, buildings and computational infrastructure to build AI. This includes more than $41bn in the past quarter. But it is difficult to estimate how many datacentres Microsoft has built with this money. It is possible to assess the progress that the company is making by looking at what it has announced publicly, with a particular eye on the power it needs. Datacentres need electricity, so one way of estimating how many datacentres are operational is to add up the energy Microsoft has at its disposal \u2013 its AI capacity. Microsoft\u2019s own claims, set out in annual reports and quarterly earnings, suggest it has added 5GW of datacentre capacity over the past two years as part of its AI build-out. It says it now has hundreds of datacentres on five continents. Five gigawatts is a dizzying amount of energy \u2013 it is four times the size of the largest datacentre park in Europe. But Microsoft\u2019s total capacity should be even greater than this; it has been building AI infrastructure since 2022. How much greater is an open question. In an internal presentation from 2024, Microsoft reportedly claimed to have 5GW of datacentre capacity already installed. That would suggest it could now have a total of 10GW of capacity. It is unclear if all of these are AI datacentres \u2013 some could be for other cloud services. But Microsoft\u2019s own statements indicate that the overwhelming focus of its capital expenditures in recent years has been to build AI infrastructure. Ten gigawatts of AI datacentres would suggest Microsoft should have roughly 6.4m graphics processing units (GPUs). Shaolei Ren, a professor at the University of California, Riverside, said Microsoft\u2019s sustainability reports, which contain figures for its electricity usage and are published separately from its financials, painted a different picture. He said these reports suggest Microsoft\u2019s AI capacity in 2024 was probably closer to 1.2GW. But even this lower figure would indicate Microsoft would need roughly 4m AI chips \u2013 if it added 5GW o"
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
@@ -86,32 +57,61 @@
         "source": "worldnews",
         "full_text": null
       },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.438,
+      "scores": {
+        "High House War": 0.119,
+        "High House Coin": 0.29,
+        "High House Shadow": 0.232,
+        "High House Life": 0.123,
+        "High House Iron": 0.438,
+        "High House Words": 0.123,
+        "High House Chains": 0.174
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.538,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.979
+      },
+      "article": {
+        "title": "With A.I. Riches at Stake, Pressures Mount to Share the Wealth",
+        "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.408,
+      "reversed": false,
+      "confidence": 0.392,
       "scores": {
-        "High House War": 0.045,
-        "High House Coin": 0.408,
-        "High House Shadow": 0.054,
-        "High House Life": 0.08,
-        "High House Iron": 0.066,
-        "High House Words": 0.101,
-        "High House Chains": 0.312
+        "High House War": 0.072,
+        "High House Coin": 0.392,
+        "High House Shadow": 0.102,
+        "High House Life": 0.041,
+        "High House Iron": 0.08,
+        "High House Words": 0.024,
+        "High House Chains": 0.173
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.954
       },
       "article": {
-        "title": "How Israel\u2019s Financial Chokehold Is Stifling the West Bank Economy",
-        "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+        "title": "How the $32 Trillion Treasury Market Influences the Economy",
+        "url": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html",
         "source": "nyt",
         "full_text": null
       },
@@ -144,7 +144,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
@@ -173,21 +173,21 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.312,
+      "confidence": 0.33,
       "scores": {
-        "High House War": 0.14,
-        "High House Coin": 0.195,
-        "High House Shadow": 0.116,
-        "High House Life": 0.072,
-        "High House Iron": 0.06,
-        "High House Words": 0.312,
-        "High House Chains": 0.268
+        "High House War": 0.148,
+        "High House Coin": 0.058,
+        "High House Shadow": 0.196,
+        "High House Life": 0.027,
+        "High House Iron": 0.037,
+        "High House Words": 0.33,
+        "High House Chains": 0.097
       },
       "reversal": {
         "reversed": true,
@@ -197,35 +197,30 @@
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
-        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
-        "source": "nyt",
+        "title": "North Korea rejects Trump\u2019s \u2018goodwill\u2019 gesture of curtailing military drills with South Korea",
+        "url": "https://www.independent.co.uk/asia/east-asia/north-korea-donald-trump-kim-jong-un-meeting-b3036087.html",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "FIJI",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.102,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
+  "relationships": [],
+  "house_trends": {
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
     },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "THE WEST BANK ECONOMY",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.611,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.553,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "stable",
+      "trend_ratio": 0.878,
+      "source": "gdelt_volume"
     }
-  ],
-  "house_trends": {}
+  }
 }
