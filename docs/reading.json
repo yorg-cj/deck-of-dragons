@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.444,
-      "scores": {
-        "High House War": 0.213,
-        "High House Coin": 0.035,
-        "High House Shadow": 0.09,
-        "High House Life": 0.444,
-        "High House Iron": 0.058,
-        "High House Words": 0.234,
-        "High House Chains": 0.204
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Fiji strengthens humanitarian partnerships as disaster risks grow",
-        "url": "https://www.fijivillage.com/news/fiji-strengthens-humanitarian-partnerships-as-disaster-risks-grow-b35814",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
@@ -86,34 +57,63 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
+      "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.392,
+      "confidence": 0.431,
       "scores": {
-        "High House War": 0.072,
-        "High House Coin": 0.392,
-        "High House Shadow": 0.102,
-        "High House Life": 0.041,
-        "High House Iron": 0.08,
-        "High House Words": 0.024,
-        "High House Chains": 0.173
+        "High House War": -0.02,
+        "High House Coin": 0.062,
+        "High House Shadow": 0.058,
+        "High House Life": 0.431,
+        "High House Iron": 0.012,
+        "High House Words": 0.097,
+        "High House Chains": 0.091
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.954
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.74
       },
       "article": {
-        "title": "How the $32 Trillion Treasury Market Influences the Economy",
-        "url": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html",
-        "source": "nyt",
-        "full_text": null
+        "title": " Ministers are in denial about the scale of the crises we face",
+        "url": "https://www.theguardian.com/environment/2026/aug/20/ministers-are-in-denial-about-the-scale-of-the-crises-we-face",
+        "source": "guardian",
+        "full_text": "This (Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires, 12 August) is a shocking revelation from a government that has repeatedly assured us it understands the risk of the breakdown of nature and climate. Clearly not. Families forced to deal with school closures, hospitals having to cancel appointments, wildfires continuing to tear through the country, and, so far, more than 2,700 deaths recorded from extreme heat. And yet adaptation remains a tiny corner of one department. It\u2019s not as though ministers haven\u2019t been warned. The Climate Change Committee raises the alarm in every progress report it produces, urging the government to act. So what\u2019s gone wrong? Have the impacts of ecosystem collapse and climate change become politically expendable to the government? From a war on those pesky newts and bats to Andy Burnham\u2019s endless game of \u2018\u201cwill he, won\u2019t he\u201d over more oil and gas, this is Westminster fanning the flames of climate change. The communities facing firewaves, floods and extreme drought don\u2019t want to hear what\u2019s already taking place \u2013 they want to know what\u2019s going to change. Saying that we\u2019re \u201calready acting\u201d clearly does not match the scale of the crisis. Just ask the \u201cUK\u2019s first climate evacuees\u201d on whom you reported in February. Climate adaptation is a whole-of-government problem, not just for one desk at Defra. Why is there an AI minister around the Cabinet table, but no resilience and adaptation minister? Why don\u2019t we have a dedicated commissioner with the authority to ensure that departments prepare for the risks of climate and nature breakdown, and to make sure that there is a public face for these issues so that communities are protected? And, crucially, why is no one asking these questions in government? Dr Amy McDonnell Co-executive director, Zero Hour \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.118,
+        "High House Coin": 0.426,
+        "High House Shadow": 0.134,
+        "High House Life": 0.019,
+        "High House Iron": 0.025,
+        "High House Words": 0.124,
+        "High House Chains": 0.291
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.902
+      },
+      "article": {
+        "title": "Why is the Trump administration causing turmoil in the bond markets?",
+        "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+        "source": "guardian",
+        "full_text": "Government borrowing costs around the world have surged to the highest levels in decades amid growing fears over US bond market turmoil. Anxiety about Donald Trump\u2019s handling of the US economy, and concern that the US president\u2019s war with Iran is driving up inflation, are causing a sell-off in the US bond market. Highlighting the world economy\u2019s dependence on US stability, the yield \u2013 in effect the interest rate \u2013 on UK, French, German and Japanese government debt has been dragged higher. Here we look at the factors driving the bond market, and the likely consequences. What is happening in the bond market sell-off? Long-term US government borrowing costs have risen to the highest level since 2007, with the 30-year Treasury bond yield trading above 5%. A bond is a form of loan that investors make to a borrower, or bond issuer. The yield represents the money an investor receives for owning the debt as a percentage of its current price. Prices fall when investor demand wobbles, which pushes up yields. Against this backdrop, the US Treasury secretary Scott Bessent said this week that Washington would at least double its purchases of long-term US bonds in an attempt to assuage investor concerns. Washington also staged a joint intervention this month with Tokyo to prop up the value of the Japanese yen. Bessent\u2019s intervention on Wednesday helped to push down yields, but the impact was only temporary: they were rising again on Thursday, reversing most of that early move. With US Treasury bonds a lynchpin in global financial markets, the rise in US borrowing costs has dragged yields higher for other countries. G7 nations have faced among the sharpest increases: UK 10-year bond rates are close to the highest since 2008 and 30-year rates are near 1998 levels; Germany\u2019s are at 2011 levels and France at a 16-year peak. Japanese borrowing costs have also hit the highest level since 1996. Why are bond investors rushing for the exits? The breakdown of negotiations in the US-Israel war on Iran is the main source of investor unease. The US national debt hitting $40tn (\u00a329.3tn) for the first time \u2013 after having doubled over the past decade \u2013 is also stoking fear that Trump\u2019s tax and spending plans are unsustainable. The stop-start fighting in the Middle East has pumped up the oil price, adding to worries over inflation and the hit to economic growth worldwide. Inflation is bad news for bond investors. This is because it undercuts the future value of money received for owning the debt, so investors demand a higher yield to compensate for the risk. In response to the inflation shock, the world\u2019s most powerful central banks are also increasingly expected to raise interest rates. However, the unpredictable nature of the Iran war, and of the Trump administration, are making the challenge tougher. Albert Edwards, a senior analyst at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, said: \u201cMany also believe US bonds are having a tantrum because new Fed chair, Kevin Warsh, refuses to spoon-feed investors with the forward guidance they had become accustomed to.\u201d Investors are also worried by political risk: in the US, the fear is that Trump has little appetite to curtail soaring borrowing and debt levels. Investors have asked similar questions of Britain\u2019s prime minister, Andy Burnham, and France is preparing for an election year in 2027 amid mounting political schisms. Japan also faces challenges as it pumps up government spending despite elevated debt levels and with its currency under pressure. Some analysts have also suggested Washington\u2019s yen intervention was driven by worries about falling Japanese demand for US treasuries. Before the joint action, Tokyo had been attempting to prop up the currency by selling holdings of US treasuries to free up money to buy yen, which pushed down bond prices and lifted yields. The AI boom is another factor. Silicon Valley companies are borrowing heavily to fund their rollout of datacentres, which means bond investors are being asked to swallow si"
       },
       "position": "WILD"
     },
@@ -121,30 +121,30 @@
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.373,
+      "confidence": 0.425,
       "scores": {
-        "High House War": 0.373,
-        "High House Coin": 0.245,
+        "High House War": 0.425,
+        "High House Coin": 0.209,
         "High House Shadow": 0.248,
-        "High House Life": 0.053,
-        "High House Iron": 0.291,
-        "High House Words": 0.249,
-        "High House Chains": 0.277
+        "High House Life": 0.074,
+        "High House Iron": 0.167,
+        "High House Words": 0.313,
+        "High House Chains": 0.203
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.525,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.955
       },
       "article": {
-        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
-        "source": "nyt",
+        "title": "Pentagon spokesperson says claims of US munitions shortage amid Iran war 'false'  - report",
+        "url": "https://www.jpost.com/international/article-906182",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -173,21 +173,21 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.33,
+      "confidence": 0.312,
       "scores": {
-        "High House War": 0.148,
-        "High House Coin": 0.058,
-        "High House Shadow": 0.196,
-        "High House Life": 0.027,
-        "High House Iron": 0.037,
-        "High House Words": 0.33,
-        "High House Chains": 0.097
+        "High House War": 0.14,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.116,
+        "High House Life": 0.072,
+        "High House Iron": 0.06,
+        "High House Words": 0.312,
+        "High House Chains": 0.268
       },
       "reversal": {
         "reversed": true,
@@ -197,29 +197,30 @@
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "North Korea rejects Trump\u2019s \u2018goodwill\u2019 gesture of curtailing military drills with South Korea",
-        "url": "https://www.independent.co.uk/asia/east-asia/north-korea-donald-trump-kim-jong-un-meeting-b3036087.html",
-        "source": "worldnews",
+        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
+        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.024,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.553,
-      "source": "gdelt_volume"
-    },
     "High House Words": {
       "trend": "stable",
-      "trend_ratio": 0.878,
+      "trend_ratio": 0.867,
       "source": "gdelt_volume"
     }
   }
