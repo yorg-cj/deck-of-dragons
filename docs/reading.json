@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.5,
+      "scores": {
+        "High House War": 0.187,
+        "High House Coin": 0.5,
+        "High House Shadow": 0.145,
+        "High House Life": 0.083,
+        "High House Iron": -0.015,
+        "High House Words": 0.173,
+        "High House Chains": 0.287
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+        "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
@@ -57,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -86,142 +115,98 @@
         "source": "guardian",
         "full_text": "This (Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires, 12 August) is a shocking revelation from a government that has repeatedly assured us it understands the risk of the breakdown of nature and climate. Clearly not. Families forced to deal with school closures, hospitals having to cancel appointments, wildfires continuing to tear through the country, and, so far, more than 2,700 deaths recorded from extreme heat. And yet adaptation remains a tiny corner of one department. It\u2019s not as though ministers haven\u2019t been warned. The Climate Change Committee raises the alarm in every progress report it produces, urging the government to act. So what\u2019s gone wrong? Have the impacts of ecosystem collapse and climate change become politically expendable to the government? From a war on those pesky newts and bats to Andy Burnham\u2019s endless game of \u2018\u201cwill he, won\u2019t he\u201d over more oil and gas, this is Westminster fanning the flames of climate change. The communities facing firewaves, floods and extreme drought don\u2019t want to hear what\u2019s already taking place \u2013 they want to know what\u2019s going to change. Saying that we\u2019re \u201calready acting\u201d clearly does not match the scale of the crisis. Just ask the \u201cUK\u2019s first climate evacuees\u201d on whom you reported in February. Climate adaptation is a whole-of-government problem, not just for one desk at Defra. Why is there an AI minister around the Cabinet table, but no resilience and adaptation minister? Why don\u2019t we have a dedicated commissioner with the authority to ensure that departments prepare for the risks of climate and nature breakdown, and to make sure that there is a public face for these issues so that communities are protected? And, crucially, why is no one asking these questions in government? Dr Amy McDonnell Co-executive director, Zero Hour \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.118,
-        "High House Coin": 0.426,
-        "High House Shadow": 0.134,
-        "High House Life": 0.019,
-        "High House Iron": 0.025,
-        "High House Words": 0.124,
-        "High House Chains": 0.291
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.902
-      },
-      "article": {
-        "title": "Why is the Trump administration causing turmoil in the bond markets?",
-        "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-        "source": "guardian",
-        "full_text": "Government borrowing costs around the world have surged to the highest levels in decades amid growing fears over US bond market turmoil. Anxiety about Donald Trump\u2019s handling of the US economy, and concern that the US president\u2019s war with Iran is driving up inflation, are causing a sell-off in the US bond market. Highlighting the world economy\u2019s dependence on US stability, the yield \u2013 in effect the interest rate \u2013 on UK, French, German and Japanese government debt has been dragged higher. Here we look at the factors driving the bond market, and the likely consequences. What is happening in the bond market sell-off? Long-term US government borrowing costs have risen to the highest level since 2007, with the 30-year Treasury bond yield trading above 5%. A bond is a form of loan that investors make to a borrower, or bond issuer. The yield represents the money an investor receives for owning the debt as a percentage of its current price. Prices fall when investor demand wobbles, which pushes up yields. Against this backdrop, the US Treasury secretary Scott Bessent said this week that Washington would at least double its purchases of long-term US bonds in an attempt to assuage investor concerns. Washington also staged a joint intervention this month with Tokyo to prop up the value of the Japanese yen. Bessent\u2019s intervention on Wednesday helped to push down yields, but the impact was only temporary: they were rising again on Thursday, reversing most of that early move. With US Treasury bonds a lynchpin in global financial markets, the rise in US borrowing costs has dragged yields higher for other countries. G7 nations have faced among the sharpest increases: UK 10-year bond rates are close to the highest since 2008 and 30-year rates are near 1998 levels; Germany\u2019s are at 2011 levels and France at a 16-year peak. Japanese borrowing costs have also hit the highest level since 1996. Why are bond investors rushing for the exits? The breakdown of negotiations in the US-Israel war on Iran is the main source of investor unease. The US national debt hitting $40tn (\u00a329.3tn) for the first time \u2013 after having doubled over the past decade \u2013 is also stoking fear that Trump\u2019s tax and spending plans are unsustainable. The stop-start fighting in the Middle East has pumped up the oil price, adding to worries over inflation and the hit to economic growth worldwide. Inflation is bad news for bond investors. This is because it undercuts the future value of money received for owning the debt, so investors demand a higher yield to compensate for the risk. In response to the inflation shock, the world\u2019s most powerful central banks are also increasingly expected to raise interest rates. However, the unpredictable nature of the Iran war, and of the Trump administration, are making the challenge tougher. Albert Edwards, a senior analyst at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, said: \u201cMany also believe US bonds are having a tantrum because new Fed chair, Kevin Warsh, refuses to spoon-feed investors with the forward guidance they had become accustomed to.\u201d Investors are also worried by political risk: in the US, the fear is that Trump has little appetite to curtail soaring borrowing and debt levels. Investors have asked similar questions of Britain\u2019s prime minister, Andy Burnham, and France is preparing for an election year in 2027 amid mounting political schisms. Japan also faces challenges as it pumps up government spending despite elevated debt levels and with its currency under pressure. Some analysts have also suggested Washington\u2019s yen intervention was driven by worries about falling Japanese demand for US treasuries. Before the joint action, Tokyo had been attempting to prop up the currency by selling holdings of US treasuries to free up money to buy yen, which pushed down bond prices and lifted yields. The AI boom is another factor. Silicon Valley companies are borrowing heavily to fund their rollout of datacentres, which means bond investors are being asked to swallow si"
-      },
       "position": "WILD"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.425,
-      "scores": {
-        "High House War": 0.425,
-        "High House Coin": 0.209,
-        "High House Shadow": 0.248,
-        "High House Life": 0.074,
-        "High House Iron": 0.167,
-        "High House Words": 0.313,
-        "High House Chains": 0.203
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.525,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.955
-      },
-      "article": {
-        "title": "Pentagon spokesperson says claims of US munitions shortage amid Iran war 'false'  - report",
-        "url": "https://www.jpost.com/international/article-906182",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
       "confidence": 0.373,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.312,
-      "scores": {
-        "High House War": 0.14,
-        "High House Coin": 0.195,
-        "High House Shadow": 0.116,
-        "High House Life": 0.072,
-        "High House Iron": 0.06,
-        "High House Words": 0.312,
-        "High House Chains": 0.268
+        "High House War": 0.373,
+        "High House Coin": 0.245,
+        "High House Shadow": 0.248,
+        "High House Life": 0.053,
+        "High House Iron": 0.291,
+        "High House Words": 0.249,
+        "High House Chains": 0.277
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
-        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Herald",
+      "reversed": true,
+      "confidence": 0.301,
+      "scores": {
+        "High House War": 0.034,
+        "High House Coin": 0.068,
+        "High House Shadow": 0.25,
+        "High House Life": 0.076,
+        "High House Iron": -0.095,
+        "High House Words": 0.301,
+        "High House Chains": 0.152
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "banned"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.651
+      },
+      "article": {
+        "title": "\u2018She\u2019s not afraid of anyone\u2019: the prison writings of one of Hong Kong\u2019s last outspoken democracy activists",
+        "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
+        "source": "guardian",
+        "full_text": "In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. \u201cIn a place like prison, where anything that is personal is stripped away, it\u2019s even more important to hold on to every means by which you can express yourself,\u201d she writes. \u201cDon\u2019t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a \u2018model citizen\u2019\u201d. The vignette is everyday, almost mundane. It stands in contrast to Chow\u2019s position as one of Hong Kong\u2019s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre. Her case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world\u2019s most widely watched pro-democracy struggles. On Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of \u201cincitement to subversion\u201d by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year. As the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow\u2019s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison. In another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance. \u201cThe Mickey Mouse t-shirt may seem innocent on the surface, but isn\u2019t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,\u201d she writes. While some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy. \u201cShe\u2019s not afraid of anything or anyone,\u201d said Kevin Yam, a Hong Kong lawyer who now lives in exile. \u201cFor a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.\u201d Wu Yangwei, Chow\u2019s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow\u2019s interest in mainland Chinese struggles that first attracted him to her. \u201cFrom the moment I met her\u2026 I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China\u2019s democracy and human rights defense movements,\u201d Wu said. He now lives under close police surveillance in Guangdong province. \u2018A society that loses freedom of speech \u2026 loses its very soul\u2019 Chow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China. The Hong Kong Alliance\u2019s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control. Chow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong\u2019s new sweeping national security law. Chow and Lee pleaded not guilty in their trial, which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil. A Hong Kong government spokesperson said Lee and Chow were prosecuted \u201cbecause they have overste"
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.292,
+      "scores": {
+        "High House War": -0.014,
+        "High House Coin": 0.289,
+        "High House Shadow": 0.1,
+        "High House Life": -0.036,
+        "High House Iron": 0.041,
+        "High House Words": 0.212,
+        "High House Chains": 0.292
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.921
+      },
+      "article": {
+        "title": "Iran Must Plan to Overcome \u2018Unjust\u2019 U.S. Sanctions, Top Tehran Official Says",
+        "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -3.024,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Words": {
-      "trend": "stable",
-      "trend_ratio": 0.867,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
