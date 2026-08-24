@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.519,
-      "scores": {
-        "High House War": 0.068,
-        "High House Coin": 0.191,
-        "High House Shadow": 0.284,
-        "High House Life": 0.071,
-        "High House Iron": 0.519,
-        "High House Words": 0.059,
-        "High House Chains": 0.045
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.834
-      },
-      "article": {
-        "title": "Others Also Read",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/08/23/what-are-companies-getting-for-all-that-ai-spending",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
@@ -86,7 +57,65 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.438,
+      "scores": {
+        "High House War": 0.119,
+        "High House Coin": 0.29,
+        "High House Shadow": 0.232,
+        "High House Life": 0.123,
+        "High House Iron": 0.438,
+        "High House Words": 0.123,
+        "High House Chains": 0.174
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.538,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.979
+      },
+      "article": {
+        "title": "With A.I. Riches at Stake, Pressures Mount to Share the Wealth",
+        "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.384,
+      "scores": {
+        "High House War": -0.003,
+        "High House Coin": -0.027,
+        "High House Shadow": 0.077,
+        "High House Life": 0.384,
+        "High House Iron": 0.01,
+        "High House Words": -0.042,
+        "High House Chains": -0.025
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.712
+      },
+      "article": {
+        "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It\u2019s \u2018really tricky\u2019 but there is a way",
+        "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
+        "source": "guardian",
+        "full_text": "More than 1,000 little penguins have received their first dose of bird flu vaccine in Victoria, in what is believed to be the world\u2019s largest vaccination program involving wild birds. Catherine Basterfield, the chief executive of Phillip Island Nature Parks, said vaccinations began early last week and were ramping up. \u201cThis is the first time anyone around the world has attempted something like this at this scale,\u201d she said. Sign up for the Breaking News Australia email \u201cIt is really tricky and penguins are difficult to handle, but we have very well trained people. \u201cThe penguins come up the beach, they\u2019re able to trap them in a little pen, and then move them into smaller pens to be able to then go through the vaccination administration process.\u201d About 5,000 birds across Phillip Island and St Kilda would receive two doses of the H5N1 vaccine, an effort that was only possible because penguins returned to the same burrows each night. \u201cEverybody loves little penguins,\u201d said the state\u2019s environment minister, Jaclyn Symes. \u201cThey\u2019re an iconic little creature, they\u2019re adorable, but they have a significant economic value to this region and to the state of Victoria.\u201d In recent nights, about 300 penguins were weighed, measured and microchipped, before being vaccinated and released. Those same birds would receive a second dose in three weeks\u2019 time. Little penguins are the world\u2019s smallest species of penguin \u2013 about a ruler\u2019s length in height \u2013 and found only in southern Australia and New Zealand. The birds, which are not listed as threatened under federal environment laws, are considered at \u201cvery high risk\u201d from the deadly bird flu, according to a national risk assessment. The population on Phillip Island is about 40,000 birds. The island\u2019s \u201cpenguin parade\u201d is a major tourist attraction, drawing about 700,000 visitors each year and contributing about $500m to the state\u2019s economy. The large-scale wildlife vaccination program was announced by the Victorian government on 12 August, with vaccines supplied by the federal agriculture department. Positive bird flu cases on Phillip Island, including one in a little penguin, have increased the sense of urgency, with the team working to vaccinate as many as possible over the coming weeks. South Australia also reported a confirmed case in a little penguin on Kangaroo Island on Sunday. On King Island in Tasmania, 51 of the animals died, with the deaths presumed to have been caused by bird flu, after one sample tested positive. An Arthur Rylah Institute report published last year said it would take 10 weeks for penguins to reach peak immunity, and that administering vaccines after H5N1 arrived could be \u201ctoo late, because significant mortality is likely to occur before adequate vaccine coverage is achieved\u201d. In a worst-case scenario, the report said, up to 16,000 little penguins could die. A federal agriculture spokesperson said vaccination was \u201cone tool\u201d that could reduce the impact on vulnerable native birds, but was \u201cnot a standalone solution\u201d. \u201cIt does not replace effective biosecurity, which remains critical.\u201d James Todd, Victoria\u2019s chief biodiversity officer, said vaccines weren\u2019t a \u201csilver bullet\u201d, and wouldn\u2019t be suitable for many of the hundreds of other wild species at risk from the virus. \u201cIn the case of little penguins, we know that they are at risk from H5, they\u2019re a colonial species that nest together. They are a seabird that will come in contact with other seabirds that carry the virus. And we also know that they\u2019re an iconic species that have high value to Victorians.\u201d Dr John Cockrem, an emeritus professor at Massey University in New Zealand, who researches little penguins, said H5 bird flu was an added threat to the species, which were already affected by severe storms, sea level rise and changes in food availability due to the climate crisis. \u201cSo avian flu then is a threat that has arisen and comes on top of other threats that the little penguins are facing, and will increasingly face"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -144,64 +173,33 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.338,
-      "scores": {
-        "High House War": 0.087,
-        "High House Coin": 0.081,
-        "High House Shadow": 0.164,
-        "High House Life": 0.338,
-        "High House Iron": -0.016,
-        "High House Words": 0.102,
-        "High House Chains": 0.109
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "contaminated"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "Ebola frontline workers missing wages as outbreak spreads \u2018exponentially\u2019",
-        "url": "https://www.theguardian.com/world/2026/aug/22/ebola-drc-democratic-republic-congo-health-workers-unpaid-wages",
-        "source": "guardian",
-        "full_text": "Every day, Sophie Mwadawa Kabundo goes to her job as a nurse at an Ebola treatment centre in the north-east of the Democratic Republic of the Congo, afraid she will contract the virus and pass it to her family and friends. \u201cMore and more confirmed cases are being admitted here \u2026 Some of our colleagues have died,\u201d said Kabundo. \u201cWe fear that, despite our vigilance, workplace accidents may occur and put us in ever greater danger \u2026 We go to sleep already worrying about the days ahead, as patients continue to pour in.\u201d Martin Bolombi, her colleague at the Elikya treatment centre in Bunia, the capital of the hardest-hit province, Ituri, holds similar fears. \u201cPersonally, this outbreak is causing me a lot of stress,\u201d he said. \u201cBut I have no choice but to pluck up my courage and ensure that the situation is brought under control first, before it can stabilise.\u201d That courage is all the more remarkable given that both workers on the frontline of the fastest-growing Ebola outbreak on record said they were not being paid. \u201cI have been working since May and have only been paid for June,\u201d said Bolombi, a hygiene worker who was among about 100 people who protested outside the Elikya treatment centre during a strike last month over unpaid bonuses. Kabundo said she was also missing wages. \u201cWe are not being paid and we want the government to provide solutions as soon as possible,\u201d she said. \u201cWe are under immense pressure \u2026 We are exposed to the risk of infection, and our families and other loved ones may contract the disease because of us.\u201d *** Unpaid wages are just one of the factors \u2013 alongside misinformation, community mistrust and infrastructure deficits \u2013 hampering efforts to tackle the outbreak in the DRC, one of the world\u2019s poorest countries. More than 2,500 people have now died in the outbreak, which \u2060is spreading exponentially in an \u2060area larger than France, the senior UN Ebola coordinator, Julien Harneis, said on Friday. Speaking on a video call from Bunia, Harneis called \u2060for more aid, saying the existing pool of funds would run out within weeks. He said 160 healthcare \u200cworkers had fallen ill with Ebola, and 43 of them had died. \u201cThe outbreak is growing faster and wider than the Ebola response,\u201d he added. \u201cAnd all of this is happening in an area that has had three decades of conflict and is generating huge humanitarian needs.\u201d The World Health Organization estimates that the outbreak is on course to exceed west Africa\u2019s 2014-16 Ebola outbreak as the biggest ever globally. In the previous outbreak, more than 28,600 cases and 11,325 deaths were recorded across Guinea, Liberia and Sierra Leone, according to WHO data. The infections in DRC are of the rare Bundibugyo species of the virus. There are no approved treatments or vaccines for the strain, but trials for both are under way. Bolombi said he was working seven days a week, with barely any time to see his family, as the outbreak was getting worse. \u201cLogistics have improved compared to the early days of the response, but this is still not enough, as needs are growing as the disease progresses,\u201d he said. Despite the enormous challenges and lack of renumeration, Kabundo expressed pride that there had been \u201ca large number of recoveries\u201d at the Elikya treatment centre. \u201cThis progress must be highlighted, but it is no excuse to rest on our laurels,\u201d she said. The Congolese health ministry did not immediately respond to a request for comment. Ebola is transmitted to people from wild animals and then spreads between humans via direct contact with the organs, blood or other body fluids of infected people, including dead bodies. It can also be spread through contact with contaminated surfaces and materials, such as bedding or clothing. Initial symptoms can include fever, fatigue, muscle pain, headaches and a sore throat. These progress to vomiting, diarrhoea, abdominal pain, rash and symptoms of impaired kidney and liver functions. Widespread mistrust and misinformation have resulted in people "
-      },
       "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.324,
+      "reversed": true,
+      "confidence": 0.312,
       "scores": {
-        "High House War": 0.121,
-        "High House Coin": 0.213,
-        "High House Shadow": 0.187,
-        "High House Life": 0.027,
-        "High House Iron": 0.048,
-        "High House Words": 0.324,
-        "High House Chains": 0.178
+        "High House War": 0.14,
+        "High House Coin": 0.195,
+        "High House Shadow": 0.116,
+        "High House Life": 0.072,
+        "High House Iron": 0.06,
+        "High House Words": 0.312,
+        "High House Chains": 0.268
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.792
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Received messages from neighbours about shaping new security, economic arrangements: Iran",
-        "url": "https://www.socialnews.xyz/2026/08/23/received-messages-from-neighbours-about-shaping-new-security-economic-arrangements-iran",
-        "source": "worldnews",
+        "title": "Critics of the U.S.-Saudi Nuclear Deal Have It Exactly Wrong",
+        "url": "https://www.nytimes.com/2026/08/06/opinion/us-saudi-arabia-nuclear-deal.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
@@ -209,11 +207,6 @@
   ],
   "relationships": [],
   "house_trends": {
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.671,
-      "source": "gdelt_volume"
-    },
     "High House Words": {
       "trend": "falling",
       "trend_ratio": 0.0,
