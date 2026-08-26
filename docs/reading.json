@@ -1,6 +1,35 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.531,
+      "scores": {
+        "High House War": 0.081,
+        "High House Coin": 0.102,
+        "High House Shadow": 0.15,
+        "High House Life": 0.124,
+        "High House Iron": 0.531,
+        "High House Words": 0.086,
+        "High House Chains": 0.059
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "Why Enterprise AI's Biggest Challenge Isn't The Technology",
+        "url": "https://www.freepressjournal.in/focused-view/why-enterprise-ais-biggest-challenge-isnt-the-technology",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,64 +57,34 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Coin",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.439,
+      "confidence": 0.503,
       "scores": {
-        "High House War": 0.01,
-        "High House Coin": 0.439,
-        "High House Shadow": 0.1,
-        "High House Life": -0.007,
-        "High House Iron": 0.108,
-        "High House Words": 0.156,
-        "High House Chains": 0.263
+        "High House War": 0.047,
+        "High House Coin": 0.503,
+        "High House Shadow": 0.129,
+        "High House Life": -0.065,
+        "High House Iron": 0.028,
+        "High House Words": 0.131,
+        "High House Chains": 0.272
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.7,
         "matched_signals": [
-          "sanction",
-          "blockade"
+          "sanction"
         ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.513
-      },
-      "article": {
-        "title": "China is the biggest buyer of Iran\u2019s oil. Could US sanctions threaten those ties?",
-        "url": "https://www.theguardian.com/world/2026/aug/25/trump-us-economic-sanctions-china-biggest-buyer-iran-oil",
-        "source": "guardian",
-        "full_text": "The US has unveiled an expansion of sanctions that it says will cut off Iran\u2019s economic lifeline but stopped short of the most punishing measures, instead putting the world on notice to cease doing business with the Islamic republic. Treasury secretary Scott Bessent \u2060warned other countries would need to sever \u2060business ties with Iran or risk being forced out of the dollar-based financial system. He previously urged cooperation from China \u2013 the biggest buyer of Iranian oil for several years \u2013 although the US blockade of Iran\u2019s ports, renewed in mid-July, has already cut much of the Iranian oil flows to China. Experts say Washington is wary of Chinese retaliation for any sanctions on its banks ahead of expected \u2060talks next month between US president Donald Trump and Chinese leader Xi Jinping, with any curbs on China\u2019s exports of critical minerals especially sensitive. What do the new moves by the US mean for China and oil and how might Beijing respond? How much oil does China buy from Iran? Through the early weeks of the war Iran continued to ship to China, with Beijing\u2019s imports of Iranian crude slipping only marginally, according to Kpler ship-tracking data, from 1.57m barrels a day in February to 1.47m barrels a day in March. Since then imports have dropped dramatically. The US renewed its blockade of Iran\u2019s \u2060ships and ports in July in an attempt to cut off oil sales, as a deal to halt their war broke down. Shipments fell to 785,000 \u200cbarrels a day in June \u2013 \u200cthe lowest since February 2023 \u2013 but then rose slightly in July to 823,000, provisional Kpler data showed. The intake so far in August \u200chas dropped to 534,000. Who are the Chinese buyers? Chinese independent refiners have been the main Iranian crude buyers, attracted by what has typically been a steep discount to mainstream barrels. Known as \u201cteapot\u201d refineries, they survive by buying cheap crude wherever they can, turning it into petrol and diesel for neighbouring provinces. China\u2019s big state refiners have shunned Iranian oil since 2019, when the US reimposed sanctions on Tehran, because they do not want to be cut off from the US dollar-based international financial system. But the teapots, which cater to a domestic market, have no such qualms. Iranian oil delivered to China has long been branded as Malaysian, and more \u200crecently Indonesian, and is settled in Chinese currency, trading in a tight loop involving a chain of difficult-to-track intermediaries, according to refinery sources and traders involved in the business. Have previous US sanctions been effective? Washington has intensified its efforts to clamp down on Chinese purchases of Iranian oil since Trump returned to the White House early last year, imposing sanctions on mostly smaller Chinese refiners and other participants in the supply chain, which have in some cases proven disruptive. The US treasury department has also warned two larger Chinese banks they could face \u2060secondary sanctions if Iranian funds were found moving through their systems, but has stopped short of designating them. In April, Washington imposed sanctions on Hengli Petrochemical (Dalian) refinery, along with about 40 shipping firms and vessels, accusing Hengli of buying billions of dollars\u2019 worth of Iranian oil, escalating its \u200cefforts to curb Tehran\u2019s oil revenue. Hengli has denied buying Iranian oil. In the past, however, sanctions themselves have done little to slow overall flows of Iranian oil into China. Asked about Chinese banks on Monday, US treasury secretary Scott Bessent said: \u201cWe want to make clear here today that no one is above the reach of US sanctions.\u201d What have China and Iran said? The Chinese foreign ministry said sanctions and pressure tactics did not help and Beijing would do what was necessary to protect China\u2019s interests. China, which has said it rejects unilateral sanctions, has called for a resolution through diplomatic and political means. Iranian economy minister \u2060Ali Madanizadeh told state television that neither "
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.438,
-      "scores": {
-        "High House War": 0.119,
-        "High House Coin": 0.29,
-        "High House Shadow": 0.232,
-        "High House Life": 0.123,
-        "High House Iron": 0.438,
-        "High House Words": 0.123,
-        "High House Chains": 0.174
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.538,
-        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.979
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "With A.I. Riches at Stake, Pressures Mount to Share the Wealth",
-        "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+        "title": "What to Know About the Iranian Bank Singled Out in U.S. Economic War",
+        "url": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
         "source": "nyt",
         "full_text": null
       },
@@ -118,7 +117,7 @@
         "source": "guardian",
         "full_text": "The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking. On Monday, US Southern Command (SouthCom) announced it \u201cexecuted a lethal kinetic strike on a low-profile vessel operating along established narco-trafficking routes in the Eastern Pacific\u201d. \u201cConfirmed intelligence revealed the vessel\u2019s active involvement in narco-trafficking. The operation killed two narco-terrorists,\u201d SouthCom added. Southern Command did not provide evidence for the vessel\u2019s alleged involvement in drug trafficking. In a statement on the strikes, Francis L Donovan, SouthCom\u2019s commander general, said: \u201cWe are committed to imposing total systemic friction on narco-terrorists \u2013 disrupting their operations, dismantling their leadership and eliminating cartel terror across the region.\u201d \u201cThis operation is a powerful demonstration of our lethal precision, overwhelming capability, and absolute resolve to protect the US homeland,\u201d Donovan added. A pixelated black-and-white video posted to SouthCom\u2019s X account on Monday showed a vessel moving through the water before it was struck by an explosion that produced a large flash of light. Monday\u2019s strike marks the latest in a series of US military strikes since the Donald Trump administration launched what it described as a campaign targeting \u201cnarco-terrorists\u201d smuggling drugs into the US, despite numerous reports indicating that the strikes have done little to stem the flow of drugs into the country. It brings the overall death toll to 223 people killed in 67 strikes during the nearly year-long US campaign of bombing alleged drug boats off Latin America\u2019s Caribbean coast and in the eastern Pacific Ocean. US Southern Command says the campaign has resulted in the destruction of 64 speedboats, three \u201clow-profile\u201d ships and a semisubmersible craft. The latest strike comes as the Trump administration pursues deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama this month that Colombia, Guatemala and Honduras had agreed to allow the US to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador launched similar missions with the US in March. The Trump administration\u2019s boat bombing campaign began in early September and has left numerous survivors, but most of them have never been recovered. US Southern Command said in a separate statement on Monday that there have been more than 20 search and rescue efforts overall, almost all of which were unsuccessful. According to data compiled from the command\u2019s social media posts, the strikes have generated 28 survivors with only three people ever being rescued \u2013 one person during a strike in March who was transferred to the Costa Rican Coast Guard, and two wounded people who were later repatriated to their home countries of Ecuador and Colombia. The very first strike in September 2025 left two survivors who were killed in a second, follow-up strike. When that became public, it drew concern from some lawmakers and those who study military law. The White House insisted it was done \u201cin self-defense\u201d to ensure the boat was destroyed and in accordance with armed conflict laws. Despite the defense department framing the strikes as attacks against \u201cnarco-terrorism\u201d, it has provided little evidence on whether the vessels were actually transporting drugs. The attacks have been condemned as extrajudicial killings by the United Nations and other humanitarian organizations. According to a 2020 report by the US Drug Enforcement Administration, 74% of the cocaine reaching the US arrived through the Pacific while only 8% came from fast boats from the Caribbean. Critics have questioned the overall legality of the boat strikes as well as their effectiveness, in part because the fentanyl behind many fatal overdoses is typically trafficked to the US over land from "
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Life",
@@ -147,32 +146,32 @@
         "source": "guardian",
         "full_text": "More than 1,000 little penguins have received their first dose of bird flu vaccine in Victoria, in what is believed to be the world\u2019s largest vaccination program involving wild birds. Catherine Basterfield, the chief executive of Phillip Island Nature Parks, said vaccinations began early last week and were ramping up. \u201cThis is the first time anyone around the world has attempted something like this at this scale,\u201d she said. Sign up for the Breaking News Australia email \u201cIt is really tricky and penguins are difficult to handle, but we have very well trained people. \u201cThe penguins come up the beach, they\u2019re able to trap them in a little pen, and then move them into smaller pens to be able to then go through the vaccination administration process.\u201d About 5,000 birds across Phillip Island and St Kilda would receive two doses of the H5N1 vaccine, an effort that was only possible because penguins returned to the same burrows each night. \u201cEverybody loves little penguins,\u201d said the state\u2019s environment minister, Jaclyn Symes. \u201cThey\u2019re an iconic little creature, they\u2019re adorable, but they have a significant economic value to this region and to the state of Victoria.\u201d In recent nights, about 300 penguins were weighed, measured and microchipped, before being vaccinated and released. Those same birds would receive a second dose in three weeks\u2019 time. Little penguins are the world\u2019s smallest species of penguin \u2013 about a ruler\u2019s length in height \u2013 and found only in southern Australia and New Zealand. The birds, which are not listed as threatened under federal environment laws, are considered at \u201cvery high risk\u201d from the deadly bird flu, according to a national risk assessment. The population on Phillip Island is about 40,000 birds. The island\u2019s \u201cpenguin parade\u201d is a major tourist attraction, drawing about 700,000 visitors each year and contributing about $500m to the state\u2019s economy. The large-scale wildlife vaccination program was announced by the Victorian government on 12 August, with vaccines supplied by the federal agriculture department. Positive bird flu cases on Phillip Island, including one in a little penguin, have increased the sense of urgency, with the team working to vaccinate as many as possible over the coming weeks. South Australia also reported a confirmed case in a little penguin on Kangaroo Island on Sunday. On King Island in Tasmania, 51 of the animals died, with the deaths presumed to have been caused by bird flu, after one sample tested positive. An Arthur Rylah Institute report published last year said it would take 10 weeks for penguins to reach peak immunity, and that administering vaccines after H5N1 arrived could be \u201ctoo late, because significant mortality is likely to occur before adequate vaccine coverage is achieved\u201d. In a worst-case scenario, the report said, up to 16,000 little penguins could die. A federal agriculture spokesperson said vaccination was \u201cone tool\u201d that could reduce the impact on vulnerable native birds, but was \u201cnot a standalone solution\u201d. \u201cIt does not replace effective biosecurity, which remains critical.\u201d James Todd, Victoria\u2019s chief biodiversity officer, said vaccines weren\u2019t a \u201csilver bullet\u201d, and wouldn\u2019t be suitable for many of the hundreds of other wild species at risk from the virus. \u201cIn the case of little penguins, we know that they are at risk from H5, they\u2019re a colonial species that nest together. They are a seabird that will come in contact with other seabirds that carry the virus. And we also know that they\u2019re an iconic species that have high value to Victorians.\u201d Dr John Cockrem, an emeritus professor at Massey University in New Zealand, who researches little penguins, said H5 bird flu was an added threat to the species, which were already affected by severe storms, sea level rise and changes in food availability due to the climate crisis. \u201cSo avian flu then is a threat that has arisen and comes on top of other threats that the little penguins are facing, and will increasingly face"
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.376,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.328,
+        "High House Coin": 0.343,
+        "High House Shadow": 0.16,
+        "High House Life": 0.178,
+        "High House Iron": 0.097,
+        "High House Words": 0.306,
+        "High House Chains": 0.376
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "title": "USA vs. Canada",
+        "url": "https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html",
         "source": "nyt",
         "full_text": null
       },
@@ -181,43 +180,59 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.318,
+      "reversed": true,
+      "confidence": 0.309,
       "scores": {
-        "High House War": 0.091,
-        "High House Coin": 0.123,
-        "High House Shadow": 0.101,
-        "High House Life": 0.034,
-        "High House Iron": -0.006,
-        "High House Words": 0.318,
-        "High House Chains": 0.053
+        "High House War": 0.245,
+        "High House Coin": 0.184,
+        "High House Shadow": 0.151,
+        "High House Life": 0.038,
+        "High House Iron": 0.074,
+        "High House Words": 0.309,
+        "High House Chains": 0.171
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.997
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "El-Sayed Joins Fox News for Some Light Verbal Combat and a Pitch to Republicans",
-        "url": "https://www.nytimes.com/2026/08/24/us/abdul-el-sayed-jesse-watters-fox-news.html",
-        "source": "nyt",
+        "title": "With no friends left to burn, Trump is running out of diplomatic ammunition | Rafael Behr",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 4.574,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "BIGGEST CHALLENGE",
+      "actor_b": "THE IRANIAN BANK",
+      "relationship": "neutral",
+      "goldstein_avg": -0.048,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
     },
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.466,
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "THE IRANIAN BANK",
+      "actor_b": "CANADA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.005,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.481,
       "source": "gdelt_volume"
     }
   }
