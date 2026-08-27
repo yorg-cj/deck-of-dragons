@@ -1,35 +1,6 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.531,
-      "scores": {
-        "High House War": 0.081,
-        "High House Coin": 0.102,
-        "High House Shadow": 0.15,
-        "High House Life": 0.124,
-        "High House Iron": 0.531,
-        "High House Words": 0.086,
-        "High House Chains": 0.059
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "Why Enterprise AI's Biggest Challenge Isn't The Technology",
-        "url": "https://www.freepressjournal.in/focused-view/why-enterprise-ais-biggest-challenge-isnt-the-technology",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,122 +28,62 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.503,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.492,
       "scores": {
-        "High House War": 0.047,
-        "High House Coin": 0.503,
-        "High House Shadow": 0.129,
-        "High House Life": -0.065,
-        "High House Iron": 0.028,
-        "High House Words": 0.131,
-        "High House Chains": 0.272
+        "High House War": 0.046,
+        "High House Coin": 0.148,
+        "High House Shadow": 0.177,
+        "High House Life": 0.2,
+        "High House Iron": 0.492,
+        "High House Words": 0.002,
+        "High House Chains": 0.067
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.944
       },
       "article": {
-        "title": "What to Know About the Iranian Bank Singled Out in U.S. Economic War",
-        "url": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else ",
+        "url": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
+        "source": "guardian",
+        "full_text": "The debate around AI and datacentres is such that, to paraphrase Paul Keating, if you walked into any pet shop in Australia, the resident galah will be talking about it. I am on the record as being a sceptic of AI productivity booms, or the need to do all we can to make sure we are at the forefront of the AI revolution. Sure, there will be benefits in medical and scientific research. Does that require building datacentres in every vacant block of land in the country? And will medical and scientific research be the overarching use of these datacentres? Doubt it. Despite this, the one thing we are told is that it should lead to more economic growth. After all, that is just what happens when there is a boom in investment. Except, as I noted when the March GDP figures were released, the AI boom is not translating into anything that is leading to better living standards. I am not alone in being sceptical about this. The Australian Financial Review earlier this week asked: \u201cWe\u2019re told business investment is key to boosting productivity, but what if the spending involves importing computer equipment?\u201d This is the problem with the AI boom. The \u201cinvestment\u201d involves importing things like data processing chips, and any profits from the investment (should that even occur) flow overseas. Leaving us with \u2026 a lot of ugly, noisy, energy-hungry buildings? This is pertinent now because the June quarter GDP figures will be released next week. On Thursday we will get new investment figures, and government spending and trade figures will come next week. But the first set of GDP-related data was the June quarter construction figures released on Wednesday. In the quarter, overall construction fell 2.1% driven by a fall in engineering construction: If the graph does not display click here And while non-residential building work (which includes datacentres) increased, it was not enough in the three months of the June quarter to cancel out the fall in engineering work. This suggests that total construction activity will detract about 0.3% pts from the June quarter GDP figures, whereas it contributed about 0.5% to the March quarter. The good news is that, because the construction and building work at the end of last year and early part of this year was big enough, overall construction work is still having a positive impact on the annual growth of the economy: If the graph does not display click here But these figures suggest that if there is going to be an increase in GDP in June it will not come from construction work, but will likely again have to come from \u201cmachinery and equipment\u201d as was the case in March. That machinery and equipment is mostly those computer chips and air conditioners and other things going into the datacentres which are imported and which once installed generate little in the way of jobs or income for households. And yet the Reserve Bank of Australia has expressed concern that such investment is causing capacity constraints \u2013 that there is too much activity going on and inflation will go up as a result. You can understand them thinking that when we look at the total level of construction work (as opposed to the growth). In volume terms it is now higher than it was at the height of the mining boom: If the graph does not display click here Such a level would suggest Australia\u2019s construction sector is bursting at the seams and the RBA is right to raise rates to try to slow down all the investment in new buildings \u2013 especially residential ones. Were that the case, however, you would expect wages for construction workers to be absolutely taking off (as happened in 2004-2006). But that is not the case. In the June quarter the average wage of construction workers in the private sector rose at an annual rate of just 3.3% \u2013 barely above the overall average for the private sector of 3.2%: If the graph does not display click here One reason, aside from the reality that despite what you might read workers don\u2019t get whatever pay rise they dem"
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": true,
-      "confidence": 0.389,
-      "scores": {
-        "High House War": 0.389,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.324,
-        "High House Life": 0.061,
-        "High House Iron": 0.054,
-        "High House Words": 0.23,
-        "High House Chains": 0.148
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-        "url": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-        "source": "guardian",
-        "full_text": "The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing two people accused of drug trafficking. On Monday, US Southern Command (SouthCom) announced it \u201cexecuted a lethal kinetic strike on a low-profile vessel operating along established narco-trafficking routes in the Eastern Pacific\u201d. \u201cConfirmed intelligence revealed the vessel\u2019s active involvement in narco-trafficking. The operation killed two narco-terrorists,\u201d SouthCom added. Southern Command did not provide evidence for the vessel\u2019s alleged involvement in drug trafficking. In a statement on the strikes, Francis L Donovan, SouthCom\u2019s commander general, said: \u201cWe are committed to imposing total systemic friction on narco-terrorists \u2013 disrupting their operations, dismantling their leadership and eliminating cartel terror across the region.\u201d \u201cThis operation is a powerful demonstration of our lethal precision, overwhelming capability, and absolute resolve to protect the US homeland,\u201d Donovan added. A pixelated black-and-white video posted to SouthCom\u2019s X account on Monday showed a vessel moving through the water before it was struck by an explosion that produced a large flash of light. Monday\u2019s strike marks the latest in a series of US military strikes since the Donald Trump administration launched what it described as a campaign targeting \u201cnarco-terrorists\u201d smuggling drugs into the US, despite numerous reports indicating that the strikes have done little to stem the flow of drugs into the country. It brings the overall death toll to 223 people killed in 67 strikes during the nearly year-long US campaign of bombing alleged drug boats off Latin America\u2019s Caribbean coast and in the eastern Pacific Ocean. US Southern Command says the campaign has resulted in the destruction of 64 speedboats, three \u201clow-profile\u201d ships and a semisubmersible craft. The latest strike comes as the Trump administration pursues deals with allied nations to extend its offensive to land across multiple Latin American countries. Defense Secretary Pete Hegseth said during a visit to Panama this month that Colombia, Guatemala and Honduras had agreed to allow the US to carry out joint military operations against criminal groups on their soil. Guatemala denied reaching such a deal. Ecuador launched similar missions with the US in March. The Trump administration\u2019s boat bombing campaign began in early September and has left numerous survivors, but most of them have never been recovered. US Southern Command said in a separate statement on Monday that there have been more than 20 search and rescue efforts overall, almost all of which were unsuccessful. According to data compiled from the command\u2019s social media posts, the strikes have generated 28 survivors with only three people ever being rescued \u2013 one person during a strike in March who was transferred to the Costa Rican Coast Guard, and two wounded people who were later repatriated to their home countries of Ecuador and Colombia. The very first strike in September 2025 left two survivors who were killed in a second, follow-up strike. When that became public, it drew concern from some lawmakers and those who study military law. The White House insisted it was done \u201cin self-defense\u201d to ensure the boat was destroyed and in accordance with armed conflict laws. Despite the defense department framing the strikes as attacks against \u201cnarco-terrorism\u201d, it has provided little evidence on whether the vessels were actually transporting drugs. The attacks have been condemned as extrajudicial killings by the United Nations and other humanitarian organizations. According to a 2020 report by the US Drug Enforcement Administration, 74% of the cocaine reaching the US arrived through the Pacific while only 8% came from fast boats from the Caribbean. Critics have questioned the overall legality of the boat strikes as well as their effectiveness, in part because the fentanyl behind many fatal overdoses is typically trafficked to the US over land from "
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
       "reversed": false,
-      "confidence": 0.384,
+      "confidence": 0.423,
       "scores": {
-        "High House War": -0.003,
-        "High House Coin": -0.027,
-        "High House Shadow": 0.077,
-        "High House Life": 0.384,
-        "High House Iron": 0.01,
-        "High House Words": -0.042,
-        "High House Chains": -0.025
+        "High House War": 0.423,
+        "High House Coin": 0.151,
+        "High House Shadow": 0.149,
+        "High House Life": 0.194,
+        "High House Iron": 0.094,
+        "High House Words": 0.211,
+        "High House Chains": 0.237
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.712
+        "sentiment_score": 0.946
       },
       "article": {
-        "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It\u2019s \u2018really tricky\u2019 but there is a way",
-        "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
-        "source": "guardian",
-        "full_text": "More than 1,000 little penguins have received their first dose of bird flu vaccine in Victoria, in what is believed to be the world\u2019s largest vaccination program involving wild birds. Catherine Basterfield, the chief executive of Phillip Island Nature Parks, said vaccinations began early last week and were ramping up. \u201cThis is the first time anyone around the world has attempted something like this at this scale,\u201d she said. Sign up for the Breaking News Australia email \u201cIt is really tricky and penguins are difficult to handle, but we have very well trained people. \u201cThe penguins come up the beach, they\u2019re able to trap them in a little pen, and then move them into smaller pens to be able to then go through the vaccination administration process.\u201d About 5,000 birds across Phillip Island and St Kilda would receive two doses of the H5N1 vaccine, an effort that was only possible because penguins returned to the same burrows each night. \u201cEverybody loves little penguins,\u201d said the state\u2019s environment minister, Jaclyn Symes. \u201cThey\u2019re an iconic little creature, they\u2019re adorable, but they have a significant economic value to this region and to the state of Victoria.\u201d In recent nights, about 300 penguins were weighed, measured and microchipped, before being vaccinated and released. Those same birds would receive a second dose in three weeks\u2019 time. Little penguins are the world\u2019s smallest species of penguin \u2013 about a ruler\u2019s length in height \u2013 and found only in southern Australia and New Zealand. The birds, which are not listed as threatened under federal environment laws, are considered at \u201cvery high risk\u201d from the deadly bird flu, according to a national risk assessment. The population on Phillip Island is about 40,000 birds. The island\u2019s \u201cpenguin parade\u201d is a major tourist attraction, drawing about 700,000 visitors each year and contributing about $500m to the state\u2019s economy. The large-scale wildlife vaccination program was announced by the Victorian government on 12 August, with vaccines supplied by the federal agriculture department. Positive bird flu cases on Phillip Island, including one in a little penguin, have increased the sense of urgency, with the team working to vaccinate as many as possible over the coming weeks. South Australia also reported a confirmed case in a little penguin on Kangaroo Island on Sunday. On King Island in Tasmania, 51 of the animals died, with the deaths presumed to have been caused by bird flu, after one sample tested positive. An Arthur Rylah Institute report published last year said it would take 10 weeks for penguins to reach peak immunity, and that administering vaccines after H5N1 arrived could be \u201ctoo late, because significant mortality is likely to occur before adequate vaccine coverage is achieved\u201d. In a worst-case scenario, the report said, up to 16,000 little penguins could die. A federal agriculture spokesperson said vaccination was \u201cone tool\u201d that could reduce the impact on vulnerable native birds, but was \u201cnot a standalone solution\u201d. \u201cIt does not replace effective biosecurity, which remains critical.\u201d James Todd, Victoria\u2019s chief biodiversity officer, said vaccines weren\u2019t a \u201csilver bullet\u201d, and wouldn\u2019t be suitable for many of the hundreds of other wild species at risk from the virus. \u201cIn the case of little penguins, we know that they are at risk from H5, they\u2019re a colonial species that nest together. They are a seabird that will come in contact with other seabirds that carry the virus. And we also know that they\u2019re an iconic species that have high value to Victorians.\u201d Dr John Cockrem, an emeritus professor at Massey University in New Zealand, who researches little penguins, said H5 bird flu was an added threat to the species, which were already affected by severe storms, sea level rise and changes in food availability due to the climate crisis. \u201cSo avian flu then is a threat that has arisen and comes on top of other threats that the little penguins are facing, and will increasingly face"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.376,
-      "scores": {
-        "High House War": 0.328,
-        "High House Coin": 0.343,
-        "High House Shadow": 0.16,
-        "High House Life": 0.178,
-        "High House Iron": 0.097,
-        "High House Words": 0.306,
-        "High House Chains": 0.376
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "USA vs. Canada",
-        "url": "https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html",
-        "source": "nyt",
+        "title": "From Argument to Alignment: What Afghanistan&#8217;s Northern Alliance Can Teach Ethiopia&#8217;s Emerging Coalition",
+        "url": "https://borkena.com/ethiopia-what-afghanistans-northern-alliance-can-teach-ethiopias-emerging-coalition",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -181,58 +92,136 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.309,
+      "confidence": 0.382,
       "scores": {
-        "High House War": 0.245,
-        "High House Coin": 0.184,
-        "High House Shadow": 0.151,
-        "High House Life": 0.038,
-        "High House Iron": 0.074,
-        "High House Words": 0.309,
-        "High House Chains": 0.171
+        "High House War": 0.108,
+        "High House Coin": 0.132,
+        "High House Shadow": 0.314,
+        "High House Life": 0.107,
+        "High House Iron": 0.099,
+        "High House Words": 0.382,
+        "High House Chains": 0.202
       },
       "reversal": {
         "reversed": true,
         "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "With no friends left to burn, Trump is running out of diplomatic ammunition | Rafael Behr",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/26/donald-trump-friends-diplomatic-iran-war-us-president",
+        "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "source": "guardian",
+        "full_text": "A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it. The site gives Israel\u2019s position on subjects including the torture of Palestinian prisoners, Israeli war crimes and whether Israel has deliberately starved Palestinians in Gaza, all presented as neutral research. The New York media production company Piro Inc filed the site with the US justice department this month under the Foreign Agents Registration Act (Fara), a 1938 law that requires anyone working for a foreign government to formally disclose it, as material it distributes for the Israeli government. The site publishes in the name of the Hanover Institute for Public Policy, which apparently does not exist as a legal entity in any jurisdiction, has no physical address, and carries no named staff and no bylines on any of its reports. Its own terms of use are governed by the laws of \u201cthe state in which the Institute is established\u201d, which they decline to name. The existence of the site was first reported on 14 August. Since then the institute has added a page headed funding, which states: \u201cAn earlier version of this page said the Institute operated without external funding, and that was true when it was written.\u201d The site is one part of a broader effort, financed by tens of millions of dollars from the Israeli government and routed through third parties including the European advertising group Havas Media, to prime chatbots to make Israel\u2019s arguments for it. A contract between Havas and another American firm working on the campaign commits it to the \u201cdeployment of websites and content to deliver GPT framing results on GPT conversations\u201d. The Guardian contacted Piro Inc, Havas Media and the Israeli government advertising agency LaPam for comment. Comment was also sought via a contact email address published on the Hanover Institute website. It comes at a point when Israel\u2019s standing in US public opinion has collapsed, and when Israeli officials have begun briefing media outlets that money spent on so-called \u201cHasbara\u201d efforts at public diplomacy overseas has been wasted. The site According to a Guardian analysis, between 6 and 14 August the Hanover Institute published 124 reports totaling more than 560,000 words, an average of about 4,500 words each. On 12 and 13 August alone it produced 73 reports, amounting to almost 354,000 words in two days. Nothing has been published since the first reports about the Hanover Institute. All but one of the 124 headlines on the website opens with a question resembling one that a user might type into a chatbot, including \u201cIs Anti-Zionism Antisemitism?\u201d, \u201cDid Israel Expel Palestinians From Their Land?\u201d, \u201cIs Israel Carrying Out a Genocide in Gaza?\u201d The reports are presented in a quasi-academic manner and are punctiliously sourced, with citations including the World Bank, UN agencies, the Palestinian Central Bureau of Statistics, Amnesty International and the text of the Genocide Convention. Nick Cleveland-Stout, a research associate at the Quincy Institute who has reported on the site, told the Guardian that his first impression was of something impressive. \u201cIt succeeds in masquerading as very academic \u2013 the website design, the logos, everything just looks good. But the more you read it, you\u2019re able to realise that a lot of it makes no sense.\u201d For example, the information the Hanover Institute site presents is persistently framed to blunt criticism of Israel. Where human rights organisations have concluded that Israel is committing genocide or apartheid, the reports reliably observe that no court has entered a verdict on the claim \u2013 a formulation that appears in 20 of the 124 reports according to the Guardian\u2019s count. Casualty and aid figures are attributed to \u201ca party to the events\u201d, a caveat used in 55 reports and applied to Israel\u2019s own counts as rea"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.382,
+      "scores": {
+        "High House War": 0.089,
+        "High House Coin": 0.382,
+        "High House Shadow": 0.086,
+        "High House Life": 0.043,
+        "High House Iron": 0.134,
+        "High House Words": 0.058,
+        "High House Chains": 0.086
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.869
+      },
+      "article": {
+        "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters \u2013 as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
+        "source": "guardian",
+        "full_text": "With that, it\u2019s time to wrap up. Here are our main stories today: Thank you for reading. We\u2019ll be back tomorrow. Bye! \u2013 JK On Wall Street, share indices have risen, boosted by technology stocks ahead of results from the AI heavyweight Nvidia and US inflation data on Wednesday. The Nasdaq rose 171 points, or 0.7%, at the open, while the Dow Jones advanced 180 points, or 0.3%, and the S&amp;P 500 added nearly 30 points, or 0.37%. Over here, the FTSE 100 index in London dipped 16 points or 0.15% to 10,838. Germany\u2019s Dax climbed 0.65, France\u2019s CAC was flat, Italy\u2019s FTSE MIB edged 0.2% higher and Spain\u2019s Ibex dropped nearly 0.4%. Oil prices have fallen, with Brent trading below $90 a barrel, as markets shrugged off the threat of heavy US sanctions against Iran and countries that maintain economic ties with Tehran. Brent fell 3.2%, or nearly $3, to $89.21 a barrel. Even though US Treasury secretary Scott Bessent on Monday threatened an \u201ceconomic D-day\u201d against Iran, Neil Wilson, investor strategist at Saxo UK, said: European stock markets rebounded early Tuesday with some relief evident from the lack of any material increase in the economic pressure on Iran. Spot gold retreated from a three-month high of nearly $4,700 an ounce and is now down almost 1% at $4,605 an ounce. US house prices rose 0.2% in June, but some analysts say the market will lose momentum heading into the autumn. The latest Case-Shiller house price index for 20 cities in the US showed a 0.2% monthly rise, matching May\u2019s gain, and taking annual house price inflation up to 2.1%, from 1.6%. The three-month annualised rate was slightly weaker at 1.7%. Thomas Ryan, senior North America economist at Capital Economics, said: Even though the 0.2% m/m rise in house prices in June was stronger than we expected, we remain reasonably confident that prices will lose momentum heading into the third quarter as the backward-looking Case-Shiller index catches up with mortgage rates rising towards 7% over the summer (from 6.2% in February). We expect prices to be flat over 2026 as a whole. We expect house prices to start falling again, although the declines may not show up in the data for at least several months. The carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil\u2019s UK emissions, analysis has revealed. Experts have said this demonstrates the \u201cserious threat\u201d datacentres pose to the UK\u2019s legally binding climate goals. Analysis by the non-profit group Foxglove reveals that when fully operational, the Wapseys Wood datacentre in Buckinghamshire and the Quest Park datacentre in Bedfordshire will use 1.3GW of power and will produce more than 4.5m tonnes of carbon emissions. ExxonMobil emitted 3.9m tonnes in 2023, according to the global energy thinktank Ember. AI datacentres use a massive amount of electricity to power servers and cooling equipment, and to run facility systems. There are currently 315 datacentres in the queue to connect to the UK\u2019s electricity grid, representing 73GW of demand. This is almost double the peak winter energy demand for the entire UK. Because of the long wait to connect to the grid, the Wapseys Wood and Quest Park datacentres are seeking to build their own on-site gas-fired power stations. Based on government figures on the carbon intensity of electricity generation, Foxglove has calculated these projects will produce 4.577m tonnes of carbon emissions per year. A government spokesperson said these figures were \u201cmisleading\u201d because of the assumption that both projects will run at 100% utilisation from day one, which they said was \u201cnot accurate\u201d. Tom Hegarty, head of communications at Foxglove, said assuming a 100% utilisation rate followed standard industry practice. Europe\u2019s intense heatwaves could hit insurers\u2019 earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&amp;P has said. While a long summer of extreme heat wil"
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.376,
+      "scores": {
+        "High House War": 0.068,
+        "High House Coin": 0.284,
+        "High House Shadow": 0.155,
+        "High House Life": 0.051,
+        "High House Iron": -0.007,
+        "High House Words": 0.272,
+        "High House Chains": 0.376
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Burnham\u2019s expected UK ban on Israeli settlement goods draws broad support",
+        "url": "https://www.aljazeera.com/news/2026/8/27/do-more-than-just-condemn?traffic_source=rss",
         "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.375,
+      "scores": {
+        "High House War": 0.038,
+        "High House Coin": -0.013,
+        "High House Shadow": 0.087,
+        "High House Life": 0.375,
+        "High House Iron": 0.09,
+        "High House Words": 0.101,
+        "High House Chains": 0.043
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.959
+      },
+      "article": {
+        "title": "MAHA Moms Take On Coal",
+        "url": "https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "BIGGEST CHALLENGE",
-      "actor_b": "THE IRANIAN BANK",
-      "relationship": "neutral",
-      "goldstein_avg": -0.048,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "THE IRANIAN BANK",
-      "actor_b": "CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.005,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
     "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.87,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 1.481,
+      "trend_ratio": 3.939,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.171,
       "source": "gdelt_volume"
     }
   }
