@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,122 +60,33 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.423,
-      "scores": {
-        "High House War": 0.423,
-        "High House Coin": 0.151,
-        "High House Shadow": 0.149,
-        "High House Life": 0.194,
-        "High House Iron": 0.094,
-        "High House Words": 0.211,
-        "High House Chains": 0.237
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.946
-      },
-      "article": {
-        "title": "From Argument to Alignment: What Afghanistan&#8217;s Northern Alliance Can Teach Ethiopia&#8217;s Emerging Coalition",
-        "url": "https://borkena.com/ethiopia-what-afghanistans-northern-alliance-can-teach-ethiopias-emerging-coalition",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.382,
-      "scores": {
-        "High House War": 0.108,
-        "High House Coin": 0.132,
-        "High House Shadow": 0.314,
-        "High House Life": 0.107,
-        "High House Iron": 0.099,
-        "High House Words": 0.382,
-        "High House Chains": 0.202
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-        "source": "guardian",
-        "full_text": "A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it. The site gives Israel\u2019s position on subjects including the torture of Palestinian prisoners, Israeli war crimes and whether Israel has deliberately starved Palestinians in Gaza, all presented as neutral research. The New York media production company Piro Inc filed the site with the US justice department this month under the Foreign Agents Registration Act (Fara), a 1938 law that requires anyone working for a foreign government to formally disclose it, as material it distributes for the Israeli government. The site publishes in the name of the Hanover Institute for Public Policy, which apparently does not exist as a legal entity in any jurisdiction, has no physical address, and carries no named staff and no bylines on any of its reports. Its own terms of use are governed by the laws of \u201cthe state in which the Institute is established\u201d, which they decline to name. The existence of the site was first reported on 14 August. Since then the institute has added a page headed funding, which states: \u201cAn earlier version of this page said the Institute operated without external funding, and that was true when it was written.\u201d The site is one part of a broader effort, financed by tens of millions of dollars from the Israeli government and routed through third parties including the European advertising group Havas Media, to prime chatbots to make Israel\u2019s arguments for it. A contract between Havas and another American firm working on the campaign commits it to the \u201cdeployment of websites and content to deliver GPT framing results on GPT conversations\u201d. The Guardian contacted Piro Inc, Havas Media and the Israeli government advertising agency LaPam for comment. Comment was also sought via a contact email address published on the Hanover Institute website. It comes at a point when Israel\u2019s standing in US public opinion has collapsed, and when Israeli officials have begun briefing media outlets that money spent on so-called \u201cHasbara\u201d efforts at public diplomacy overseas has been wasted. The site According to a Guardian analysis, between 6 and 14 August the Hanover Institute published 124 reports totaling more than 560,000 words, an average of about 4,500 words each. On 12 and 13 August alone it produced 73 reports, amounting to almost 354,000 words in two days. Nothing has been published since the first reports about the Hanover Institute. All but one of the 124 headlines on the website opens with a question resembling one that a user might type into a chatbot, including \u201cIs Anti-Zionism Antisemitism?\u201d, \u201cDid Israel Expel Palestinians From Their Land?\u201d, \u201cIs Israel Carrying Out a Genocide in Gaza?\u201d The reports are presented in a quasi-academic manner and are punctiliously sourced, with citations including the World Bank, UN agencies, the Palestinian Central Bureau of Statistics, Amnesty International and the text of the Genocide Convention. Nick Cleveland-Stout, a research associate at the Quincy Institute who has reported on the site, told the Guardian that his first impression was of something impressive. \u201cIt succeeds in masquerading as very academic \u2013 the website design, the logos, everything just looks good. But the more you read it, you\u2019re able to realise that a lot of it makes no sense.\u201d For example, the information the Hanover Institute site presents is persistently framed to blunt criticism of Israel. Where human rights organisations have concluded that Israel is committing genocide or apartheid, the reports reliably observe that no court has entered a verdict on the claim \u2013 a formulation that appears in 20 of the 124 reports according to the Guardian\u2019s count. Casualty and aid figures are attributed to \u201ca party to the events\u201d, a caveat used in 55 reports and applied to Israel\u2019s own counts as rea"
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.382,
-      "scores": {
-        "High House War": 0.089,
-        "High House Coin": 0.382,
-        "High House Shadow": 0.086,
-        "High House Life": 0.043,
-        "High House Iron": 0.134,
-        "High House Words": 0.058,
-        "High House Chains": 0.086
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.869
-      },
-      "article": {
-        "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters \u2013 as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-        "source": "guardian",
-        "full_text": "With that, it\u2019s time to wrap up. Here are our main stories today: Thank you for reading. We\u2019ll be back tomorrow. Bye! \u2013 JK On Wall Street, share indices have risen, boosted by technology stocks ahead of results from the AI heavyweight Nvidia and US inflation data on Wednesday. The Nasdaq rose 171 points, or 0.7%, at the open, while the Dow Jones advanced 180 points, or 0.3%, and the S&amp;P 500 added nearly 30 points, or 0.37%. Over here, the FTSE 100 index in London dipped 16 points or 0.15% to 10,838. Germany\u2019s Dax climbed 0.65, France\u2019s CAC was flat, Italy\u2019s FTSE MIB edged 0.2% higher and Spain\u2019s Ibex dropped nearly 0.4%. Oil prices have fallen, with Brent trading below $90 a barrel, as markets shrugged off the threat of heavy US sanctions against Iran and countries that maintain economic ties with Tehran. Brent fell 3.2%, or nearly $3, to $89.21 a barrel. Even though US Treasury secretary Scott Bessent on Monday threatened an \u201ceconomic D-day\u201d against Iran, Neil Wilson, investor strategist at Saxo UK, said: European stock markets rebounded early Tuesday with some relief evident from the lack of any material increase in the economic pressure on Iran. Spot gold retreated from a three-month high of nearly $4,700 an ounce and is now down almost 1% at $4,605 an ounce. US house prices rose 0.2% in June, but some analysts say the market will lose momentum heading into the autumn. The latest Case-Shiller house price index for 20 cities in the US showed a 0.2% monthly rise, matching May\u2019s gain, and taking annual house price inflation up to 2.1%, from 1.6%. The three-month annualised rate was slightly weaker at 1.7%. Thomas Ryan, senior North America economist at Capital Economics, said: Even though the 0.2% m/m rise in house prices in June was stronger than we expected, we remain reasonably confident that prices will lose momentum heading into the third quarter as the backward-looking Case-Shiller index catches up with mortgage rates rising towards 7% over the summer (from 6.2% in February). We expect prices to be flat over 2026 as a whole. We expect house prices to start falling again, although the declines may not show up in the data for at least several months. The carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil\u2019s UK emissions, analysis has revealed. Experts have said this demonstrates the \u201cserious threat\u201d datacentres pose to the UK\u2019s legally binding climate goals. Analysis by the non-profit group Foxglove reveals that when fully operational, the Wapseys Wood datacentre in Buckinghamshire and the Quest Park datacentre in Bedfordshire will use 1.3GW of power and will produce more than 4.5m tonnes of carbon emissions. ExxonMobil emitted 3.9m tonnes in 2023, according to the global energy thinktank Ember. AI datacentres use a massive amount of electricity to power servers and cooling equipment, and to run facility systems. There are currently 315 datacentres in the queue to connect to the UK\u2019s electricity grid, representing 73GW of demand. This is almost double the peak winter energy demand for the entire UK. Because of the long wait to connect to the grid, the Wapseys Wood and Quest Park datacentres are seeking to build their own on-site gas-fired power stations. Based on government figures on the carbon intensity of electricity generation, Foxglove has calculated these projects will produce 4.577m tonnes of carbon emissions per year. A government spokesperson said these figures were \u201cmisleading\u201d because of the assumption that both projects will run at 100% utilisation from day one, which they said was \u201cnot accurate\u201d. Tom Hegarty, head of communications at Foxglove, said assuming a 100% utilisation rate followed standard industry practice. Europe\u2019s intense heatwaves could hit insurers\u2019 earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&amp;P has said. While a long summer of extreme heat wil"
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.376,
+      "confidence": 0.424,
       "scores": {
-        "High House War": 0.068,
-        "High House Coin": 0.284,
-        "High House Shadow": 0.155,
-        "High House Life": 0.051,
-        "High House Iron": -0.007,
-        "High House Words": 0.272,
-        "High House Chains": 0.376
+        "High House War": 0.199,
+        "High House Coin": 0.424,
+        "High House Shadow": 0.268,
+        "High House Life": 0.122,
+        "High House Iron": 0.066,
+        "High House Words": 0.205,
+        "High House Chains": 0.214
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.549
       },
       "article": {
-        "title": "Burnham\u2019s expected UK ban on Israeli settlement goods draws broad support",
-        "url": "https://www.aljazeera.com/news/2026/8/27/do-more-than-just-condemn?traffic_source=rss",
-        "source": "worldnews",
+        "title": "Trump vs. the Bond Market",
+        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -205,23 +116,136 @@
         "full_text": null
       },
       "position": "WANING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.373,
+        "High House Coin": 0.245,
+        "High House Shadow": 0.248,
+        "High House Life": 0.053,
+        "High House Iron": 0.291,
+        "High House Words": 0.249,
+        "High House Chains": 0.277
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Herald",
+      "reversed": true,
+      "confidence": 0.327,
+      "scores": {
+        "High House War": 0.163,
+        "High House Coin": 0.154,
+        "High House Shadow": 0.202,
+        "High House Life": 0.058,
+        "High House Iron": 0.008,
+        "High House Words": 0.327,
+        "High House Chains": 0.131
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "3 Former Stars and Stripes Journalists Sue Pentagon Over Firings",
+        "url": "https://www.theepochtimes.com/us/3-former-stars-and-stripes-journalists-sue-pentagon-over-firings-6080628?cmt=1",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "CHINA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.867,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "STRIPES JOURNALISTS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.26,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "STRIPES JOURNALISTS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.076,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.87,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 3.939,
-      "source": "gdelt_volume"
-    },
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.171,
+      "trend_ratio": 0.191,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.973,
       "source": "gdelt_volume"
     }
   }
