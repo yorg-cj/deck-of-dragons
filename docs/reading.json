@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "cards": [
     {
       "house": "High House Shadow",
@@ -34,28 +34,28 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.492,
+      "confidence": 0.524,
       "scores": {
-        "High House War": 0.046,
-        "High House Coin": 0.148,
-        "High House Shadow": 0.177,
-        "High House Life": 0.2,
-        "High House Iron": 0.492,
-        "High House Words": 0.002,
-        "High House Chains": 0.067
+        "High House War": 0.142,
+        "High House Coin": 0.177,
+        "High House Shadow": 0.213,
+        "High House Life": 0.133,
+        "High House Iron": 0.524,
+        "High House Words": 0.041,
+        "High House Chains": 0.068
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.944
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.804
       },
       "article": {
-        "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else ",
-        "url": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
-        "source": "guardian",
-        "full_text": "The debate around AI and datacentres is such that, to paraphrase Paul Keating, if you walked into any pet shop in Australia, the resident galah will be talking about it. I am on the record as being a sceptic of AI productivity booms, or the need to do all we can to make sure we are at the forefront of the AI revolution. Sure, there will be benefits in medical and scientific research. Does that require building datacentres in every vacant block of land in the country? And will medical and scientific research be the overarching use of these datacentres? Doubt it. Despite this, the one thing we are told is that it should lead to more economic growth. After all, that is just what happens when there is a boom in investment. Except, as I noted when the March GDP figures were released, the AI boom is not translating into anything that is leading to better living standards. I am not alone in being sceptical about this. The Australian Financial Review earlier this week asked: \u201cWe\u2019re told business investment is key to boosting productivity, but what if the spending involves importing computer equipment?\u201d This is the problem with the AI boom. The \u201cinvestment\u201d involves importing things like data processing chips, and any profits from the investment (should that even occur) flow overseas. Leaving us with \u2026 a lot of ugly, noisy, energy-hungry buildings? This is pertinent now because the June quarter GDP figures will be released next week. On Thursday we will get new investment figures, and government spending and trade figures will come next week. But the first set of GDP-related data was the June quarter construction figures released on Wednesday. In the quarter, overall construction fell 2.1% driven by a fall in engineering construction: If the graph does not display click here And while non-residential building work (which includes datacentres) increased, it was not enough in the three months of the June quarter to cancel out the fall in engineering work. This suggests that total construction activity will detract about 0.3% pts from the June quarter GDP figures, whereas it contributed about 0.5% to the March quarter. The good news is that, because the construction and building work at the end of last year and early part of this year was big enough, overall construction work is still having a positive impact on the annual growth of the economy: If the graph does not display click here But these figures suggest that if there is going to be an increase in GDP in June it will not come from construction work, but will likely again have to come from \u201cmachinery and equipment\u201d as was the case in March. That machinery and equipment is mostly those computer chips and air conditioners and other things going into the datacentres which are imported and which once installed generate little in the way of jobs or income for households. And yet the Reserve Bank of Australia has expressed concern that such investment is causing capacity constraints \u2013 that there is too much activity going on and inflation will go up as a result. You can understand them thinking that when we look at the total level of construction work (as opposed to the growth). In volume terms it is now higher than it was at the height of the mining boom: If the graph does not display click here Such a level would suggest Australia\u2019s construction sector is bursting at the seams and the RBA is right to raise rates to try to slow down all the investment in new buildings \u2013 especially residential ones. Were that the case, however, you would expect wages for construction workers to be absolutely taking off (as happened in 2004-2006). But that is not the case. In the June quarter the average wage of construction workers in the private sector rose at an annual rate of just 3.3% \u2013 barely above the overall average for the private sector of 3.2%: If the graph does not display click here One reason, aside from the reality that despite what you might read workers don\u2019t get whatever pay rise they dem"
+        "title": "AI-fuelled space boom could attract up to $200 billion in global investment",
+        "url": "https://indiantelevision.com/satellites/ai-fuelled-space-boom-could-attract-up-to-200-billion-in-global-investment",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "ASCENDING"
     },
@@ -147,59 +147,59 @@
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.311,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.164,
+        "High House Coin": 0.079,
+        "High House Shadow": 0.141,
+        "High House Life": 0.064,
+        "High House Iron": 0.018,
+        "High House Words": 0.311,
+        "High House Chains": 0.127
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
+        "title": "Kremlin Says Peace Talks on \u2018Deep Pause\u2019",
+        "url": "https://www.kyivpost.com/post/83336",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Herald",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.327,
+      "confidence": 0.297,
       "scores": {
-        "High House War": 0.163,
-        "High House Coin": 0.154,
-        "High House Shadow": 0.202,
-        "High House Life": 0.058,
-        "High House Iron": 0.008,
-        "High House Words": 0.327,
-        "High House Chains": 0.131
+        "High House War": 0.104,
+        "High House Coin": 0.22,
+        "High House Shadow": 0.099,
+        "High House Life": 0.116,
+        "High House Iron": 0.017,
+        "High House Words": 0.228,
+        "High House Chains": 0.297
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "3 Former Stars and Stripes Journalists Sue Pentagon Over Firings",
-        "url": "https://www.theepochtimes.com/us/3-former-stars-and-stripes-journalists-sue-pentagon-over-firings-6080628?cmt=1",
-        "source": "worldnews",
+        "title": " \u00bf Hacia d\u00f3nde va el mundo tras la era del multilateralismo ? ",
+        "url": "https://www.dw.com/es/hacia-d%C3%B3nde-se-dirige-el-mundo-tras-la-era-del-multilateralismo/a-78537621",
+        "source": "gdelt_doc",
         "full_text": null
       },
       "position": "EMERGING"
@@ -212,7 +212,7 @@
       "actor_a": "TRUMP",
       "actor_b": "CHINA",
       "relationship": "opposed",
-      "goldstein_avg": -2.867,
+      "goldstein_avg": -2.75,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -220,9 +220,9 @@
       "house_a": "High House Coin",
       "house_b": "High House Words",
       "actor_a": "TRUMP",
-      "actor_b": "STRIPES JOURNALISTS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.26,
+      "actor_b": "KREMLIN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.366,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -230,9 +230,9 @@
       "house_a": "High House War",
       "house_b": "High House Words",
       "actor_a": "CHINA",
-      "actor_b": "STRIPES JOURNALISTS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.076,
+      "actor_b": "KREMLIN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.074,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -240,12 +240,7 @@
   "house_trends": {
     "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.191,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.973,
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
