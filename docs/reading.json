@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,58 +31,58 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Coin",
+      "title": "The Throne",
       "reversed": false,
-      "confidence": 0.524,
+      "confidence": 0.45,
       "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.177,
-        "High House Shadow": 0.213,
-        "High House Life": 0.133,
-        "High House Iron": 0.524,
-        "High House Words": 0.041,
-        "High House Chains": 0.068
+        "High House War": 0.08,
+        "High House Coin": 0.45,
+        "High House Shadow": 0.111,
+        "High House Life": 0.097,
+        "High House Iron": 0.09,
+        "High House Words": 0.125,
+        "High House Chains": 0.369
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.804
+        "sentiment_score": 0.704
       },
       "article": {
-        "title": "AI-fuelled space boom could attract up to $200 billion in global investment",
-        "url": "https://indiantelevision.com/satellites/ai-fuelled-space-boom-could-attract-up-to-200-billion-in-global-investment",
+        "title": "Tariffs, Iran and $40 trillion debt: Bessent faces major G20 diplomacy test",
+        "url": "https://news.az/news/tariffs-iran-and-40-trillion-debt-bessent-faces-major-g20-diplomacy-test",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.424,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.438,
       "scores": {
-        "High House War": 0.199,
-        "High House Coin": 0.424,
-        "High House Shadow": 0.268,
-        "High House Life": 0.122,
-        "High House Iron": 0.066,
-        "High House Words": 0.205,
-        "High House Chains": 0.214
+        "High House War": 0.119,
+        "High House Coin": 0.29,
+        "High House Shadow": 0.232,
+        "High House Life": 0.123,
+        "High House Iron": 0.438,
+        "High House Words": 0.123,
+        "High House Chains": 0.174
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.538,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.549
+        "sentiment_score": 0.979
       },
       "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "title": "With A.I. Riches at Stake, Pressures Mount to Share the Wealth",
+        "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
         "source": "nyt",
         "full_text": null
       },
@@ -115,7 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -144,85 +144,87 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.311,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.286,
       "scores": {
-        "High House War": 0.164,
-        "High House Coin": 0.079,
-        "High House Shadow": 0.141,
-        "High House Life": 0.064,
-        "High House Iron": 0.018,
-        "High House Words": 0.311,
-        "High House Chains": 0.127
+        "High House War": 0.191,
+        "High House Coin": 0.268,
+        "High House Shadow": 0.143,
+        "High House Life": 0.148,
+        "High House Iron": -0.006,
+        "High House Words": 0.284,
+        "High House Chains": 0.286
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.774
       },
       "article": {
-        "title": "Kremlin Says Peace Talks on \u2018Deep Pause\u2019",
-        "url": "https://www.kyivpost.com/post/83336",
+        "title": "ABC Weekly Foreign Policy Brief \u2014 Edition 2(2026)",
+        "url": "https://abclive.in/2026/08/30/india-foreign-policy-brief-23-29-august-202",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.297,
+      "confidence": 0.282,
       "scores": {
-        "High House War": 0.104,
-        "High House Coin": 0.22,
-        "High House Shadow": 0.099,
-        "High House Life": 0.116,
-        "High House Iron": 0.017,
-        "High House Words": 0.228,
-        "High House Chains": 0.297
+        "High House War": 0.048,
+        "High House Coin": 0.189,
+        "High House Shadow": 0.254,
+        "High House Life": -0.015,
+        "High House Iron": -0.094,
+        "High House Words": 0.282,
+        "High House Chains": 0.225
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "banned"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.981
+        "sentiment_score": 0.986
       },
       "article": {
-        "title": " \u00bf Hacia d\u00f3nde va el mundo tras la era del multilateralismo ? ",
-        "url": "https://www.dw.com/es/hacia-d%C3%B3nde-se-dirige-el-mundo-tras-la-era-del-multilateralismo/a-78537621",
-        "source": "gdelt_doc",
-        "full_text": null
+        "title": "In South Korea, it is illegal to travel to dangerous countries. Journalists say it\u2019s making their work impossible",
+        "url": "https://www.theguardian.com/world/2026/aug/29/in-south-korea-it-is-to-travel-to-dangerous-countries-journalists-say-its-making-their-work-impossible",
+        "source": "guardian",
+        "full_text": "Shortly after Russia\u2019s full-scale invasion of Ukraine in February 2022, freelance photographer Jang Jinyoung crossed from Poland into Lviv and travelled on to Kyiv, where he spent a fortnight documenting the war. South Korea\u2019s foreign ministry had designated Ukraine off-limits days earlier, making unauthorised visits a criminal offence. He knew he was breaking the law but went anyway, as no Korean journalist had yet reported from inside the country. \u201cEverything back home was being relayed through foreign outlets. I wanted to see it more directly for myself,\u201d Jang told the Guardian. On his return he was placed under criminal investigation. After refusing to accept a summary fine, a court north-west of Seoul this month convicted him and fined him 5m won (US$3,600). Many countries release travel advisories for their citizens, but South Korea is one of the few developed democracies that criminalises visits to blacklisted countries. On Friday, the country\u2019s maximum penalty for such an offence tripled \u2013 from a year in prison or a 10m-won (US$7,200) fine to three years or a 30m won (US$21,700) fine, at the court\u2019s discretion. The government says the system is necessary to protect citizens\u2019 lives and safety, but critics argue the restrictions go beyond what\u2019s required, and those with a genuine need to travel, including journalists and aid workers, are being unfairly caught out by the law. The foreign ministry says it grants 5,000 to 6,000 exceptions a year, including about 50 to journalists. But permission is discretionary and decided case by case. In Jang\u2019s case, the application process for Ukraine specifically had not opened when he departed for the country. His case has been condemned by domestic and international press groups, and he is appealing against his conviction and plans to challenge the law at the constitutional court. He wants the permit system replaced with one where journalists simply notify the authorities of their plans. \u201cPermission is control, and control over what gets covered reaches into editorial territory. The ban is the biggest barrier there is for anyone trying to report what is really happening in a conflict.\u201d Aid workers and activists The travel ban in its current form began in 2007, when 23 members of a South Korean church travelled to Afghanistan against government warnings and were seized by the Taliban. Two were shot dead, and the remaining 21 returned after Seoul negotiated directly with their captors. Within weeks the government designated Afghanistan, Iraq and Somalia as travel-ban areas, making unauthorised visits a crime. The current restrictions currently cover 10 countries in their entirety, including Ukraine, Iran, Iraq, Sudan and Haiti, with partial bans on a dozen more, among them Myanmar and Gaza. The decision to impose stricter penalties followed 2025 revelations that hundreds of South Koreans had been lured to Cambodia by fake job adverts and held in compounds run by fraud syndicates. The areas banned by the government in Cambodia were downgraded in July, after the ministry recorded a 94% fall in reports of Koreans being confined against their will. But the law has entangled people travelling for reasons far removed from the scam compounds, including journalists, rights activists and aid workers. Data released to the office of opposition lawmaker Kim Gunn shows the ministry reported 22 people to police in the first seven months of this year \u2013 more than double the total for 2025 and the most since 2020. Over the past decade, it has reported 120 people. All but one of this year\u2019s cases concerned Europe, where the travel ban covers all of Ukraine, along with stretches of Russia and Belarus on the Ukrainian border. Earlier this month, police opened a criminal investigation into six South Korean activists who had travelled to Kyiv to lobby against the forced repatriation of two North Korean prisoners of war. The law also allows the ministry to invalidate passports without any criminal case. It u"
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Coin",
       "house_b": "High House War",
-      "actor_a": "TRUMP",
+      "actor_a": "IRAN",
       "actor_b": "CHINA",
       "relationship": "opposed",
-      "goldstein_avg": -2.75,
+      "goldstein_avg": -2.957,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Coin",
       "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "KREMLIN",
+      "actor_a": "IRAN",
+      "actor_b": "SOUTH KOREA",
       "relationship": "opposed",
-      "goldstein_avg": -2.366,
+      "goldstein_avg": -1.777,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -230,17 +232,17 @@
       "house_a": "High House War",
       "house_b": "High House Words",
       "actor_a": "CHINA",
-      "actor_b": "KREMLIN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.074,
+      "actor_b": "SOUTH KOREA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.025,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.322,
       "source": "gdelt_volume"
     }
   }
