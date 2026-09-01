@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,6 +60,35 @@
       "position": "ASCENDING"
     },
     {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.449,
+      "scores": {
+        "High House War": 0.449,
+        "High House Coin": 0.189,
+        "High House Shadow": 0.224,
+        "High House Life": 0.034,
+        "High House Iron": -0.009,
+        "High House Words": 0.278,
+        "High House Chains": 0.277
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.875
+      },
+      "article": {
+        "title": "\u4e2d\u5171\u8fd1\u5e74\u5c0d\u53f0\u8ecd\u6f14\u76ee\u7684\u66dd\u5149 \u300c \u806f\u5408\u5c01\u63a7 \u300d \u53f0\u7063\u5c0d\u5916\u822a\u9053\u70ba\u4e3b - \u8ecd\u4e8b",
+        "url": "https://www.chinatimes.com/realtimenews/20260831002535-260417",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
@@ -89,123 +118,87 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.44,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.08,
-        "High House Coin": 0.44,
-        "High House Shadow": 0.139,
-        "High House Life": -0.027,
-        "High House Iron": 0.102,
-        "High House Words": 0.185,
-        "High House Chains": 0.324
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.8,
-        "matched_signals": [
-          "collapse",
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.987
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "Trump says US will \u2018hit Iran hard\u2019 as hostilities resume \u2013 Middle East crisis live",
-        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-        "source": "guardian",
-        "full_text": "US \u2060treasury secretary \u2060Scott \u2060Bessent told CNBC in an \u2060interview on Monday \u2060that the \u200cgoal \u200cof US sanctions \u200con Iran is \u201cto create the \u200cconditions that they will want to come \u2060to the table\u201d for negotiations. As Bessent opened meetings of the Group of 20 finance ministers in Asheville on Monday, he said he wants to focus on ways to grow the global economy and rein in mounting debt. But the event comes after hostilities renewed between the US and Iran, and as trade friction with Canada spiked following a breakdown in negotiations that led to escalating tariffs. Bessent told the Associated Press in an interview on Sunday that he plans to turn up pressure on Iran by sanctioning another bank, part of what he is calling \u201cOperation Economic Outcast.\u201d He said the administration is prepared to exact \u201cfinancial violence if we have to.\u201d For many Iranians, the new US sanctions campaign, called Operation Economic Outcast, seems superfluous given the grim economic situation in their country. Vegetable oil in Iran in August cost 383% more than a year ago. The price of eggs rose by 294%, chicken by 177% and red meat by 148%. As purchasing power in Iran collapses, households are buying fewer goods. Diets are changing, clothes are being patched up and repaired rather than replaced, and medicine is in short supply, though it can be found on the hidden market. According to the Mehr news agency, demand for red meat fell by 50% in April 2026 compared with the same period last year. There has also been a leap in the consumption of potatoes, leading to shortages. Basic goods like eggs are now unaffordable to middle- and working-class families, Golshan Fathi, an Iranian feminist, recently said. \u201cThey don\u2019t understand that people can no longer afford even a normal life.\u201d You can read more from our diplomatic editor, Patrick Wintour, here: In a brief post to his Truth Social platform, Donald Trump claimed Iran is a \u201cfailed nation\u201d with no navy, air force or currency. \u201cIT IS DEAD!\u201d he wrote, saying the only things Tehran have in its favour are a sympathetic US media, a \u201cwillingness to kill their protesters\u201d and a \u201cgood line of bullshit\u201d. Trump said the Iranian leadership is in \u201ctotal disarray\u201d and is \u201cincapable\u201d of properly representing the country. It is true that Iran has suffered enormously because of the US-Israel war, with Iranians facing high food inflation and a depreciation of the nation\u2019s currency, the rial, under pressure from US efforts to isolate Iran by threatening the country\u2019s few remaining trade partners while blockading its main ports in the Persian Gulf and choking off oil exports. Trump, frustrated at being unable to win an aerial victory over Iran, has regularly lashed out on social media against the regime, threatening the country with attacks that often do not materialise. He has emphatically denied reports in the American press that the US is suffering a munitions shortage and has vowed to seek \u201clong term jail sentences\u201d for officials who leak information about the military\u2019s weapons stocks. The US president, Donald Trump, has told Fox News\u2019s chief foreign correspondent, Trey Yingst, that the US will respond to Iran targeting US military bases in Jordan overnight. \u201cWe\u2019re going to hit them hard,\u201d Trump told Fox News. \u201cThere will be a response,\u201d he added, after Jordan\u2019s army confirmed it had intercepted eight missiles early this morning. In response to the US assault on Larak Island late on Sunday, the IRGC \u201ctargeted technical infrastructure, maintenance facilities and enemy fighter jet positions at the US-operated King Hussein and al-Azraq airbases in Jordan\u201d with ballistic missiles, causing \u201cheavy damage\u201d, according to state TV. In the interview with Fox News on Monday, Trump said all of the missiles were intercepted by American air defence systems, except one which was allowed to pass through the airspace because it was identified as not on course to hit anything \u201csignificant\u201d, according to Yingst. Scott Bessent, US secretary of "
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.373,
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.423,
       "scores": {
-        "High House War": 0.373,
-        "High House Coin": 0.245,
-        "High House Shadow": 0.248,
-        "High House Life": 0.053,
-        "High House Iron": 0.291,
-        "High House Words": 0.249,
-        "High House Chains": 0.277
+        "High House War": 0.198,
+        "High House Coin": 0.423,
+        "High House Shadow": 0.269,
+        "High House Life": 0.124,
+        "High House Iron": 0.064,
+        "High House Words": 0.207,
+        "High House Chains": 0.212
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.507
       },
       "article": {
-        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+        "title": "Trump vs. the Bond Market",
+        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.282,
-      "scores": {
-        "High House War": 0.048,
-        "High House Coin": 0.189,
-        "High House Shadow": 0.254,
-        "High House Life": -0.015,
-        "High House Iron": -0.094,
-        "High House Words": 0.282,
-        "High House Chains": 0.225
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "banned"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.986
-      },
-      "article": {
-        "title": "In South Korea, it is illegal to travel to dangerous countries. Journalists say it\u2019s making their work impossible",
-        "url": "https://www.theguardian.com/world/2026/aug/29/in-south-korea-it-is-to-travel-to-dangerous-countries-journalists-say-its-making-their-work-impossible",
-        "source": "guardian",
-        "full_text": "Shortly after Russia\u2019s full-scale invasion of Ukraine in February 2022, freelance photographer Jang Jinyoung crossed from Poland into Lviv and travelled on to Kyiv, where he spent a fortnight documenting the war. South Korea\u2019s foreign ministry had designated Ukraine off-limits days earlier, making unauthorised visits a criminal offence. He knew he was breaking the law but went anyway, as no Korean journalist had yet reported from inside the country. \u201cEverything back home was being relayed through foreign outlets. I wanted to see it more directly for myself,\u201d Jang told the Guardian. On his return he was placed under criminal investigation. After refusing to accept a summary fine, a court north-west of Seoul this month convicted him and fined him 5m won (US$3,600). Many countries release travel advisories for their citizens, but South Korea is one of the few developed democracies that criminalises visits to blacklisted countries. On Friday, the country\u2019s maximum penalty for such an offence tripled \u2013 from a year in prison or a 10m-won (US$7,200) fine to three years or a 30m won (US$21,700) fine, at the court\u2019s discretion. The government says the system is necessary to protect citizens\u2019 lives and safety, but critics argue the restrictions go beyond what\u2019s required, and those with a genuine need to travel, including journalists and aid workers, are being unfairly caught out by the law. The foreign ministry says it grants 5,000 to 6,000 exceptions a year, including about 50 to journalists. But permission is discretionary and decided case by case. In Jang\u2019s case, the application process for Ukraine specifically had not opened when he departed for the country. His case has been condemned by domestic and international press groups, and he is appealing against his conviction and plans to challenge the law at the constitutional court. He wants the permit system replaced with one where journalists simply notify the authorities of their plans. \u201cPermission is control, and control over what gets covered reaches into editorial territory. The ban is the biggest barrier there is for anyone trying to report what is really happening in a conflict.\u201d Aid workers and activists The travel ban in its current form began in 2007, when 23 members of a South Korean church travelled to Afghanistan against government warnings and were seized by the Taliban. Two were shot dead, and the remaining 21 returned after Seoul negotiated directly with their captors. Within weeks the government designated Afghanistan, Iraq and Somalia as travel-ban areas, making unauthorised visits a crime. The current restrictions currently cover 10 countries in their entirety, including Ukraine, Iran, Iraq, Sudan and Haiti, with partial bans on a dozen more, among them Myanmar and Gaza. The decision to impose stricter penalties followed 2025 revelations that hundreds of South Koreans had been lured to Cambodia by fake job adverts and held in compounds run by fraud syndicates. The areas banned by the government in Cambodia were downgraded in July, after the ministry recorded a 94% fall in reports of Koreans being confined against their will. But the law has entangled people travelling for reasons far removed from the scam compounds, including journalists, rights activists and aid workers. Data released to the office of opposition lawmaker Kim Gunn shows the ministry reported 22 people to police in the first seven months of this year \u2013 more than double the total for 2025 and the most since 2020. Over the past decade, it has reported 120 people. All but one of this year\u2019s cases concerned Europe, where the travel ban covers all of Ukraine, along with stretches of Russia and Belarus on the Ukrainian border. Earlier this month, police opened a criminal investigation into six South Korean activists who had travelled to Kyiv to lobby against the forced repatriation of two North Korean prisoners of war. The law also allows the ministry to invalidate passports without any criminal case. It u"
-      },
-      "position": "WANING"
-    },
-    {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.25,
+      "reversed": false,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.071,
-        "High House Coin": 0.143,
-        "High House Shadow": 0.147,
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
         "High House Life": 0.103,
-        "High House Iron": -0.105,
-        "High House Words": 0.191,
-        "High House Chains": 0.25
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "expelled"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "They Were Eager to Return Home. Then the U.S. Bombed Iran.",
-        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
         "source": "nyt",
         "full_text": null
       },
@@ -215,39 +208,34 @@
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House Coin",
+      "house_b": "High House Words",
       "actor_a": "BHUTAN",
       "actor_b": "IRAN",
       "relationship": "neutral",
-      "goldstein_avg": -0.034,
+      "goldstein_avg": -0.022,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "BHUTAN",
-      "actor_b": "CHINA",
+      "house_a": "High House Words",
+      "house_b": "High House Coin",
+      "actor_a": "IRAN",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -1.556,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "SOUTH KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.151,
+      "goldstein_avg": -3.118,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
+    "High House Life": {
       "trend": "falling",
-      "trend_ratio": 0.269,
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.91,
       "source": "gdelt_volume"
     },
     "High House Words": {
