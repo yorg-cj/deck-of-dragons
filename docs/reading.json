@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,93 +60,6 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.449,
-      "scores": {
-        "High House War": 0.449,
-        "High House Coin": 0.189,
-        "High House Shadow": 0.224,
-        "High House Life": 0.034,
-        "High House Iron": -0.009,
-        "High House Words": 0.278,
-        "High House Chains": 0.277
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.875
-      },
-      "article": {
-        "title": "\u4e2d\u5171\u8fd1\u5e74\u5c0d\u53f0\u8ecd\u6f14\u76ee\u7684\u66dd\u5149 \u300c \u806f\u5408\u5c01\u63a7 \u300d \u53f0\u7063\u5c0d\u5916\u822a\u9053\u70ba\u4e3b - \u8ecd\u4e8b",
-        "url": "https://www.chinatimes.com/realtimenews/20260831002535-260417",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.449,
-      "scores": {
-        "High House War": 0.016,
-        "High House Coin": 0.156,
-        "High House Shadow": 0.216,
-        "High House Life": 0.047,
-        "High House Iron": 0.449,
-        "High House Words": 0.003,
-        "High House Chains": -0.01
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.979
-      },
-      "article": {
-        "title": "Big business has shown small firms what to do \u2013 and what not to do \u2013 with AI",
-        "url": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
-        "source": "guardian",
-        "full_text": "One thing I\u2019ve learned about corporate America is that what it succeeds at ultimately trickles down to benefit small businesses. Bleeding-edge technologies such as the internet, mobile transactions and the cloud were first perfected by large organizations \u2013 government and corporations \u2013 and now they\u2019re available to the masses at a much lower cost and with better reliability. The good news is that it\u2019s also the same for what they fail at. This is the lesson so far with artificial intelligence. Thanks to the billions invested \u2013 and in many cases squandered \u2013 by big brands, SMBs (small and mid-sized businesses) have learned what works, what doesn\u2019t, where to spend and where to abstain. Small businesses should be grateful. We\u2019re getting the answers without paying for all the mistakes. What works: AI for software development, customer service, security and voice. Big technology companies are already using AI to write, review and test code, allowing smaller development teams to accomplish more. Other firms have leaned in to AI to help with a variety of customer service processes with some success. IT departments are relying heavily on AI-enabled security platforms to detect and remedy unusual behavior, phishing attacks, and other vulnerabilities. Big brands are rolling out more AI-powered voice systems that answer incoming calls and perform rudimentary actions. Small businesses are watching. And now doing. A countless number of the developers laid off by big tech are using AI tools to replicate themselves and provide services for smaller companies on a larger scale, and we\u2019re hiring them. Big companies have also begun to discover the astronomical computing costs that can result when employees and AI agents consume enormous numbers of tokens. Oh yes, we\u2019ve seen that too. Small businesses like mine have watched large companies throw away billons on large-scale projects with little to show for it. We can\u2019t afford to do the same. But we\u2019re not scared away. Instead, we\u2019re picking low-hanging fruit. Big companies have taught smaller businesses how not to advertise their AI investments. For months, on earnings calls and investor meetings, big company CEOs have gushed over the cost savings and headcount reductions they expect to realize with AI, and this resulted mostly in a backlash from their employees and the general public. SMBs \u2013 short of talent and long on needs \u2013 have watched and learned to do the opposite, using AI to increase productivity without lowering payroll. As a result, we have become more appealing to workers who are disgusted by the absence of loyalty and terrified over the lack of job protection at their corporate employers. We have watched corporations implement mass layoffs while using AI as their cover for their mismanagement and over-hiring, only to hire those same employees back. AI is an easy scapegoat. At my company, we\u2019re using AI to increase productivity, not to announce payroll reductions. Thanks to larger corporations, which have struggled with the reliability and accuracy of agentic AI, SMBs have learned not to trust those agents that are supposed to be doing everything for them \u2026 yet. We\u2019re not replacing our accounting, marketing and customer service departments anytime soon. However, we\u2019re using AI more to help analyze our businesses, make recommendations and suggest strategies. We\u2019ll let the big companies beta-test all those agents. We\u2019re patient. And we don\u2019t trust anyone, particularly bots. Most important, big corporations have taught small business owners like me to trust our guts and have faith in our common sense. All of the predictions made since ChatGPT was first introduced \u2013 mass layoffs, universal income, AGI, robots doing laundry, new worlds in the metaverse, self-driving cars \u2013 haven\u2019t happened yet. Even OpenAI\u2019s CEO, Sam Altman, recently admitted that their timelines for AI adoption were \u201ctoo ambitious\u201d. He\u2019s right. Of course there will be many changes to the way we do business in the future tha"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WANING"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
@@ -173,69 +86,186 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.403,
+      "scores": {
+        "High House War": 0.026,
+        "High House Coin": 0.132,
+        "High House Shadow": 0.151,
+        "High House Life": 0.205,
+        "High House Iron": 0.403,
+        "High House Words": 0.126,
+        "High House Chains": 0.118
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+        "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.373,
+        "High House Coin": 0.245,
+        "High House Shadow": 0.248,
+        "High House Life": 0.053,
+        "High House Iron": 0.291,
+        "High House Words": 0.249,
+        "High House Chains": 0.277
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.37,
+      "scores": {
+        "High House War": 0.213,
+        "High House Coin": 0.146,
+        "High House Shadow": 0.236,
+        "High House Life": 0.016,
+        "High House Iron": 0.038,
+        "High House Words": 0.37,
+        "High House Chains": 0.12
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.525,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.955
+      },
+      "article": {
+        "title": "Trump says US will \u2018hit Iran hard\u2019 as hostilities resume \u2013 as it happened",
+        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Our latest story on hostilities between Iran and the US is here: The US president, Donald Trump, has told Fox News\u2019s chief foreign correspondent, Trey Yingst, that the US will respond to Iran targeting US military bases in Jordan overnight. \u201cWe\u2019re going to hit them hard,\u201d Trump told Fox News. \u201cThere will be a response,\u201d he added, after Jordan\u2019s army confirmed it had intercepted eight missiles early this morning. Trump was sending a message \u2060to Iran \u2060with his social media post about \u2060Kharg Island, vice-president JD Vance \u2060said on Monday. \u201cThe president \u200clikes to \u200cswitch it up \u200con social media a little bit. He would be the first to \u200csay he doesn\u2019t make announcements about military actions on social media, but I think that he\u2019s \u2060sending a message to the Iranians,\u201d Vance said when asked about \u200cTrump\u2019s post. Trump\u2019s one-line social media post on Sunday was accompanied by an AI-generated video clip showing fake attacks by the US military. A US \u200cofficial said on Monday the military had not targeted Kharg Island in overnight strikes. An Iranian official dismissed Trump\u2019s post as \u201claughable\u201d. US \u2060treasury secretary \u2060Scott \u2060Bessent told CNBC in an \u2060interview on Monday \u2060that the \u200cgoal \u200cof US sanctions \u200con Iran is \u201cto create the \u200cconditions that they will want to come \u2060to the table\u201d for negotiations. As Bessent opened meetings of the Group of 20 finance ministers in Asheville on Monday, he said he wants to focus on ways to grow the global economy and rein in mounting debt. Bessent also briefly touched on the new Iran sanctions earlier this morning, before his opening remarks in Asheville. Speaking to reporters, Bessent predicted that, under the latest round of sanctions, Iran\u2019s economy could collapse within \u201cweeks or months\u201d. But he also suggested that a deal, not collapse, was the administration\u2019s primary goal. In a brief post to his Truth Social platform, Trump claimed Iran is a \u201cfailed nation\u201d with no navy, air force or currency. \u201cIT IS DEAD!\u201d he wrote, saying the only things Tehran have in its favour are a sympathetic US media, a \u201cwillingness to kill their protesters\u201d and a \u201cgood line of bullshit\u201d. Trump said the Iranian leadership is in \u201ctotal disarray\u201d and is \u201cincapable\u201d of properly representing the country. The UAE condemned an Iranian drone attack intercepted over its territorial waters, calling it a \u201cdangerous escalation\u201d. In a statement on X, the UAE\u2019s foreign ministry \u201cstrongly condemned the hostile Iranian attack on the country involving a drone that was intercepted by air defence systems over UAE territorial waters\u201d. US Central Command (Centcom) has denied claims made by Iran state \u2060TV and the Islamic Revolutionary Guards Corps that a ship had struck mines in the strait of Hormuz. In a statement posted to social media, Centcom said \u201cIran\u2019s claim that a supertanker passing through strait of Hormuz struck two mines and was brought to a complete stop is false.\u201d The EU issued a statement saying it will work with the US and other allied countries to maintain economic pressure against Iran. \u201cThe \u200cEU welcomes efforts at ensuring that Iran ceases its destabilising activities and engages in peace negotiations with good \u200cfaith, also through additional economic pressure, including through the US-led Operation Economic Outcast,\u201d it said in reference to the pressure strategy the White House describes as \u201can unprecedented campaign to sever every remaining economic lifeline sustaining\u201d the Islamic republic. Medics \u2060said two \u2060people were killed and several others injured when an Israeli airstrike hit \u2060a crowd of people near the municipal public park in Gaza \u2060City on Monday, an area densely populated with families displaced by Israel\u2019s assault. Gaza\u2019s health ministry says at least 1,320 people have been killed by Israeli attacks since a \u2018ceasefire\u2019 was signed between Israel and Hamas last October. Israel signed a multibillion-dollar weapons deal with Greece on Monday, the largest between the two countries, AP reports. Israel\u2019s defence ministr"
+      },
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.373,
+      "reversed": true,
+      "confidence": 0.324,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
+        "High House War": 0.148,
+        "High House Coin": 0.074,
+        "High House Shadow": 0.12,
+        "High House Life": 0.321,
+        "High House Iron": -0.034,
         "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House Chains": 0.324
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.546,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
+        "sentiment": "NEGATIVE",
         "sentiment_score": 0.992
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
+        "title": "Namibia: Drought displaced Angolans face human rights abuses\u00a0",
+        "url": "https://www.amnesty.org/en/latest/news/2026/09/namibia-drought-displaced-angolans-face-human-rights-abuses",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Life",
-      "house_b": "High House Words",
+      "house_b": "High House Chains",
       "actor_a": "BHUTAN",
-      "actor_b": "IRAN",
+      "actor_b": "NAMIBIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.022,
+      "goldstein_avg": -0.008,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -3.152,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "TRUMP",
+      "actor_b": "NAMIBIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.004,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -2.338,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
-      "house_b": "High House Coin",
+      "house_b": "High House Chains",
       "actor_a": "IRAN",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -3.118,
+      "actor_b": "NAMIBIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.108,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 1.319,
       "source": "gdelt_volume"
     },
     "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.91,
+      "trend": "falling",
+      "trend_ratio": 0.801,
       "source": "gdelt_volume"
     },
     "High House Words": {
