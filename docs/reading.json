@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,33 +31,64 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.479,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.436,
       "scores": {
-        "High House War": 0.016,
-        "High House Coin": -0.002,
-        "High House Shadow": -0.004,
-        "High House Life": 0.479,
-        "High House Iron": -0.007,
-        "High House Words": 0.117,
-        "High House Chains": 0.087
+        "High House War": -0.061,
+        "High House Coin": 0.106,
+        "High House Shadow": 0.253,
+        "High House Life": 0.089,
+        "High House Iron": -0.106,
+        "High House Words": 0.436,
+        "High House Chains": 0.012
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.959
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "banned"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "Bhutan hosts first \u2018conscious food summit\u2019 amid threats to global supplies",
-        "url": "https://www.theguardian.com/environment/2026/aug/31/bhutan-first-conscious-food-summit-climate",
+        "title": "Badenoch condemns Reform UK\u2019s \u2018authoritarian\u2019 press bans \u2013 UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
         "source": "guardian",
-        "full_text": "Mending the broken food system under the threat of climate-driven weather extremes will require more than economic fixes and intensive agriculture, according to the organisers of a pioneering summit this week, who say the world must revive its spiritual relationship with food. Delegates from more than 60 countries and the UN will gather for the next five days in Paro in the tiny Himalayan nation of Bhutan for the world\u2019s first \u201cconscious food summit\u201d, which will bring together governments and farmers, mindfulness experts and yoga therapists. Tshering Tobgay, Bhutan\u2019s prime minister, said: \u201cFood lies at the intersection of many of the defining challenges of our time \u2013 hunger, poor nutrition, poverty, climate change, biodiversity loss, and increasingly food security is also being disrupted by conflict and geopolitical instability. Our central message is simple: transforming our food systems requires both inner and outer change.\u201d Conscious eating is at the heart of these talks, which will promote regenerative practices and Indigenous knowledge. \u201cConsciousness can cultivate compassion, empathy, resilience, creativity and a stronger connection with nature,\u201d Tobgay said in an interview with the Guardian. \u201cThis does not mean choosing spirituality over science. It means recognising that our values and mindsets influence how science, policy, finance and technology are used.\u201d The impacts of the climate crisis have been brought home close to Bhutan\u2019s borders with the disaster in its near neighbour Nepal last week where a glacial collapse led to floods and landslides that killed hundreds. This year and next as the \u201csuper El Ni\u00f1o\u201d hits, the World Food Programme has warned that 50 million people could be pushed close to starvation. Food shortages and higher prices for staples are likely around the world. It follows a summer in the northern hemisphere in which harvests have been devastated by drought, intense heat and wildfires. Jerry Spooner, of Regenerative Vanua, a Pacific NGO, said the threats would push global food systems to their limit. \u201cAs we face the growing impacts of climate change, a potential super El Ni\u00f1o, biodiversity loss and increasing global instability, it is becoming clear that our food systems are not resilient enough for the challenges ahead,\u201d he said. \u201cThe opportunity in Bhutan is to move beyond discussing how we produce more food and instead focus on how we build food systems that regenerate ecosystems, strengthen communities, celebrate culture and improve our collective resilience.\u201d Tobgay said people must articulate the values they wanted to see reflected in the way food is produced and consumed, instead of relying on businesses and governments to shape food choices. \u201cFood systems are ultimately shaped by human choices, institutions, incentives, relationships and values,\u201d he said. \u201cSo we must address root causes as well as symptoms.\u201d Farmers and rural people were often at the mercy of markets and global forces. \u201cToo often, policies are developed for these groups rather than with them,\u201d Tobgay said. The summit will focus not on bombastic political speeches and promises but on fostering inner change, with the help of \u201cspiritual masters\u201d such as mindfulness practitioners. Food had become a commodity on world markets and was treated carelessly as a result, leading to waste and unhealthy eating, and those attitudes must be reversed, Tobgay said. \u201cOuter change is agriculture, markets, finance, public policy and consumption,\u201d he said. \u201cConsciousness has value only if it influences our decisions and changes how we act. For example, a conscious approach to production would care for both the land and the farmer. It would regenerate soils, not deplete them. It would protect water. It would reduce pollution and deforestation and recognise the dignity and wellbeing of the people who produce the food that sustain us.\u201d Tobgay begins each day at 5am with a bowl of porridge and a banana, eaten sitting by a small stream that runs nea"
+        "full_text": "Q: [From Emilio Casalicchio from Politico] Reform UK have banned seven reporters from their conference, including the one who revealed Nigel Farage got a \u00a35m donation he did not declare. What do you think of that in terms of free speech? And would you do something like that? Badenoch replied: Absolutely not \u2026 Conservatives believe in free speech, where people are welcome to criticise us as much as they like. If you look at Nigel Farage\u2019s attacks on the press, some of them very personal \u2026 you look at the things that Zia Yusuf says about journalists constantly, you know what kind of government they would be \u2013 authoritarian and using state power to pursue opponents. [That is] what they\u2019ve effectively been threatening. We do not do that. It\u2019s absolutely not something that we believe in. We believe in free speech. We believe in a free press. And yes, of course, that might be painful for us as politicians, but public scrutiny is part of the gig. If Nigel Farage can\u2019t handle difficult questions about his dodgy \u00a35m, then he shouldn\u2019t be a politician. But that comes with, working as an MP and standing to be leader of the country. Badenoch has not always been comfortable with press scrutiny herself. As a minister in the last government, she was criticised for her aggressive response to journalists reporting on her. But as Conservative leader she has been more tolerant of criticism, and while the Tories don\u2019t exactly welcome negative press coverage, they are more pro-media than Reform UK. Back to what was said at Kemi Badenoch\u2019s press conference. Q: [From Jonathan Walker from the Express] Are you ready to lead the country into war if necessary? Badenoch replied: If you want a peace, you have to prepare for war. And I believe that strong countries don\u2019t get attacked. It\u2019s countries that look weak that get attacked. And I look at what Poland is doing. Why are they increasing their army to 300,000? Why are they withdrawing from all these treaties that would stop them from fighting a war? I was in Rome last week speaking to Giorgia Meloni about defence. I spoke to Prime Minister Mitsotakis in Greece about defence. Everybody is worried. So why are we pretending that nothing\u2019s happening? That\u2019s what should concern us, that we have a government that\u2019s talking about things that are not to do with national security, just their pet projects and hobby horses. Yes, we all want cheaper bus fares, but if anything happens to a Nato country, so much damage will be done we\u2019re not going to be getting any growth. Emmanuel Macron, the French president, is meeting Andy Burnham in Downing Street. In public remarks at the start of their meeting, Burnham said: I\u2019m very pleased today to welcome my first overseas visitor as prime minister, and it\u2019s so fitting that it is our nearest neighbour and close friend Emmanuel. On behalf of everyone here, Mr Le President, can I thank you for your huge personal gesture of goodwill, trust and friendship with Britain in allowing the Bayeux Tapestry to be displayed here. Burnham said the exhibition would \u201clift so many lives\u201d. He added: It shows what collaboration can achieve, just as we are also showing on Ukraine, on small boats, and also on strengthening the UK-EU relationship. So I look forward to discussing those themes further with you today. Q: If Diane Abbott was a Tory MP, would you sack her over her tweet saying the threat from Russia is a Nato fiction. In a post on X now removed, Abbott said: The imminent threat from Russia is a Nato fiction to justify their complete capitulation to Trump\u2019s demands for more military spending. The increase should not go ahead. Badenoch said there was \u201conly so much diversity of opinion that I think that we will tolerate\u201d. Being against Nato was not a Conservative position, she said. She went on: So I fundamentally disagree with Diane Abbott. That is the Labour party. That\u2019s the Labour party view. She\u2019s not the only one who thinks that. There are very many other Labour MPs who think tha"
       },
       "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Magi",
+      "reversed": true,
+      "confidence": 0.436,
+      "scores": {
+        "High House War": 0.053,
+        "High House Coin": 0.18,
+        "High House Shadow": 0.171,
+        "High House Life": 0.122,
+        "High House Iron": 0.436,
+        "High House Words": 0.065,
+        "High House Chains": -0.007
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "Why Billionaires Like Kushner And Bezos Are Betting Big On Sports Teams In The AI Era As Prices Soar",
+        "url": "https://www.ibtimes.com.au/silicon-valley-shift-tech-sports-assets-1874944",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -86,36 +117,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.403,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.375,
       "scores": {
-        "High House War": 0.026,
-        "High House Coin": 0.132,
-        "High House Shadow": 0.151,
-        "High House Life": 0.205,
-        "High House Iron": 0.403,
-        "High House Words": 0.126,
-        "High House Chains": 0.118
+        "High House War": 0.038,
+        "High House Coin": -0.013,
+        "High House Shadow": 0.087,
+        "High House Life": 0.375,
+        "High House Iron": 0.09,
+        "High House Words": 0.101,
+        "High House Chains": 0.043
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.959
       },
       "article": {
-        "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-        "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+        "title": "MAHA Moms Take On Coal",
+        "url": "https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -144,85 +175,66 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.37,
-      "scores": {
-        "High House War": 0.213,
-        "High House Coin": 0.146,
-        "High House Shadow": 0.236,
-        "High House Life": 0.016,
-        "High House Iron": 0.038,
-        "High House Words": 0.37,
-        "High House Chains": 0.12
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.525,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.955
-      },
-      "article": {
-        "title": "Trump says US will \u2018hit Iran hard\u2019 as hostilities resume \u2013 as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-        "source": "guardian",
-        "full_text": "Our latest story on hostilities between Iran and the US is here: The US president, Donald Trump, has told Fox News\u2019s chief foreign correspondent, Trey Yingst, that the US will respond to Iran targeting US military bases in Jordan overnight. \u201cWe\u2019re going to hit them hard,\u201d Trump told Fox News. \u201cThere will be a response,\u201d he added, after Jordan\u2019s army confirmed it had intercepted eight missiles early this morning. Trump was sending a message \u2060to Iran \u2060with his social media post about \u2060Kharg Island, vice-president JD Vance \u2060said on Monday. \u201cThe president \u200clikes to \u200cswitch it up \u200con social media a little bit. He would be the first to \u200csay he doesn\u2019t make announcements about military actions on social media, but I think that he\u2019s \u2060sending a message to the Iranians,\u201d Vance said when asked about \u200cTrump\u2019s post. Trump\u2019s one-line social media post on Sunday was accompanied by an AI-generated video clip showing fake attacks by the US military. A US \u200cofficial said on Monday the military had not targeted Kharg Island in overnight strikes. An Iranian official dismissed Trump\u2019s post as \u201claughable\u201d. US \u2060treasury secretary \u2060Scott \u2060Bessent told CNBC in an \u2060interview on Monday \u2060that the \u200cgoal \u200cof US sanctions \u200con Iran is \u201cto create the \u200cconditions that they will want to come \u2060to the table\u201d for negotiations. As Bessent opened meetings of the Group of 20 finance ministers in Asheville on Monday, he said he wants to focus on ways to grow the global economy and rein in mounting debt. Bessent also briefly touched on the new Iran sanctions earlier this morning, before his opening remarks in Asheville. Speaking to reporters, Bessent predicted that, under the latest round of sanctions, Iran\u2019s economy could collapse within \u201cweeks or months\u201d. But he also suggested that a deal, not collapse, was the administration\u2019s primary goal. In a brief post to his Truth Social platform, Trump claimed Iran is a \u201cfailed nation\u201d with no navy, air force or currency. \u201cIT IS DEAD!\u201d he wrote, saying the only things Tehran have in its favour are a sympathetic US media, a \u201cwillingness to kill their protesters\u201d and a \u201cgood line of bullshit\u201d. Trump said the Iranian leadership is in \u201ctotal disarray\u201d and is \u201cincapable\u201d of properly representing the country. The UAE condemned an Iranian drone attack intercepted over its territorial waters, calling it a \u201cdangerous escalation\u201d. In a statement on X, the UAE\u2019s foreign ministry \u201cstrongly condemned the hostile Iranian attack on the country involving a drone that was intercepted by air defence systems over UAE territorial waters\u201d. US Central Command (Centcom) has denied claims made by Iran state \u2060TV and the Islamic Revolutionary Guards Corps that a ship had struck mines in the strait of Hormuz. In a statement posted to social media, Centcom said \u201cIran\u2019s claim that a supertanker passing through strait of Hormuz struck two mines and was brought to a complete stop is false.\u201d The EU issued a statement saying it will work with the US and other allied countries to maintain economic pressure against Iran. \u201cThe \u200cEU welcomes efforts at ensuring that Iran ceases its destabilising activities and engages in peace negotiations with good \u200cfaith, also through additional economic pressure, including through the US-led Operation Economic Outcast,\u201d it said in reference to the pressure strategy the White House describes as \u201can unprecedented campaign to sever every remaining economic lifeline sustaining\u201d the Islamic republic. Medics \u2060said two \u2060people were killed and several others injured when an Israeli airstrike hit \u2060a crowd of people near the municipal public park in Gaza \u2060City on Monday, an area densely populated with families displaced by Israel\u2019s assault. Gaza\u2019s health ministry says at least 1,320 people have been killed by Israeli attacks since a \u2018ceasefire\u2019 was signed between Israel and Hamas last October. Israel signed a multibillion-dollar weapons deal with Greece on Monday, the largest between the two countries, AP reports. Israel\u2019s defence ministr"
-      },
-      "position": "WANING"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.324,
+      "reversed": false,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.148,
-        "High House Coin": 0.074,
-        "High House Shadow": 0.12,
-        "High House Life": 0.321,
-        "High House Iron": -0.034,
-        "High House Words": 0.19,
-        "High House Chains": 0.324
+        "High House War": 0.136,
+        "High House Coin": 0.219,
+        "High House Shadow": 0.097,
+        "High House Life": 0.008,
+        "High House Iron": 0.041,
+        "High House Words": 0.155,
+        "High House Chains": 0.308
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "Namibia: Drought displaced Angolans face human rights abuses\u00a0",
-        "url": "https://www.amnesty.org/en/latest/news/2026/09/namibia-drought-displaced-angolans-face-human-rights-abuses",
+        "title": "The Philippines must not trade historical memory for strategic convenience",
+        "url": "https://www.manilatimes.net/2026/09/02/supplements/the-philippines-must-not-trade-historical-memory-for-strategic-convenience/2416785",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "BHUTAN",
-      "actor_b": "NAMIBIA",
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "BADENOCH",
+      "actor_b": "CHINA",
       "relationship": "neutral",
-      "goldstein_avg": -0.008,
+      "goldstein_avg": -0.077,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "IRAN",
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "KUSHNER",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -3.152,
+      "goldstein_avg": -1.637,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "KUSHNER",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.519,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
@@ -230,48 +242,22 @@
       "house_a": "High House Coin",
       "house_b": "High House Chains",
       "actor_a": "TRUMP",
-      "actor_b": "NAMIBIA",
+      "actor_b": "PHILIPPINES",
       "relationship": "neutral",
-      "goldstein_avg": -0.004,
+      "goldstein_avg": -1.045,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House War",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -2.338,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
       "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "NAMIBIA",
+      "actor_a": "CHINA",
+      "actor_b": "PHILIPPINES",
       "relationship": "neutral",
-      "goldstein_avg": -0.108,
+      "goldstein_avg": -0.25,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 1.319,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.801,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
