@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,61 +31,59 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.436,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.441,
       "scores": {
-        "High House War": -0.061,
-        "High House Coin": 0.106,
-        "High House Shadow": 0.253,
-        "High House Life": 0.089,
-        "High House Iron": -0.106,
-        "High House Words": 0.436,
-        "High House Chains": 0.012
+        "High House War": 0.063,
+        "High House Coin": 0.19,
+        "High House Shadow": 0.356,
+        "High House Life": 0.09,
+        "High House Iron": 0.441,
+        "High House Words": 0.125,
+        "High House Chains": 0.05
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "banned"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.898
       },
       "article": {
-        "title": "Badenoch condemns Reform UK\u2019s \u2018authoritarian\u2019 press bans \u2013 UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
-        "source": "guardian",
-        "full_text": "Q: [From Emilio Casalicchio from Politico] Reform UK have banned seven reporters from their conference, including the one who revealed Nigel Farage got a \u00a35m donation he did not declare. What do you think of that in terms of free speech? And would you do something like that? Badenoch replied: Absolutely not \u2026 Conservatives believe in free speech, where people are welcome to criticise us as much as they like. If you look at Nigel Farage\u2019s attacks on the press, some of them very personal \u2026 you look at the things that Zia Yusuf says about journalists constantly, you know what kind of government they would be \u2013 authoritarian and using state power to pursue opponents. [That is] what they\u2019ve effectively been threatening. We do not do that. It\u2019s absolutely not something that we believe in. We believe in free speech. We believe in a free press. And yes, of course, that might be painful for us as politicians, but public scrutiny is part of the gig. If Nigel Farage can\u2019t handle difficult questions about his dodgy \u00a35m, then he shouldn\u2019t be a politician. But that comes with, working as an MP and standing to be leader of the country. Badenoch has not always been comfortable with press scrutiny herself. As a minister in the last government, she was criticised for her aggressive response to journalists reporting on her. But as Conservative leader she has been more tolerant of criticism, and while the Tories don\u2019t exactly welcome negative press coverage, they are more pro-media than Reform UK. Back to what was said at Kemi Badenoch\u2019s press conference. Q: [From Jonathan Walker from the Express] Are you ready to lead the country into war if necessary? Badenoch replied: If you want a peace, you have to prepare for war. And I believe that strong countries don\u2019t get attacked. It\u2019s countries that look weak that get attacked. And I look at what Poland is doing. Why are they increasing their army to 300,000? Why are they withdrawing from all these treaties that would stop them from fighting a war? I was in Rome last week speaking to Giorgia Meloni about defence. I spoke to Prime Minister Mitsotakis in Greece about defence. Everybody is worried. So why are we pretending that nothing\u2019s happening? That\u2019s what should concern us, that we have a government that\u2019s talking about things that are not to do with national security, just their pet projects and hobby horses. Yes, we all want cheaper bus fares, but if anything happens to a Nato country, so much damage will be done we\u2019re not going to be getting any growth. Emmanuel Macron, the French president, is meeting Andy Burnham in Downing Street. In public remarks at the start of their meeting, Burnham said: I\u2019m very pleased today to welcome my first overseas visitor as prime minister, and it\u2019s so fitting that it is our nearest neighbour and close friend Emmanuel. On behalf of everyone here, Mr Le President, can I thank you for your huge personal gesture of goodwill, trust and friendship with Britain in allowing the Bayeux Tapestry to be displayed here. Burnham said the exhibition would \u201clift so many lives\u201d. He added: It shows what collaboration can achieve, just as we are also showing on Ukraine, on small boats, and also on strengthening the UK-EU relationship. So I look forward to discussing those themes further with you today. Q: If Diane Abbott was a Tory MP, would you sack her over her tweet saying the threat from Russia is a Nato fiction. In a post on X now removed, Abbott said: The imminent threat from Russia is a Nato fiction to justify their complete capitulation to Trump\u2019s demands for more military spending. The increase should not go ahead. Badenoch said there was \u201conly so much diversity of opinion that I think that we will tolerate\u201d. Being against Nato was not a Conservative position, she said. She went on: So I fundamentally disagree with Diane Abbott. That is the Labour party. That\u2019s the Labour party view. She\u2019s not the only one who thinks that. There are very many other Labour MPs who think tha"
+        "title": "AI data centers boost jobs, wages despite backlash, Wall Street Journal reports",
+        "url": "https://www.foxbusiness.com/video/6404586951112",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Magi",
-      "reversed": true,
-      "confidence": 0.436,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.053,
-        "High House Coin": 0.18,
-        "High House Shadow": 0.171,
-        "High House Life": 0.122,
-        "High House Iron": 0.436,
-        "High House Words": 0.065,
-        "High House Chains": -0.007
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.544,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "Why Billionaires Like Kushner And Bezos Are Betting Big On Sports Teams In The AI Era As Prices Soar",
-        "url": "https://www.ibtimes.com.au/silicon-valley-shift-tech-sports-assets-1874944",
-        "source": "worldnews",
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "FOUNDATION"
@@ -123,73 +121,15 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.375,
+      "confidence": 0.405,
       "scores": {
-        "High House War": 0.038,
-        "High House Coin": -0.013,
-        "High House Shadow": 0.087,
-        "High House Life": 0.375,
-        "High House Iron": 0.09,
-        "High House Words": 0.101,
-        "High House Chains": 0.043
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.959
-      },
-      "article": {
-        "title": "MAHA Moms Take On Coal",
-        "url": "https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.373,
-      "scores": {
-        "High House War": 0.373,
-        "High House Coin": 0.245,
-        "High House Shadow": 0.248,
-        "High House Life": 0.053,
-        "High House Iron": 0.291,
-        "High House Words": 0.249,
-        "High House Chains": 0.277
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-        "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.308,
-      "scores": {
-        "High House War": 0.136,
-        "High House Coin": 0.219,
-        "High House Shadow": 0.097,
-        "High House Life": 0.008,
-        "High House Iron": 0.041,
-        "High House Words": 0.155,
-        "High House Chains": 0.308
+        "High House War": 0.014,
+        "High House Coin": 0.073,
+        "High House Shadow": 0.077,
+        "High House Life": 0.405,
+        "High House Iron": 0.08,
+        "High House Words": 0.051,
+        "High House Chains": 0.063
       },
       "reversal": {
         "reversed": false,
@@ -199,9 +139,67 @@
         "sentiment_score": 0.997
       },
       "article": {
-        "title": "The Philippines must not trade historical memory for strategic convenience",
-        "url": "https://www.manilatimes.net/2026/09/02/supplements/the-philippines-must-not-trade-historical-memory-for-strategic-convenience/2416785",
+        "title": "Strengthen Africa\u2019s Seed Systems El Ni\u00f1o Threat Becomes Reality Again",
+        "url": "https://www.globalissues.org/news/2026/09/03/43957",
         "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
@@ -210,51 +208,21 @@
   "relationships": [
     {
       "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "BADENOCH",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.077,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
       "house_b": "High House Coin",
-      "actor_a": "KUSHNER",
+      "actor_a": "IRAN",
       "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -1.637,
+      "goldstein_avg": -3.167,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Iron",
+      "house_a": "High House Words",
       "house_b": "High House War",
-      "actor_a": "KUSHNER",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.519,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "TRUMP",
-      "actor_b": "PHILIPPINES",
-      "relationship": "neutral",
-      "goldstein_avg": -1.045,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "CHINA",
-      "actor_b": "PHILIPPINES",
-      "relationship": "neutral",
-      "goldstein_avg": -0.25,
+      "actor_a": "IRAN",
+      "actor_b": "NATO",
+      "relationship": "opposed",
+      "goldstein_avg": -2.144,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
