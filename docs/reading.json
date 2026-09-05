@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,60 +33,31 @@
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.441,
+      "reversed": true,
+      "confidence": 0.499,
       "scores": {
-        "High House War": 0.063,
-        "High House Coin": 0.19,
-        "High House Shadow": 0.356,
-        "High House Life": 0.09,
-        "High House Iron": 0.441,
-        "High House Words": 0.125,
-        "High House Chains": 0.05
+        "High House War": 0.134,
+        "High House Coin": 0.203,
+        "High House Shadow": 0.225,
+        "High House Life": 0.1,
+        "High House Iron": 0.499,
+        "High House Words": -0.002,
+        "High House Chains": 0.017
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.518,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.898
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.942
       },
       "article": {
-        "title": "AI data centers boost jobs, wages despite backlash, Wall Street Journal reports",
-        "url": "https://www.foxbusiness.com/video/6404586951112",
+        "title": "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era",
+        "url": "https://www.fool.com/investing/2026/09/05/got-1000-3-stocks-building-the-physical-artificial",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -115,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -147,59 +118,90 @@
       "position": "WILD"
     },
     {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.383,
+      "scores": {
+        "High House War": 0.383,
+        "High House Coin": 0.178,
+        "High House Shadow": 0.176,
+        "High House Life": 0.121,
+        "High House Iron": 0.069,
+        "High House Words": 0.22,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.841
+      },
+      "article": {
+        "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
+        "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
+        "source": "guardian",
+        "full_text": "Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week. The pessimism reflects concern that Russia may be winning a so-called hybrid war with Europe, weakening the options available to Nato war planners in the event of military conflict. The surge in support for the populist forces in Europe\u2019s main military states is also endangering proposals for a group of five European countries, including the UK, to take on a new coordination role as the US prepares to reduce its commitments to the conventional defence of Europe. Defence officials, speaking at a forum convened by the Munich Security Conference (MSC), the leading security foundation, said the European public may not have the appetite for a prolonged war, requiring Nato to focus its plans on a relatively quick conflict. One recent British cabinet member admitted the west had been \u201ccrap\u201d at educating its public about the scale of the hybrid conflict with Russia. Another UK diplomat claimed successive British prime ministers had done nothing to explain the scale of the threat. They said this had left ministers locked in an unenviable task of persuading unprepared voters to cut welfare spending to fund defence. \u201cThe level of the debate has been at that of a kindergarten,\u201d the UK diplomat admitted. The private criticism has been fuelled by the UK government\u2019s inability to adopt a call in its 2025 strategic defence review to launch a national conversation on the scale of the security threat facing Europe and to build national resilience. A second diplomat said the collapse of the cold war dividing line with Russia had left Moscow free to exploit the anxieties of European publics on the left and the right. The remarks reveal a wider concern in senior European politicians that they may be losing the so-called hybrid war with Russia, and this may be reflected in rightwing populist surges next year in Poland, France and Italy. Most populist parties, including Germany\u2019s Alternative f\u00fcr Deutschland (AfD), are sympathetic to Russia and want an end to the Ukraine conflict. The MSC discussion \u2013 held under rules forbidding identification of the speaker \u2013 was given added urgency by the German government this week blaming Russia for an attempted drone attack on Leipzig airport last month. One of the suspected culprits in the attack on 4 August, where an armed drone exploded, has been identified as a Belarusian citizen with a Russian passport who appears to have entered Europe using an Italian tourist visa. The MSC, an independent but influential foundation, has been promoting the idea of the five main European military powers working much more closely: one means of bringing the UK, outside the EU, to the centre of European defence planning. Decisions in Washington on its troop deployments that could effectively leave Europe in charge of its own conventional defences are expected in the next few months. But the scale of hybrid war and the potential impact of next year\u2019s elections, as well as the surge by the AfD in Germany, on plans for a stronger European defence coordination was described at the conference as \u201cthe elephant in the room\u201d. One proposal is for the EU to publish a collective statement on the Russian threat that the populist forces would be challenged to accept or decline. The E5 group of European defence ministers already meet regularly, but they are at the early stages of agreeing of how to jointly procure capabilities such as integrated air and missile defence, deep precision strike and space-based early warning systems that are all currently provided mostly by the US. \u201cEurope is stagnating at a time when the external threats were assuming a dimension which is really very serious. These are really huge and existential challenges requiring greater integration in defence,\u201d said Wo"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": -0.006,
+        "High House Coin": 0.158,
+        "High House Shadow": 0.335,
+        "High House Life": 0.154,
+        "High House Iron": -0.023,
+        "High House Words": 0.373,
+        "High House Chains": 0.048
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "banned"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.598
+      },
+      "article": {
+        "title": "Kemi Badenoch condemns Reform UK\u2019s \u2018authoritarian\u2019 press bans",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-farage-state-power-reform",
+        "source": "guardian",
+        "full_text": "Reform UK\u2019s decision to ban some journalists from its conference shows that Nigel Farage would use state power to target opponents and be authoritarian in government, Kemi Badenoch has said. Answering questions after a speech on defence in London, the Conservative leader was asked about Reform\u2019s decision to refuse accreditation to a series of journalists for its conference this week. One of the journalists was Anna Isaac, the Guardian\u2019s City editor, who broke the story that Farage had accepted an undeclared \u00a35m gift from the crypto billionaire Christopher Harborne. Farage\u2019s attacks on the media were \u201cvery personal\u201d at times, Badenoch said, also citing the targeting of journalists by Zia Yusuf, Reform\u2019s home affairs spokesperson. She continued: \u201cI think you could \u2026 [see] what kind of government they would be \u2013 authoritarian and using state power actually to pursue opponents is what they\u2019ve effectively been threatening. \u201cWe believe in free speech. We believe in a free press. And yes, of course, that might be painful for us as politicians, but public scrutiny is part of the gig. If Nigel Farage can\u2019t handle difficult questions about his dodgy \u00a35m then he shouldn\u2019t be a politician.\u201d Reform refused to say why it had banned Isaac. In other questions at the event, Badenoch defended her party\u2019s new policy of cutting housing benefit as a way to finance increased defence spending, but declined to say if any savings might be cancelled out by other costs, for example by people being made homeless. In an announcement overnight, the Conservatives said they would make defence spending hit 3% of GDP by 2029-30 through \u00a310bn of savings, primarily from social security. A significant chunk of this would be made by cutting local housing allowances, which sets out how much housing benefit people receive in their local area for private tenancies. This has been frozen anyway since 2024, and already does not fully cover the majority of rents. Asked whether the assumed savings factored in likely knock-on costs, for example people losing their homes and having to seek emergency accommodation from councils, Badenoch slightly evaded the question. \u201cIt all needs to be coordinated,\u201d she said. \u201cWhat we are doing on defence is very closely linked to welfare. My shadow welfare secretary, Helen Whately, is looking at all of the impacts across the board, because we know that every change does create a new situation.\u201d Badenoch stressed what she said was the urgent need for increased defence spending given the threat from Russia, saying that other European countries like Poland and Germany were moving more quickly. She said: \u201cLike Keir Starmer, Andy Burnham is kicking defence spending into the long grass. I cannot tell you how urgent this is.\u201d Burnham\u2019s government has pledged to meet a Nato commitment of spending 3.5% of GDP on defence by 2035, but has delayed giving a timing for reaching 3% of GDP. As Starmer\u2019s defence secretary, John Healey insisted this should be reached by 2030, but has dropped the target as Burnham\u2019s chancellor. Separately, Badenoch rejected concerns that her policy to bar non-UK nationals from social housing could see a repeat of the Windrush scandal, where checks on immigration status saw people who had lived their lives in the UK denied access to services. She said: \u201cI don\u2019t think that this is anything like what happened with Windrush, where there were people who had citizenship but couldn\u2019t prove it. And there are lessons that have been learned around the administration of those schemes.\u201d"
+      },
+      "position": "EMERGING"
+    },
+    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.136,
+        "High House Coin": 0.219,
+        "High House Shadow": 0.097,
+        "High House Life": 0.008,
+        "High House Iron": 0.041,
+        "High House Words": 0.155,
+        "High House Chains": 0.308
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.341,
-      "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
+        "title": "The Philippines must not trade historical memory for strategic convenience",
+        "url": "https://www.manilatimes.net/2026/09/02/supplements/the-philippines-must-not-trade-historical-memory-for-strategic-convenience/2416785",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
@@ -207,22 +209,32 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "TRUMP",
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "RUSSIA",
       "relationship": "opposed",
-      "goldstein_avg": -3.167,
+      "goldstein_avg": -2.37,
       "confidence": 0.9,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -2.144,
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "KEMI BADENOCH",
+      "relationship": "neutral",
+      "goldstein_avg": -0.383,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "RUSSIA",
+      "actor_b": "KEMI BADENOCH",
+      "relationship": "neutral",
+      "goldstein_avg": -0.431,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
