@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,93 +31,91 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.52,
-      "scores": {
-        "High House War": -0.031,
-        "High House Coin": 0.52,
-        "High House Shadow": 0.175,
-        "High House Life": -0.088,
-        "High House Iron": -0.007,
-        "High House Words": 0.168,
-        "High House Chains": 0.289
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "Banking on the dollar: How Iran keeps $9bn flowing through US banks despite sanctions",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/banking-on-the-dollar-how-iran-keeps-9bn-flowing-through-us-banks-despite-sanctions/articleshow/133834388.cms",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.483,
-      "scores": {
-        "High House War": 0.033,
-        "High House Coin": 0.267,
-        "High House Shadow": 0.226,
-        "High House Life": 0.192,
-        "High House Iron": 0.483,
-        "High House Words": 0.133,
-        "High House Chains": 0.15
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
-      },
-      "article": {
-        "title": "AI Must Learn To Swim In SME Oceans",
-        "url": "https://www.modernghana.com/news/1525385/ai-must-learn-to-swim-in-sme-oceans.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.426,
+      "confidence": 0.527,
       "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
+        "High House War": 0.061,
+        "High House Coin": 0.082,
+        "High House Shadow": 0.198,
+        "High House Life": 0.076,
+        "High House Iron": 0.527,
+        "High House Words": 0.001,
+        "High House Chains": 0.063
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.954
       },
       "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "title": "Apple's India hiring points to deeper AI, engineering ambitions",
+        "url": "https://bhaskarlive.in/others/apples-india-hiring-points-to-deeper-ai-engineering-ambitions-2138182",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.423,
+      "scores": {
+        "High House War": 0.198,
+        "High House Coin": 0.423,
+        "High House Shadow": 0.269,
+        "High House Life": 0.124,
+        "High House Iron": 0.064,
+        "High House Words": 0.207,
+        "High House Chains": 0.212
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.507
+      },
+      "article": {
+        "title": "Trump vs. the Bond Market",
+        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.399,
+      "scores": {
+        "High House War": 0.307,
+        "High House Coin": 0.097,
+        "High House Shadow": 0.327,
+        "High House Life": 0.12,
+        "High House Iron": 0.008,
+        "High House Words": 0.399,
+        "High House Chains": 0.146
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Russian \u2018state-sponsored terrorism\u2019 at German airport reveals escalating threat of hot conflict with Europe",
+        "url": "https://www.washingtonexaminer.com/in_focus/4714150/russia-state-sponsored-terrorism-german-airport-threat-hot-conflict",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -146,7 +144,7 @@
         "source": "guardian",
         "full_text": "Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week. The pessimism reflects concern that Russia may be winning a so-called hybrid war with Europe, weakening the options available to Nato war planners in the event of military conflict. The surge in support for the populist forces in Europe\u2019s main military states is also endangering proposals for a group of five European countries, including the UK, to take on a new coordination role as the US prepares to reduce its commitments to the conventional defence of Europe. Defence officials, speaking at a forum convened by the Munich Security Conference (MSC), the leading security foundation, said the European public may not have the appetite for a prolonged war, requiring Nato to focus its plans on a relatively quick conflict. One recent British cabinet member admitted the west had been \u201ccrap\u201d at educating its public about the scale of the hybrid conflict with Russia. Another UK diplomat claimed successive British prime ministers had done nothing to explain the scale of the threat. They said this had left ministers locked in an unenviable task of persuading unprepared voters to cut welfare spending to fund defence. \u201cThe level of the debate has been at that of a kindergarten,\u201d the UK diplomat admitted. The private criticism has been fuelled by the UK government\u2019s inability to adopt a call in its 2025 strategic defence review to launch a national conversation on the scale of the security threat facing Europe and to build national resilience. A second diplomat said the collapse of the cold war dividing line with Russia had left Moscow free to exploit the anxieties of European publics on the left and the right. The remarks reveal a wider concern in senior European politicians that they may be losing the so-called hybrid war with Russia, and this may be reflected in rightwing populist surges next year in Poland, France and Italy. Most populist parties, including Germany\u2019s Alternative f\u00fcr Deutschland (AfD), are sympathetic to Russia and want an end to the Ukraine conflict. The MSC discussion \u2013 held under rules forbidding identification of the speaker \u2013 was given added urgency by the German government this week blaming Russia for an attempted drone attack on Leipzig airport last month. One of the suspected culprits in the attack on 4 August, where an armed drone exploded, has been identified as a Belarusian citizen with a Russian passport who appears to have entered Europe using an Italian tourist visa. The MSC, an independent but influential foundation, has been promoting the idea of the five main European military powers working much more closely: one means of bringing the UK, outside the EU, to the centre of European defence planning. Decisions in Washington on its troop deployments that could effectively leave Europe in charge of its own conventional defences are expected in the next few months. But the scale of hybrid war and the potential impact of next year\u2019s elections, as well as the surge by the AfD in Germany, on plans for a stronger European defence coordination was described at the conference as \u201cthe elephant in the room\u201d. One proposal is for the EU to publish a collective statement on the Russian threat that the populist forces would be challenged to accept or decline. The E5 group of European defence ministers already meet regularly, but they are at the early stages of agreeing of how to jointly procure capabilities such as integrated air and missile defence, deep precision strike and space-based early warning systems that are all currently provided mostly by the US. \u201cEurope is stagnating at a time when the external threats were assuming a dimension which is really very serious. These are really huge and existential challenges requiring greater integration in defence,\u201d said Wo"
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -175,33 +173,33 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.136,
+        "High House Coin": 0.219,
+        "High House Shadow": 0.097,
+        "High House Life": 0.008,
+        "High House Iron": 0.041,
+        "High House Words": 0.155,
+        "High House Chains": 0.308
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
+        "title": "The Philippines must not trade historical memory for strategic convenience",
+        "url": "https://www.manilatimes.net/2026/09/02/supplements/the-philippines-must-not-trade-historical-memory-for-strategic-convenience/2416785",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
@@ -209,20 +207,30 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "RUSSIA",
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "INDIA",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -2.296,
+      "goldstein_avg": -1.653,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "INDIA",
+      "actor_b": "RUSSIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.804,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.284,
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.993,
       "source": "gdelt_volume"
     }
   }
