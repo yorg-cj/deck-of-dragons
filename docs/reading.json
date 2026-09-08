@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,33 +31,62 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House War",
+      "title": "The Warlord",
       "reversed": false,
-      "confidence": 0.527,
+      "confidence": 0.455,
       "scores": {
-        "High House War": 0.061,
-        "High House Coin": 0.082,
-        "High House Shadow": 0.198,
-        "High House Life": 0.076,
-        "High House Iron": 0.527,
-        "High House Words": 0.001,
-        "High House Chains": 0.063
+        "High House War": 0.455,
+        "High House Coin": 0.034,
+        "High House Shadow": 0.169,
+        "High House Life": 0.218,
+        "High House Iron": 0.021,
+        "High House Words": 0.237,
+        "High House Chains": 0.221
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.954
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Apple's India hiring points to deeper AI, engineering ambitions",
-        "url": "https://bhaskarlive.in/others/apples-india-hiring-points-to-deeper-ai-engineering-ambitions-2138182",
+        "title": "\u2018Peace not weakness\u2019; armed forces free to respond to threats: Rajnath Singh",
+        "url": "https://www.newindianexpress.com/india/2026/Sep/07/peace-not-weakness-armed-forces-free-to-respond-to-threats-rajnath-singh",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.436,
+      "scores": {
+        "High House War": 0.023,
+        "High House Coin": 0.378,
+        "High House Shadow": 0.046,
+        "High House Life": 0.11,
+        "High House Iron": 0.033,
+        "High House Words": 0.221,
+        "High House Chains": 0.436
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.544,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.989
+      },
+      "article": {
+        "title": "UK facing backlash to sanctions over Israeli West Bank settlements",
+        "url": "https://www.standard.co.uk/news/politics/israeli-west-bank-andy-burnham-donald-trump-benjamin-netanyahu-b1296124.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -89,64 +118,6 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.399,
-      "scores": {
-        "High House War": 0.307,
-        "High House Coin": 0.097,
-        "High House Shadow": 0.327,
-        "High House Life": 0.12,
-        "High House Iron": 0.008,
-        "High House Words": 0.399,
-        "High House Chains": 0.146
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "Russian \u2018state-sponsored terrorism\u2019 at German airport reveals escalating threat of hot conflict with Europe",
-        "url": "https://www.washingtonexaminer.com/in_focus/4714150/russia-state-sponsored-terrorism-german-airport-threat-hot-conflict",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.383,
-      "scores": {
-        "High House War": 0.383,
-        "High House Coin": 0.178,
-        "High House Shadow": 0.176,
-        "High House Life": 0.121,
-        "High House Iron": 0.069,
-        "High House Words": 0.22,
-        "High House Chains": 0.266
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.841
-      },
-      "article": {
-        "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
-        "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-        "source": "guardian",
-        "full_text": "Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week. The pessimism reflects concern that Russia may be winning a so-called hybrid war with Europe, weakening the options available to Nato war planners in the event of military conflict. The surge in support for the populist forces in Europe\u2019s main military states is also endangering proposals for a group of five European countries, including the UK, to take on a new coordination role as the US prepares to reduce its commitments to the conventional defence of Europe. Defence officials, speaking at a forum convened by the Munich Security Conference (MSC), the leading security foundation, said the European public may not have the appetite for a prolonged war, requiring Nato to focus its plans on a relatively quick conflict. One recent British cabinet member admitted the west had been \u201ccrap\u201d at educating its public about the scale of the hybrid conflict with Russia. Another UK diplomat claimed successive British prime ministers had done nothing to explain the scale of the threat. They said this had left ministers locked in an unenviable task of persuading unprepared voters to cut welfare spending to fund defence. \u201cThe level of the debate has been at that of a kindergarten,\u201d the UK diplomat admitted. The private criticism has been fuelled by the UK government\u2019s inability to adopt a call in its 2025 strategic defence review to launch a national conversation on the scale of the security threat facing Europe and to build national resilience. A second diplomat said the collapse of the cold war dividing line with Russia had left Moscow free to exploit the anxieties of European publics on the left and the right. The remarks reveal a wider concern in senior European politicians that they may be losing the so-called hybrid war with Russia, and this may be reflected in rightwing populist surges next year in Poland, France and Italy. Most populist parties, including Germany\u2019s Alternative f\u00fcr Deutschland (AfD), are sympathetic to Russia and want an end to the Ukraine conflict. The MSC discussion \u2013 held under rules forbidding identification of the speaker \u2013 was given added urgency by the German government this week blaming Russia for an attempted drone attack on Leipzig airport last month. One of the suspected culprits in the attack on 4 August, where an armed drone exploded, has been identified as a Belarusian citizen with a Russian passport who appears to have entered Europe using an Italian tourist visa. The MSC, an independent but influential foundation, has been promoting the idea of the five main European military powers working much more closely: one means of bringing the UK, outside the EU, to the centre of European defence planning. Decisions in Washington on its troop deployments that could effectively leave Europe in charge of its own conventional defences are expected in the next few months. But the scale of hybrid war and the potential impact of next year\u2019s elections, as well as the surge by the AfD in Germany, on plans for a stronger European defence coordination was described at the conference as \u201cthe elephant in the room\u201d. One proposal is for the EU to publish a collective statement on the Russian threat that the populist forces would be challenged to accept or decline. The E5 group of European defence ministers already meet regularly, but they are at the early stages of agreeing of how to jointly procure capabilities such as integrated air and missile defence, deep precision strike and space-based early warning systems that are all currently provided mostly by the US. \u201cEurope is stagnating at a time when the external threats were assuming a dimension which is really very serious. These are really huge and existential challenges requiring greater integration in defence,\u201d said Wo"
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
@@ -173,64 +144,88 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.308,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.372,
       "scores": {
-        "High House War": 0.136,
-        "High House Coin": 0.219,
-        "High House Shadow": 0.097,
-        "High House Life": 0.008,
-        "High House Iron": 0.041,
-        "High House Words": 0.155,
-        "High House Chains": 0.308
+        "High House War": 0.109,
+        "High House Coin": 0.132,
+        "High House Shadow": 0.266,
+        "High House Life": 0.186,
+        "High House Iron": 0.372,
+        "High House Words": 0.138,
+        "High House Chains": 0.093
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.546,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.997
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "The Philippines must not trade historical memory for strategic convenience",
-        "url": "https://www.manilatimes.net/2026/09/02/supplements/the-philippines-must-not-trade-historical-memory-for-strategic-convenience/2416785",
-        "source": "worldnews",
+        "title": "A Data Center Backlash",
+        "url": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.294,
+      "scores": {
+        "High House War": 0.013,
+        "High House Coin": 0.031,
+        "High House Shadow": 0.273,
+        "High House Life": 0.14,
+        "High House Iron": 0.071,
+        "High House Words": 0.294,
+        "High House Chains": 0.012
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Social media users could opt out of the algorithm if Australian government has its way \u2013 but that\u2019s a big if ",
+        "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
+        "source": "guardian",
+        "full_text": "Social media could become a \u201cchoose your own adventure\u201d between the doom-scrolling status quo, or just the feed of the friends you want to see, if the government\u2019s planned digital duty of care legislation passes, and the tech companies don\u2019t muck around on compliance. But that\u2019s a big if. For years people have complained about the random videos or posts cluttering their social media feeds as served to them by the tech giants. It often feels invasive \u2013 tracking our activity across websites and apps to serve content and ads \u2013 but in many cases, it is also toxic. Guardian Australia was first reporting these issues back in 2024, conducting experiments with blank phones set up to be young men, with very little other information to go on and to see what the algorithms pushed into our feeds. The results were shocking \u2013 how the default would quickly send someone down a rabbit hole of extreme misogynistic and far right content, and just how sensitive the algorithm is to any minor interaction on an image or video. Many of the perceived problems teens face on social media are also problems facing adults. While the social media ban was designed to combat the harms faced by under-16s, many of us know relatives who have been radicalised reading Facebook comments, or grandparents scammed out of their retirement money by fake investments they saw on social media. Outrage bait is rewarded by engagement on platforms, and this has infected politics and public discourse in Australia and elsewhere. The move, announced by the prime minister, Anthony Albanese, on Tuesday to have a pop-up notification proactively require users to decide whether they want the platform to decide what they see or just want to see the content of the people and groups they\u2019ve chosen to follow \u2013 similar to how many of the platforms worked in the early 2010s \u2013 could be game-changing. When Apple introduced a notification in iOS in 2021 that allowed people to opt in or opt out of ad tracking in apps, it cost Meta $10bn in one quarter, with users rushing to opt out of tracking on Facebook and Instagram. Compare that to when Instagram chief executive, Adam Mosseri, was on the stand in the landmark US court case last month just before Meta agreed to a $18bn settlement with state attorneys general. One of the company\u2019s safety features for teens, called Take a Break, which was designed to let teens stop using Instagram if they had been scrolling for a while, had a take up rate of 1.8%, the court heard. The companies love to tout their safety features, but then often bury them within the settings, with little notice to users, and then suggest to regulators that the low take up shows people love their product as is. The companies may also find ways to make it as clunky an experience as possible when people opt out, to drive them back to the preferred model, depending on how the law is written. Just look at Europe. In 2023 Meta introduced the option for a no-algorithm feed to comply with EU law, but in 2025 a Dutch court found people were automatically reverted to the Meta algorithm when they closed and reopened the app. The court ordered the company to provide a direct and simple way for people to opt out of the timeline, to comply with the law. Meta continued to argue it was already in compliance. Instagram is also expected to sell the benefits hard. It will launch its \u201cAlgo Confessions\u201d series in Australia this week, in which celebrities and influencers run through their \u201cFor You\u201d feeds, and why what Instagram recommends to people is just so good. They may find a sympathetic ear among organisations that have benefited from algorithms that reward outrage content with user engagement. It was telling the prime minister pointedly thanked News Corp for its support for the social media ban in Tuesday\u2019s press conference. It\u2019s not clear whether the \u201cmy feed, my way\u201d proposal will enjoy similar levels of full-throated support in the newspapers as the social media youth ban had, particularl"
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
+      "house_a": "High House War",
       "house_b": "High House Coin",
-      "actor_a": "INDIA",
+      "actor_a": "RAJNATH SINGH",
       "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -1.653,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "INDIA",
-      "actor_b": "RUSSIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.804,
+      "goldstein_avg": 0.007,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
       "trend": "stable",
-      "trend_ratio": 0.993,
+      "trend_ratio": 0.946,
       "source": "gdelt_volume"
     }
   }
