@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,59 +60,88 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.436,
-      "scores": {
-        "High House War": 0.023,
-        "High House Coin": 0.378,
-        "High House Shadow": 0.046,
-        "High House Life": 0.11,
-        "High House Iron": 0.033,
-        "High House Words": 0.221,
-        "High House Chains": 0.436
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.544,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.989
-      },
-      "article": {
-        "title": "UK facing backlash to sanctions over Israeli West Bank settlements",
-        "url": "https://www.standard.co.uk/news/politics/israeli-west-bank-andy-burnham-donald-trump-benjamin-netanyahu-b1296124.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.423,
+      "confidence": 0.445,
       "scores": {
-        "High House War": 0.198,
-        "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
+        "High House War": 0.102,
+        "High House Coin": 0.445,
+        "High House Shadow": 0.192,
+        "High House Life": 0.181,
+        "High House Iron": 0.231,
+        "High House Words": 0.157,
+        "High House Chains": 0.308
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "title": "World News | BRICS Summit 2026: How the Grouping is Reshaping the Global Economic Order",
+        "url": "https://www.latestly.com/agency-news/world-news-brics-summit-2026-how-the-grouping-is-reshaping-the-global-economic-order-7596188.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WANING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
         "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.403,
+      "scores": {
+        "High House War": 0.108,
+        "High House Coin": 0.141,
+        "High House Shadow": 0.281,
+        "High House Life": 0.135,
+        "High House Iron": 0.403,
+        "High House Words": 0.181,
+        "High House Chains": 0.173
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.958
+      },
+      "article": {
+        "title": "Business News | AI, Digital Sovereignty Critical To India\u2019s National Security, Experts Warn At KCSS 2026",
+        "url": "https://www.latestly.com/agency-news/business-news-ai-digital-sovereignty-critical-to-indias-national-security-experts-warn-at-kcss-2026-7596948.html",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -144,63 +173,34 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.372,
-      "scores": {
-        "High House War": 0.109,
-        "High House Coin": 0.132,
-        "High House Shadow": 0.266,
-        "High House Life": 0.186,
-        "High House Iron": 0.372,
-        "High House Words": 0.138,
-        "High House Chains": 0.093
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "A Data Center Backlash",
-        "url": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.294,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.013,
-        "High House Coin": 0.031,
-        "High House Shadow": 0.273,
-        "High House Life": 0.14,
-        "High House Iron": 0.071,
-        "High House Words": 0.294,
-        "High House Chains": 0.012
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Social media users could opt out of the algorithm if Australian government has its way \u2013 but that\u2019s a big if ",
-        "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
-        "source": "guardian",
-        "full_text": "Social media could become a \u201cchoose your own adventure\u201d between the doom-scrolling status quo, or just the feed of the friends you want to see, if the government\u2019s planned digital duty of care legislation passes, and the tech companies don\u2019t muck around on compliance. But that\u2019s a big if. For years people have complained about the random videos or posts cluttering their social media feeds as served to them by the tech giants. It often feels invasive \u2013 tracking our activity across websites and apps to serve content and ads \u2013 but in many cases, it is also toxic. Guardian Australia was first reporting these issues back in 2024, conducting experiments with blank phones set up to be young men, with very little other information to go on and to see what the algorithms pushed into our feeds. The results were shocking \u2013 how the default would quickly send someone down a rabbit hole of extreme misogynistic and far right content, and just how sensitive the algorithm is to any minor interaction on an image or video. Many of the perceived problems teens face on social media are also problems facing adults. While the social media ban was designed to combat the harms faced by under-16s, many of us know relatives who have been radicalised reading Facebook comments, or grandparents scammed out of their retirement money by fake investments they saw on social media. Outrage bait is rewarded by engagement on platforms, and this has infected politics and public discourse in Australia and elsewhere. The move, announced by the prime minister, Anthony Albanese, on Tuesday to have a pop-up notification proactively require users to decide whether they want the platform to decide what they see or just want to see the content of the people and groups they\u2019ve chosen to follow \u2013 similar to how many of the platforms worked in the early 2010s \u2013 could be game-changing. When Apple introduced a notification in iOS in 2021 that allowed people to opt in or opt out of ad tracking in apps, it cost Meta $10bn in one quarter, with users rushing to opt out of tracking on Facebook and Instagram. Compare that to when Instagram chief executive, Adam Mosseri, was on the stand in the landmark US court case last month just before Meta agreed to a $18bn settlement with state attorneys general. One of the company\u2019s safety features for teens, called Take a Break, which was designed to let teens stop using Instagram if they had been scrolling for a while, had a take up rate of 1.8%, the court heard. The companies love to tout their safety features, but then often bury them within the settings, with little notice to users, and then suggest to regulators that the low take up shows people love their product as is. The companies may also find ways to make it as clunky an experience as possible when people opt out, to drive them back to the preferred model, depending on how the law is written. Just look at Europe. In 2023 Meta introduced the option for a no-algorithm feed to comply with EU law, but in 2025 a Dutch court found people were automatically reverted to the Meta algorithm when they closed and reopened the app. The court ordered the company to provide a direct and simple way for people to opt out of the timeline, to comply with the law. Meta continued to argue it was already in compliance. Instagram is also expected to sell the benefits hard. It will launch its \u201cAlgo Confessions\u201d series in Australia this week, in which celebrities and influencers run through their \u201cFor You\u201d feeds, and why what Instagram recommends to people is just so good. They may find a sympathetic ear among organisations that have benefited from algorithms that reward outrage content with user engagement. It was telling the prime minister pointedly thanked News Corp for its support for the social media ban in Tuesday\u2019s press conference. It\u2019s not clear whether the \u201cmy feed, my way\u201d proposal will enjoy similar levels of full-throated support in the newspapers as the social media youth ban had, particularl"
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "EMERGING"
     }
@@ -210,22 +210,27 @@
       "house_a": "High House War",
       "house_b": "High House Coin",
       "actor_a": "RAJNATH SINGH",
-      "actor_b": "TRUMP",
+      "actor_b": "WORLD NEWS",
       "relationship": "neutral",
-      "goldstein_avg": 0.007,
+      "goldstein_avg": 0.038,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Iron",
+      "actor_a": "IRAN",
+      "actor_b": "BUSINESS NEWS",
+      "relationship": "opposed",
+      "goldstein_avg": -1.846,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "stable",
-      "trend_ratio": 0.946,
+      "trend_ratio": 0.6,
       "source": "gdelt_volume"
     }
   }
