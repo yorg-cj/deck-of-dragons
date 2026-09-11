@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,64 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.503,
+      "scores": {
+        "High House War": 0.056,
+        "High House Coin": 0.503,
+        "High House Shadow": 0.095,
+        "High House Life": 0.102,
+        "High House Iron": 0.105,
+        "High House Words": 0.175,
+        "High House Chains": 0.403
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.537,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.976
+      },
+      "article": {
+        "title": "BRICS calls for bigger emerging-market voice in IMF, World Bank; criticises unilateral tariffs",
+        "url": "https://www.orissapost.com/brics-calls-for-bigger-emerging-market-voice-in-imf-world-bank-criticises-unilateral-tariffs",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.456,
+      "scores": {
+        "High House War": 0.099,
+        "High House Coin": 0.103,
+        "High House Shadow": 0.188,
+        "High House Life": 0.111,
+        "High House Iron": 0.456,
+        "High House Words": 0.069,
+        "High House Chains": 0.085
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.927
+      },
+      "article": {
+        "title": "In Gujarat Assembly, Minister says state aims to become AI-era prime mover",
+        "url": "https://bhaskarlive.in/others/in-gujarat-assembly-minister-says-state-aims-to-become-ai-era-prime-mover-2139859",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
       "house": "High House War",
       "title": "The Warlord",
       "reversed": false,
@@ -57,162 +115,104 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.423,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.198,
-        "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.375,
-      "scores": {
-        "High House War": 0.038,
-        "High House Coin": -0.013,
-        "High House Shadow": 0.087,
-        "High House Life": 0.375,
-        "High House Iron": 0.09,
-        "High House Words": 0.101,
-        "High House Chains": 0.043
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.959
-      },
-      "article": {
-        "title": "MAHA Moms Take On Coal",
-        "url": "https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html",
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.372,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
       "scores": {
-        "High House War": 0.109,
-        "High House Coin": 0.132,
-        "High House Shadow": 0.266,
-        "High House Life": 0.186,
-        "High House Iron": 0.372,
-        "High House Words": 0.138,
-        "High House Chains": 0.093
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "A Data Center Backlash",
-        "url": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.367,
+      "confidence": 0.331,
       "scores": {
-        "High House War": 0.013,
-        "High House Coin": 0.084,
-        "High House Shadow": 0.321,
-        "High House Life": 0.247,
-        "High House Iron": -0.022,
-        "High House Words": 0.367,
-        "High House Chains": 0.083
+        "High House War": -0.021,
+        "High House Coin": 0.008,
+        "High House Shadow": 0.002,
+        "High House Life": 0.331,
+        "High House Iron": 0.036,
+        "High House Words": 0.011,
+        "High House Chains": 0.02
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.546,
+        "confidence": 0.55,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Polanski calls for report on ecosystem collapse to be published in full ",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
-        "source": "guardian",
-        "full_text": "Zack Polanski has challenged Andy Burnham\u2019s government to publish an unredacted version of an explosive report by the UK\u2019s spy chiefs that found the collapse of overseas ecosystems would have catastrophic consequences for the UK\u2019s national security. The Green party leader in England said the prime minister should come clean about the scale and impact of the climate and nature crisis and called on the government to publish in full the report that warns the UK faces devastating security consequences. Speaking at the Wild Summit event in Bristol on Wednesday, Polanski asked the prime minister: \u201cWill you tell the truth \u2013 and release the full unredacted report from the joint intelligence chiefs? Or will you keep hiding the truth from the public?\u201d The Guardian revealed last year that the report paints a devastating picture of severe food shortages, price rises, migration, political destabilisation and possible war, resulting from the collapse of ecosystems, fuelled by the human-induced climate crisis and over-exploitation. A redacted 14-page version, including some of the report\u2019s findings, was published in January but the government has repeatedly refused to publish the full version, despite repeated freedom of information requests from journalists and calls from MPs. Polanski, who is expected to be the Green party candidate in the upcoming byelection in Holborn and St Pancras, argued that the extreme weather experienced by much of the UK this summer should be a wake-up call for ministers. \u201cIt was a bleak preview of what is to come if we continue to allow the greed of corporations to come above the survival of our natural world \u2013 and all that relies on it. This must mark a turning point. Where we say: no more loss, no more quieting of birdsong, no more steady trickling of sewage and poison into our waters.\u201d The report by the joint intelligence committee and other government departments, revealed by the Guardian last October, shows that the UK will face catastrophic consequences from the collapse of key ecosystems in other countries. These include the Amazon rainforest, which scientists fear is reaching a \u201ctipping point\u201d triggered by deforestation and rising temperatures, which would turn the ecosystem from a huge absorber of carbon dioxide into a net source of carbon. Food shortages would be almost certain to result from the decline of ecosystems overseas, the report found, as would a big increase in global migration, with the potential to fuel unrest. Among the most alarming findings was that armed conflict, which includes nuclear war, was also a potential consequence. The report was due to be published at an event last October, attended by King Charles, in the Natural History Museum. However, at the last minute the publication was pulled, at the behest of Downing Street. In an interview with the Guardian after his speech, Polanski said the Green party would introduce a nature, biodiversity and national security bill to make climate adaptation \u201cfundamental to everything we do\u201d. The party would also seek to appoint a climate resilience minister whose principal job would be to address problems such as extreme heat, surface-water flooding and wildfires. Polanski reiterated a commitment to introduce a basic income for farmers to \u201censure those producing the food we rely on are paid properly for their work\u201d. \u201cWe know farmers have had wrecked harvest after wrecked harvest. Their crops are struggling and on top of that you\u2019ve got supermarkets where the bosses are taking record bonuses while fleecing farmers,\u201d he said. Simultaneously on Wednesday, in a letter to Burnham, a coalition of green groups has warned that national security, public health and economic growth are at risk without urgent action to restore nature. The UK has a legally binding target to restore 30% of nature by 2030. This target, which was set by more than 100 countries during Cop15 negotiations in Montreal in 2022, is considered the minimum restoration needed to halt a"
+        "title": "This Is the Biggest Obstacle to New Cancer Cures",
+        "url": "https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.367,
-      "scores": {
-        "High House War": 0.002,
-        "High House Coin": 0.366,
-        "High House Shadow": 0.063,
-        "High House Life": 0.116,
-        "High House Iron": -0.003,
-        "High House Words": 0.186,
-        "High House Chains": 0.367
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "Miliband rejects chief rabbi\u2019s claim that West Bank sanctions put UK Jews at risk",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/ed-miliband-rejects-chief-rabbi-claim-west-bank-sanctions-british-jews-less-safe",
-        "source": "guardian",
-        "full_text": "Ed Miliband has rejected warnings from the UK\u2019s chief rabbi that the government\u2019s sanctions against illegal Israeli settlements will make British Jews less safe, as he emphasised ministers can confront the actions of Benjamin Netanyahu\u2019s government while also fighting antisemitism. The foreign secretary announced sweeping sanctions on trade with Israeli settlements in the West Bank on Tuesday, with the government taking the position that Israel\u2019s occupation of the Palestinian territory was unlawful. The measures were coordinated with France, Canada and nine other countries that were also introducing sanctions on Israel over the increasing expansion of settlements, which the UK government says is threatening the future of a Palestinian state. In a joint statement, leaders including Andy Burnham, Emmanuel Macron and Mark Carney said: \u201cThe time has come to take further action to uphold our commitment to protect the two-state solution, our interests and to stand up for our values, before it is too late.\u201d The chief rabbi, Sir Ephraim Mirvis, called the UK sanctions a \u201cdark day for British Jews\u201d and said they could embolden people who \u201cuse hatred as a weapon against Jews\u201d. Milliband, who describes himself as a \u201cproud British Jew\u201d, said he did not agree with Mirvis. Asked on BBC Radio 4\u2019s Today programme whether he was saying the chief rabbi was wrong, Miliband replied: \u201cYes, I am saying I don\u2019t agree with the chief rabbi, somebody over whom I have great respect.\u201d He added: \u201cI just want to be very, very clear. As I said it in my statement yesterday, anyone who holds British Jews, or indeed Jews around the world, responsible for the actions of the Israeli government is engaging in antisemitism, pure and simple. \u201cAnd it must be possible to stand up in our society for British values of freedom, dignity, and against oppression and injustice, and do so as I believe I did yesterday in a way that calls out antisemitism.\u201d The foreign secretary was pressed on the chief rabbi\u2019s fear that British Jews could feel less safe as a result of the sanctions and was challenged by the BBC presenter, Justin Webb, who suggested Mirvis\u2019s claim could mean less to Miliband because he did not attend synagogue. \u201cNo, I don\u2019t agree with that,\u201d said Miliband, adding: \u201cAntisemitism is a scourge and an evil \u2026 I want Jews, I want people of all faiths and none to feel safe in our country.\u201d NEW Burnham told MPs at PMQs that it was vital to take the decision before the Israeli elections because of the tenders for the E1 settlement plans were being finalised soon \u2013 and the sanctions would affect the practicality of those plans being carried out. \u201cWords from any politician about a two-state solution will be only words if it\u2019s not backed with action, and leadership is about taking action where there is injustice, where we need to correct unfairness, people being driven out of their homes, losing their homes, being intimidated in their daily lives,\u201d he said. \u201cBritain has to stand for something. Britain has to show leadership. Britain has to stand for fairness against injustice, where people are being bullied out of their homes, intimidated. We will always stand with the underdog and take what action we can to support them.\u201d NEW ENDS Tuesday\u2019s sanctions announcement also prompted a swift backlash from Israel, which ordered the closure of the British consulate in Jerusalem and banned 12 British MPs and activists from entering Israel. Washington\u2019s ambassador to Israel, Mike Huckabee, threatened that the US could take retaliatory action over trade, but the US secretary of state, Marco Rubio, said the US would \u201cobviously\u201d not follow the UK government\u2019s actions but did not want to see the West Bank destabilised. Miliband told Sky News he would \u201clet our American friends speak for themselves\u201d but insisted the international community had been \u201cquite frustrated to put it mildly, with some of the actions of the Israeli government\u201d. The foreign secretary said he regretted what the Isr"
-      },
-      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "RAJNATH SINGH",
-      "actor_b": "WEST BANK",
+      "house_a": "High House Coin",
+      "house_b": "High House Iron",
+      "actor_a": "BRICS",
+      "actor_b": "GUJARAT ASSEMBLY",
       "relationship": "neutral",
-      "goldstein_avg": -0.012,
+      "goldstein_avg": 0.006,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
@@ -220,10 +220,10 @@
   "house_trends": {
     "High House War": {
       "trend": "rising",
-      "trend_ratio": 1.524,
+      "trend_ratio": 1.621,
       "source": "gdelt_volume"
     },
-    "High House Life": {
+    "High House Words": {
       "trend": "falling",
       "trend_ratio": 0.0,
       "source": "gdelt_volume"
