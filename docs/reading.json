@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.464,
+      "scores": {
+        "High House War": 0.069,
+        "High House Coin": 0.127,
+        "High House Shadow": 0.168,
+        "High House Life": -0.019,
+        "High House Iron": -0.032,
+        "High House Words": 0.464,
+        "High House Chains": 0.169
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.558
+      },
+      "article": {
+        "title": "D\u00e9sinformation et ing\u00e9rences : la strat\u00e9gie europ\u00e9enne expliqu\u00e9e par Nathalie Loiseau - Atelier des m\u00e9dias",
+        "url": "https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20260912-d%C3%A9sinformation-et-ing%C3%A9rences-la-strat%C3%A9gie-europ%C3%A9enne-expliqu%C3%A9e-par-nathalie-loiseau",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House War",
       "title": "The Warlord",
       "reversed": false,
@@ -57,7 +86,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -86,65 +115,65 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.373,
+      "scores": {
+        "High House War": 0.261,
+        "High House Coin": 0.222,
+        "High House Shadow": 0.042,
+        "High House Life": 0.103,
+        "High House Iron": 0.037,
+        "High House Words": 0.19,
+        "High House Chains": 0.373
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.401,
+      "confidence": 0.372,
       "scores": {
-        "High House War": 0.092,
-        "High House Coin": 0.14,
-        "High House Shadow": 0.302,
-        "High House Life": 0.265,
-        "High House Iron": 0.401,
-        "High House Words": 0.104,
-        "High House Chains": 0.004
+        "High House War": 0.109,
+        "High House Coin": 0.132,
+        "High House Shadow": 0.266,
+        "High House Life": 0.186,
+        "High House Iron": 0.372,
+        "High House Words": 0.138,
+        "High House Chains": 0.093
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.544,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.989
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "The week the AI freakout went mainstream",
-        "url": "https://www.vox.com/politics/502717/ai-freakout-mainstream-openai-anthropic-humans",
-        "source": "worldnews",
+        "title": "A Data Center Backlash",
+        "url": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.117,
-        "High House Coin": 0.117,
-        "High House Shadow": 0.26,
-        "High House Life": 0.169,
-        "High House Iron": 0.087,
-        "High House Words": 0.359,
-        "High House Chains": 0.07
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.536,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.974
-      },
-      "article": {
-        "title": "Manipulating Perspectives: Prosperity Party\u2019s Latest Repackaging of \u201cDeflection\u201d",
-        "url": "https://shabait.com/2026/09/12/manipulating-perspectives-prosperity-partys-latest-repackaging-of-deflection",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Life",
@@ -173,59 +202,9 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.311,
-      "scores": {
-        "High House War": 0.085,
-        "High House Coin": 0.286,
-        "High House Shadow": 0.106,
-        "High House Life": 0.143,
-        "High House Iron": 0.008,
-        "High House Words": 0.256,
-        "High House Chains": 0.311
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "UK sanctions on West Bank settlers are the right step",
-        "url": "https://www.theguardian.com/world/2026/sep/11/uk-sanctions-on-west-bank-settlers-are-the-right-step",
-        "source": "guardian",
-        "full_text": "As a religious Jew, I am disappointed at the reaction of some of our communal leaders and bodies to the sanctions on trade with illegal Israeli settlements (UK accuses Israeli \u2018terrorists\u2019 of ethnic cleansing in West Bank with government backing, 8 September). Many Jews in the UK are horrified by the Israeli government\u2019s actions, which include promises from some ministers of burying the idea of a Palestinian state, and turning a blind eye to unchecked settlement expansion and escalating settler violence. While much of the British media may choose to platform one view as being representative of the Jewish reaction to these sanctions, I would point to organisations such as Yachad and Na\u2019amod, which provide an alternative anti\u2011occupation narrative. It is also frustrating that the opinion of the chief rabbi is upheld by news organisations as though he is the Jewish version of the pope: he isn\u2019t. There are indeed rabbis in the UK who agree with these sanctions, or who have visited the West Bank and seen displays of injustice and violence with their own eyes, and understand that something must be done (Senior UK rabbis come out in support of sanctions on Israeli settlements, 9 September). There is a multiplicity of opinions on this nuanced subject that cannot be boiled down to a statement from one leader. I walk through the world visibly Jewish with a kippah on my head. I will also be attending synagogue over the High Holy Day period. During this period of increased antisemitism, my safety as a Jew and the urgent need for all countries to \u201ccall out\u201d Israel are not mutually exclusive. Jewish people are held responsible for the actions of an Israeli government over which they have no control \u2013 that\u2019s true. This, as the foreign secretary has stated, is antisemitism and should be tackled. However, above all, I believe that when we Jews see suffering we have an impetus to act, no matter how conflicting it feels: \u201cIf not now, when?\u201d Jonathan Tebble Brighton \u2022 The government\u2019s announcement of sanctions against settlements in the West Bank could have been better timed. Those of us in Israel who have worked for years to create a just and secure peace for two nations, and in six weeks\u2019 time have a chance to remove a government that persists in settlement expansion and the denial of Palestinian rights, have just been kicked in the nuts. There is nothing more dangerous than an Israeli electorate who feel that the world is against them. The British government, along with other European countries that made similar declarations, may well have handed an election victory to the very forces they are committed to undermine and remove: the likes of Benjamin Netanyahu, Itamar Ben-Gvir and Bezalel Smotrich. It would have been more sensible to make the announcements after 27 October, possibly when the new government had been formed and was available for policy discussion with its international partners. Clear and sincere commitments to peace and security for both countries would be enormously more helpful than declaring sanctions against West Bank settlements before an Israeli election that is critical for the future of a liberal, democratic state of Israel. Robin Newell Kibbutz Sde Nehemia, Israel \u2022 A substantial minority of British Jews like myself agree with the UK government\u2019s new use of the term ethnic cleansing to describe how armed settlers in the occupied territories evict Palestinians from their land, with passive and sometimes active support from Israeli institutions. While the UK\u2019s trade ban on goods from the occupied West Bank and new language is unlikely to be a significant catalyst for change, the terminology is now at least accurate. Tolerating settler violence is longstanding Israeli policy, which I\u2019ve seen with my own eyes. Twenty-two years ago I spent some months in a tiny farming village in the West Bank called Yanoun, where neighbouring armed settlers were severely harassing Palestinian villagers. Settlers killed livestock, contaminate"
-      },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "RAJNATH SINGH",
-      "actor_b": "WEST BANK",
-      "relationship": "neutral",
-      "goldstein_avg": -0.012,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "TRUMP",
-      "actor_b": "WEST BANK",
-      "relationship": "opposed",
-      "goldstein_avg": -2.934,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {}
 }
