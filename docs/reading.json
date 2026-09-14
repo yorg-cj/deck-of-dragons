@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,30 +31,30 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.464,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.492,
       "scores": {
-        "High House War": 0.069,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.168,
-        "High House Life": -0.019,
-        "High House Iron": -0.032,
-        "High House Words": 0.464,
-        "High House Chains": 0.169
+        "High House War": 0.199,
+        "High House Coin": 0.218,
+        "High House Shadow": 0.222,
+        "High House Life": 0.08,
+        "High House Iron": 0.492,
+        "High House Words": 0.119,
+        "High House Chains": 0.094
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.558
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "D\u00e9sinformation et ing\u00e9rences : la strat\u00e9gie europ\u00e9enne expliqu\u00e9e par Nathalie Loiseau - Atelier des m\u00e9dias",
-        "url": "https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20260912-d%C3%A9sinformation-et-ing%C3%A9rences-la-strat%C3%A9gie-europ%C3%A9enne-expliqu%C3%A9e-par-nathalie-loiseau",
-        "source": "gdelt_doc",
+        "title": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress",
+        "url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
@@ -86,7 +86,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
@@ -115,65 +115,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.373,
+      "confidence": 0.332,
       "scores": {
-        "High House War": 0.261,
-        "High House Coin": 0.222,
-        "High House Shadow": 0.042,
-        "High House Life": 0.103,
-        "High House Iron": 0.037,
-        "High House Words": 0.19,
-        "High House Chains": 0.373
+        "High House War": 0.081,
+        "High House Coin": 0.137,
+        "High House Shadow": 0.266,
+        "High House Life": 0.048,
+        "High House Iron": -0.18,
+        "High House Words": 0.332,
+        "High House Chains": 0.104
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.956
       },
       "article": {
-        "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-        "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Pressure builds in Spain to deny US extradition request for leftwing donor",
+        "url": "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request",
+        "source": "guardian",
+        "full_text": "Attorneys for James \u201cFergie\u201d Chambers, the US citizen and wealthy donor to leftwing and humanitarian projects worldwide who is currently imprisoned in Madrid and sought in extradition, have submitted a brief ahead of a decisive government meeting on the case. Meanwhile, Chambers\u2019 partner, the actor and activist Stella Schnabel, met last week with multiple members of the Spanish parliament to assert his innocence. The legal team\u2019s arguments include that the US government has failed to identify specific acts of violence or damages personally attributable to Chambers and instead is seeking to criminalize acts linked to political protest. They also assert that at least one figure of US law underpinning the request \u2013 \u201cconspiracy to commit riot\u201d \u2013 has no equivalent in Spanish law, which would also help render the extradition invalid. It is the first known case of the US seeking to extradite a citizen over alleged support for Hamas. Chambers\u2019 defense has submitted its brief to the government ahead of a meeting by Spain\u2019s council of ministers expected to take place on 22 September. The council can decide whether or not to allow the US extradition request to proceed, based in part on an evaluation of supporting materials the Trump administration supplied to the government on 26 August. Under Spanish law, at this \u201cadministrative\u201d stage, the 22-member council has the power to deny the request, before it reaches a \u201cjudicial\u201d stage. The US government\u2019s case centers on Chambers allegedly laundering $7.5m that he wired several years ago from a US bank account to Tunisia, where he lived at the time, and allegedly using the money to support the Palestinian group Hamas. The exact details of the indictment against Chambers remain sealed. Chambers\u2019 team say he has been supporting humanitarian aid and other projects. The 41\u2013year-old self-described anti\u2013imperialist\u2019s defense is also asserting that the Trump administration\u2019s additional charges of \u201cinternational money laundering\u201d don\u2019t hold up because, as heir to one of the richest families in the US, he obtained his personal wealth through legal means. Chambers\u2019 donations have gone to about 100 projects in 20 countries for several years \u2013 including the Sameer Project, in Gaza. \u201cIt would set an alarming precedent in all of Europe if Spain allowed the Trump administration to criminalize offering vital humanitarian aid to the Palestinian people and defending their rights,\u201d said Baltasar Garz\u00f3n, the acclaimed human rights lawyer and a member of Chambers\u2019 legal team. \u201cThat\u2019s what Fergie has financed: humanitarian aid and support for people in a situation of great need,\u201d said Garz\u00f3n. \u201cThat\u2019s not terrorism, according to Spanish and European legal standards.\u201d Meanwhile, Schnabel has met with members of Sumar and Podemos \u2013 progressive political movements vital to the coalition government of the prime minister, Pedro S\u00e1nchez \u2013 and has written a one-page letter to S\u00e1nchez asking him to make \u201cthe only morally acceptable decision\u201d, that of denying extradition. S\u00e1nchez forms part of the council of ministers. Schnabel has not escaped scrutiny since her partner was detained on 10 July in Ibiza. On a recent trip to New York, the FBI pulled her aside at JFK airport and confiscated her phone, she said. Support for Chambers in the lead-up to the 20 September meeting has come from Ione Bellara, leader of Podemos, who opened the party\u2019s quarterly meeting last Saturday with a statement opposing the extradition request, saying that Chambers was \u201con the right side of history\u201d with his financial support of Palestinians in Gaza. Similarly, Sumar, the leftwing coalition that governs jointly with S\u00e1nchez\u2019s Socialist party, filed a statement in Spain\u2019s congress earlier this week urging the government to deny the petition, \u201cgiven that the goal of the extradition request \u2026 is to criminalize, persecute or punish [Chambers] due to his political opinions, his public activity or his participation in political movements \u2013 in this case,"
       },
       "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.372,
-      "scores": {
-        "High House War": 0.109,
-        "High House Coin": 0.132,
-        "High House Shadow": 0.266,
-        "High House Life": 0.186,
-        "High House Iron": 0.372,
-        "High House Words": 0.138,
-        "High House Chains": 0.093
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "A Data Center Backlash",
-        "url": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
     },
     {
       "house": "High House Life",
@@ -202,9 +173,44 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.255,
+      "scores": {
+        "High House War": 0.184,
+        "High House Coin": 0.211,
+        "High House Shadow": -0.033,
+        "High House Life": 0.05,
+        "High House Iron": 0.176,
+        "High House Words": 0.111,
+        "High House Chains": 0.255
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.645
+      },
+      "article": {
+        "title": "Building a stronger maritime future",
+        "url": "https://www.dawn.com/news/2029680/building-a-stronger-maritime-future",
+        "source": "worldnews",
+        "full_text": null
+      },
       "position": "WANING"
     }
   ],
   "relationships": [],
-  "house_trends": {}
+  "house_trends": {
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 0.935,
+      "source": "gdelt_volume"
+    }
+  }
 }
