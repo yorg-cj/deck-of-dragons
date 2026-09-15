@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "cards": [
     {
       "house": "High House Shadow",
@@ -34,15 +34,15 @@
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.492,
+      "confidence": 0.5,
       "scores": {
-        "High House War": 0.199,
-        "High House Coin": 0.218,
-        "High House Shadow": 0.222,
-        "High House Life": 0.08,
-        "High House Iron": 0.492,
-        "High House Words": 0.119,
-        "High House Chains": 0.094
+        "High House War": -0.016,
+        "High House Coin": 0.187,
+        "High House Shadow": 0.176,
+        "High House Life": 0.076,
+        "High House Iron": 0.5,
+        "High House Words": 0.113,
+        "High House Chains": 0.148
       },
       "reversal": {
         "reversed": true,
@@ -52,12 +52,72 @@
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress",
-        "url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB\u2019s Lagarde",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+        "source": "guardian",
+        "full_text": "Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank. Christine Lagarde said the continent needed AI models \u2013 the technology that powers AI tools such as chatbots \u2013 that were \u201cgood enough\u201d to carry out most tasks and run from domestic datacentres. If Europe invests in its own AI tech, said Lagarde, \u201cthe threat of being cut off loses its force\u201d. AI is being built elsewhere, the ECB boss said in a speech in Vienna, with the US producing 59 notable models last year and China 35, while France and the UK produced one each. She added that the US hosts 75% of the world\u2019s AI computing capacity \u2013 produced by datacentres \u2013 and Europe just 5%. Lagarde said Europe faced \u201can awkward choice\u201d. \u201cEither it holds back on adopting, because it cannot protect its data, and forgoes the growth. Or it adopts AI quickly, becomes highly dependent, and risks losing the freedom to organise its economy according to its own values.\u201d Cutting Europe off from AI or changing the terms of its access would have a widespread and immediate economic impact, she said. \u201cWithin a few years it will be screening goods at the border, deciding which tax returns are audited, dispatching trains, watching patients on wards and clearing payments at banks. A withdrawal of access, or a change in its terms, would then reach every sector at once,\u201d she said. Lagarde said this represented leverage that \u201cno trade partner has ever held over Europe, and it could be \u200cused in any negotiation, on tariffs or on digital taxes, for example\u201d. While the EU and the US remain key allies, the Trump administration has shaken that trust in a range of episodes including the imposition of tariffs, demands to take over Greenland \u2013 a largely autonomous territory that is part of the Danish commonwealth \u2013 and the withdrawal of US troops from Europe over political disagreements. If adopted quickly, AI could lift the level of productivity \u2013 a measure of economic performance \u2013 by up to 4% over a decade, which would be transformative for public finances, Lagarde said. Urging Europe to build more computing capacity, she said: \u201cEurope already has too little datacentre capacity to meet its own demand, and on current trends, that gap is projected to grow more than sixfold within a decade.\u201d US technology firms\u2019 investment \u200cneeds are so large that they are doing some of their borrowing in Europe, pushing up costs for everyone else as they crowd out others in the debt market. European pension funds also invest heavily in US tech stocks, so any market correction would affect European savings, she added. Reuters contributed to this report."
       },
       "position": "ASCENDING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.49,
+      "scores": {
+        "High House War": 0.067,
+        "High House Coin": 0.49,
+        "High House Shadow": 0.238,
+        "High House Life": -0.035,
+        "High House Iron": 0.041,
+        "High House Words": 0.226,
+        "High House Chains": 0.34
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.961
+      },
+      "article": {
+        "title": "U.S. Treasury Sanctions Russian Bank in Latest Operation Economic Outcast Action",
+        "url": "https://www.breitbart.com/economy/2026/09/14/u-s-treasury-sanctions-russian-bank-in-latest-operation-economic-outcast-action",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.484,
+      "scores": {
+        "High House War": 0.046,
+        "High House Coin": 0.334,
+        "High House Shadow": 0.103,
+        "High House Life": 0.133,
+        "High House Iron": 0.12,
+        "High House Words": 0.18,
+        "High House Chains": 0.484
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.534,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.971
+      },
+      "article": {
+        "title": "UK sanctions on Israel \u2018fall far short\u2019 of its obligations, legal experts say",
+        "url": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
+        "source": "guardian",
+        "full_text": "More than 130 legal experts, including 18 king\u2019s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements \u201cfall far short\u201d of Britain\u2019s obligations under the international court of justice\u2019s (ICJ\u2019s) finding that the occupation is unlawful. The foreign secretary, Ed Miliband last week announced an import ban on goods from illegal Israeli settlements in Palestine and other measures. Signatories to the letter to the prime minister, including the leading lawyers Michael Mansfield KC and Imran Khan KC, and the former lord justice of appeal Alan Moses, say it is not enough. In a 2024 advisory opinion, the ICJ, which is the UN\u2019s top court, ordered Israel to end the occupation \u201cas rapidly as possible\u201d and said other countries were under an obligation not to recognise the occupation as lawful nor aid or assist it. The letter, sent on Tuesday, says the ICJ\u2019s findings have \u201cnot had an impact on Israel\u2019s apartheid practice\u201d and, while the UK sanctions are \u201ca necessary corrective\u201d, they are \u201cimproperly narrow\u201d when compared with sanctions on Russia, which are not limited to economic activity in occupied Ukrainian territory but apply to wider economic structures supporting the unlawful conduct. It says: \u201cWe ask it to commit to further and more rigorous measures to ensure that no part of the UK\u2019s economic relationship with Israel continues to sustain the illegal occupation itself, and the settlements and other serious violations of fundamental rules of international law perpetrated through its conduct, and to build on this to adopt robust coercive measures to seek to bring all these serious violations of international law, and the practices they sustain, including, fundamentally, the occupation itself, to an end. The letter, also signed by legal academics, calls for a range of additional measures including a full arms embargo on Israel. When announcing the sanctions, Miliband accused Israel of ethnic cleansing in the West Bank, and the signatories say article 6(3) of the arms trade treaty prohibits transfers of arms where a state has knowledge of such a crime. The sanctions were announced after escalating attacks by Israeli settlers against Palestinian villages in the West Bank and an Israeli tender was issued for 1,200 homes in the E1 settlement, east of Jerusalem, which could in effect cut off the north from the south of the West Bank, threatening the viability of any future Palestinian state. The signatories want extension of the sanctions to cover insurance, accountancy services and digital infrastructure as well as public confirmation that no UK public body, pension scheme or sovereign fund holds settlement investments. One of the letter\u2019s signatories and drafters, Ralph Wilde, a professor of international law at University College London, welcomed the UK\u2019s recent recognition of Israel\u2019s occupation of the West Bank as unlawful as an \u201cimportant shift\u201d, but said it fell short in its focus on the settlements and settlers. \u201cThe elephant in the room is the illegality of the occupation itself,\u201d said Wilde, who acted as senior counsel and legal adviser to the Arab League in the case before the ICJ. \u201cIt\u2019s not just simply the settlements and the abuse of treatment and the genocide, which of course are also wrong, it\u2019s Israel\u2019s very presence.\u201d He added: \u201cThere\u2019s a mismatch between saying Israel\u2019s very presence there is illegal, but then only focusing on the question of the settlers and the settlements. If the problem is with the settlements themselves, then the problem is with the state that establishes them.\u201d A government spokesperson said: \u201cThis is the biggest reset in the UK\u2019s approach to protecting and securing the two-state solution in a generation. We have shown our commitment to international law and our refusal to be bystanders to further suffering. \u201cWe have taken concrete action, supported accountability, pledged to galvanise the international community and acted with our partners across the globe.\u201d In res"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -89,128 +149,85 @@
       "position": "WILD"
     },
     {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.423,
-      "scores": {
-        "High House War": 0.198,
-        "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
-      },
-      "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.332,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.081,
-        "High House Coin": 0.137,
-        "High House Shadow": 0.266,
-        "High House Life": 0.048,
-        "High House Iron": -0.18,
-        "High House Words": 0.332,
-        "High House Chains": 0.104
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.956
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "Pressure builds in Spain to deny US extradition request for leftwing donor",
-        "url": "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request",
-        "source": "guardian",
-        "full_text": "Attorneys for James \u201cFergie\u201d Chambers, the US citizen and wealthy donor to leftwing and humanitarian projects worldwide who is currently imprisoned in Madrid and sought in extradition, have submitted a brief ahead of a decisive government meeting on the case. Meanwhile, Chambers\u2019 partner, the actor and activist Stella Schnabel, met last week with multiple members of the Spanish parliament to assert his innocence. The legal team\u2019s arguments include that the US government has failed to identify specific acts of violence or damages personally attributable to Chambers and instead is seeking to criminalize acts linked to political protest. They also assert that at least one figure of US law underpinning the request \u2013 \u201cconspiracy to commit riot\u201d \u2013 has no equivalent in Spanish law, which would also help render the extradition invalid. It is the first known case of the US seeking to extradite a citizen over alleged support for Hamas. Chambers\u2019 defense has submitted its brief to the government ahead of a meeting by Spain\u2019s council of ministers expected to take place on 22 September. The council can decide whether or not to allow the US extradition request to proceed, based in part on an evaluation of supporting materials the Trump administration supplied to the government on 26 August. Under Spanish law, at this \u201cadministrative\u201d stage, the 22-member council has the power to deny the request, before it reaches a \u201cjudicial\u201d stage. The US government\u2019s case centers on Chambers allegedly laundering $7.5m that he wired several years ago from a US bank account to Tunisia, where he lived at the time, and allegedly using the money to support the Palestinian group Hamas. The exact details of the indictment against Chambers remain sealed. Chambers\u2019 team say he has been supporting humanitarian aid and other projects. The 41\u2013year-old self-described anti\u2013imperialist\u2019s defense is also asserting that the Trump administration\u2019s additional charges of \u201cinternational money laundering\u201d don\u2019t hold up because, as heir to one of the richest families in the US, he obtained his personal wealth through legal means. Chambers\u2019 donations have gone to about 100 projects in 20 countries for several years \u2013 including the Sameer Project, in Gaza. \u201cIt would set an alarming precedent in all of Europe if Spain allowed the Trump administration to criminalize offering vital humanitarian aid to the Palestinian people and defending their rights,\u201d said Baltasar Garz\u00f3n, the acclaimed human rights lawyer and a member of Chambers\u2019 legal team. \u201cThat\u2019s what Fergie has financed: humanitarian aid and support for people in a situation of great need,\u201d said Garz\u00f3n. \u201cThat\u2019s not terrorism, according to Spanish and European legal standards.\u201d Meanwhile, Schnabel has met with members of Sumar and Podemos \u2013 progressive political movements vital to the coalition government of the prime minister, Pedro S\u00e1nchez \u2013 and has written a one-page letter to S\u00e1nchez asking him to make \u201cthe only morally acceptable decision\u201d, that of denying extradition. S\u00e1nchez forms part of the council of ministers. Schnabel has not escaped scrutiny since her partner was detained on 10 July in Ibiza. On a recent trip to New York, the FBI pulled her aside at JFK airport and confiscated her phone, she said. Support for Chambers in the lead-up to the 20 September meeting has come from Ione Bellara, leader of Podemos, who opened the party\u2019s quarterly meeting last Saturday with a statement opposing the extradition request, saying that Chambers was \u201con the right side of history\u201d with his financial support of Palestinians in Gaza. Similarly, Sumar, the leftwing coalition that governs jointly with S\u00e1nchez\u2019s Socialist party, filed a statement in Spain\u2019s congress earlier this week urging the government to deny the petition, \u201cgiven that the goal of the extradition request \u2026 is to criminalize, persecute or punish [Chambers] due to his political opinions, his public activity or his participation in political movements \u2013 in this case,"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.331,
-      "scores": {
-        "High House War": -0.021,
-        "High House Coin": 0.008,
-        "High House Shadow": 0.002,
-        "High House Life": 0.331,
-        "High House Iron": 0.036,
-        "High House Words": 0.011,
-        "High House Chains": 0.02
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "This Is the Biggest Obstacle to New Cancer Cures",
-        "url": "https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html",
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.255,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.184,
-        "High House Coin": 0.211,
-        "High House Shadow": -0.033,
-        "High House Life": 0.05,
-        "High House Iron": 0.176,
-        "High House Words": 0.111,
-        "High House Chains": 0.255
+        "High House War": 0.104,
+        "High House Coin": 0.14,
+        "High House Shadow": 0.113,
+        "High House Life": 0.377,
+        "High House Iron": 0.098,
+        "High House Words": 0.042,
+        "High House Chains": 0.119
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.645
+        "sentiment_score": 0.62
       },
       "article": {
-        "title": "Building a stronger maritime future",
-        "url": "https://www.dawn.com/news/2029680/building-a-stronger-maritime-future",
+        "title": "Investment in Irrigation Systems Is Vital in Preparing for the Next Climate Shock",
+        "url": "https://www.globalissues.org/news/2026/09/14/44032",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House War": {
-      "trend": "stable",
-      "trend_ratio": 0.935,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "RAJNATH SINGH",
+      "relationship": "neutral",
+      "goldstein_avg": 0.054,
+      "confidence": 0.69,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "ISRAEL",
+      "actor_b": "RAJNATH SINGH",
+      "relationship": "neutral",
+      "goldstein_avg": -0.031,
+      "confidence": 0.69,
+      "source": "gdelt_tone"
     }
-  }
+  ],
+  "house_trends": {}
 }
