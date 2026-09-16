@@ -1,6 +1,35 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.636,
+      "scores": {
+        "High House War": 0.156,
+        "High House Coin": 0.082,
+        "High House Shadow": 0.21,
+        "High House Life": 0.127,
+        "High House Iron": 0.636,
+        "High House Words": 0.004,
+        "High House Chains": 0.002
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "In Silicon Valley, Hardware Is Having a Moment Again",
+        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,96 +57,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.5,
-      "scores": {
-        "High House War": -0.016,
-        "High House Coin": 0.187,
-        "High House Shadow": 0.176,
-        "High House Life": 0.076,
-        "High House Iron": 0.5,
-        "High House Words": 0.113,
-        "High House Chains": 0.148
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Europe must build own AI or risk getting cut off by US or China, says ECB\u2019s Lagarde",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-        "source": "guardian",
-        "full_text": "Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank. Christine Lagarde said the continent needed AI models \u2013 the technology that powers AI tools such as chatbots \u2013 that were \u201cgood enough\u201d to carry out most tasks and run from domestic datacentres. If Europe invests in its own AI tech, said Lagarde, \u201cthe threat of being cut off loses its force\u201d. AI is being built elsewhere, the ECB boss said in a speech in Vienna, with the US producing 59 notable models last year and China 35, while France and the UK produced one each. She added that the US hosts 75% of the world\u2019s AI computing capacity \u2013 produced by datacentres \u2013 and Europe just 5%. Lagarde said Europe faced \u201can awkward choice\u201d. \u201cEither it holds back on adopting, because it cannot protect its data, and forgoes the growth. Or it adopts AI quickly, becomes highly dependent, and risks losing the freedom to organise its economy according to its own values.\u201d Cutting Europe off from AI or changing the terms of its access would have a widespread and immediate economic impact, she said. \u201cWithin a few years it will be screening goods at the border, deciding which tax returns are audited, dispatching trains, watching patients on wards and clearing payments at banks. A withdrawal of access, or a change in its terms, would then reach every sector at once,\u201d she said. Lagarde said this represented leverage that \u201cno trade partner has ever held over Europe, and it could be \u200cused in any negotiation, on tariffs or on digital taxes, for example\u201d. While the EU and the US remain key allies, the Trump administration has shaken that trust in a range of episodes including the imposition of tariffs, demands to take over Greenland \u2013 a largely autonomous territory that is part of the Danish commonwealth \u2013 and the withdrawal of US troops from Europe over political disagreements. If adopted quickly, AI could lift the level of productivity \u2013 a measure of economic performance \u2013 by up to 4% over a decade, which would be transformative for public finances, Lagarde said. Urging Europe to build more computing capacity, she said: \u201cEurope already has too little datacentre capacity to meet its own demand, and on current trends, that gap is projected to grow more than sixfold within a decade.\u201d US technology firms\u2019 investment \u200cneeds are so large that they are doing some of their borrowing in Europe, pushing up costs for everyone else as they crowd out others in the debt market. European pension funds also invest heavily in US tech stocks, so any market correction would affect European savings, she added. Reuters contributed to this report."
-      },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.49,
-      "scores": {
-        "High House War": 0.067,
-        "High House Coin": 0.49,
-        "High House Shadow": 0.238,
-        "High House Life": -0.035,
-        "High House Iron": 0.041,
-        "High House Words": 0.226,
-        "High House Chains": 0.34
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.961
-      },
-      "article": {
-        "title": "U.S. Treasury Sanctions Russian Bank in Latest Operation Economic Outcast Action",
-        "url": "https://www.breitbart.com/economy/2026/09/14/u-s-treasury-sanctions-russian-bank-in-latest-operation-economic-outcast-action",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.484,
+      "confidence": 0.472,
       "scores": {
-        "High House War": 0.046,
-        "High House Coin": 0.334,
-        "High House Shadow": 0.103,
-        "High House Life": 0.133,
-        "High House Iron": 0.12,
-        "High House Words": 0.18,
-        "High House Chains": 0.484
+        "High House War": 0.042,
+        "High House Coin": 0.332,
+        "High House Shadow": 0.093,
+        "High House Life": 0.13,
+        "High House Iron": 0.119,
+        "High House Words": 0.176,
+        "High House Chains": 0.472
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.534,
+        "confidence": 0.536,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.971
+        "sentiment_score": 0.975
       },
       "article": {
         "title": "UK sanctions on Israel \u2018fall far short\u2019 of its obligations, legal experts say",
         "url": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
         "source": "guardian",
-        "full_text": "More than 130 legal experts, including 18 king\u2019s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements \u201cfall far short\u201d of Britain\u2019s obligations under the international court of justice\u2019s (ICJ\u2019s) finding that the occupation is unlawful. The foreign secretary, Ed Miliband last week announced an import ban on goods from illegal Israeli settlements in Palestine and other measures. Signatories to the letter to the prime minister, including the leading lawyers Michael Mansfield KC and Imran Khan KC, and the former lord justice of appeal Alan Moses, say it is not enough. In a 2024 advisory opinion, the ICJ, which is the UN\u2019s top court, ordered Israel to end the occupation \u201cas rapidly as possible\u201d and said other countries were under an obligation not to recognise the occupation as lawful nor aid or assist it. The letter, sent on Tuesday, says the ICJ\u2019s findings have \u201cnot had an impact on Israel\u2019s apartheid practice\u201d and, while the UK sanctions are \u201ca necessary corrective\u201d, they are \u201cimproperly narrow\u201d when compared with sanctions on Russia, which are not limited to economic activity in occupied Ukrainian territory but apply to wider economic structures supporting the unlawful conduct. It says: \u201cWe ask it to commit to further and more rigorous measures to ensure that no part of the UK\u2019s economic relationship with Israel continues to sustain the illegal occupation itself, and the settlements and other serious violations of fundamental rules of international law perpetrated through its conduct, and to build on this to adopt robust coercive measures to seek to bring all these serious violations of international law, and the practices they sustain, including, fundamentally, the occupation itself, to an end. The letter, also signed by legal academics, calls for a range of additional measures including a full arms embargo on Israel. When announcing the sanctions, Miliband accused Israel of ethnic cleansing in the West Bank, and the signatories say article 6(3) of the arms trade treaty prohibits transfers of arms where a state has knowledge of such a crime. The sanctions were announced after escalating attacks by Israeli settlers against Palestinian villages in the West Bank and an Israeli tender was issued for 1,200 homes in the E1 settlement, east of Jerusalem, which could in effect cut off the north from the south of the West Bank, threatening the viability of any future Palestinian state. The signatories want extension of the sanctions to cover insurance, accountancy services and digital infrastructure as well as public confirmation that no UK public body, pension scheme or sovereign fund holds settlement investments. One of the letter\u2019s signatories and drafters, Ralph Wilde, a professor of international law at University College London, welcomed the UK\u2019s recent recognition of Israel\u2019s occupation of the West Bank as unlawful as an \u201cimportant shift\u201d, but said it fell short in its focus on the settlements and settlers. \u201cThe elephant in the room is the illegality of the occupation itself,\u201d said Wilde, who acted as senior counsel and legal adviser to the Arab League in the case before the ICJ. \u201cIt\u2019s not just simply the settlements and the abuse of treatment and the genocide, which of course are also wrong, it\u2019s Israel\u2019s very presence.\u201d He added: \u201cThere\u2019s a mismatch between saying Israel\u2019s very presence there is illegal, but then only focusing on the question of the settlers and the settlements. If the problem is with the settlements themselves, then the problem is with the state that establishes them.\u201d A government spokesperson said: \u201cThis is the biggest reset in the UK\u2019s approach to protecting and securing the two-state solution in a generation. We have shown our commitment to international law and our refusal to be bystanders to further suffering. \u201cWe have taken concrete action, supported accountability, pledged to galvanise the international community and acted with our partners across the globe.\u201d In res"
+        "full_text": "More than 130 legal experts, including 18 king\u2019s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements \u201cfall far short\u201d of Britain\u2019s obligations under the international court of justice\u2019s (ICJ\u2019s) finding that the occupation is unlawful. The foreign secretary, Ed Miliband, last week announced an import ban on goods from illegal Israeli settlements in Palestine and other measures. Signatories to the letter to the prime minister, including the leading lawyers Michael Mansfield KC and Imran Khan KC, and the former lord justice of appeal Alan Moses, say it is not enough. In a 2024 advisory opinion, the ICJ, which is the UN\u2019s top court, ordered Israel to end the occupation \u201cas rapidly as possible\u201d and said other countries were under an obligation not to recognise the occupation as lawful nor aid or assist it. The letter, sent on Tuesday, says the ICJ\u2019s findings have \u201cnot had an impact on Israel\u2019s apartheid practice\u201d and, while the UK sanctions are \u201ca necessary corrective\u201d, they are \u201cimproperly narrow\u201d when compared with sanctions on Russia, which are not limited to economic activity in occupied Ukrainian territory but apply to wider economic structures supporting the unlawful conduct. It says: \u201cWe ask it to commit to further and more rigorous measures to ensure that no part of the UK\u2019s economic relationship with Israel continues to sustain the illegal occupation itself, and the settlements and other serious violations of fundamental rules of international law perpetrated through its conduct, and to build on this to adopt robust coercive measures to seek to bring all these serious violations of international law, and the practices they sustain, including, fundamentally, the occupation itself, to an end.\u201d The letter, also signed by legal academics, calls for a range of additional measures including a full arms embargo on Israel. When announcing the sanctions, Miliband accused Israel of ethnic cleansing in the West Bank, and the signatories say article 6(3) of the arms trade treaty prohibits transfers of arms where a state has knowledge of such a crime. The sanctions were announced after escalating attacks by Israeli settlers against Palestinian villages in the West Bank and an Israeli tender was issued for 1,200 homes in the E1 settlement, east of Jerusalem, which could in effect cut off the north from the south of the West Bank, threatening the viability of any future Palestinian state. The signatories want extension of the sanctions to cover insurance, accountancy services and digital infrastructure as well as public confirmation that no UK public body, pension scheme or sovereign fund holds settlement investments. One of the letter\u2019s signatories and drafters, Ralph Wilde, a professor of international law at University College London, welcomed the UK\u2019s recent recognition of Israel\u2019s occupation of the West Bank as unlawful as an \u201cimportant shift\u201d, but said it fell short in its focus on the settlements and settlers. \u201cThe elephant in the room is the illegality of the occupation itself,\u201d said Wilde, who acted as senior counsel and legal adviser to the Arab League in the case before the ICJ. \u201cIt\u2019s not just simply the settlements and the abuse of treatment and the genocide, which of course are also wrong, it\u2019s Israel\u2019s very presence.\u201d He added: \u201cThere\u2019s a mismatch between saying Israel\u2019s very presence there is illegal, but then only focusing on the question of the settlers and the settlements. If the problem is with the settlements themselves, then the problem is with the state that establishes them.\u201d A government spokesperson said: \u201cThis is the biggest reset in the UK\u2019s approach to protecting and securing the two-state solution in a generation. We have shown our commitment to international law and our refusal to be bystanders to further suffering. \u201cWe have taken concrete action, supported accountability, pledged to galvanise the international community and acted with our partners across the globe.\u201d In r"
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -149,29 +118,29 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Coin",
+      "title": "The Throne",
       "reversed": false,
-      "confidence": 0.426,
+      "confidence": 0.45,
       "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
+        "High House War": 0.106,
+        "High House Coin": 0.45,
+        "High House Shadow": 0.137,
+        "High House Life": 0.069,
+        "High House Iron": 0.017,
+        "High House Words": 0.073,
+        "High House Chains": 0.259
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.631
       },
       "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "title": "Bessent and Warsh Take On the Bond Bears",
+        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
         "source": "nyt",
         "full_text": null
       },
@@ -181,53 +150,83 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.377,
+      "confidence": 0.359,
       "scores": {
-        "High House War": 0.104,
-        "High House Coin": 0.14,
-        "High House Shadow": 0.113,
-        "High House Life": 0.377,
-        "High House Iron": 0.098,
-        "High House Words": 0.042,
-        "High House Chains": 0.119
+        "High House War": 0.217,
+        "High House Coin": 0.078,
+        "High House Shadow": 0.05,
+        "High House Life": 0.359,
+        "High House Iron": 0.018,
+        "High House Words": 0.256,
+        "High House Chains": 0.138
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.62
+        "sentiment": "POSITIVE",
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "Investment in Irrigation Systems Is Vital in Preparing for the Next Climate Shock",
-        "url": "https://www.globalissues.org/news/2026/09/14/44032",
-        "source": "worldnews",
+        "title": "Disaster Survivors Sticking Together",
+        "url": "https://www.nytimes.com/2026/09/15/climate/extreme-weather-survivors.html",
+        "source": "nyt",
         "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.294,
+      "scores": {
+        "High House War": 0.099,
+        "High House Coin": 0.084,
+        "High House Shadow": 0.255,
+        "High House Life": 0.042,
+        "High House Iron": -0.113,
+        "High House Words": 0.294,
+        "High House Chains": 0.157
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "UK ministers urged to act after US flies out diplomat accused of possessing indecent images of children",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/ministers-us-diplomat-accused-indecent-images-children-uk",
+        "source": "guardian",
+        "full_text": "British ministers face calls to act after US authorities secretly flew out of the UK a diplomat accused of possessing indecent images of children. US officials reportedly raided the diplomat\u2019s London flat in August before taking him to an American airbase and flying him out of the country, without warning the Metropolitan police. American personnel have no powers of arrest in Britain, and there was no formal request for the man to be extradited. UK ministers are understood to be in contact with the US embassy over the incident, which could further strain relations between London and Washington. Elements of the case echo that of an American fighter pilot, first reported in the Guardian, who avoided being tried under English law for strangling a woman in Cambridge while off-duty. Capt Jacob Wulfson was tried by court martial at a US airbase and jailed for six months after being convicted of strangulation. He was acquitted of charges of sexual assault and aggravated sexual contact. In a letter to the justice secretary, Alex Norris, his Conservative counterpart, Nick Timothy, said he was concerned US actions represented \u201ca cover-up\u201d and that the diplomat may have committed offences in the UK. \u201cIf this is the case, the diplomat should face trial in an English court.\u201d Timothy said the incident was part of a \u201cconcerning pattern\u201d of US authorities prosecuting American service personnel accused of offences against British civilians while stationed in the UK. Citing the Wulfson case, he wrote: \u201cThese cases should have been investigated by the English police and prosecuted in our courts. I ask you to urgently explain what action you are taking to address this, and what will be done to ensure the accused diplomat faces a proper investigation in this country.\u201d The diplomat\u2019s case has also been likened to that of the US state department employee Anne Sacoolas, who caused the death of the teenager Harry Dunn in a car crash in 2019. Sacoolas was able to leave the country shortly after the fatal collision when the US asserted diplomatic immunity on her behalf. She eventually pleaded guilty to causing death by careless driving at a virtual high-court hearing in December 2022, and was sentenced to eight months in prison, suspended for a year. A UK government spokesperson declined to comment because of the ongoing US investigation but said Britain expects all foreign diplomats to obey the law while in the UK, \u201cin the same way we expect all UK diplomats to do so when posted overseas\u201d. A spokesperson for the US embassy said it was \u201caware of allegations\u201d concerning one of its staff and expected \u201call personnel to adhere to the highest standards of conduct\u201d. The spokesperson said: \u201cWe quickly informed UK law enforcement and took swift action, and we will continue to work closely with our law enforcement partners regarding these allegations. \u201cThe individual in question has been reassigned to the United States in conjunction with an ongoing investigation. The embassy has informed British authorities of the case.\u201d A US state department spokesperson declined to discuss the specifics of the case, adding: \u201cWe take these allegations seriously.\u201d A Met police spokesperson said: \u201cOn Tuesday 25 August, US authorities made us aware of an investigation they are conducting into suspected offences in London relating to indecent images of children. We continue to liaise with them regarding this matter.\u201d"
       },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "RAJNATH SINGH",
-      "relationship": "neutral",
-      "goldstein_avg": 0.054,
-      "confidence": 0.69,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Chains",
-      "house_b": "High House War",
+      "house_b": "High House Life",
       "actor_a": "ISRAEL",
-      "actor_b": "RAJNATH SINGH",
+      "actor_b": "STICKING TOGETHER",
       "relationship": "neutral",
-      "goldstein_avg": -0.031,
-      "confidence": 0.69,
+      "goldstein_avg": -0.032,
+      "confidence": 0.55,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.159,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 4.816,
+      "source": "gdelt_volume"
+    }
+  }
 }
