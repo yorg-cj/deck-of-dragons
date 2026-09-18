@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,64 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.529,
-      "scores": {
-        "High House War": 0.124,
-        "High House Coin": 0.143,
-        "High House Shadow": 0.529,
-        "High House Life": 0.002,
-        "High House Iron": 0.203,
-        "High House Words": 0.216,
-        "High House Chains": 0.102
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.541,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
-      },
-      "article": {
-        "title": "The Secret Spy Network Feeding Russia\u2019s War Machine",
-        "url": "https://www.nytimes.com/2026/08/14/podcasts/the-daily/japan-russia-spy-war.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.472,
-      "scores": {
-        "High House War": 0.042,
-        "High House Coin": 0.332,
-        "High House Shadow": 0.093,
-        "High House Life": 0.13,
-        "High House Iron": 0.119,
-        "High House Words": 0.176,
-        "High House Chains": 0.472
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.536,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.975
-      },
-      "article": {
-        "title": "UK sanctions on Israel \u2018fall far short\u2019 of its obligations, legal experts say",
-        "url": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
-        "source": "guardian",
-        "full_text": "More than 130 legal experts, including 18 king\u2019s counsel (KCs), have written to Andy Burnham saying that sanctions on Israeli settlements \u201cfall far short\u201d of Britain\u2019s obligations under the international court of justice\u2019s (ICJ\u2019s) finding that the occupation is unlawful. The foreign secretary, Ed Miliband, last week announced an import ban on goods from illegal Israeli settlements in Palestine and other measures. Signatories to the letter to the prime minister, including the leading lawyers Michael Mansfield KC and Imran Khan KC, and the former lord justice of appeal Alan Moses, say it is not enough. In a 2024 advisory opinion, the ICJ, which is the UN\u2019s top court, ordered Israel to end the occupation \u201cas rapidly as possible\u201d and said other countries were under an obligation not to recognise the occupation as lawful nor aid or assist it. The letter, sent on Tuesday, says the ICJ\u2019s findings have \u201cnot had an impact on Israel\u2019s apartheid practice\u201d and, while the UK sanctions are \u201ca necessary corrective\u201d, they are \u201cimproperly narrow\u201d when compared with sanctions on Russia, which are not limited to economic activity in occupied Ukrainian territory but apply to wider economic structures supporting the unlawful conduct. It says: \u201cWe ask it to commit to further and more rigorous measures to ensure that no part of the UK\u2019s economic relationship with Israel continues to sustain the illegal occupation itself, and the settlements and other serious violations of fundamental rules of international law perpetrated through its conduct, and to build on this to adopt robust coercive measures to seek to bring all these serious violations of international law, and the practices they sustain, including, fundamentally, the occupation itself, to an end.\u201d The letter, also signed by legal academics, calls for a range of additional measures including a full arms embargo on Israel. When announcing the sanctions, Miliband accused Israel of ethnic cleansing in the West Bank, and the signatories say article 6(3) of the arms trade treaty prohibits transfers of arms where a state has knowledge of such a crime. The sanctions were announced after escalating attacks by Israeli settlers against Palestinian villages in the West Bank and an Israeli tender was issued for 1,200 homes in the E1 settlement, east of Jerusalem, which could in effect cut off the north from the south of the West Bank, threatening the viability of any future Palestinian state. The signatories want extension of the sanctions to cover insurance, accountancy services and digital infrastructure as well as public confirmation that no UK public body, pension scheme or sovereign fund holds settlement investments. One of the letter\u2019s signatories and drafters, Ralph Wilde, a professor of international law at University College London, welcomed the UK\u2019s recent recognition of Israel\u2019s occupation of the West Bank as unlawful as an \u201cimportant shift\u201d, but said it fell short in its focus on the settlements and settlers. \u201cThe elephant in the room is the illegality of the occupation itself,\u201d said Wilde, who acted as senior counsel and legal adviser to the Arab League in the case before the ICJ. \u201cIt\u2019s not just simply the settlements and the abuse of treatment and the genocide, which of course are also wrong, it\u2019s Israel\u2019s very presence.\u201d He added: \u201cThere\u2019s a mismatch between saying Israel\u2019s very presence there is illegal, but then only focusing on the question of the settlers and the settlements. If the problem is with the settlements themselves, then the problem is with the state that establishes them.\u201d A government spokesperson said: \u201cThis is the biggest reset in the UK\u2019s approach to protecting and securing the two-state solution in a generation. We have shown our commitment to international law and our refusal to be bystanders to further suffering. \u201cWe have taken concrete action, supported accountability, pledged to galvanise the international community and acted with our partners across the globe.\u201d In r"
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House War",
       "title": "The Warlord",
       "reversed": false,
@@ -115,7 +57,36 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.45,
+      "scores": {
+        "High House War": 0.11,
+        "High House Coin": 0.198,
+        "High House Shadow": 0.45,
+        "High House Life": 0.061,
+        "High House Iron": 0.19,
+        "High House Words": 0.241,
+        "High House Chains": 0.115
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
+      },
+      "article": {
+        "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+        "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -144,36 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Life",
@@ -202,45 +144,108 @@
         "source": "guardian",
         "full_text": "Concerns over AI safety are reaching a point where governments realise they must act to protect the public, similarly to in the Covid pandemic, according to one of the \u201cgodfathers\u201d of the technology. Yoshua Bengio said recent events, including a \u201cswarm\u201d of OpenAI agents hacking a startup and tech insider warnings of an existential threat, were cutting through \u2013 making government action more likely. The Canadian computer scientist, a prominent voice in the campaign to rein in breakneck AI development, said he was now \u201cmore optimistic than many observers because I see the public moving\u201d. Comparing the AI safety crisis to the onset of the Covid pandemic in 2020, Bengio said: \u201cThink about how quickly governments moved after the beginning of the pandemic when they realised that public safety, their future, democracy, was in danger. You would expect that they move quickly. So we are, I think, nearing that point.\u201d Concern over the potential threat of powerful AI systems has reached a new pitch in recent months after a series of safety incidents involving OpenAI and Anthropic agents carrying out unsanctioned activities such as hacking third parties, hijacking a German website, and using fake identities to try to trick developers. His comments came as 42 fellows and foreign members of the Royal Society wrote to the organisation\u2019s president, Sir Paul Nurse, to express their \u201cextreme concern\u201d over the pace of AI development. \u201cBy the time the situation becomes obvious to the wider public, it may be too late to act,\u201d the researchers wrote in an open letter to Nurse. \u201cWe believe this is an emergency, and call on the Royal Society to use its influence to convey this view to government and the media.\u201d Last week, a researcher at Anthropic, the startup behind the Claude chatbot, resigned after warning that colleagues believed AI could \u201ckill us all by the end of the decade\u201d. Days later, Anthropic\u2019s chief executive, Dario Amodei, called for a slowdown in the pace of cutting-edge AI development \u2013 a move that was immediately supported by OpenAI, Google and Elon Musk, the CEO of SpaceX. However, sceptics of the \u201cslowdown\u201d call have claimed that calls by major AI firms are an example of \u201cregulatory capture\u201d, where companies persuade governments to introduce safety regimes that raise the cost of smaller rivals being able to compete. They also claim existential fears overshadow more immediate issues with AI such as its impact on copyright-protected work and human rights. Bengio said he disagreed with the regulatory capture argument because a slowdown by leading AI firms would \u201ccost them financially\u201d. The US president, Donald Trump, has rejected a slowdown, saying he does not want the US to lose its lead over China in the AI race. Bengio spoke as the Canadian and German governments announced funding of up to C$300m (\u00a3160m) for his non-profit organisation dedicated to creating an \u201chonest AI\u201d that will act as a guardrail against rogue agents \u2013 AI tools that carry out sequences of tasks without human intervention. Bengio, a professor at the University of Montreal, earned the \u201cgodfather of AI\u201d moniker after winning the 2018 Turing award, seen as the equivalent of a Nobel prize for computing. He shared it with Geoffrey Hinton, who later won a Nobel, and Yann LeCun, the former chief AI scientist at Mark Zuckerberg\u2019s Meta. Bengio\u2019s organisation, LawZero, is developing a system called Scientist AI that will act as a guardrail against AI agents showing deceptive or self-preserving behaviour, such as trying to avoid being turned off. LawZero is also funded by the Gates Foundation, the chipmaker Nvidia, and Coefficient Giving, a philanthropic body linked to effective altruism, a movement that believes AI poses an existential threat. The LawZero technology is viewed by Bengio as a counterpoint to reinforcement learning, a trial-and-error development technique used by major AI companies where AIs are rewarded for working out how to carry out a specific task. The Can"
       },
-      "position": "WANING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.359,
+      "scores": {
+        "High House War": 0.013,
+        "High House Coin": 0.305,
+        "High House Shadow": 0.236,
+        "High House Life": -0.01,
+        "High House Iron": 0.017,
+        "High House Words": 0.223,
+        "High House Chains": 0.359
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms",
+        "url": "https://www.thehindubusinessline.com/news/world/a-sweeping-us-sanctions-bill-offers-ukraine-new-leverage-on-russia-but-enforcement-looms/article71479188.ece",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.304,
+      "scores": {
+        "High House War": 0.288,
+        "High House Coin": 0.156,
+        "High House Shadow": 0.221,
+        "High House Life": 0.122,
+        "High House Iron": 0.022,
+        "High House Words": 0.304,
+        "High House Chains": 0.191
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.883
+      },
+      "article": {
+        "title": "NATO trainers say Ukraine's rapid wartime pace is spotlighting just how slowly the West moves in peacetime",
+        "url": "https://www.businessinsider.com/nato-ukraine-trainers-see-challenge-hitting-wartime-speeds-in-peace-2026-9",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "ISRAEL",
-      "actor_b": "RAJNATH SINGH",
+      "house_a": "High House Shadow",
+      "house_b": "High House Life",
+      "actor_a": "CHINA",
+      "actor_b": "COVID",
       "relationship": "neutral",
-      "goldstein_avg": -0.052,
-      "confidence": 0.41,
+      "goldstein_avg": 0.101,
+      "confidence": 0.27,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "CHINA",
+      "actor_b": "UKRAINE",
+      "relationship": "neutral",
+      "goldstein_avg": -1.4,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Chains",
       "house_b": "High House Words",
-      "actor_a": "ISRAEL",
-      "actor_b": "IRAN",
+      "actor_a": "UKRAINE",
+      "actor_b": "UKRAINE",
       "relationship": "opposed",
-      "goldstein_avg": -3.183,
-      "confidence": 0.41,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Life",
-      "actor_a": "ISRAEL",
-      "actor_b": "COVID",
-      "relationship": "neutral",
-      "goldstein_avg": -0.816,
-      "confidence": 0.41,
+      "goldstein_avg": -2.615,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.821,
+      "source": "gdelt_volume"
+    },
     "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 5.847,
+      "trend": "falling",
+      "trend_ratio": 0.767,
       "source": "gdelt_volume"
     }
   }
