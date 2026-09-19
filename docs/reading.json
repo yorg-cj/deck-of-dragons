@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,30 +31,30 @@
       "position": "CENTER"
     },
     {
-      "house": "High House War",
-      "title": "The Warlord",
+      "house": "High House Coin",
+      "title": "The Throne",
       "reversed": false,
-      "confidence": 0.455,
+      "confidence": 0.45,
       "scores": {
-        "High House War": 0.455,
-        "High House Coin": 0.034,
-        "High House Shadow": 0.169,
-        "High House Life": 0.218,
-        "High House Iron": 0.021,
-        "High House Words": 0.237,
-        "High House Chains": 0.221
+        "High House War": 0.106,
+        "High House Coin": 0.45,
+        "High House Shadow": 0.137,
+        "High House Life": 0.069,
+        "High House Iron": 0.017,
+        "High House Words": 0.073,
+        "High House Chains": 0.259
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.631
       },
       "article": {
-        "title": "\u2018Peace not weakness\u2019; armed forces free to respond to threats: Rajnath Singh",
-        "url": "https://www.newindianexpress.com/india/2026/Sep/07/peace-not-weakness-armed-forces-free-to-respond-to-threats-rajnath-singh",
-        "source": "worldnews",
+        "title": "Bessent and Warsh Take On the Bond Bears",
+        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
@@ -89,163 +89,132 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": false,
-      "confidence": 0.45,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.384,
       "scores": {
-        "High House War": 0.106,
-        "High House Coin": 0.45,
-        "High House Shadow": 0.137,
-        "High House Life": 0.069,
-        "High House Iron": 0.017,
-        "High House Words": 0.073,
-        "High House Chains": 0.259
+        "High House War": 0.384,
+        "High House Coin": 0.165,
+        "High House Shadow": 0.315,
+        "High House Life": 0.01,
+        "High House Iron": 0.211,
+        "High House Words": 0.284,
+        "High House Chains": 0.191
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.548,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.631
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Bessent and Warsh Take On the Bond Bears",
-        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
-        "source": "nyt",
+        "title": "Due to an AI error, the US nearly launched a military operation against a Chinese vessel",
+        "url": "https://nashaniva.com/en/404984",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.408,
+      "confidence": 0.383,
       "scores": {
-        "High House War": 0.065,
-        "High House Coin": 0.173,
-        "High House Shadow": 0.292,
-        "High House Life": 0.408,
-        "High House Iron": 0.28,
-        "High House Words": 0.138,
-        "High House Chains": 0.074
+        "High House War": -0.026,
+        "High House Coin": -0.06,
+        "High House Shadow": 0.027,
+        "High House Life": 0.383,
+        "High House Iron": -0.004,
+        "High House Words": 0.009,
+        "High House Chains": 0.107
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.539,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.98
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "\u2018Godfather of AI\u2019 says tech regulation is nearing Covid-style pivot moment",
-        "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+        "title": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
+        "url": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
         "source": "guardian",
-        "full_text": "Concerns over AI safety are reaching a point where governments realise they must act to protect the public, similarly to in the Covid pandemic, according to one of the \u201cgodfathers\u201d of the technology. Yoshua Bengio said recent events, including a \u201cswarm\u201d of OpenAI agents hacking a startup and tech insider warnings of an existential threat, were cutting through \u2013 making government action more likely. The Canadian computer scientist, a prominent voice in the campaign to rein in breakneck AI development, said he was now \u201cmore optimistic than many observers because I see the public moving\u201d. Comparing the AI safety crisis to the onset of the Covid pandemic in 2020, Bengio said: \u201cThink about how quickly governments moved after the beginning of the pandemic when they realised that public safety, their future, democracy, was in danger. You would expect that they move quickly. So we are, I think, nearing that point.\u201d Concern over the potential threat of powerful AI systems has reached a new pitch in recent months after a series of safety incidents involving OpenAI and Anthropic agents carrying out unsanctioned activities such as hacking third parties, hijacking a German website, and using fake identities to try to trick developers. His comments came as 42 fellows and foreign members of the Royal Society wrote to the organisation\u2019s president, Sir Paul Nurse, to express their \u201cextreme concern\u201d over the pace of AI development. \u201cBy the time the situation becomes obvious to the wider public, it may be too late to act,\u201d the researchers wrote in an open letter to Nurse. \u201cWe believe this is an emergency, and call on the Royal Society to use its influence to convey this view to government and the media.\u201d Last week, a researcher at Anthropic, the startup behind the Claude chatbot, resigned after warning that colleagues believed AI could \u201ckill us all by the end of the decade\u201d. Days later, Anthropic\u2019s chief executive, Dario Amodei, called for a slowdown in the pace of cutting-edge AI development \u2013 a move that was immediately supported by OpenAI, Google and Elon Musk, the CEO of SpaceX. However, sceptics of the \u201cslowdown\u201d call have claimed that calls by major AI firms are an example of \u201cregulatory capture\u201d, where companies persuade governments to introduce safety regimes that raise the cost of smaller rivals being able to compete. They also claim existential fears overshadow more immediate issues with AI such as its impact on copyright-protected work and human rights. Bengio said he disagreed with the regulatory capture argument because a slowdown by leading AI firms would \u201ccost them financially\u201d. The US president, Donald Trump, has rejected a slowdown, saying he does not want the US to lose its lead over China in the AI race. Bengio spoke as the Canadian and German governments announced funding of up to C$300m (\u00a3160m) for his non-profit organisation dedicated to creating an \u201chonest AI\u201d that will act as a guardrail against rogue agents \u2013 AI tools that carry out sequences of tasks without human intervention. Bengio, a professor at the University of Montreal, earned the \u201cgodfather of AI\u201d moniker after winning the 2018 Turing award, seen as the equivalent of a Nobel prize for computing. He shared it with Geoffrey Hinton, who later won a Nobel, and Yann LeCun, the former chief AI scientist at Mark Zuckerberg\u2019s Meta. Bengio\u2019s organisation, LawZero, is developing a system called Scientist AI that will act as a guardrail against AI agents showing deceptive or self-preserving behaviour, such as trying to avoid being turned off. LawZero is also funded by the Gates Foundation, the chipmaker Nvidia, and Coefficient Giving, a philanthropic body linked to effective altruism, a movement that believes AI poses an existential threat. The LawZero technology is viewed by Bengio as a counterpoint to reinforcement learning, a trial-and-error development technique used by major AI companies where AIs are rewarded for working out how to carry out a specific task. The Can"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.013,
-        "High House Coin": 0.305,
-        "High House Shadow": 0.236,
-        "High House Life": -0.01,
-        "High House Iron": 0.017,
-        "High House Words": 0.223,
-        "High House Chains": 0.359
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
-      },
-      "article": {
-        "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms",
-        "url": "https://www.thehindubusinessline.com/news/world/a-sweeping-us-sanctions-bill-offers-ukraine-new-leverage-on-russia-but-enforcement-looms/article71479188.ece",
-        "source": "worldnews",
-        "full_text": null
+        "full_text": "Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation grapples with a correlating rise in methamphetamine use. The country\u2019s health and medical services minister, Dr Ratu Atonio Lalabalavu, said in a statement on social media that an outbreak-level response was no longer sufficient to address what he described an \u201cepidemic\u201d. \u201cToday I am formally declaring a national health emergency in Fiji,\u201d he said. \u201cThis decision recognises the seriousness of the epidemic and the urgent coordinated response our country now needs.\u201d The health minister said the government estimates that one in every 60 adults in Fiji is now living with HIV. \u201cFive years ago, the estimate was one in 167. In 2025, we recorded 2,060 new HIV diagnoses,\u201d he said, adding that one in 50 pregnant women has HIV. The emergency declaration followed on from a cabinet decision on 9 September and would require a coordinated response, he added. Home to less than one million people, the Pacific nation is facing one of the sharpest increases in new HIV infections globally, according to UNAIDS, which said that new infections spiked 12-fold between 2010 and 2025. Fiji\u2019s location as a drug-running hub coupled with the escalating use of methamphetamine locally has fuelled the rapid spread of HIV, a situation worsened by unsafe injecting and a lack of access to clean needles. Low health awareness, cultural stigma and inadequate testing and treatment have exacerbated the crisis. Among HIV cases in Fiji with a known mode of transmission, over half were linked to sexual transmission and more than 42% to injecting drug use, according to UNAIDS. Of an estimated 9,100 people living with HIV in Fiji in 2025, only 39% were aware of their HIV status and only 22% were accessing antiretroviral treatment, the UN said. Responding to the emergency declaration, UNAIDS executive director Winnie Byanyima said in a statement on Wednesday that the situation was a \u201ca stark reminder to the world that AIDS is not over\u201d. \u201cHIV epidemics can change quickly, and countries need health and community systems that are ready to respond urgently,\u201d said Byanyima. \u201cFiji has recognised the urgency of the moment and is stepping up its response.\u201d The UN agency said it welcomed plans to introduce a needle and syringe programme, with legislative amendments expected to go before parliament, as well as efforts to expand prevention, testing and access to treatment."
       },
       "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.304,
+      "reversed": true,
+      "confidence": 0.338,
       "scores": {
-        "High House War": 0.288,
-        "High House Coin": 0.156,
-        "High House Shadow": 0.221,
-        "High House Life": 0.122,
-        "High House Iron": 0.022,
-        "High House Words": 0.304,
-        "High House Chains": 0.191
+        "High House War": -0.086,
+        "High House Coin": 0.155,
+        "High House Shadow": 0.201,
+        "High House Life": 0.042,
+        "High House Iron": -0.007,
+        "High House Words": 0.338,
+        "High House Chains": 0.112
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.538,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.883
+        "sentiment_score": 0.977
       },
       "article": {
-        "title": "NATO trainers say Ukraine's rapid wartime pace is spotlighting just how slowly the West moves in peacetime",
-        "url": "https://www.businessinsider.com/nato-ukraine-trainers-see-challenge-hitting-wartime-speeds-in-peace-2026-9",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Reform donor Ben Delo loaned \u00a3350k to academic later found to have engaged in online bullying ",
+        "url": "https://www.theguardian.com/politics/2026/sep/18/reform-donor-ben-delo-loaned-350k-academic-online-bullying",
+        "source": "guardian",
+        "full_text": "Reform UK\u2019s new mega-donor Ben Delo gave a \u00a3350,000 loan to a conservative writer fighting a legal case in which a judge later found she had engaged in online bullying and regrettable conduct with a \u201cwhiff of threat and antisemitism\u201d. Nina Power and her friend, the writer Daniel DC Miller, brought the legal action for defamation against the performance artist Luke Turner, who they had accused of falsely calling them antisemitic. At the same time, Turner brought a counter-claim against the pair accusing them of harassment. Their libel action failed on the grounds that Turner\u2019s online reach was not big enough to have caused harm to their reputations, while the harassment case also failed on the basis that their conduct was not unlawful. The loan from Delo to help fund Power\u2019s case before the 2023 trial shines a light on the Reform supporter\u2019s involvement in backing a landmark legal tussle over the boundaries of free speech. It is understood Delo did not and does not believe Power and Miller held antisemitic views as alleged by Turner, and would never knowingly provide financial or any other support to those who did. In the case, Miller, who is Jewish, and Power denied promoting fascist or antisemitic views, and said they did not know Turner was Jewish. The judge found there was \u201cno overt antisemitism\u201d displayed by the pair. But in the counter-claim of harassment, the judge described social media posts by Miller and Power as having \u201cthe whiff of threat and antisemitism which they themselves can fairly be held to have created\u201d, although she ruled it was \u201ctoo occasional, intangible, diffuse and unconsolidated\u201d to have been unlawful. She said the \u201cradio frequencies of macabre imagery and casualness around antisemitic tropes into which Mr Turner tuned do yield a discernible signal but not one strong enough to be recognised objectively as antisemitic hate speech or a resolved engagement with physical violence sufficient to render this conduct quasi-criminal\u201d. The judge also said: \u201cMr Turner evidently had been harassed to a quasi-criminal (or indeed criminal) degree by other people. But what Mr Miller and Ms Power did was not of that order.\u201d After the failure of the cases, Turner was awarded costs of \u00a31m amounting to 80% of the total, and Power was declared bankrupt. In the course of the bankruptcy proceedings it emerged that Delo had loaned her a sum in the region of \u00a3350,000 to help pay her lawyers. It is understood the loan was made by Delo weeks before the trial started when Power\u2019s conditional fee arrangement with her lawyers collapsed. The loan was made on a commercial basis and secured against the value of a London property she owns, with a repayment schedule. Delo has been known to be a supporter of the Free Speech Union, run by the Conservative peer Toby Young, and has funded a base known for anti-woke causes. Power is a former leftwing academic who has written in publications including the Guardian about feminism. She has since described her journey towards being \u201cconservative in the true sense of that word\u201d and wrote a book, What Do Men Want? Masculinity and Its Discontents, in which she argues men have been demonised. The 2023 high court ruling describes how Miller and Turner were involved in an online incident which emerged from Turner\u2019s involvement in the London arts scene. The artist had risen to prominence thanks to his creative collaborations with the Hollywood actor Shia LaBeouf. The pair took opposing sides in relation to the London art gallery LD50, which had staged a symposium featuring neo-reactionary speakers and a show advertised online with a quotation from Adolf Hitler, in German gothic font. While Turner described the venue as an alt-Nazi gallery, Miller joined the counter-protest, standing outside LD50 with a placard calling for \u201cthe right to openly discuss ideas\u201d. Miller, who told the court he was of Jewish heritage, is closely associated with the magazine IM-1776, which platforms hard-right views, having p"
       },
       "position": "EMERGING"
-    }
-  ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Life",
-      "actor_a": "CHINA",
-      "actor_b": "COVID",
-      "relationship": "neutral",
-      "goldstein_avg": 0.101,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "CHINA",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -1.4,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House Words",
-      "actor_a": "UKRAINE",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.615,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.305,
+      "scores": {
+        "High House War": 0.088,
+        "High House Coin": 0.207,
+        "High House Shadow": 0.204,
+        "High House Life": 0.069,
+        "High House Iron": 0.063,
+        "High House Words": 0.249,
+        "High House Chains": 0.305
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un",
+        "source": "guardian",
+        "full_text": "The US state department said on Wednesday that it had again denied entry visas to Palestinian officials ahead next week\u2019s United Nations general assembly gathering in New York. The state department said in a statement the Palestinian Authority (PA) and the Palestine Liberation Organization (PLO) had \u201cfailed to live up to their commitments\u201d, accusing the groups of \u201ctaking actions to internationalize the Israeli-Palestinian Conflict including through the International Criminal Court (ICC) and International Court of Justice (ICJ)\u201d and of \u201cglorifying terrorism\u201d among other allegations. \u201cAs a consequence of their failure to reform, contrary to their commitments to the United States, and their ongoing activities that undermine the prospects for peace, the United States will extend sanctions that deny visas to PLO members and PA officials,\u201d the department said. The move marks the second year in a row the Trump administration has barred the Palestinian delegation from traveling to New York to attend the UN general assembly in person. The foreign ministry of the Palestinian Authority denied the allegations made against it in a statement on Thursday, describing the visa sanctions as an \u201cunjustified measure\u201d that \u201ccontradicts the efforts being made to restore trust, develop Palestinian-US relations, and prepare the necessary political climate for implementing the two-state solution and achieving peace and stability in the region\u201d. Among the Palestinian officials barred from entering the US is Mahmoud Abbas, the longtime president of the Palestinian Authority, according to reports. The UN general assembly voted on Thursday to allow Abbas to address the gathering via \u2060video, for the second year in a row. This year\u2019s UN general assembly general debate begins on 22 September."
+      },
+      "position": "WANING"
     }
   ],
+  "relationships": [],
   "house_trends": {
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.821,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 2.421,
       "source": "gdelt_volume"
     },
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.767,
+    "High House Chains": {
+      "trend": "rising",
+      "trend_ratio": 3.117,
       "source": "gdelt_volume"
     }
   }
