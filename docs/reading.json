@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.458,
+      "scores": {
+        "High House War": 0.241,
+        "High House Coin": 0.149,
+        "High House Shadow": 0.458,
+        "High House Life": 0.219,
+        "High House Iron": 0.189,
+        "High House Words": 0.233,
+        "High House Chains": 0.294
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Dr Emmanuel Kotia writes: The role of state intelligence agencies in the peace and security of African states",
+        "url": "https://asaaseradio.com/dr-emmanuel-kotia-writes-the-role-of-state-intelligence-agencies-in-the-peace-and-security-of-african-states",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Coin",
       "title": "The Throne",
       "reversed": false,
@@ -57,164 +86,141 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.45,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.11,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.45,
-        "High House Life": 0.061,
-        "High House Iron": 0.19,
-        "High House Words": 0.241,
-        "High House Chains": 0.115
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-        "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.384,
+      "confidence": 0.4,
       "scores": {
-        "High House War": 0.384,
-        "High House Coin": 0.165,
-        "High House Shadow": 0.315,
-        "High House Life": 0.01,
-        "High House Iron": 0.211,
-        "High House Words": 0.284,
-        "High House Chains": 0.191
+        "High House War": 0.086,
+        "High House Coin": 0.18,
+        "High House Shadow": 0.081,
+        "High House Life": 0.105,
+        "High House Iron": 0.014,
+        "High House Words": 0.184,
+        "High House Chains": 0.4
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.524,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.952
       },
       "article": {
-        "title": "Due to an AI error, the US nearly launched a military operation against a Chinese vessel",
-        "url": "https://nashaniva.com/en/404984",
+        "title": "Beyond Europe\u2019s fence: Ceuta, Melilla, and unfinished decolonization",
+        "url": "https://www.rt.com/africa/645905-history-of-ceuta-and-melilla",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.383,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.369,
       "scores": {
-        "High House War": -0.026,
-        "High House Coin": -0.06,
-        "High House Shadow": 0.027,
-        "High House Life": 0.383,
-        "High House Iron": -0.004,
-        "High House Words": 0.009,
-        "High House Chains": 0.107
+        "High House War": 0.369,
+        "High House Coin": 0.088,
+        "High House Shadow": 0.297,
+        "High House Life": 0.077,
+        "High House Iron": 0.178,
+        "High House Words": 0.25,
+        "High House Chains": 0.171
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
-        "url": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
+        "title": "The US air force admitted to deploying weapons in space. Don\u2019t expect the White House to explain why",
+        "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
         "source": "guardian",
-        "full_text": "Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation grapples with a correlating rise in methamphetamine use. The country\u2019s health and medical services minister, Dr Ratu Atonio Lalabalavu, said in a statement on social media that an outbreak-level response was no longer sufficient to address what he described an \u201cepidemic\u201d. \u201cToday I am formally declaring a national health emergency in Fiji,\u201d he said. \u201cThis decision recognises the seriousness of the epidemic and the urgent coordinated response our country now needs.\u201d The health minister said the government estimates that one in every 60 adults in Fiji is now living with HIV. \u201cFive years ago, the estimate was one in 167. In 2025, we recorded 2,060 new HIV diagnoses,\u201d he said, adding that one in 50 pregnant women has HIV. The emergency declaration followed on from a cabinet decision on 9 September and would require a coordinated response, he added. Home to less than one million people, the Pacific nation is facing one of the sharpest increases in new HIV infections globally, according to UNAIDS, which said that new infections spiked 12-fold between 2010 and 2025. Fiji\u2019s location as a drug-running hub coupled with the escalating use of methamphetamine locally has fuelled the rapid spread of HIV, a situation worsened by unsafe injecting and a lack of access to clean needles. Low health awareness, cultural stigma and inadequate testing and treatment have exacerbated the crisis. Among HIV cases in Fiji with a known mode of transmission, over half were linked to sexual transmission and more than 42% to injecting drug use, according to UNAIDS. Of an estimated 9,100 people living with HIV in Fiji in 2025, only 39% were aware of their HIV status and only 22% were accessing antiretroviral treatment, the UN said. Responding to the emergency declaration, UNAIDS executive director Winnie Byanyima said in a statement on Wednesday that the situation was a \u201ca stark reminder to the world that AIDS is not over\u201d. \u201cHIV epidemics can change quickly, and countries need health and community systems that are ready to respond urgently,\u201d said Byanyima. \u201cFiji has recognised the urgency of the moment and is stepping up its response.\u201d The UN agency said it welcomed plans to introduce a needle and syringe programme, with legislative amendments expected to go before parliament, as well as efforts to expand prevention, testing and access to treatment."
+        "full_text": "In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker\u2019s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale. The messaging coming out of the White House on the subject, by contrast, could not be more vague. This week\u2019s attention-grabbing revelation by air force secretary Troy Meink \u2013 that the US has deployed some kind of weapons in space \u2013 carried nothing in the way of context or detail, and left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal. And, equally importantly, what he intends to do with it. \u201cYou can count the words, and the disclosure, on one hand, so there\u2019s not much there to work with, and we really don\u2019t know what kind of weapons he was talking about,\u201d Clayton Swope, deputy director of the aerospace security project and a senior fellow in the defense and security department at the Center for Strategic and International Studies (CSIS), said of Meink\u2019s announcement. \u201cThe US is looking for another tool to deter what it sees as concerning Russian and Chinese behaviors in space, so my guess is that revealing it has on-orbit weapons would be your way to do that. \u201c[But] that level of detail needed to make this disclosure effective as a deterrent isn\u2019t there. It could just be a building block, and the US is going to lay out more later with that. To me that would make logical sense, if that was the plan.\u201d What the plan actually is has never been made clear, and Meink, in his announcement, stressed it was unlikely ever to be. \u201cMe talking about the details of what we\u2019re doing would actually not benefit deterrence, so we\u2019re not going to talk about the specifics of what we\u2019re doing, whether we\u2019ve tested it, not tested it, or anything else,\u201d he said. But as Russia and China, both US adversaries, have advanced their own aggressive outer space ambitions and agendas, Trump has responded by placing an ever-increasing focus on militarizing the heavens. During his first term of office, he created Space Force, the first new, separate branch of the US military in more than seven decades. Last month, he signed an executive order designating the first US Space Academy, a proposed joint civilian-military institution modeled on the army and navy training academies at West Point and Annapolis, to be sited at an as-yet unnamed location. This week, Military Times reported plans to recruit and train 10,000 new guardians, as Space Force service members are known, to join uniformed ranks within the next five years. Gen Dan Caine, who as chair of the joint chiefs of staff is the country\u2019s most senior military leader, told the Air, Space and Cyber Conference in Maryland this week, that the armed forces including Space Force must be \u201cprepared to fight, endure and win \u2026 from the seabed to cislunar space\u201d. Added to a number of other maneuvers and bold pronouncements Trump has made concerning space in recent weeks and months, it is hard not to see the space weapons reveal by Meink \u2013 who holds a civilian position reporting to the US defense secretary, Pete Hegseth \u2013 as a further blending of the traditionally separate military and non-military roles of US space policy. In August, the White House unveiled a national space transportation policy that gives Hegseth, as head of the defense department, new responsibility and authority to determine with the chief of Nasa, Jared Isaacman, who manages all US space launches, and sets an ambitious, expansive federal target of more than 1,000 launch and reentry operations by 2030. The president, meanwhile, has made no secret of his desire for US astronauts to beat China and land on the moon before he leaves office in January 2029; and in March laid out plans, arguably rooted more in optimism than expectation, to invest $20bn (\u00a315bn) on a moonbase to sec"
       },
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.338,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.359,
       "scores": {
-        "High House War": -0.086,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.201,
-        "High House Life": 0.042,
-        "High House Iron": -0.007,
-        "High House Words": 0.338,
-        "High House Chains": 0.112
+        "High House War": 0.217,
+        "High House Coin": 0.078,
+        "High House Shadow": 0.05,
+        "High House Life": 0.359,
+        "High House Iron": 0.018,
+        "High House Words": 0.256,
+        "High House Chains": 0.138
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.538,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.977
+        "sentiment": "POSITIVE",
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "Reform donor Ben Delo loaned \u00a3350k to academic later found to have engaged in online bullying ",
-        "url": "https://www.theguardian.com/politics/2026/sep/18/reform-donor-ben-delo-loaned-350k-academic-online-bullying",
-        "source": "guardian",
-        "full_text": "Reform UK\u2019s new mega-donor Ben Delo gave a \u00a3350,000 loan to a conservative writer fighting a legal case in which a judge later found she had engaged in online bullying and regrettable conduct with a \u201cwhiff of threat and antisemitism\u201d. Nina Power and her friend, the writer Daniel DC Miller, brought the legal action for defamation against the performance artist Luke Turner, who they had accused of falsely calling them antisemitic. At the same time, Turner brought a counter-claim against the pair accusing them of harassment. Their libel action failed on the grounds that Turner\u2019s online reach was not big enough to have caused harm to their reputations, while the harassment case also failed on the basis that their conduct was not unlawful. The loan from Delo to help fund Power\u2019s case before the 2023 trial shines a light on the Reform supporter\u2019s involvement in backing a landmark legal tussle over the boundaries of free speech. It is understood Delo did not and does not believe Power and Miller held antisemitic views as alleged by Turner, and would never knowingly provide financial or any other support to those who did. In the case, Miller, who is Jewish, and Power denied promoting fascist or antisemitic views, and said they did not know Turner was Jewish. The judge found there was \u201cno overt antisemitism\u201d displayed by the pair. But in the counter-claim of harassment, the judge described social media posts by Miller and Power as having \u201cthe whiff of threat and antisemitism which they themselves can fairly be held to have created\u201d, although she ruled it was \u201ctoo occasional, intangible, diffuse and unconsolidated\u201d to have been unlawful. She said the \u201cradio frequencies of macabre imagery and casualness around antisemitic tropes into which Mr Turner tuned do yield a discernible signal but not one strong enough to be recognised objectively as antisemitic hate speech or a resolved engagement with physical violence sufficient to render this conduct quasi-criminal\u201d. The judge also said: \u201cMr Turner evidently had been harassed to a quasi-criminal (or indeed criminal) degree by other people. But what Mr Miller and Ms Power did was not of that order.\u201d After the failure of the cases, Turner was awarded costs of \u00a31m amounting to 80% of the total, and Power was declared bankrupt. In the course of the bankruptcy proceedings it emerged that Delo had loaned her a sum in the region of \u00a3350,000 to help pay her lawyers. It is understood the loan was made by Delo weeks before the trial started when Power\u2019s conditional fee arrangement with her lawyers collapsed. The loan was made on a commercial basis and secured against the value of a London property she owns, with a repayment schedule. Delo has been known to be a supporter of the Free Speech Union, run by the Conservative peer Toby Young, and has funded a base known for anti-woke causes. Power is a former leftwing academic who has written in publications including the Guardian about feminism. She has since described her journey towards being \u201cconservative in the true sense of that word\u201d and wrote a book, What Do Men Want? Masculinity and Its Discontents, in which she argues men have been demonised. The 2023 high court ruling describes how Miller and Turner were involved in an online incident which emerged from Turner\u2019s involvement in the London arts scene. The artist had risen to prominence thanks to his creative collaborations with the Hollywood actor Shia LaBeouf. The pair took opposing sides in relation to the London art gallery LD50, which had staged a symposium featuring neo-reactionary speakers and a show advertised online with a quotation from Adolf Hitler, in German gothic font. While Turner described the venue as an alt-Nazi gallery, Miller joined the counter-protest, standing outside LD50 with a placard calling for \u201cthe right to openly discuss ideas\u201d. Miller, who told the court he was of Jewish heritage, is closely associated with the magazine IM-1776, which platforms hard-right views, having p"
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.305,
-      "scores": {
-        "High House War": 0.088,
-        "High House Coin": 0.207,
-        "High House Shadow": 0.204,
-        "High House Life": 0.069,
-        "High House Iron": 0.063,
-        "High House Words": 0.249,
-        "High House Chains": 0.305
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un",
-        "source": "guardian",
-        "full_text": "The US state department said on Wednesday that it had again denied entry visas to Palestinian officials ahead next week\u2019s United Nations general assembly gathering in New York. The state department said in a statement the Palestinian Authority (PA) and the Palestine Liberation Organization (PLO) had \u201cfailed to live up to their commitments\u201d, accusing the groups of \u201ctaking actions to internationalize the Israeli-Palestinian Conflict including through the International Criminal Court (ICC) and International Court of Justice (ICJ)\u201d and of \u201cglorifying terrorism\u201d among other allegations. \u201cAs a consequence of their failure to reform, contrary to their commitments to the United States, and their ongoing activities that undermine the prospects for peace, the United States will extend sanctions that deny visas to PLO members and PA officials,\u201d the department said. The move marks the second year in a row the Trump administration has barred the Palestinian delegation from traveling to New York to attend the UN general assembly in person. The foreign ministry of the Palestinian Authority denied the allegations made against it in a statement on Thursday, describing the visa sanctions as an \u201cunjustified measure\u201d that \u201ccontradicts the efforts being made to restore trust, develop Palestinian-US relations, and prepare the necessary political climate for implementing the two-state solution and achieving peace and stability in the region\u201d. Among the Palestinian officials barred from entering the US is Mahmoud Abbas, the longtime president of the Palestinian Authority, according to reports. The UN general assembly voted on Thursday to allow Abbas to address the gathering via \u2060video, for the second year in a row. This year\u2019s UN general assembly general debate begins on 22 September."
+        "title": "Disaster Survivors Sticking Together",
+        "url": "https://www.nytimes.com/2026/09/15/climate/extreme-weather-survivors.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Life",
+      "actor_a": "IRAN",
+      "actor_b": "STICKING TOGETHER",
+      "relationship": "neutral",
+      "goldstein_avg": -0.439,
+      "confidence": 0.07,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 2.421,
-      "source": "gdelt_volume"
-    },
-    "High House Chains": {
-      "trend": "rising",
-      "trend_ratio": 3.117,
+      "trend_ratio": 4.234,
       "source": "gdelt_volume"
     }
   }
