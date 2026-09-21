@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,62 +31,62 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.458,
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": true,
+      "confidence": 0.474,
       "scores": {
-        "High House War": 0.241,
-        "High House Coin": 0.149,
-        "High House Shadow": 0.458,
-        "High House Life": 0.219,
-        "High House Iron": 0.189,
-        "High House Words": 0.233,
-        "High House Chains": 0.294
+        "High House War": 0.001,
+        "High House Coin": 0.474,
+        "High House Shadow": 0.066,
+        "High House Life": -0.044,
+        "High House Iron": 0.088,
+        "High House Words": 0.061,
+        "High House Chains": 0.164
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.543,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.987
       },
       "article": {
-        "title": "Dr Emmanuel Kotia writes: The role of state intelligence agencies in the peace and security of African states",
-        "url": "https://asaaseradio.com/dr-emmanuel-kotia-writes-the-role-of-state-intelligence-agencies-in-the-peace-and-security-of-african-states",
+        "title": "Iran curbs rapid growth in liquidity - central bank",
+        "url": "https://www.trend.az/iran/4226125.html",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": false,
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
       "confidence": 0.45,
       "scores": {
-        "High House War": 0.106,
-        "High House Coin": 0.45,
-        "High House Shadow": 0.137,
-        "High House Life": 0.069,
-        "High House Iron": 0.017,
-        "High House Words": 0.073,
-        "High House Chains": 0.259
+        "High House War": 0.11,
+        "High House Coin": 0.198,
+        "High House Shadow": 0.45,
+        "High House Life": 0.061,
+        "High House Iron": 0.19,
+        "High House Words": 0.241,
+        "High House Chains": 0.115
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.546,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.631
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Bessent and Warsh Take On the Bond Bears",
-        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
+        "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+        "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -115,7 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -147,6 +147,35 @@
       "position": "WILD"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.384,
+      "scores": {
+        "High House War": 0.013,
+        "High House Coin": 0.008,
+        "High House Shadow": 0.062,
+        "High House Life": 0.384,
+        "High House Iron": 0.099,
+        "High House Words": -0.08,
+        "High House Chains": 0.047
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.943
+      },
+      "article": {
+        "title": "Tree vaccines and gene-edited butterflies among biotechnology projects funded by UK \u2018invention agency\u2019",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding",
+        "source": "guardian",
+        "full_text": "Vaccines for ash trees, skin treatments for newts and gene-edited swallowtail butterflies are among 14 tax-funded projects from the UK\u2019s \u201cinvention agency\u201d aiming to accelerate nature\u2019s ability to adapt to the climate crisis. The \u00a354m accelerated adaptation programme from the UK\u2019s Advanced Research and Invention Agency (Aria) \u2013 a public body that funds high-risk, high-reward tech projects \u2013 aims to investigate applications of biotechnology that can speed up wild species\u2019 evolution and help them to adapt to new threats such as global warming and disease. The 14 teams announced on Monday will receive a share of an initial \u00a330m in grants over the next two years. They will develop tools to protect native British wildlife species, including the English oak tree and critical pollinators such as the buff-tailed bumblebee, said Yannick Wurm, the director of the accelerated adaptation programme at Aria. The world\u2019s natural environments are changing so rapidly owing to the climate crisis and human pressures that many species can no longer adapt quickly enough, said Wurm, a professor of evolutionary genomics at Queen Mary University, London. \u201cThis cohort is a first exploration of how we can harness some of the powers of biotechnology to responsibly help wild animals and plants to overcome challenges they face,\u201d he added. The projects aim to work alongside conventional nature conservation measures, such as protected reserves, to give environmentalists a new set of \u201cprecision tools\u201d that Wurm compares to mRNA vaccines for humans. Aria is the brainchild of Dominic Cummings, the former chief adviser to Boris Johnson, who said it would fund \u201ccrazy\u201d ideas that could \u201crestore Britain\u2019s place as a scientific superpower\u201d. The publicly funded body has attracted criticism for its research into controversial geoengineering techniques and grants that have given millions in UK taxpayer money to US tech companies and venture capital firms. Matt Clifford, Aria\u2019s chair, was forced to stand down this month over what one senior MP called a \u201cclear conflict of interest\u201d after taking a job with Anthropic, the developer of the AI chatbot Claude. One team announced on Monday, led by researchers at the University of Exeter, will use Crispr-Cas9 gene-editing on the swallowtail, a butterfly on Britain\u2019s red list of endangered species, to increase its resistance to insecticides used widely on farms. Another project developed by Rothamsted Research, the 180-year-old agricultural research facility in Hertfordshire, will edit the genes of long-lived tree species such as oaks to reproduce in months rather than decades, meaning they can rapidly develop adaptive responses to drought and invasive pathogens. Environmentalists across the planet have debated using increasingly powerful biotechnology and gene-editing techniques to aid conservation. At the International Union for Conservation of Nature\u2019s (IUCN) world conservation congress last October, more than 90 NGOs raised concerns that these technologies will irreversibly alter natural systems with unpredictable effects. The ban was narrowly rejected after 250 scientists signed an open letter to highlight the potential benefits of synthetic biology, which could allow small islands to eliminate invasive mice that threaten more than 100 birds and reptiles. Instead, the IUCN adopted its first global policy on synthetic biology, including a set of stringent criteria for proposed solutions. This IUCN policy has been one foundation of Aria\u2019s ethical policy, said Marie-Claire Cordonier Segger, the chair of the programme\u2019s ethical and social responsibility advisory committee. Although the projects are intended for the wild, none of the experimental solutions will be released during the programme, which will last until 2030, said Cordonier Segger, a professor of international law at the University of Cambridge. \u201cThe decision was made early to have the strongest possible code,\u201d she said, adding that all grantees will work in secure"
+      },
+      "position": "EMERGING"
+    },
+    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
@@ -173,54 +202,45 @@
         "source": "guardian",
         "full_text": "In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker\u2019s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale. The messaging coming out of the White House on the subject, by contrast, could not be more vague. This week\u2019s attention-grabbing revelation by air force secretary Troy Meink \u2013 that the US has deployed some kind of weapons in space \u2013 carried nothing in the way of context or detail, and left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal. And, equally importantly, what he intends to do with it. \u201cYou can count the words, and the disclosure, on one hand, so there\u2019s not much there to work with, and we really don\u2019t know what kind of weapons he was talking about,\u201d Clayton Swope, deputy director of the aerospace security project and a senior fellow in the defense and security department at the Center for Strategic and International Studies (CSIS), said of Meink\u2019s announcement. \u201cThe US is looking for another tool to deter what it sees as concerning Russian and Chinese behaviors in space, so my guess is that revealing it has on-orbit weapons would be your way to do that. \u201c[But] that level of detail needed to make this disclosure effective as a deterrent isn\u2019t there. It could just be a building block, and the US is going to lay out more later with that. To me that would make logical sense, if that was the plan.\u201d What the plan actually is has never been made clear, and Meink, in his announcement, stressed it was unlikely ever to be. \u201cMe talking about the details of what we\u2019re doing would actually not benefit deterrence, so we\u2019re not going to talk about the specifics of what we\u2019re doing, whether we\u2019ve tested it, not tested it, or anything else,\u201d he said. But as Russia and China, both US adversaries, have advanced their own aggressive outer space ambitions and agendas, Trump has responded by placing an ever-increasing focus on militarizing the heavens. During his first term of office, he created Space Force, the first new, separate branch of the US military in more than seven decades. Last month, he signed an executive order designating the first US Space Academy, a proposed joint civilian-military institution modeled on the army and navy training academies at West Point and Annapolis, to be sited at an as-yet unnamed location. This week, Military Times reported plans to recruit and train 10,000 new guardians, as Space Force service members are known, to join uniformed ranks within the next five years. Gen Dan Caine, who as chair of the joint chiefs of staff is the country\u2019s most senior military leader, told the Air, Space and Cyber Conference in Maryland this week, that the armed forces including Space Force must be \u201cprepared to fight, endure and win \u2026 from the seabed to cislunar space\u201d. Added to a number of other maneuvers and bold pronouncements Trump has made concerning space in recent weeks and months, it is hard not to see the space weapons reveal by Meink \u2013 who holds a civilian position reporting to the US defense secretary, Pete Hegseth \u2013 as a further blending of the traditionally separate military and non-military roles of US space policy. In August, the White House unveiled a national space transportation policy that gives Hegseth, as head of the defense department, new responsibility and authority to determine with the chief of Nasa, Jared Isaacman, who manages all US space launches, and sets an ambitious, expansive federal target of more than 1,000 launch and reentry operations by 2030. The president, meanwhile, has made no secret of his desire for US astronauts to beat China and land on the moon before he leaves office in January 2029; and in March laid out plans, arguably rooted more in optimism than expectation, to invest $20bn (\u00a315bn) on a moonbase to sec"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.359,
-      "scores": {
-        "High House War": 0.217,
-        "High House Coin": 0.078,
-        "High House Shadow": 0.05,
-        "High House Life": 0.359,
-        "High House Iron": 0.018,
-        "High House Words": 0.256,
-        "High House Chains": 0.138
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "Disaster Survivors Sticking Together",
-        "url": "https://www.nytimes.com/2026/09/15/climate/extreme-weather-survivors.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House Life",
-      "actor_a": "IRAN",
-      "actor_b": "STICKING TOGETHER",
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.781,
+      "confidence": 0.21,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "THE WHITE HOUSE",
       "relationship": "neutral",
-      "goldstein_avg": -0.439,
-      "confidence": 0.07,
+      "goldstein_avg": -1.036,
+      "confidence": 0.21,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "THE WHITE HOUSE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.404,
+      "confidence": 0.21,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 4.234,
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.136,
       "source": "gdelt_volume"
     }
   }
