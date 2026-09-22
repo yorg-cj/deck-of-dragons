@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": true,
-      "confidence": 0.474,
-      "scores": {
-        "High House War": 0.001,
-        "High House Coin": 0.474,
-        "High House Shadow": 0.066,
-        "High House Life": -0.044,
-        "High House Iron": 0.088,
-        "High House Words": 0.061,
-        "High House Chains": 0.164
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.543,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.987
-      },
-      "article": {
-        "title": "Iran curbs rapid growth in liquidity - central bank",
-        "url": "https://www.trend.az/iran/4226125.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
@@ -86,7 +57,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The Throne",
+      "reversed": false,
+      "confidence": 0.45,
+      "scores": {
+        "High House War": 0.106,
+        "High House Coin": 0.45,
+        "High House Shadow": 0.137,
+        "High House Life": 0.069,
+        "High House Iron": 0.017,
+        "High House Words": 0.073,
+        "High House Chains": 0.259
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.631
+      },
+      "article": {
+        "title": "Bessent and Warsh Take On the Bond Bears",
+        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Words",
@@ -115,7 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
@@ -178,69 +178,43 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": false,
-      "confidence": 0.369,
+      "reversed": true,
+      "confidence": 0.341,
       "scores": {
-        "High House War": 0.369,
-        "High House Coin": 0.088,
-        "High House Shadow": 0.297,
-        "High House Life": 0.077,
-        "High House Iron": 0.178,
-        "High House Words": 0.25,
-        "High House Chains": 0.171
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "The US air force admitted to deploying weapons in space. Don\u2019t expect the White House to explain why",
-        "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
-        "source": "guardian",
-        "full_text": "In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker\u2019s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale. The messaging coming out of the White House on the subject, by contrast, could not be more vague. This week\u2019s attention-grabbing revelation by air force secretary Troy Meink \u2013 that the US has deployed some kind of weapons in space \u2013 carried nothing in the way of context or detail, and left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal. And, equally importantly, what he intends to do with it. \u201cYou can count the words, and the disclosure, on one hand, so there\u2019s not much there to work with, and we really don\u2019t know what kind of weapons he was talking about,\u201d Clayton Swope, deputy director of the aerospace security project and a senior fellow in the defense and security department at the Center for Strategic and International Studies (CSIS), said of Meink\u2019s announcement. \u201cThe US is looking for another tool to deter what it sees as concerning Russian and Chinese behaviors in space, so my guess is that revealing it has on-orbit weapons would be your way to do that. \u201c[But] that level of detail needed to make this disclosure effective as a deterrent isn\u2019t there. It could just be a building block, and the US is going to lay out more later with that. To me that would make logical sense, if that was the plan.\u201d What the plan actually is has never been made clear, and Meink, in his announcement, stressed it was unlikely ever to be. \u201cMe talking about the details of what we\u2019re doing would actually not benefit deterrence, so we\u2019re not going to talk about the specifics of what we\u2019re doing, whether we\u2019ve tested it, not tested it, or anything else,\u201d he said. But as Russia and China, both US adversaries, have advanced their own aggressive outer space ambitions and agendas, Trump has responded by placing an ever-increasing focus on militarizing the heavens. During his first term of office, he created Space Force, the first new, separate branch of the US military in more than seven decades. Last month, he signed an executive order designating the first US Space Academy, a proposed joint civilian-military institution modeled on the army and navy training academies at West Point and Annapolis, to be sited at an as-yet unnamed location. This week, Military Times reported plans to recruit and train 10,000 new guardians, as Space Force service members are known, to join uniformed ranks within the next five years. Gen Dan Caine, who as chair of the joint chiefs of staff is the country\u2019s most senior military leader, told the Air, Space and Cyber Conference in Maryland this week, that the armed forces including Space Force must be \u201cprepared to fight, endure and win \u2026 from the seabed to cislunar space\u201d. Added to a number of other maneuvers and bold pronouncements Trump has made concerning space in recent weeks and months, it is hard not to see the space weapons reveal by Meink \u2013 who holds a civilian position reporting to the US defense secretary, Pete Hegseth \u2013 as a further blending of the traditionally separate military and non-military roles of US space policy. In August, the White House unveiled a national space transportation policy that gives Hegseth, as head of the defense department, new responsibility and authority to determine with the chief of Nasa, Jared Isaacman, who manages all US space launches, and sets an ambitious, expansive federal target of more than 1,000 launch and reentry operations by 2030. The president, meanwhile, has made no secret of his desire for US astronauts to beat China and land on the moon before he leaves office in January 2029; and in March laid out plans, arguably rooted more in optimism than expectation, to invest $20bn (\u00a315bn) on a moonbase to sec"
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "opposed",
-      "goldstein_avg": -1.781,
-      "confidence": 0.21,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "THE WHITE HOUSE",
-      "relationship": "neutral",
-      "goldstein_avg": -1.036,
-      "confidence": 0.21,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "THE WHITE HOUSE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.404,
-      "confidence": 0.21,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House War": {
+    "High House Coin": {
       "trend": "stable",
-      "trend_ratio": 1.136,
+      "trend_ratio": 1.01,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.43,
       "source": "gdelt_volume"
     }
   }
