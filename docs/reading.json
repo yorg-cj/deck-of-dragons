@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "cards": [
     {
       "house": "High House Iron",
@@ -32,30 +32,30 @@
     },
     {
       "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.45,
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.478,
       "scores": {
-        "High House War": 0.11,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.45,
-        "High House Life": 0.061,
-        "High House Iron": 0.19,
-        "High House Words": 0.241,
-        "High House Chains": 0.115
+        "High House War": 0.25,
+        "High House Coin": 0.128,
+        "High House Shadow": 0.478,
+        "High House Life": 0.17,
+        "High House Iron": 0.171,
+        "High House Words": 0.353,
+        "High House Chains": 0.188
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.58
       },
       "article": {
-        "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-        "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "New UK agency to fight \u2018information warfare\u2019 from likes of Russia, Burnham tells UN",
+        "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
+        "source": "guardian",
+        "full_text": "Security chiefs will set up a new national centre to tackle disinformation and deepfakes from hostile states such as Russia, Andy Burnham has announced, saying the government had a duty to \u201cstem the poisonous tide\u201d from damaging British interests. The National Centre for Information Defence will \u201cdetect, attribute and disrupt\u201d information attacks by foreign powers, many of which are enabled by AI, bringing together the intelligence agencies, law enforcement and social media companies. It will be tasked with making sure the UK has the defensive capability necessary to combat information warfare and build national resilience by helping communities to identify and combat disinformation, preventing a \u201cdistorted and untrue\u201d narrative about the UK. Burnham said the country would have to go into the next decade \u201ceyes wide open\u201d about \u201cinsidious\u201d campaigns, many of which had been orchestrated by Russia, which \u201ctwisted\u201d what people at home felt about their own country and community. In eye-catching remarks, the prime minister suggested that Britons who were struggling with the cost of living and young people not in education, training or employment may be particularly susceptible to foreign influence online, underlining how inequality further undermined society. In his speech to the UN in New York on Tuesday night, Burnham said: \u201cWe\u2019re talking about an insidious campaign that reaches into people\u2019s homes and twists what they feel about their own country and community \u2013 creating a narrative of decline, stoking division and sowing despair. \u201cOn top of that, we have seen cyber-attacks on our companies and institutions. We know that AI will multiply the threat. We have tiptoed around this for too long. Over the last decade we have given too much ground to those who want to run a negative, corrosive narrative about life in Britain, which bears no resemblance to reality. Well, no more. \u201cWe are going to face the new decade in a different way \u2013 with our eyes wide open. We are going to be much prouder in standing up for our values and the rule of law. And we are going to help our people to strengthen their resilience \u2013 because, faced with this information warfare, security starts in every home.\u201d Burnham\u2019s speech came after Donald Trump \u2013 during a press conference at the UN with Ukraine\u2019s president Volodymyr Zelenskyy \u2013 said that Keir Starmer\u2019s rhetoric had been \u201ctoo tough\u201d towards Moscow and that London \u201cneeds to be a little bit careful\u201d. Downing Street pushed back on the US president\u2019s remarks, saying that every UK prime minister \u2013 up to and including Burnham \u2013 had been consistent in the view that Russia\u2019s threats, whether hybrid attacks or rhetoric, were \u201cegregious and unacceptable\u201d. \u201cThe UK is united with our allies on the importance of defending ourselves, and Russia\u2019s aggression will not deter us from supporting Ukraine,\u201d the prime minister\u2019s official spokesperson added. In his speech, Burnham singled out Russia, saying the Kremlin spent around \u00a31.3bn each year on manipulating information. \u201cRussian agencies have used every means at their disposal to spread lies and disinformation and prey on people\u2019s fears. They\u2019ve used bots and fake websites. Falsified newspaper articles,\u201d he said. \u201cForged the branding of 28 British organisations \u2013 including universities and the BBC. They\u2019ve amplified far-right narratives. And we have evidence that they tried to interfere with the 2019 general election. \u201cWe also know that they have tried to stoke tensions and unrest in the wake of horrific events. The idea that anyone would try to use such things to their advantage is just repulsive \u2013 but it is what they do.\u201d The prime minister suggested that certain groups of people who felt their own lives were not improving may be more vulnerable to disinformation and deepfakes. \u201cIf you\u2019re struggling with the cost of living and your life is not improving \u2013 or if you\u2019re a young person not in employment, education or training \u2013 then you are going to be much more vulnerable"
       },
       "position": "ASCENDING"
     },
@@ -83,35 +83,6 @@
       "article": {
         "title": "Bessent and Warsh Take On the Bond Bears",
         "url": "https://www.nytimes.com/2026/09/16/business/dealbook/bessent-warsh-bond-investors.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
         "source": "nyt",
         "full_text": null
       },
@@ -143,6 +114,37 @@
         "url": "https://www.rt.com/africa/645905-history-of-ceuta-and-melilla",
         "source": "worldnews",
         "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.394,
+      "scores": {
+        "High House War": 0.005,
+        "High House Coin": -0.07,
+        "High House Shadow": 0.16,
+        "High House Life": 0.09,
+        "High House Iron": -0.064,
+        "High House Words": 0.394,
+        "High House Chains": 0.017
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "banned"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.998
+      },
+      "article": {
+        "title": "Meta bans ads for Virginia Woolf play in Spain because they relate to feminism",
+        "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+        "source": "guardian",
+        "full_text": "A theatre in Barcelona has been banned from promoting a stage adaptation of Virginia Woolf\u2019s A Room of One\u2019s Own on Instagram and Facebook because the work includes \u201csocial topics\u201d. When the newly reopened Teatre Raval, which seats 193 spectators, asked Meta, the parent company of the two social media sites, why its publicity had been blocked, it was told \u201cany mention of civil rights, feminism or social reform [topics that are central to Woolf\u2019s work] are usually classified as \u2018social topics\u2019 by our automatic system\u201d and are filtered out. To resolve the situation, Meta recommended removing \u201ckey words\u201d so that the text doesn\u2019t appear to encourage activism. The theatre published a statement saying: \u201cWe feel obliged to speak up about the injustice and violation of our rights by not being allowed to promote a feminist work, specifically a work by Virginia Woolf who was born in 1882. \u201cWhat can we do? As a theatre we have to publicise our activities \u2026 and we have to make use of social media so that people are aware of cultural activities.\u201d The stage production, a one-woman show starring Clara Sanchis, is an adaptation of a series of talks Woolf gave in 1928 at Newnham and Girton, which were then the only two colleges at Cambridge University that admitted women. The talks were published as an essay the following year on the situation of women in society and their access to education. Women had been admitted to study at Cambridge since 1869 but weren\u2019t allowed to graduate with a degree until 1948. Woolf said that in order to produce high-quality fiction, \u201ca woman must have money and a room of her own\u201d. She wrote in her diary that she expected to be attacked as a feminist for what she had written. \u201cWe don\u2019t know if the publicity has been rejected because of the name of Virginia Woolf or because of the word feminism, or both,\u201d Sanchis told La Vanguardia newspaper. \u201cIn any case, it\u2019s a way of erasing from the map advances that have taken centuries to achieve. We have given social media unlimited power and every day we can see how dangerous this is. It\u2019s bias and manipulation.\u201d A Meta spokesperson said: \u201cThis ad was removed in error and quickly restored. The ad is live and running as normal.\u201d \u2022 This article was amended on 22 September 2026 to add a statement from Meta that was provided after publication."
       },
       "position": "WILD"
     },
@@ -205,17 +207,57 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 1.01,
-      "source": "gdelt_volume"
+  "relationships": [
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "RUSSIA",
+      "actor_b": "MELILLA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.128,
+      "confidence": 0.44,
+      "source": "gdelt_tone"
     },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.43,
-      "source": "gdelt_volume"
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "RUSSIA",
+      "actor_b": "SPAIN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.231,
+      "confidence": 0.44,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "RUSSIA",
+      "actor_b": "NATO",
+      "relationship": "opposed",
+      "goldstein_avg": -2.617,
+      "confidence": 0.44,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "MELILLA",
+      "actor_b": "SPAIN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.514,
+      "confidence": 0.44,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "MELILLA",
+      "actor_b": "NATO",
+      "relationship": "neutral",
+      "goldstein_avg": 0.001,
+      "confidence": 0.44,
+      "source": "gdelt_tone"
     }
-  }
+  ],
+  "house_trends": {}
 }
