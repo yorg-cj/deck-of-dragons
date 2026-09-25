@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "cards": [
     {
       "house": "High House Words",
@@ -89,36 +89,36 @@
         "source": "guardian",
         "full_text": "Three heavyweight international bodies have issued stark warnings about the risks of rising debt levels and soaring borrowing costs across large economies. The Paris-based Organisation for Economic Co-operation and Development (OECD), the International Monetary Fund (IMF) and the International Institute of Finance (IIF), the voice of global banking, on Wednesday highlighted the dangers of soaring interest rates on $365tn (\u00a3275tn) in global borrowing. In its quarterly debt monitor, the IIF predicted a \u201cstructurally debt-intensive future\u201d as governments and companies scramble to invest in new technologies and bear the costs of ageing societies. \u201cThe buildup in global debt is set to accelerate as governments and corporates compete to boost growth and secure their positions in an economy reshaped by structural changes,\u201d it said. It compared the current status of some of the world\u2019s largest economies, including the UK, with crisis-hit emerging countries. \u201cThe US, France, the UK, and Japan face persistently large deficits and rising interest expenses \u2013 challenges long associated with debt-distressed emerging market sovereigns.\u201d With many politicians facing elections in the coming months, and belt-tightening unlikely to be popular with voters, it said: \u201cThe risk is that already-unsustainable debt trajectories continue to deteriorate.\u201d While in New York this week for the UN general assembly, the UK prime minister, Andy Burnham, denied reports that he had been shocked by the parlous state of the public finances since he came to power in July. \u201cIt\u2019s not the case that we were surprised when we came in, not least because I was in access talks and understood very clearly the position,\u201d he told reporters. \u201cThe truth of the matter is that because of the situation in the Middle East, the position changed, and has changed over the time I\u2019ve been in. That\u2019s just the reality of the situation that we\u2019re in.\u201d The IIF\u2019s warning came as the OECD highlighted the rising cost of servicing government debts as one key risk to the global economy in the coming months. In its interim economic outlook the OECD said global growth had been more resilient than expected given the strains of the US-Israel war on Iran. However, presenting the report, its secretary general, Mathias Cormann, warned: \u201cFiscal and financial risks have grown. Thirty-year government bond yields are at their highest in 15 years or more in six of the G7 economies. That means higher debt-servicing costs for governments whose budgets are already under strain, and it means higher borrowing costs for businesses and households.\u201d His words echoed a warning by the managing director of the International Monetary Fund, Kristalina Georgieva, who told the BBC the world\u2019s advanced economies must take action to reduce their borrowing and bring down debt levels. Georgieva said a succession of global economic shocks had been \u201cpushing debt levels up like a staircase not to heaven\u201d, with governments taking \u201cno action to contain that service cost. [It\u2019s] time to take that action,\u201d Georgieva said, adding that courage was needed by politicians to take the necessary steps. In its quarterly forecast update, the OECD highlighted the better-than-expected growth performance of the global economy this year but warned that the recent resurgence in oil and gas prices posed risks for the coming months. \u201cGlobal economic prospects remain heavily dependent on whether a durable resolution to the Middle East conflict is achieved,\u201d it said. It projected global economic growth of 2.9% this year \u2013 a modest 0.1 percentage point upgrade from the 2.8% it forecast in June. At the same time, it trimmed the outlook for next year slightly, from 3.1% to 3%. It also identified the record-breaking El Ni\u00f1o weather system \u2013 expected to be the strongest in 1,000 years \u2013 as a \u201csignificant downside risk\u201d to the global economy, warning that it could hit agricultural production and push up food prices.Looking at the UK, the OECD significantly"
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.4,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.417,
       "scores": {
-        "High House War": 0.086,
-        "High House Coin": 0.18,
-        "High House Shadow": 0.081,
-        "High House Life": 0.105,
-        "High House Iron": 0.014,
-        "High House Words": 0.184,
-        "High House Chains": 0.4
+        "High House War": 0.1,
+        "High House Coin": 0.147,
+        "High House Shadow": 0.258,
+        "High House Life": 0.045,
+        "High House Iron": 0.417,
+        "High House Words": 0.097,
+        "High House Chains": 0.002
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.524,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.952
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Beyond Europe\u2019s fence: Ceuta, Melilla, and unfinished decolonization",
-        "url": "https://www.rt.com/africa/645905-history-of-ceuta-and-melilla",
-        "source": "worldnews",
-        "full_text": null
+        "title": "The comedians turning AI anxiety into punchlines: \u2018It\u2019s so good, it\u2019ll completely alter our grasp on reality\u2019",
+        "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+        "source": "guardian",
+        "full_text": "\u201cBest case scenario, we never have to do any admin again,\u201d says an AI CEO. \u201cWorst case, we all die.\u201d A young man struggles to the top of a beautiful mountain, words echoing in his ears: \u201cAI will most likely lead to the end of the world, but in the meantime, there will be great companies created.\u201d At the top of the mountain, he triumphantly holds up a sign: \u201cBuild a datacenter here.\u201d On the New York subway, posters herald what appear to be AI startups. \u201cWhat if forks were spoons?\u201d asks an ad for Cutlery.ai. Another advises viewers that Ziplink is now known as Froggle. The posters are real, but the companies aren\u2019t; the CEO and datacenter scenarios are social media sketches (though the \u201cgreat companies\u201d quote is a genuine piece of wisdom from Sam Altman). It\u2019s all part of a recent wave of comedy inspired \u2013 but absolutely not generated \u2013 by AI. The comedy extends across all forms of media: social videos, standup, songs, humor columns, comic strips and art installations. It takes aim at companies\u2019 attempts to make AI ubiquitous, the dangers of believing its every word, its threats to society and the environment. It effectively punctures tech CEOs\u2019 relentless narrative: that artificial intelligence represents humanity peaking; that it is inevitable and all-powerful; that we have no idea where it\u2019s going and it could kill us all, but for some reason it is absolutely essential to pursue. It\u2019s no surprise that a topic as pervasive as AI in 2026 would end up in comedians\u2019 crosshairs. A March Gallup poll found 79% of Americans believe AI will reduce jobs. In a CNN poll this week, 81% of respondents said they were more concerned than excited about how the technology could \u201cfundamentally change our way of life\u201d. Only 11% of Americans would support the building of a datacenter locally, according to UMass Amherst. Meanwhile, a handful of impossibly wealthy weirdos wander between podcasts and conference stages boasting about their plans to fundamentally alter what it means to be human. One way to expose the absurdity of the AI companies\u2019 story is by exposing the flaws in their products. Ty Eveland, for instance, trolls AI doctors and HR professionals \u2013 the video bots you might awkwardly encounter at a virtual doctor\u2019s appointment or job interview. Asked about marketing, he tells one bot interviewer he takes \u201ceverything with a grain of salt and maybe a little bit of pepper\u201d. The bot, portrayed as a generically handsome blond man, responds earnestly: \u201cWhen you say you take things with a grain of salt and pepper, what does that actually mean for a brand\u2019s social media strategy?\u201d If bots are approaching superintelligence, this one has clearly been left behind. Other comedians parody the user experience: the comedian Aya Huseen, repeatedly popping out from behind a door, personifies tech companies\u2019 desperate attempts to get users hooked on new AI features: \u201cYou sure you don\u2019t want to try it with AI?\u201d \u201cThis would be so much funner with AI.\u201d \u201cJust try generating it with AI.\u201d The comedian Tom Nestor imagines \u201chow people who love AI think we see them,\u201d telling a friend on the phone: \u201cDo you know what I also really like? It\u2019s not so good now but in years to come it\u2019ll get so good that it\u2019ll just completely alter people\u2019s grasp of reality.\u201d In the Atlantic, the humorist Alexandra Petri recounts a dream in which everything in her life has pivoted to AI, from children\u2019s books \u2013 Goldilocks and the 4.5 Bears \u2013 to her cereal, which features \u201csubtle changes in the recipe, such as the nuts now being the hard, metal kind\u201d. Pro-human comedians have also taken aim at AI\u2019s artistic pretensions. \u201cIf you are somebody who uses ChatGPT to generate videos, images, art, text, in an artistic capacity, to write for you, you are not somebody who deserves to be taken seriously,\u201d said the comedian Caleb Hearon in a serious moment on his podcast. A comic strip titled \u201cAI Design Logic\u201d puts it more succinctly: \u201cGet me a cheese pizza,\u201d a diner tells a waiter. When the pizza ar"
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -149,36 +149,36 @@
         "source": "guardian",
         "full_text": "More than 450,000 people are projected to die from the additional heat brought by the super El Ni\u00f1o by February, according to estimates by climate scientists. The toll is on top of the early deaths resulting from temperatures already driven up by the climate crisis. It will strike across the globe, from Indonesia to India, and Nigeria to the US. Many further deaths are expected from the droughts, wildfires and flooding that El Ni\u00f1os bring. The heat deaths have been estimated at regional level, and the researchers said the projections therefore identified where measures to protect people could be put in place and save lives. Such actions could include better heat forecasts, cooling centres where people can shelter, increased staffing for medical facilities at the hottest times and protections for outdoor workers. The El Ni\u00f1o currently heating up the planet burst through the highest temperature ever recorded for the phenomenon on Monday, several months before its expected peak. The heat is so much greater than previous events that scientists have called it \u201cmind-blowing\u201d and \u201cGodzilla-level\u201d. El Ni\u00f1os are natural climate events but may be made worse by global heating. \u201cThe estimate of 451,000 people is such a large number that it can be numbing, but it is made up of parents and children, grandparents and neighbours, people going to work, caring for families, and living their lives,\u201d said Prof Michael Greenstone, co-founder of the Climate Impact Lab and at the University of Chicago, who co-authored the report. The estimate of deaths is for the period June 2026, as some heat deaths will have already occurred, to February 2027, which is when current temperature forecasts end. But elevated levels of heat deaths are expected to continue until June or July 2027. The most affected countries in the next six months are the tropical nations of Nigeria, Indonesia, Sudan, India and Brazil. The US is in the top 20 most affected nations, with 3,500 projected additional heat deaths. More broadly, the Sahel region in Africa and south-east Asia are heavily affected. The El Ni\u00f1o is also a \u201cpostcard from our future\u201d, the researchers said, pushing up temperatures to the level the climate crisis is projected to deliver in 20 years\u2019 time. \u201cIncreasing emergency response and better targeting our efforts can save many lives this year,\u201d said report co-author Dr Tamma Carleton at the University of California, Berkeley. \u201cBut 20 years from now, once today\u2019s extreme temperatures become the new normal, we don\u2019t want to be in a constant state of emergency.. We need to mobilise now to design, deploy and evaluate the tools that will save lives in the years ahead.\u201d The projections were made using peer-reviewed methods that track the month-by-month relationship between temperature and additional heat deaths in 24,378 regions across the world. This was combined with the forecasts for higher temperatures due to El Ni\u00f1o in the months ahead. The baseline was the number of heat deaths in the average month from 1996 to 2025. \u201cPeople have been able to forecast when there\u2019s going to be shocks to crops, and give advance warning of that,\u201d said Greenstone. \u201cThis new report is opening the door to being able to do it for an even more important outcome \u2013 I would say the most important outcome \u2013 which is death.\u201d The report will be submitted to a peer-reviewed journal, but Greenstone said that, given the urgency of the situation, \u201cit would have been irresponsible to sit on it\u201d. Food supplies will also be hit by El Ni\u00f1o, with the World Food Programme warning in August that its impacts were likely to push about 50 million people into acute hunger and drive prices up. A major El Ni\u00f1o in 1877-1878 led to more than 50m deaths due to drought and famine, with India, Brazil and China severely affected. Prof Friederike Otto, at Imperial College London, told the Guardian on Monday: \u201cThe [current El Ni\u00f1o] event is a huge redistribution of energy in the climate system and is dangerous, becau"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.392,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.362,
       "scores": {
-        "High House War": 0.101,
-        "High House Coin": 0.176,
-        "High House Shadow": 0.295,
-        "High House Life": 0.141,
-        "High House Iron": 0.392,
-        "High House Words": 0.167,
-        "High House Chains": 0.076
+        "High House War": 0.145,
+        "High House Coin": 0.301,
+        "High House Shadow": 0.141,
+        "High House Life": 0.07,
+        "High House Iron": 0.222,
+        "High House Words": 0.248,
+        "High House Chains": 0.362
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.994
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "The world freaked out about AI doomsday. Now what? ",
-        "url": "https://www.theguardian.com/technology/2026/sep/22/ai-doomsday-trump-xi",
-        "source": "guardian",
-        "full_text": "Hello, and welcome to TechScape. I\u2019m your host, Blake Montgomery, US tech editor at the Guardian, writing to you while reading and disagreeing with Jenny Odell\u2019s 2019 book How to Do Nothing. I\u2019m pro-screen time. Today in tech, we\u2019re discussing the upcoming meeting between Donald Trump and Xi Jinping, in which AI will likely feature prominently. Trump, Xi, AI Last week, the world freaked out about an AI apocalypse. Now the two most powerful men, running the countries with the two most advanced AI industries, are going to discuss that possible doomsday. Donald Trump and Xi Jinping are set to greet one another on Wednesday and meet for talks in Washington DC, and artificial intelligence will be high on the agenda. Though their meeting reflects concern for AI at the highest levels of government, which is a generally positive sign, early indicators are not signalling that either nation is willing to put regulatory checks on the technology. The US and Chinese leaders have stressed in recent days that a slowdown of AI development is unnecessary. \u201cWe\u2019re leading China in AI,\u201d Trump said. \u201cWe\u2019re the most sophisticated country in the world, and frankly, I want to \u2060keep it that way, because whoever wins AI, wins.\u201d \u201cFearmongering, confrontation and vicious competition will only disrupt the process of global AI governance,\u201d China\u2019s foreign ministry said last week, in a statement that seemingly rejected the possibility of any US-led slowdown. Any AI slowdown would need buy-in from the US and China, but the rival nations see each other as the strongest argument against such a pause. Trump wants AI to go full steam ahead, fortified in that conviction by Silicon Valley leaders who\u2019ve long been wary of Chinese ambitions. Even Dario Amodei, while calling for a global coordinated pause, repeatedly called China a threat. China, meanwhile, sees appeals for a slowdown as a way for the US to solidify American companies\u2019 lead. Would you accept a hobbling proposal from your first-place opponent? That doesn\u2019t mean Beijing shares none of Anthropic\u2019s concerns. Last week, China released the third iteration of its AI safety governance framework. Included in the updates are risks posed by agents, cybersecurity threats from frontier models and the issue of self-improving AI. Amodei has, likewise, highlighted risks on all three fronts. The combative stance between the trans-Pacific rivals doesn\u2019t mean nothing will happen, Trump\u2019s administration is putting on a positive face in the lead-up to the meeting. The US treasury secretary, Scott Bessent, has already met with his Chinese counterpart, He Lifeng, to discuss the threat of powerful AI. He called the talks \u201cvery successful\u201d. Bessent and He mulled over an international alert system for AI incidents in the same fashion as nuclear alert systems. The two delegations are set to meet again in two months. \u201cThe US has proposed that we have a notification mechanism between the two countries, and we want a shared vision of common goals and common threats,\u201d Bessent said. Read more: China bogeyman looms large over American firms\u2019 AI doomsday scenario The present recalls past inaction If the US and China can\u2019t agree on AI regulation, it\u2019s unlikely any AI regulation at all will come. A decade of dire warnings have failed to slow the pace of the AI industry. As today\u2019s freak-out cools, the political response seems to be moving the same way. Trump is calling AI doomsday warnings \u201ca HOAX\u201d. Should a safety bill arrive on his desk, it seems unlikely he would sign it. Read more: \u2018Godfather of AI\u2019 says tech regulation is nearing Covid-style pivot moment Though the Vermont senator Bernie Sanders has promised to propose a prohibition on extremely capable AI, no bill will pass both chambers of the US Congress in the near future. Last week, the House speaker, Mike Johnson, dismissed the chamber early for its seven-week midterm campaigning recess, likely preventing meaningful progress on AI safety legislation while the nation is focus"
+        "title": "China-Pak boundary commission: A technical body with larger strategic message (IANS Analysis)",
+        "url": "https://bhaskarlive.in/others/china-pak-boundary-commission-a-technical-body-with-larger-strategic-message-ians-analysis-2144473",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -215,27 +215,22 @@
       "house_a": "High House Shadow",
       "house_b": "High House Chains",
       "actor_a": "RUSSIA",
-      "actor_b": "MELILLA",
+      "actor_b": "CHINA",
       "relationship": "neutral",
-      "goldstein_avg": -0.097,
-      "confidence": 0.58,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "RUSSIA",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -2.638,
-      "confidence": 0.58,
+      "goldstein_avg": -1.166,
+      "confidence": 0.72,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 1.143,
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 2.948,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.755,
       "source": "gdelt_volume"
     }
   }
