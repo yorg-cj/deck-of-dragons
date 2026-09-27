@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "cards": [
     {
       "house": "High House Shadow",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.441,
-      "scores": {
-        "High House War": 0.318,
-        "High House Coin": 0.177,
-        "High House Shadow": 0.281,
-        "High House Life": 0.25,
-        "High House Iron": 0.441,
-        "High House Words": 0.174,
-        "High House Chains": 0.165
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.662
-      },
-      "article": {
-        "title": "\u2018Whoever wins AI, wins\u2019: How artificial intelligence is transforming the future of war",
-        "url": "https://www.independent.co.uk/news/world/ai-nuclear-war-anthropic-trump-b3051011.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
@@ -85,6 +56,35 @@
         "url": "https://www.theguardian.com/world/2026/sep/25/trump-israel-icc-threats",
         "source": "guardian",
         "full_text": "The US threat to impose sanctions on the international criminal court (ICC) as an institution, not just its leading judges, could fundamentally disrupt its operation and needed to be resisted, a coalition of countries to defend international law heard at the United Nations on Friday. Ronald Lamola, South Africa\u2019s foreign minister, issued the warning at an event during the UN general assembly called to protect the system of international law from a growing array of threats, including open flouting of its tenets and rulings by Israel. The meeting was organised by the Hague Group, of which Lamola is co-chair, and which was set up in 2025 to protect international law and to call for the proper enforcement of the rulings of its two primary bodies: the ICC and the international court of justice (ICJ). Lamola told the gathering that the US had already sanctioned ICC judges and prosecutors, but was now planning sanctions against the ICC itself. \u201cIf imposed, such measures could fundamentally disrupt its operations,\u201d he said. \u201cAn independent court remains independent only if judges and officials cannot be punished for carrying out their mandates.\u201d The head of the ICC, Judge Tomoko Akane of Japan, was sanctioned by the US in August, along with senior trial lawyer Abdoulaye Seye of Senegal, for engaging in the ICC\u2019s efforts to \u201cprosecute officials whose government has not consented to ICC jurisdiction\u201d. The attack on Akane was condemned this week by the Japanese prime minister, Sanae Takaichi. The US has admitted it seeks to dismantle the Hague-based ICC. In his address to the UN general assembly this week, Donald Trump once again criticised the \u201cout of control\u201d court, which he smeared as an \u201cevil group of people\u201d and urged other nations to reject. The US secretary of state, Marco Rubio, has accused the court of being \u201ca corrupt and fatally politicised supranational court that has maliciously abused its authority and exceeded its mandate. We will not tolerate its assault on state sovereignty.\u201d The next step by the US is likely to be to impose secondary sanctions on anyone who cooperates with the court, as opposed to sanctioning its senior judiciary. A designation of the whole institution would reach every European bank, insurer and technology supplier serving the court, which sits in the Netherlands. The Dutch government, as the host of the ICC, is taking the lead in trying to warn the US away from the effective immobilisation of the court. The Dutch prime minister, Rob Jetten, told the UN general assembly: \u201cInternational law either works for everyone or for no one. This court was established to protect us against impunity and it was built on the foundations of the Nuremberg and Tokyo trials. And now, with the ICC under attack, the writing is truly on the wall. \u201cAfter all, how can you possibly be opposed to prosecuting the very worst crimes? And I believe there can be only one response: to say, hands off the ICC and all those other institutions that protect the international legal order.\u201d William Schabas, a specialist in international law, noted to the meeting the irony that the resort to international law and courts was increasing dramatically even as the institutions were under attack. He said nations needed to strengthen the ICC, including by ensuring positions are not traded and only the highest calibre judges are elected. Diana Buttu, the prominent Palestinian lawyer, was among many to complain of western powers\u2019 partial resort to international law. \u201cThe greatest threat to international law is not the state that openly defies it,\u201d she said. \u201cThe greatest threat is our selectivity \u2013 the quiet decision that is made in capitals and rooms that the rules don\u2019t bind everybody, they only bind some. It is the belief that we can excuse some because they are our allies, our partners and our friends.\u201d"
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "FOUNDATION"
     },
@@ -115,6 +115,35 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.417,
+      "scores": {
+        "High House War": 0.1,
+        "High House Coin": 0.147,
+        "High House Shadow": 0.258,
+        "High House Life": 0.045,
+        "High House Iron": 0.417,
+        "High House Words": 0.097,
+        "High House Chains": 0.002
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "The comedians turning AI anxiety into punchlines: \u2018It\u2019s so good, it\u2019ll completely alter our grasp on reality\u2019",
+        "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+        "source": "guardian",
+        "full_text": "\u201cBest case scenario, we never have to do any admin again,\u201d says an AI CEO. \u201cWorst case, we all die.\u201d A young man struggles to the top of a beautiful mountain, words echoing in his ears: \u201cAI will most likely lead to the end of the world, but in the meantime, there will be great companies created.\u201d At the top of the mountain, he triumphantly holds up a sign: \u201cBuild a datacenter here.\u201d On the New York subway, posters herald what appear to be AI startups. \u201cWhat if forks were spoons?\u201d asks an ad for Cutlery.ai. Another advises viewers that Ziplink is now known as Froggle. The posters are real, but the companies aren\u2019t; the CEO and datacenter scenarios are social media sketches (though the \u201cgreat companies\u201d quote is a genuine piece of wisdom from Sam Altman). It\u2019s all part of a recent wave of comedy inspired \u2013 but absolutely not generated \u2013 by AI. The comedy extends across all forms of media: social videos, standup, songs, humor columns, comic strips and art installations. It takes aim at companies\u2019 attempts to make AI ubiquitous, the dangers of believing its every word, its threats to society and the environment. It effectively punctures tech CEOs\u2019 relentless narrative: that artificial intelligence represents humanity peaking; that it is inevitable and all-powerful; that we have no idea where it\u2019s going and it could kill us all, but for some reason it is absolutely essential to pursue. It\u2019s no surprise that a topic as pervasive as AI in 2026 would end up in comedians\u2019 crosshairs. A March Gallup poll found 79% of Americans believe AI will reduce jobs. In a CNN poll this week, 81% of respondents said they were more concerned than excited about how the technology could \u201cfundamentally change our way of life\u201d. Only 11% of Americans would support the building of a datacenter locally, according to UMass Amherst. Meanwhile, a handful of impossibly wealthy weirdos wander between podcasts and conference stages boasting about their plans to fundamentally alter what it means to be human. One way to expose the absurdity of the AI companies\u2019 story is by exposing the flaws in their products. Ty Eveland, for instance, trolls AI doctors and HR professionals \u2013 the video bots you might awkwardly encounter at a virtual doctor\u2019s appointment or job interview. Asked about marketing, he tells one bot interviewer he takes \u201ceverything with a grain of salt and maybe a little bit of pepper\u201d. The bot, portrayed as a generically handsome blond man, responds earnestly: \u201cWhen you say you take things with a grain of salt and pepper, what does that actually mean for a brand\u2019s social media strategy?\u201d If bots are approaching superintelligence, this one has clearly been left behind. Other comedians parody the user experience: the comedian Aya Huseen, repeatedly popping out from behind a door, personifies tech companies\u2019 desperate attempts to get users hooked on new AI features: \u201cYou sure you don\u2019t want to try it with AI?\u201d \u201cThis would be so much funner with AI.\u201d \u201cJust try generating it with AI.\u201d The comedian Tom Nestor imagines \u201chow people who love AI think we see them,\u201d telling a friend on the phone: \u201cDo you know what I also really like? It\u2019s not so good now but in years to come it\u2019ll get so good that it\u2019ll just completely alter people\u2019s grasp of reality.\u201d In the Atlantic, the humorist Alexandra Petri recounts a dream in which everything in her life has pivoted to AI, from children\u2019s books \u2013 Goldilocks and the 4.5 Bears \u2013 to her cereal, which features \u201csubtle changes in the recipe, such as the nuts now being the hard, metal kind\u201d. Pro-human comedians have also taken aim at AI\u2019s artistic pretensions. \u201cIf you are somebody who uses ChatGPT to generate videos, images, art, text, in an artistic capacity, to write for you, you are not somebody who deserves to be taken seriously,\u201d said the comedian Caleb Hearon in a serious moment on his podcast. A comic strip titled \u201cAI Design Logic\u201d puts it more succinctly: \u201cGet me a cheese pizza,\u201d a diner tells a waiter. When the pizza ar"
+      },
       "position": "WILD"
     },
     {
@@ -141,38 +170,6 @@
       "article": {
         "title": "Who Will Tell World Leaders At UNGA That Hunger Is Africa\u2019s Biggest Challenge? -By Isaac Asabor",
         "url": "https://www.opinionnigeria.com/who-will-tell-world-leaders-at-unga-that-hunger-is-africas-biggest-challenge-by-isaac-asabor",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.391,
-      "scores": {
-        "High House War": 0.105,
-        "High House Coin": 0.186,
-        "High House Shadow": 0.329,
-        "High House Life": 0.124,
-        "High House Iron": 0.118,
-        "High House Words": 0.391,
-        "High House Chains": 0.154
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.8,
-        "matched_signals": [
-          "propaganda",
-          "disinformation"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
-      },
-      "article": {
-        "title": "'Largest hypocrisy in the world': Pakistan tells UNGA India\u2019s 'terrorist exports' have gone global",
-        "url": "https://www.dawn.com/news/2032821/largest-hypocrisy-in-the-world-pakistan-tells-unga-indias-terrorist-exports-have-gone-global",
         "source": "worldnews",
         "full_text": null
       },
@@ -215,25 +212,25 @@
       "actor_a": "CHINA",
       "actor_b": "TRUMP",
       "relationship": "neutral",
-      "goldstein_avg": -0.741,
+      "goldstein_avg": -0.561,
       "confidence": 0.72,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "PAKISTAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.161,
-      "confidence": 0.72,
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "NATO",
+      "relationship": "opposed",
+      "goldstein_avg": -1.542,
+      "confidence": 0.71,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
+    "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 2.948,
+      "trend_ratio": 1.25,
       "source": "gdelt_volume"
     }
   }
