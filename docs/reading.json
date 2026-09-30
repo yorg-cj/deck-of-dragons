@@ -1,34 +1,63 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.45,
+      "confidence": 0.44,
       "scores": {
-        "High House War": 0.11,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.45,
-        "High House Life": 0.061,
-        "High House Iron": 0.19,
-        "High House Words": 0.241,
-        "High House Chains": 0.115
+        "High House War": 0.149,
+        "High House Coin": 0.191,
+        "High House Shadow": 0.44,
+        "High House Life": 0.051,
+        "High House Iron": 0.156,
+        "High House Words": 0.192,
+        "High House Chains": 0.196
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.546,
+        "confidence": 0.55,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-        "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+        "title": "Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.439,
+      "scores": {
+        "High House War": 0.098,
+        "High House Coin": 0.048,
+        "High House Shadow": 0.238,
+        "High House Life": 0.439,
+        "High House Iron": 0.095,
+        "High House Words": 0.22,
+        "High House Chains": 0.044
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "A \u2018freaked out\u2019 US food industry is hitting back at Maha \u2013 with social media influencers",
+        "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+        "source": "guardian",
+        "full_text": "Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media influencers to combat elements of Robert F Kennedy Jr\u2019s Make America Healthy Again platform, according to an investigation by the Guardian and Documented, an investigative watchdog and journalism project. The ascension of RFK Jr to secretary of health and human services has boosted his putative campaign to end chronic illness in the US, which he believes is primarily caused by processed foods and dyes, exposure to certain chemicals, and poor farming practices, along with an overuse of what he falsely claims are dangerous vaccines. The \u201cMaha\u201d movement blends long-running mainstream concerns about food and farm safety with conspiracy theories about everything from medicine to milk. A Maha \u201csummit\u201d in Washington this week will feature JD Vance and several members of Trump\u2019s cabinet. A KFF poll from May 2026 reveals that some Maha themes resonate with a broad segment of US adults. About four in 10 say they support the Maha movement, while a majority of the public say there is not enough regulation of pesticides used in agriculture (64%) or of chemical food additives (75%). Cross-partisan support in Washington on some of these issues poses a threat to the food industry\u2019s bottom line \u2013 though the Trump administration has largely stopped short of enacting new regulations. But several large corporations are fighting back. An effort by the Center for Food Integrity, an industry-funded non-profit, tracks public sentiment around key issues central to Maha and suggests ways that agricultural interests can counter those narratives by appealing to emotion or scientific reasoning. They call it Gaha: Growing a Healthier America. Documents show the coordinated effort is tracking Maha closely and researching ways to respond to the movement\u2019s claims without alienating its supporters. They are focused on several key areas: seed oils, pesticides, high-fructose corn syrup, regenerative agriculture, organic farming, raw milk/dairy and \u201cbig ag\u201d, internal documents obtained by the Guardian and Documented show. The campaign involves deploying social media influencers with significant reach online in an effort to rebuild trust in the industries that the Maha movement has made their target. The Gaha influencer campaign officially launched late last year. In February, CFI compiled a report listing dozens of sponsored posts on platforms such as online blogs, Facebook, TikTok and Instagram about key Gaha subjects. So far, at least six influencers have signed on to the Gaha campaign, reaching a total audience of more than 2.6 million viewers. Influencers who participated in the paid campaign said they saw it as a way to counter misinformation that comes from Maha proponents, many of whom are paid to promote products in the wellness space. Some of the paid posts involved talking to farmers about pesticides or regenerative agriculture, which is the practice of restoring soil health, or explaining what seed oils are to counter claims that they cause a host of health problems. In one July 2025 training video uncovered by the Guardian and Documented, the center explained the goal was to create an \u201cecho chamber\u201d among the food and agriculture industry groups, aligning them behind \u201cthe same ultimate message\u201d. \u201cWithout this coordinated response, that misinformation [from Maha] risks undermining consumer trust, fueling new regulations and eroding confidence in agriculture as a whole,\u201d said Kelly Leighton, the center\u2019s executive director, in the video. The Center for Food Integrity, formed in 2007, conducts research and public relations campaigns on behalf of the food and agricultural sectors. The board consists of corporate executives from top brands: Bryan Malenius, CFI\u2019s board president, also serves as the director of reputation strategy for public affairs at Chick-fil-A, while other members hold senior positions at companies such as Cargill, Dairy Farmers "
+      },
+      "position": "ASCENDING"
     },
     {
       "house": "High House Iron",
@@ -56,35 +85,6 @@
         "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
         "source": "guardian",
         "full_text": "Two of the \u201cgodfathers\u201d of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI \u201cintelligence explosion\u201d, which they say could be the most consequential technological development in history. A report co-authored by the Nobel laureate Geoffrey Hinton and the Canadian computer scientist Yoshua Bengio, considered godfathers of modern AI for their work in the field, urges politicians to act now before there is runaway progress in the technology. The authors say they are concerned about an \u201cintelligence explosion\u201d, which they describe as a \u201cdramatic AI-driven acceleration of AI progress, compressing advances that would otherwise take years into months or less\u201d. The paper, titled \u201cWhat if automating AI R&amp;D triggers an intelligence explosion?\u201d, is authored by more than 20 people including Hinton and Bengio. Other authors of the paper include Jack Clark, a co-founder of Anthropic, and Jakub Pachocki, the chief scientist at OpenAI. Their concerns focus on the possibility of AIs being able to improve themselves without human intervention, a process known as \u201crecursive self-improvement\u201d. In the paper it is broadly referred to as automated AI research and development. Once AI systems reach expert-level capabilities at AI R&amp;D, a single developer could run a workforce equivalent to \u201cmillions\u201d of top human researchers, the paper says. The authors say the automating of AI R&amp;D is the most likely source of an intelligence explosion, because AIs are already contributing to improving their own technology and the resulting improved systems can be rapidly deployed once built. \u201cAn intelligence explosion could be the most consequential technological development in human history, compressing years of progress into months or less, threatening human control over AI systems, and severely eroding checks on power within and between states, companies, and branches of government,\u201d the paper says. Urging governments to take action quickly, the authors say: \u201cOnce an intelligence explosion begins, the window for action may close.\u201d They recommended a trio of policy priorities: requiring transparent progress reports on AI-related R&amp;D, including embedding independent auditors in companies; finding ways to constrain breakneck AI development; and preparing to adapt to an intelligence explosion. Anthropic and OpenAI have both agreed to having independent evaluators assess their models after warning that AI development was reaching a critical pitch in terms of safety. Anthropic says AI now produces 80% of its own code, while OpenAI uses autonomous AI agents in areas such as the training of new models. \u201cPreliminary evidence suggests that a software-driven intelligence explosion is possible,\u201d the paper says, adding this would lead to the \u201cextremely rapid development of highly capable or superhuman AI systems\u201d. While this could produce medical breakthroughs and technological leaps, it would bring a trio of risks: powerful systems could enable biological and cyber threats that develop faster than the measures needed to counter them; as humans become less involved in AI R&amp;D they could lose the opportunity to control systems; states could use an intelligence explosion to convert a modest lead in areas such as cyberspace into a decisive one. The report acknowledges these impacts are \u201cuncertain\u201d. For instance, a technological breakthrough could take time to implement given the need to set up supply chains for any special materials involved or to comply with regulations. AI systems could also accelerate the speed at which risks are mitigated, say the authors. If such a breakthrough happened, the authors say, AI systems could rapidly eclipse human experts in most fields and \u201cradically accelerate\u201d technological progress. Preparing for this \u201cshould be an urgent priority, including at the highest levels of government leadership\u201d. They say governments should consider policies that address the potential for an intel"
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
-        "full_text": null
       },
       "position": "FOUNDATION"
     },
@@ -118,35 +118,36 @@
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.387,
+      "confidence": 0.391,
       "scores": {
-        "High House War": 0.009,
-        "High House Coin": -0.032,
-        "High House Shadow": 0.08,
-        "High House Life": 0.387,
-        "High House Iron": 0.059,
-        "High House Words": 0.003,
-        "High House Chains": 0.074
+        "High House War": 0.105,
+        "High House Coin": 0.186,
+        "High House Shadow": 0.329,
+        "High House Life": 0.124,
+        "High House Iron": 0.118,
+        "High House Words": 0.391,
+        "High House Chains": 0.154
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
+        "confidence": 0.8,
         "matched_signals": [
-          "contaminated"
+          "propaganda",
+          "disinformation"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.988
       },
       "article": {
-        "title": "\u2018Children are dying\u2019: Fiji hopes declaring an HIV emergency will help it tackle crisis",
-        "url": "https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid",
-        "source": "guardian",
-        "full_text": "On a recent Friday night, Dr Kesaia Tuidraki\u2019s medical team parked its mobile clinic outside McDonald\u2019s in downtown Suva, Fiji, and grabbed any kid they could to be tested for HIV. Of the 97 people screened, mostly teenagers \u2013 some on their way to get a burger, others to buy drugs \u2013 one in six tested positive. \u201cChildren are suffering, children are dying, and if that doesn\u2019t move you I don\u2019t know what will,\u201d Tuidraki, country director of Medical Services Pacific, tells the Guardian. Fijian authorities this month called a national health emergency to deal with surging HIV cases, with an estimated one in 60 adults now living with the virus. It comes as new infections surge, with 2,016 new cases diagnosed in 2025 \u2013 rising by 27% in a year, and representing a 12-fold increase since 2010, according to UNAids. In a close-knit island nation of about 930,000 people, an estimated 9,100 are now living with the virus. But only a fraction of those are tested and access treatment, prompting the government to scale up its pandemic announcement \u2013 first made in February 2025 \u2013 and mobilise urgent measures to prevent its spread. Dr Jason Mitchell, the head of Fiji\u2019s HIV epidemic response, said it could take between five and 10 years to get a handle on the virus, and in the meantime he would expect numbers to rise. Critics say moves to stem the spread of a disease that is being driven by cases in the young, with new diagnoses highest in those aged between 15 and 34, has been too slow. The crisis is complex and inextricably linked to the drug epidemic \u2013 more than 42% of new cases in 2025 were due to sharing contaminated needles or equipment. Health advocates and social workers say primary school-age children are among those injecting themselves and friends are using the same contaminated needle, a problem raised by advocates as far back as 2019. \u201cI know these young boys, they ask me for syringes,\u201d injecting drug user Rochelle*, who is living with HIV, tells the Guardian. \u201cWhenever I have them I give them out. Someone has to give them, they\u2019re already accessing the drugs.\u201d Rochelle, 38, says she tries to tell the boys not to share. Sometimes the kids listen \u2013 but not always. Under current law, giving out syringes is technically considered aiding and abetting drug use. A concern among some politicians and medical professionals is that providing needles would encourage drug use \u2013 despite evidence from UNAids that this is not the case \u2013and advocates are urging the government to let them distribute thousands of needles and syringes sitting untouched in a Suva warehouse. \u201cIt\u2019s really sad, honestly. We can\u2019t wait any more, there are boxes and boxes already here,\u201d Tuidraki says. Mitchell says he expects a change to the HIV Act to be passed within the next two weeks, allowing public health workers to distribute needles. He adds that the government has been \u201ccautious\u201d in announcing the emergency, which his unit had been asking for since June. Those leading the response say increased powers arising from the emergency declaration will help to quell the rapid spread of HIV, including to vulnerable populations like mothers and babies, at an estimated extra cost of $23m FJD (US$10.2m) a year. \u201cThe immediate crisis right now is the spread of HIV, which is why the needle and syringe programme is critical,\u201d UNAids, the UN agency that fights HIV and Aids, regional director Eamonn Murphy said. \u2018People are scared\u2019 The epidemic is complex but heavily linked to methamphetamine use. Fiji is a drug-running hub in the Pacific for methamphetamine bound for Australian and New Zealand markets, but use escalated during Covid when borders were closed and it began circulating domestically. While Fijians want the crisis addressed, there has also been a backlash. Only 39% of those living with HIV in Fiji know their status, according to UNAids, and some of those spoken to by the Guardian continued to live in denial or refuse testing. \u201cThere are people blaming the [queer] community"
+        "title": "'Largest hypocrisy in the world': Pakistan tells UNGA India\u2019s 'terrorist exports' have gone global",
+        "url": "https://www.dawn.com/news/2032821/largest-hypocrisy-in-the-world-pakistan-tells-unga-indias-terrorist-exports-have-gone-global",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -175,135 +176,79 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.283,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.084,
-        "High House Coin": 0.221,
-        "High House Shadow": 0.105,
-        "High House Life": 0.078,
-        "High House Iron": 0.076,
-        "High House Words": 0.135,
-        "High House Chains": 0.283
+        "High House War": 0.038,
+        "High House Coin": 0.255,
+        "High House Shadow": 0.085,
+        "High House Life": 0.036,
+        "High House Iron": 0.118,
+        "High House Words": 0.151,
+        "High House Chains": 0.308
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.525,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.955
       },
       "article": {
-        "title": "Mining Forum: US needs Canada to break China\u2019s minerals grip - The Northern Miner",
-        "url": "https://www.northernminer.com/news/mining-forum-us-needs-canada-to-break-chinas-minerals-grip/1003895220",
-        "source": "worldnews",
+        "title": "Trump\u2019s New Tariffs Face a Familiar Court Challenge",
+        "url": "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -1.418,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
+      "house_a": "High House Life",
       "house_b": "High House Coin",
-      "actor_a": "CHINA",
+      "actor_a": "MAHA",
       "actor_b": "TRUMP",
       "relationship": "neutral",
-      "goldstein_avg": -0.28,
-      "confidence": 0.73,
+      "goldstein_avg": -0.119,
+      "confidence": 0.69,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Shadow",
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "MAHA",
+      "actor_b": "PAKISTAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.016,
+      "confidence": 0.69,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "CHINA",
+      "actor_a": "MAHA",
       "actor_b": "NATO",
       "relationship": "neutral",
-      "goldstein_avg": -1.191,
-      "confidence": 0.73,
+      "goldstein_avg": -0.009,
+      "confidence": 0.69,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
-      "house_b": "High House Chains",
-      "actor_a": "IRAN",
-      "actor_b": "CANADA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.979,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Life",
-      "actor_a": "TRUMP",
-      "actor_b": "FIJI",
-      "relationship": "neutral",
-      "goldstein_avg": -0.228,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "TRUMP",
-      "actor_b": "CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.311,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
       "house_b": "High House War",
-      "actor_a": "FIJI",
+      "actor_a": "PAKISTAN",
       "actor_b": "NATO",
       "relationship": "neutral",
-      "goldstein_avg": 0.0,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "FIJI",
-      "actor_b": "CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.179,
-      "confidence": 0.73,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "NATO",
-      "actor_b": "CANADA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.885,
-      "confidence": 0.73,
+      "goldstein_avg": -0.774,
+      "confidence": 0.69,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.212,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
