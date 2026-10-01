@@ -1,32 +1,34 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "cards": [
     {
       "house": "High House Shadow",
-      "title": "The Knight",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.44,
+      "confidence": 0.486,
       "scores": {
-        "High House War": 0.149,
-        "High House Coin": 0.191,
-        "High House Shadow": 0.44,
-        "High House Life": 0.051,
-        "High House Iron": 0.156,
-        "High House Words": 0.192,
-        "High House Chains": 0.196
+        "High House War": 0.159,
+        "High House Coin": 0.151,
+        "High House Shadow": 0.486,
+        "High House Life": 0.159,
+        "High House Iron": 0.167,
+        "High House Words": 0.399,
+        "High House Chains": 0.108
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "revealed"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Hackers Say They Stole Thousands of Sensitive F.B.I. Personnel Records",
-        "url": "https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "How AI could \u2018supercharge\u2019 election risks across south-east Asia ",
+        "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+        "source": "guardian",
+        "full_text": "Years ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse. Now, all you need is AI. In a worrying sign of how AI could \u201csupercharge\u201d fake news, Anthropic recently revealed how Claude AI was used in a political influence operation in Malaysia. It created a commercial election manipulation platform, utilising a network of about 1,000 X accounts, a fake news outlet called \u201cMalaysia Pulse\u201d and a series of fabricated documents. The operation appeared designed to target voters in recent state elections, pulling in census and electoral data to exploit sensitive political and social fractures, including race, religion, and royalty across all 222 Malaysian parliamentary constituencies. The experiment was ultimately ineffective once Anthropic stepped in but has sparked alarm about how AI could be weaponised in future elections in south-east Asia, a region already deeply vulnerable to fake news. Katie Harbath, who formerly worked on public policy for global elections at Meta, says the case is an example of how AI brings a new level of sophistication and ease to the disinformation landscape. \u201cAI can supercharge it in terms of you can make a lot more content that\u2019s more personalised, quicker and cheaper,\u201d says Harbath, who now heads the tech consultancy company Anchor Change. \u201cBut you still need a distribution mechanism, and at the moment, that\u2019s still your more social media type platforms.\u201d Anthropic detailed the Malaysia election operation in its latest threat assessment, released in September. The report revealed how actors used Claude to build networks of fake social media profiles and news websites that targeted audiences on six continents. Anthropic said the actors included \u201cgovernments, state-aligned propaganda institutions and state media, as well as private firms selling influence\u201d. \u2018Flood the zone\u2019 South-east Asia is no stranger to disinformation. In recent years Nobel laureate and Filipino journalist Maria Ressa has likened the Philippines to a \u201cpetri dish\u201d for the weaponisation of disinformation and fake news, with techniques tried and tested in the south-east Asian nation later successfully replicated in the west. But AI makes it all much easier. \u201cBasically AI is just mimicking what we would have, I guess, termed a few years ago, a troll factory,\u201d says Rossine Fallorina of Sigla, a Philippine thinktank that researches AI. \u201cMostly because it speeds up the production process. So you don\u2019t need 10 people to create a narrative or a story. You can just prompt it and then have it propagated.\u201d Last year OpenAI banned accounts using AI to generate comments about Philippine politics and public officials across social platforms, with many fictitious comments generated in support of President Ferdinand Marcos Jnr. Across south-east Asia, home to nations with predominately young and hyper connected populations, some fear the divisive potential of AI on social media. \u201cIt feeds political polarisation and it feeds on divisions,\u201d says Bridget Welsh, from the University of Nottingham Asia Research Institute Malaysia. \u201cThat\u2019s really what\u2019s concerning about the fragmented nature of what\u2019s happening in Malaysia.\u201d Malaysia\u2019s general election could be called for late 2027, while the Philippines and Cambodia have polls in 2028, and Indonesia the following year. Already in the region, AI has been effective. In Indonesia, an AI-generated cartoon image of now-president Prabowo Subianto that helped soften his strongman image became wildly popular in the 2024 election. It has also been used to inflame tensions, such as inciting hatred toward ethnic Rohingya refugees who fled to Malaysia from Myanmar during the civil war, says Dr Ben Loh, a media lecturer at Monash University Malaysia. \u201cIt\u2019s come to the point where people already have this deep-seated hate in their minds and when they see the content like this,"
       },
       "position": "CENTER"
     },
@@ -60,33 +62,33 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.438,
+      "confidence": 0.426,
       "scores": {
-        "High House War": 0.104,
-        "High House Coin": 0.115,
-        "High House Shadow": 0.311,
-        "High House Life": 0.142,
-        "High House Iron": 0.438,
-        "High House Words": 0.141,
-        "High House Chains": 0.029
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.945
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "AI godfathers warn of runaway \u2018intelligence explosion\u2019",
-        "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
-        "source": "guardian",
-        "full_text": "Two of the \u201cgodfathers\u201d of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI \u201cintelligence explosion\u201d, which they say could be the most consequential technological development in history. A report co-authored by the Nobel laureate Geoffrey Hinton and the Canadian computer scientist Yoshua Bengio, considered godfathers of modern AI for their work in the field, urges politicians to act now before there is runaway progress in the technology. The authors say they are concerned about an \u201cintelligence explosion\u201d, which they describe as a \u201cdramatic AI-driven acceleration of AI progress, compressing advances that would otherwise take years into months or less\u201d. The paper, titled \u201cWhat if automating AI R&amp;D triggers an intelligence explosion?\u201d, is authored by more than 20 people including Hinton and Bengio. Other authors of the paper include Jack Clark, a co-founder of Anthropic, and Jakub Pachocki, the chief scientist at OpenAI. Their concerns focus on the possibility of AIs being able to improve themselves without human intervention, a process known as \u201crecursive self-improvement\u201d. In the paper it is broadly referred to as automated AI research and development. Once AI systems reach expert-level capabilities at AI R&amp;D, a single developer could run a workforce equivalent to \u201cmillions\u201d of top human researchers, the paper says. The authors say the automating of AI R&amp;D is the most likely source of an intelligence explosion, because AIs are already contributing to improving their own technology and the resulting improved systems can be rapidly deployed once built. \u201cAn intelligence explosion could be the most consequential technological development in human history, compressing years of progress into months or less, threatening human control over AI systems, and severely eroding checks on power within and between states, companies, and branches of government,\u201d the paper says. Urging governments to take action quickly, the authors say: \u201cOnce an intelligence explosion begins, the window for action may close.\u201d They recommended a trio of policy priorities: requiring transparent progress reports on AI-related R&amp;D, including embedding independent auditors in companies; finding ways to constrain breakneck AI development; and preparing to adapt to an intelligence explosion. Anthropic and OpenAI have both agreed to having independent evaluators assess their models after warning that AI development was reaching a critical pitch in terms of safety. Anthropic says AI now produces 80% of its own code, while OpenAI uses autonomous AI agents in areas such as the training of new models. \u201cPreliminary evidence suggests that a software-driven intelligence explosion is possible,\u201d the paper says, adding this would lead to the \u201cextremely rapid development of highly capable or superhuman AI systems\u201d. While this could produce medical breakthroughs and technological leaps, it would bring a trio of risks: powerful systems could enable biological and cyber threats that develop faster than the measures needed to counter them; as humans become less involved in AI R&amp;D they could lose the opportunity to control systems; states could use an intelligence explosion to convert a modest lead in areas such as cyberspace into a decisive one. The report acknowledges these impacts are \u201cuncertain\u201d. For instance, a technological breakthrough could take time to implement given the need to set up supply chains for any special materials involved or to comply with regulations. AI systems could also accelerate the speed at which risks are mitigated, say the authors. If such a breakthrough happened, the authors say, AI systems could rapidly eclipse human experts in most fields and \u201cradically accelerate\u201d technological progress. Preparing for this \u201cshould be an urgent priority, including at the highest levels of government leadership\u201d. They say governments should consider policies that address the potential for an intel"
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -118,36 +120,33 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.391,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.384,
       "scores": {
-        "High House War": 0.105,
-        "High House Coin": 0.186,
-        "High House Shadow": 0.329,
-        "High House Life": 0.124,
-        "High House Iron": 0.118,
-        "High House Words": 0.391,
-        "High House Chains": 0.154
+        "High House War": 0.035,
+        "High House Coin": 0.123,
+        "High House Shadow": 0.13,
+        "High House Life": 0.139,
+        "High House Iron": 0.384,
+        "High House Words": 0.007,
+        "High House Chains": 0.076
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.8,
-        "matched_signals": [
-          "propaganda",
-          "disinformation"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.526
       },
       "article": {
-        "title": "'Largest hypocrisy in the world': Pakistan tells UNGA India\u2019s 'terrorist exports' have gone global",
-        "url": "https://www.dawn.com/news/2032821/largest-hypocrisy-in-the-world-pakistan-tells-unga-indias-terrorist-exports-have-gone-global",
-        "source": "worldnews",
+        "title": "Leading Chinese Tech Firms Target Nvidia\u2019s A.I. Dominance",
+        "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House War",
@@ -176,79 +175,100 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.308,
+      "confidence": 0.336,
       "scores": {
-        "High House War": 0.038,
-        "High House Coin": 0.255,
-        "High House Shadow": 0.085,
-        "High House Life": 0.036,
-        "High House Iron": 0.118,
-        "High House Words": 0.151,
-        "High House Chains": 0.308
+        "High House War": 0.017,
+        "High House Coin": 0.335,
+        "High House Shadow": 0.058,
+        "High House Life": 0.105,
+        "High House Iron": 0.041,
+        "High House Words": 0.179,
+        "High House Chains": 0.336
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.525,
+        "confidence": 0.543,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.955
+        "sentiment_score": 0.988
       },
       "article": {
-        "title": "Trump\u2019s New Tariffs Face a Familiar Court Challenge",
-        "url": "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html",
-        "source": "nyt",
+        "title": "UK threatens far more severe sanctions on Israel",
+        "url": "https://en.globes.co.il/en/article-1001557994",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "MAHA",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.137,
+      "confidence": 0.71,
+      "source": "gdelt_tone"
+    },
     {
       "house_a": "High House Life",
       "house_b": "High House Coin",
       "actor_a": "MAHA",
       "actor_b": "TRUMP",
       "relationship": "neutral",
-      "goldstein_avg": -0.119,
-      "confidence": 0.69,
+      "goldstein_avg": -0.055,
+      "confidence": 0.71,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
-      "house_b": "High House Words",
+      "house_b": "High House Chains",
       "actor_a": "MAHA",
-      "actor_b": "PAKISTAN",
+      "actor_b": "ISRAEL",
       "relationship": "neutral",
-      "goldstein_avg": -0.016,
-      "confidence": 0.69,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House War",
-      "actor_a": "MAHA",
-      "actor_b": "NATO",
-      "relationship": "neutral",
-      "goldstein_avg": -0.009,
-      "confidence": 0.69,
+      "goldstein_avg": -0.03,
+      "confidence": 0.71,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Words",
       "house_b": "High House War",
-      "actor_a": "PAKISTAN",
+      "actor_a": "IRAN",
       "actor_b": "NATO",
-      "relationship": "neutral",
-      "goldstein_avg": -0.774,
-      "confidence": 0.69,
+      "relationship": "opposed",
+      "goldstein_avg": -2.397,
+      "confidence": 0.71,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House Life": {
+      "trend": "rising",
+      "trend_ratio": 2.063,
+      "source": "gdelt_volume"
+    },
+    "High House Words": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.519,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "falling",
+      "trend_ratio": 0.683,
+      "source": "gdelt_volume"
+    }
+  }
 }
