@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,6 +33,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.467,
+      "scores": {
+        "High House War": 0.467,
+        "High House Coin": 0.106,
+        "High House Shadow": 0.212,
+        "High House Life": 0.018,
+        "High House Iron": 0.124,
+        "High House Words": 0.15,
+        "High House Chains": 0.09
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "Trump sending 9,000 more troops to Middle East after threatening new strikes on Iran",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-troops-to-middle-east-iran-war-b3060390.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
@@ -59,7 +88,7 @@
         "source": "guardian",
         "full_text": "Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media influencers to combat elements of Robert F Kennedy Jr\u2019s Make America Healthy Again platform, according to an investigation by the Guardian and Documented, an investigative watchdog and journalism project. The ascension of RFK Jr to secretary of health and human services has boosted his putative campaign to end chronic illness in the US, which he believes is primarily caused by processed foods and dyes, exposure to certain chemicals, and poor farming practices, along with an overuse of what he falsely claims are dangerous vaccines. The \u201cMaha\u201d movement blends long-running mainstream concerns about food and farm safety with conspiracy theories about everything from medicine to milk. A Maha \u201csummit\u201d in Washington this week will feature JD Vance and several members of Trump\u2019s cabinet. A KFF poll from May 2026 reveals that some Maha themes resonate with a broad segment of US adults. About four in 10 say they support the Maha movement, while a majority of the public say there is not enough regulation of pesticides used in agriculture (64%) or of chemical food additives (75%). Cross-partisan support in Washington on some of these issues poses a threat to the food industry\u2019s bottom line \u2013 though the Trump administration has largely stopped short of enacting new regulations. But several large corporations are fighting back. An effort by the Center for Food Integrity, an industry-funded non-profit, tracks public sentiment around key issues central to Maha and suggests ways that agricultural interests can counter those narratives by appealing to emotion or scientific reasoning. They call it Gaha: Growing a Healthier America. Documents show the coordinated effort is tracking Maha closely and researching ways to respond to the movement\u2019s claims without alienating its supporters. They are focused on several key areas: seed oils, pesticides, high-fructose corn syrup, regenerative agriculture, organic farming, raw milk/dairy and \u201cbig ag\u201d, internal documents obtained by the Guardian and Documented show. The campaign involves deploying social media influencers with significant reach online in an effort to rebuild trust in the industries that the Maha movement has made their target. The Gaha influencer campaign officially launched late last year. In February, CFI compiled a report listing dozens of sponsored posts on platforms such as online blogs, Facebook, TikTok and Instagram about key Gaha subjects. So far, at least six influencers have signed on to the Gaha campaign, reaching a total audience of more than 2.6 million viewers. Influencers who participated in the paid campaign said they saw it as a way to counter misinformation that comes from Maha proponents, many of whom are paid to promote products in the wellness space. Some of the paid posts involved talking to farmers about pesticides or regenerative agriculture, which is the practice of restoring soil health, or explaining what seed oils are to counter claims that they cause a host of health problems. In one July 2025 training video uncovered by the Guardian and Documented, the center explained the goal was to create an \u201cecho chamber\u201d among the food and agriculture industry groups, aligning them behind \u201cthe same ultimate message\u201d. \u201cWithout this coordinated response, that misinformation [from Maha] risks undermining consumer trust, fueling new regulations and eroding confidence in agriculture as a whole,\u201d said Kelly Leighton, the center\u2019s executive director, in the video. The Center for Food Integrity, formed in 2007, conducts research and public relations campaigns on behalf of the food and agricultural sectors. The board consists of corporate executives from top brands: Bryan Malenius, CFI\u2019s board president, also serves as the director of reputation strategy for public affairs at Chick-fil-A, while other members hold senior positions at companies such as Cargill, Dairy Farmers "
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -88,7 +117,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
@@ -146,21 +175,21 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.341,
+      "confidence": 0.282,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.117,
+        "High House Coin": 0.138,
+        "High House Shadow": 0.121,
+        "High House Life": 0.127,
+        "High House Iron": 0.092,
+        "High House Words": 0.144,
+        "High House Chains": 0.282
       },
       "reversal": {
         "reversed": true,
@@ -170,105 +199,25 @@
         "sentiment_score": 0.995
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "title": "Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.",
+        "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.336,
-      "scores": {
-        "High House War": 0.017,
-        "High House Coin": 0.335,
-        "High House Shadow": 0.058,
-        "High House Life": 0.105,
-        "High House Iron": 0.041,
-        "High House Words": 0.179,
-        "High House Chains": 0.336
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.543,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
-      },
-      "article": {
-        "title": "UK threatens far more severe sanctions on Israel",
-        "url": "https://en.globes.co.il/en/article-1001557994",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "MAHA",
-      "actor_b": "IRAN",
-      "relationship": "neutral",
-      "goldstein_avg": -0.137,
-      "confidence": 0.71,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Coin",
-      "actor_a": "MAHA",
-      "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.055,
-      "confidence": 0.71,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "MAHA",
-      "actor_b": "ISRAEL",
-      "relationship": "neutral",
-      "goldstein_avg": -0.03,
-      "confidence": 0.71,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Words",
-      "house_b": "High House War",
+      "house_b": "High House Chains",
       "actor_a": "IRAN",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -2.397,
+      "actor_b": "MODERN EMPIRES RULE",
+      "relationship": "neutral",
+      "goldstein_avg": -0.036,
       "confidence": 0.71,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 2.063,
-      "source": "gdelt_volume"
-    },
-    "High House Words": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.519,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "falling",
-      "trend_ratio": 0.683,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
