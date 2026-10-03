@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "cards": [
     {
       "house": "High House Shadow",
@@ -33,62 +33,33 @@
       "position": "CENTER"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.467,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.486,
       "scores": {
-        "High House War": 0.467,
-        "High House Coin": 0.106,
-        "High House Shadow": 0.212,
-        "High House Life": 0.018,
-        "High House Iron": 0.124,
-        "High House Words": 0.15,
-        "High House Chains": 0.09
+        "High House War": 0.08,
+        "High House Coin": 0.13,
+        "High House Shadow": 0.261,
+        "High House Life": 0.157,
+        "High House Iron": 0.486,
+        "High House Words": 0.111,
+        "High House Chains": 0.028
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.548,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Trump sending 9,000 more troops to Middle East after threatening new strikes on Iran",
-        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-troops-to-middle-east-iran-war-b3060390.html",
+        "title": "AI is getting more powerful, but safeguards aren't keeping up",
+        "url": "https://www.dailysabah.com/business/tech/ai-is-getting-more-powerful-but-safeguards-arent-keeping-up",
         "source": "worldnews",
         "full_text": null
       },
       "position": "ASCENDING"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.439,
-      "scores": {
-        "High House War": 0.098,
-        "High House Coin": 0.048,
-        "High House Shadow": 0.238,
-        "High House Life": 0.439,
-        "High House Iron": 0.095,
-        "High House Words": 0.22,
-        "High House Chains": 0.044
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "A \u2018freaked out\u2019 US food industry is hitting back at Maha \u2013 with social media influencers",
-        "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
-        "source": "guardian",
-        "full_text": "Some of the biggest food and agriculture corporations in the US are funding a campaign that pays social media influencers to combat elements of Robert F Kennedy Jr\u2019s Make America Healthy Again platform, according to an investigation by the Guardian and Documented, an investigative watchdog and journalism project. The ascension of RFK Jr to secretary of health and human services has boosted his putative campaign to end chronic illness in the US, which he believes is primarily caused by processed foods and dyes, exposure to certain chemicals, and poor farming practices, along with an overuse of what he falsely claims are dangerous vaccines. The \u201cMaha\u201d movement blends long-running mainstream concerns about food and farm safety with conspiracy theories about everything from medicine to milk. A Maha \u201csummit\u201d in Washington this week will feature JD Vance and several members of Trump\u2019s cabinet. A KFF poll from May 2026 reveals that some Maha themes resonate with a broad segment of US adults. About four in 10 say they support the Maha movement, while a majority of the public say there is not enough regulation of pesticides used in agriculture (64%) or of chemical food additives (75%). Cross-partisan support in Washington on some of these issues poses a threat to the food industry\u2019s bottom line \u2013 though the Trump administration has largely stopped short of enacting new regulations. But several large corporations are fighting back. An effort by the Center for Food Integrity, an industry-funded non-profit, tracks public sentiment around key issues central to Maha and suggests ways that agricultural interests can counter those narratives by appealing to emotion or scientific reasoning. They call it Gaha: Growing a Healthier America. Documents show the coordinated effort is tracking Maha closely and researching ways to respond to the movement\u2019s claims without alienating its supporters. They are focused on several key areas: seed oils, pesticides, high-fructose corn syrup, regenerative agriculture, organic farming, raw milk/dairy and \u201cbig ag\u201d, internal documents obtained by the Guardian and Documented show. The campaign involves deploying social media influencers with significant reach online in an effort to rebuild trust in the industries that the Maha movement has made their target. The Gaha influencer campaign officially launched late last year. In February, CFI compiled a report listing dozens of sponsored posts on platforms such as online blogs, Facebook, TikTok and Instagram about key Gaha subjects. So far, at least six influencers have signed on to the Gaha campaign, reaching a total audience of more than 2.6 million viewers. Influencers who participated in the paid campaign said they saw it as a way to counter misinformation that comes from Maha proponents, many of whom are paid to promote products in the wellness space. Some of the paid posts involved talking to farmers about pesticides or regenerative agriculture, which is the practice of restoring soil health, or explaining what seed oils are to counter claims that they cause a host of health problems. In one July 2025 training video uncovered by the Guardian and Documented, the center explained the goal was to create an \u201cecho chamber\u201d among the food and agriculture industry groups, aligning them behind \u201cthe same ultimate message\u201d. \u201cWithout this coordinated response, that misinformation [from Maha] risks undermining consumer trust, fueling new regulations and eroding confidence in agriculture as a whole,\u201d said Kelly Leighton, the center\u2019s executive director, in the video. The Center for Food Integrity, formed in 2007, conducts research and public relations campaigns on behalf of the food and agricultural sectors. The board consists of corporate executives from top brands: Bryan Malenius, CFI\u2019s board president, also serves as the director of reputation strategy for public affairs at Chick-fil-A, while other members hold senior positions at companies such as Cargill, Dairy Farmers "
-      },
-      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -117,7 +88,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -149,33 +120,62 @@
       "position": "WILD"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": false,
-      "confidence": 0.384,
+      "confidence": 0.372,
       "scores": {
-        "High House War": 0.035,
-        "High House Coin": 0.123,
-        "High House Shadow": 0.13,
-        "High House Life": 0.139,
-        "High House Iron": 0.384,
-        "High House Words": 0.007,
-        "High House Chains": 0.076
+        "High House War": -0.063,
+        "High House Coin": -0.048,
+        "High House Shadow": 0.006,
+        "High House Life": 0.372,
+        "High House Iron": -0.077,
+        "High House Words": 0.091,
+        "High House Chains": 0.01
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.526
+        "sentiment_score": 0.985
       },
       "article": {
-        "title": "Leading Chinese Tech Firms Target Nvidia\u2019s A.I. Dominance",
-        "url": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
+        "title": "\u2018Self-healing\u2019 coach who was banned from working in Australia to speak in UK",
+        "url": "https://www.theguardian.com/society/2026/oct/02/natural-wellness-coach-banned-australia-uk-lectures",
+        "source": "guardian",
+        "full_text": "A controversial proponent of natural remedies who has been banned from providing any health services in Australia is due to embark on a series of events in the UK and Ireland despite criticism from scientists, health charities and academic bodies. Barbara O\u2019Neill, who describes herself as a naturopath and nutritionist, lectures internationally on \u201cnatural self-healing\u201d. She has previously claimed that cancer is a fungus that can be treated with bicarbonate soda, that vaccines have caused an epidemic of conditions including autism and cot death, and that pregnant women with Strep B do not have to take antibiotics. Now experts in the UK have raised concerns in a letter to venues across UK and Ireland where O\u2019Neill, 73, is scheduled to speak. The letter \u2013 which was organised by Dr David Robert Grimes, a science communicator and expert in Biostatistics at Trinity College Dublin \u2013 describes O\u2019Neill as \u201ca leading vector of medical misinformation\u201d, adding that she repeatedly made \u201cmisguided medical assertions\u201d, gave \u201cunqualified advice\u201d and promoted \u201cabject demonisation of conventional medical treatment.\u201d The letter notes that O\u2019Neill charges thousands of dollars for retreats and telephone consultations, and raises concerns about the events due to be held at the venues. \u201cAt the event, she will spread dangerous health fictions to a susceptible audience, leeching off an illusion of legitimacy afforded to her by the surrounds of your respectable establishment,\u201d it said. Among those who have signed the letter are Orla Dolan, the chief executive of Breakthrough Cancer Research; Prof Colin Doherty, head of Trinity College Dublin School of Medicine; Prof David Colquhoun, a fellow of the Royal Society and University College London; and Sander van der Linden, professor of Psychology at the University of Cambridge. Grimes, who has authored a book on medical misinformation, told the Guardian that O\u2019Neill presented as a kindly grandmother dispensing natural wisdom. \u201cMedical misinformation kills, and we wrote the letter because we have seen first-hand the profound and tragic harms that health fictions inflict on vulnerable patients \u2026 We hope making people aware of this reality mitigates her ability to inflict harm elsewhere,\u201d he said. According to recent findings by the UK\u2019s Academy of Medical Sciences, 67% of UK adults see health misinformation as a significant or very serious problem, with 89% viewing it as putting lives at risk. O\u2019Neill is no stranger to controversy. In 2019, the New South Wales Health Care Complaints Commission (HCCC) in Australia concluded an investigation into her professional conduct. Among its findings, the investigation found O\u2019Neill \u201cdoes not recognise that she is misleading vulnerable people (including mothers and cancer sufferers) by providing very selective information. The misinformation has real potential to have a detrimental effect on the health of individuals because Mrs O\u2019Neill also discourages mainstream treatment for cancer, antibiotics and vaccinations.\u201d She was permanently barred from providing any health services either voluntarily or in a paid capacity. The HCCC has confirmed its prohibition orders are enforceable across all of Australia. However, the ruling has not prevented O\u2019Neill and her husband, Michael, from running events in other countries, including the UK, where she has given seminars at the luxury golf resort Trump Turnberry among other venues. The latest string of engagements includes a five-day retreat at the Cranage Estate in Cheshire in early October. Titled A Taste of Misty Mountain, the event includes lectures by O\u2019Neill with titles such as What Really Does Cause Disease, The Science of Breath and The Immune System, as well as talks by Michael, including one titled Barbara Under Attack. A ticket for the event, which includes a dinner dance, costs \u00a3700. Another multi-day event featuring Barbara O\u2019Neill, run by the Christian health and wellness group Balm of Gilead, is scheduled for mid-Oct"
+      },
+      "position": "WANING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
+      "scores": {
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -204,20 +204,51 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Words",
-      "house_b": "High House Chains",
+      "house_b": "High House Coin",
       "actor_a": "IRAN",
-      "actor_b": "MODERN EMPIRES RULE",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -2.87,
+      "confidence": 0.71,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Life",
+      "actor_a": "IRAN",
+      "actor_b": "AUSTRALIA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.698,
+      "confidence": 0.71,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Life",
+      "actor_a": "TRUMP",
+      "actor_b": "AUSTRALIA",
       "relationship": "neutral",
-      "goldstein_avg": -0.036,
+      "goldstein_avg": -1.221,
       "confidence": 0.71,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 0.985,
+      "source": "gdelt_volume"
+    },
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.797,
+      "source": "gdelt_volume"
+    }
+  }
 }
