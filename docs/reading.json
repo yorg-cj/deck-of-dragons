@@ -1,91 +1,89 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "cards": [
     {
-      "house": "High House Shadow",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.486,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.479,
       "scores": {
-        "High House War": 0.159,
-        "High House Coin": 0.151,
-        "High House Shadow": 0.486,
-        "High House Life": 0.159,
-        "High House Iron": 0.167,
-        "High House Words": 0.399,
-        "High House Chains": 0.108
+        "High House War": 0.088,
+        "High House Coin": 0.047,
+        "High House Shadow": 0.18,
+        "High House Life": 0.124,
+        "High House Iron": 0.479,
+        "High House Words": 0.03,
+        "High House Chains": -0.009
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "revealed"
-        ],
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.998
+        "sentiment_score": 0.796
       },
       "article": {
-        "title": "How AI could \u2018supercharge\u2019 election risks across south-east Asia ",
-        "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+        "title": "The AI industry is booming. Women are getting left behind",
+        "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
         "source": "guardian",
-        "full_text": "Years ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse. Now, all you need is AI. In a worrying sign of how AI could \u201csupercharge\u201d fake news, Anthropic recently revealed how Claude AI was used in a political influence operation in Malaysia. It created a commercial election manipulation platform, utilising a network of about 1,000 X accounts, a fake news outlet called \u201cMalaysia Pulse\u201d and a series of fabricated documents. The operation appeared designed to target voters in recent state elections, pulling in census and electoral data to exploit sensitive political and social fractures, including race, religion, and royalty across all 222 Malaysian parliamentary constituencies. The experiment was ultimately ineffective once Anthropic stepped in but has sparked alarm about how AI could be weaponised in future elections in south-east Asia, a region already deeply vulnerable to fake news. Katie Harbath, who formerly worked on public policy for global elections at Meta, says the case is an example of how AI brings a new level of sophistication and ease to the disinformation landscape. \u201cAI can supercharge it in terms of you can make a lot more content that\u2019s more personalised, quicker and cheaper,\u201d says Harbath, who now heads the tech consultancy company Anchor Change. \u201cBut you still need a distribution mechanism, and at the moment, that\u2019s still your more social media type platforms.\u201d Anthropic detailed the Malaysia election operation in its latest threat assessment, released in September. The report revealed how actors used Claude to build networks of fake social media profiles and news websites that targeted audiences on six continents. Anthropic said the actors included \u201cgovernments, state-aligned propaganda institutions and state media, as well as private firms selling influence\u201d. \u2018Flood the zone\u2019 South-east Asia is no stranger to disinformation. In recent years Nobel laureate and Filipino journalist Maria Ressa has likened the Philippines to a \u201cpetri dish\u201d for the weaponisation of disinformation and fake news, with techniques tried and tested in the south-east Asian nation later successfully replicated in the west. But AI makes it all much easier. \u201cBasically AI is just mimicking what we would have, I guess, termed a few years ago, a troll factory,\u201d says Rossine Fallorina of Sigla, a Philippine thinktank that researches AI. \u201cMostly because it speeds up the production process. So you don\u2019t need 10 people to create a narrative or a story. You can just prompt it and then have it propagated.\u201d Last year OpenAI banned accounts using AI to generate comments about Philippine politics and public officials across social platforms, with many fictitious comments generated in support of President Ferdinand Marcos Jnr. Across south-east Asia, home to nations with predominately young and hyper connected populations, some fear the divisive potential of AI on social media. \u201cIt feeds political polarisation and it feeds on divisions,\u201d says Bridget Welsh, from the University of Nottingham Asia Research Institute Malaysia. \u201cThat\u2019s really what\u2019s concerning about the fragmented nature of what\u2019s happening in Malaysia.\u201d Malaysia\u2019s general election could be called for late 2027, while the Philippines and Cambodia have polls in 2028, and Indonesia the following year. Already in the region, AI has been effective. In Indonesia, an AI-generated cartoon image of now-president Prabowo Subianto that helped soften his strongman image became wildly popular in the 2024 election. It has also been used to inflame tensions, such as inciting hatred toward ethnic Rohingya refugees who fled to Malaysia from Myanmar during the civil war, says Dr Ben Loh, a media lecturer at Monash University Malaysia. \u201cIt\u2019s come to the point where people already have this deep-seated hate in their minds and when they see the content like this,"
+        "full_text": "There\u2019s a common fear among people who work in Silicon Valley: snag one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the \u201cpermanent underclass\u201d, a phrase describing the fate of those who won\u2019t have upward mobility in the age of AI. The phrase usually describes a future in which AI automates human jobs. But for women in tech, it\u2019s starting to look like the present. \u201cA lot of people say: \u2018Oh, AI is lowering barriers, it\u2019s equalizing the playing field for women,\u2019\u201d said Urvashi Batra, co-founder and CEO of Prioriwise, an AI platform for IT service providers. \u201cI actually think it\u2019s the opposite.\u201d Batra said people take her less seriously as the founder of an AI company than her male co-founder. When pitching investors, she and her co-founder have learned that they are more likely to get an investment if he does the pitching. Women made up only about a quarter of new hires in AI roles in the last year, compared to 50% of new hires in non-AI roles, according to a recent report from LinkedIn. In executive roles, that number drops to just 13%. At the same time, LinkedIn\u2019s research shows that women are more likely to work in roles with high exposure to AI disruption, like customer service, meaning they are also at higher risk for job loss due to AI. AI jobs, whose postings have doubled since 2023, come with a salary premium, on average paying more than twice as much as roles that don\u2019t involve working with AI, according to LinkedIn\u2019s research. But women who do have jobs in AI are disproportionately concentrated in low-paying roles, like data annotators, said Sarah Steinberg, the head of global public policy partnerships at LinkedIn. Across all AI occupations, men have $45,000 higher median pay than women, partly due to the types of jobs they are likelier to have. \u201cAI is creating some of the fastest growing, highest paying and most consequential jobs in the global economy,\u201d said Steinberg. \u201cWomen are just strikingly underrepresented.\u201d The ongoing trend could produce the greatest gender pay gap in generations and leave women out of building a technology that shaped the economy, advocates for women in tech said. \u201cWhat we\u2019re witnessing is a sort of backsliding,\u201d said Brenda Darden Wilkerson, president of AnitaB.org, a non-profit devoted to advancing women in tech jobs. Initiatives to promote women in the tech industry have been ongoing for years, with mixed results. Women now hold about one-third of tech jobs in the US. But research has found that women leave the tech industry at a much higher rate than their male counterparts, citing factors like non-inclusive cultures and barriers to advancement. \u2018I\u2019ve seen so many women fall through the cracks\u2019 Women working in AI may face even greater challenges. \u201cAI moves extremely fast, and the pressure to keep up is immense,\u201d said Jayeeta Putatunda, an AI engineering lead at investment firm Turing. \u201cI have seen throughout my career so many amazing women I know kind of fall through the cracks.\u201d Putatunda said it\u2019s not uncommon to be the only female engineer on a team, and that when women are outnumbered, they have to speak up louder to make their ideas known. Mentorship in the AI field, especially by other women, can be hard to come by. And the breakneck pace of AI advancements means anyone working in the field should expect to put in long hours in order to keep up. \u201cIf you have very ambitious career goals in this field, there will be seasons when you work beyond normal hours,\u201d she said, noting that a culture of working 12-hour days to keep up was not uncommon. \u201cI don\u2019t think there is always a neat shortcut around that than to put in the hours.\u201d Those kinds of work expectations can make it impossible for everyone to stay in the field. \u201cI went on maternity leave for four months, and by the time I came back, there were completely different frameworks and levels of models,\u201d Putatunda said. Getting caught back up was overwhelming. She said it was only possible with t"
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.486,
+      "confidence": 0.44,
       "scores": {
-        "High House War": 0.08,
-        "High House Coin": 0.13,
-        "High House Shadow": 0.261,
-        "High House Life": 0.157,
-        "High House Iron": 0.486,
-        "High House Words": 0.111,
-        "High House Chains": 0.028
+        "High House War": 0.144,
+        "High House Coin": 0.185,
+        "High House Shadow": 0.44,
+        "High House Life": 0.176,
+        "High House Iron": 0.119,
+        "High House Words": 0.206,
+        "High House Chains": 0.087
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.544,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.988
       },
       "article": {
-        "title": "AI is getting more powerful, but safeguards aren't keeping up",
-        "url": "https://www.dailysabah.com/business/tech/ai-is-getting-more-powerful-but-safeguards-arent-keeping-up",
-        "source": "worldnews",
+        "title": "Our Reporter Emailed the F.B.I. Hackers. They Wrote Back.",
+        "url": "https://www.nytimes.com/2026/10/01/insider/fbi-hack-shinyhunters-data.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "ASCENDING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": false,
-      "confidence": 0.426,
+      "confidence": 0.424,
       "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
+        "High House War": 0.424,
+        "High House Coin": 0.105,
+        "High House Shadow": 0.259,
+        "High House Life": 0.17,
+        "High House Iron": 0.111,
+        "High House Words": 0.225,
+        "High House Chains": 0.354
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
+        "title": "The new Dynamics of the Role of the Military in Peace and Security in African States",
+        "url": "https://www.graphic.com.gh/features/opinion/ghana-news-the-new-dynamics-of-the-role-of-the-military-in-peace-and-security-in-african-states.html",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
@@ -146,108 +144,85 @@
         "source": "guardian",
         "full_text": "A controversial proponent of natural remedies who has been banned from providing any health services in Australia is due to embark on a series of events in the UK and Ireland despite criticism from scientists, health charities and academic bodies. Barbara O\u2019Neill, who describes herself as a naturopath and nutritionist, lectures internationally on \u201cnatural self-healing\u201d. She has previously claimed that cancer is a fungus that can be treated with bicarbonate soda, that vaccines have caused an epidemic of conditions including autism and cot death, and that pregnant women with Strep B do not have to take antibiotics. Now experts in the UK have raised concerns in a letter to venues across UK and Ireland where O\u2019Neill, 73, is scheduled to speak. The letter \u2013 which was organised by Dr David Robert Grimes, a science communicator and expert in Biostatistics at Trinity College Dublin \u2013 describes O\u2019Neill as \u201ca leading vector of medical misinformation\u201d, adding that she repeatedly made \u201cmisguided medical assertions\u201d, gave \u201cunqualified advice\u201d and promoted \u201cabject demonisation of conventional medical treatment.\u201d The letter notes that O\u2019Neill charges thousands of dollars for retreats and telephone consultations, and raises concerns about the events due to be held at the venues. \u201cAt the event, she will spread dangerous health fictions to a susceptible audience, leeching off an illusion of legitimacy afforded to her by the surrounds of your respectable establishment,\u201d it said. Among those who have signed the letter are Orla Dolan, the chief executive of Breakthrough Cancer Research; Prof Colin Doherty, head of Trinity College Dublin School of Medicine; Prof David Colquhoun, a fellow of the Royal Society and University College London; and Sander van der Linden, professor of Psychology at the University of Cambridge. Grimes, who has authored a book on medical misinformation, told the Guardian that O\u2019Neill presented as a kindly grandmother dispensing natural wisdom. \u201cMedical misinformation kills, and we wrote the letter because we have seen first-hand the profound and tragic harms that health fictions inflict on vulnerable patients \u2026 We hope making people aware of this reality mitigates her ability to inflict harm elsewhere,\u201d he said. According to recent findings by the UK\u2019s Academy of Medical Sciences, 67% of UK adults see health misinformation as a significant or very serious problem, with 89% viewing it as putting lives at risk. O\u2019Neill is no stranger to controversy. In 2019, the New South Wales Health Care Complaints Commission (HCCC) in Australia concluded an investigation into her professional conduct. Among its findings, the investigation found O\u2019Neill \u201cdoes not recognise that she is misleading vulnerable people (including mothers and cancer sufferers) by providing very selective information. The misinformation has real potential to have a detrimental effect on the health of individuals because Mrs O\u2019Neill also discourages mainstream treatment for cancer, antibiotics and vaccinations.\u201d She was permanently barred from providing any health services either voluntarily or in a paid capacity. The HCCC has confirmed its prohibition orders are enforceable across all of Australia. However, the ruling has not prevented O\u2019Neill and her husband, Michael, from running events in other countries, including the UK, where she has given seminars at the luxury golf resort Trump Turnberry among other venues. The latest string of engagements includes a five-day retreat at the Cranage Estate in Cheshire in early October. Titled A Taste of Misty Mountain, the event includes lectures by O\u2019Neill with titles such as What Really Does Cause Disease, The Science of Breath and The Immune System, as well as talks by Michael, including one titled Barbara Under Attack. A ticket for the event, which includes a dinner dance, costs \u00a3700. Another multi-day event featuring Barbara O\u2019Neill, run by the Christian health and wellness group Balm of Gilead, is scheduled for mid-Oct"
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.341,
+      "confidence": 0.34,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.107,
+        "High House Coin": 0.115,
+        "High House Shadow": 0.267,
+        "High House Life": 0.15,
+        "High House Iron": -0.078,
+        "High House Words": 0.34,
+        "High House Chains": 0.123
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "confidence": 0.6,
+        "matched_signals": [
+          "misinformation"
+        ],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.972
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Friday briefing: How we covered the flydubai incident as it unfolded ",
+        "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+        "source": "guardian",
+        "full_text": "Good morning. Shocking news of a cockpit stabbing. Graphic footage of bloodied crew members. Mid-air testimony from terrified passengers. This was the tenor of the heart-in-mouth reporting as the horrifying events unfolded onboard flight FZ 1073 to Tel Aviv: the early morning budget flight that plummeted 17,000ft in under two minutes before the courageous intervention of passengers and crew averted an apparent hijacking, potentially saving the lives of not just the 170+ passengers and crew on board, but many more. This morning, speculation and conflicting reports are continuing to emerge about this dramatic incident in the sky above the most geopolitically sensitive region in the world. So how does the Guardian report a swiftly developing story engulfed in misinformation, as accurately and responsibility as possible? I spoke to the reporters, bloggers and editors involved to find out. But first, this morning\u2019s headlines. Five big stories UK politics | Ministers are working up sweeping plans for welfare changes including scrapping a key disability benefit for under-25s and replacing it with a multibillion-pound package of support to get into work. Northern Ireland | Talks aimed at resolving the Drumcree parade dispute have broken up without agreement, with Northern Ireland secretary Chris Bryant describing the situation as being between a \u201crock and a hard place\u201d. US news | Tennessee\u2019s governor has suspended all executions in the state and ordered an independent inquiry after a botched attempt to put a condemned inmate to death on Wednesday night. AI | When prompted, AI chat bots will edit images to remove the hijabs from Muslim women, a violation of one of the world\u2019s most common and visible expressions of faith. Europe news | A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into \u201curban violence\u201d, the French government has warned. In depth: \u2018It was very, very tricky to untangle what was happening\u2019 International leaders have rushed to praise Smit Machchhar, the captain of flight FZ 1073. Bleeding heavily from multiple stab wounds, he somehow managed to release his cockpit door, allowing passengers and crew to gain entry and overpower his co-pilot turned assailant, an Omani national, who had attacked Machchhar in an apparent attempt to crash the plane. Other crew members were able to stabilise the flight and, just before 11am local time on Wednesday, the Boeing 737 Max made a safe emergency landing in Saudi Arabia. All 174 passengers on board escaped serious injury. Yesterday, as internationally coordinated investigations continued, the attacker\u2019s motives remained unknown. Israeli prime minister Benjamin Netanyahu told Fox News it was \u201ctoo early to say\u201d if there was any Iranian involvement, while claiming the co-pilot had previously undergone radical Islamist indoctrination and was suicidal. Other senior Israeli figures have been more vehement, with ambassador to the UN, Danny Danon, describing the incident as a \u201cterror attack\u201d. Two Israeli security sources later told Reuters that they had not yet found Iranian involvement. Saudi investigators detained the co-pilot upon landing and are cooperating with the United Arab Emirates, the US, Oman and Israel to determine his reasons and potential affiliations. William Christou, a Beirut-based reporter with the Guardian, tells me: \u201cThey\u2019re examining whether it\u2019s a terror attack, whether it had any previous planning or prior direction, and if it could be a lone wolf attacker, who was perhaps motivated by anti-Israel hate, but wasn\u2019t necessarily linked to any larger organisation or state.\u201d *** \u2018The story changed moment to moment\u2019 William began drafting his initial report as soon as he woke up to news alerts about a potential hijacking. The Israeli government originally minimised the incident, describing it as a fight between pilots, while another early report suggested the plane had to land because of a fight between Uk"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.282,
+      "reversed": false,
+      "confidence": 0.28,
       "scores": {
-        "High House War": 0.117,
-        "High House Coin": 0.138,
-        "High House Shadow": 0.121,
-        "High House Life": 0.127,
-        "High House Iron": 0.092,
-        "High House Words": 0.144,
-        "High House Chains": 0.282
+        "High House War": 0.166,
+        "High House Coin": 0.254,
+        "High House Shadow": 0.021,
+        "High House Life": -0.004,
+        "High House Iron": 0.09,
+        "High House Words": 0.145,
+        "High House Chains": 0.28
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.748
       },
       "article": {
-        "title": "Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.",
-        "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html",
+        "title": "U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -2.87,
-      "confidence": 0.71,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Life",
-      "actor_a": "IRAN",
-      "actor_b": "AUSTRALIA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.698,
-      "confidence": 0.71,
-      "source": "gdelt_tone"
-    },
     {
       "house_a": "High House Coin",
       "house_b": "High House Life",
       "actor_a": "TRUMP",
       "actor_b": "AUSTRALIA",
       "relationship": "neutral",
-      "goldstein_avg": -1.221,
-      "confidence": 0.71,
+      "goldstein_avg": -1.244,
+      "confidence": 0.64,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
       "trend": "stable",
-      "trend_ratio": 0.985,
-      "source": "gdelt_volume"
-    },
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.797,
+      "trend_ratio": 0.894,
       "source": "gdelt_volume"
     }
   }
