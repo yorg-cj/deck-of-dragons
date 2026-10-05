@@ -1,34 +1,63 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.479,
+      "confidence": 0.49,
       "scores": {
-        "High House War": 0.088,
-        "High House Coin": 0.047,
-        "High House Shadow": 0.18,
-        "High House Life": 0.124,
-        "High House Iron": 0.479,
-        "High House Words": 0.03,
-        "High House Chains": -0.009
+        "High House War": 0.115,
+        "High House Coin": 0.11,
+        "High House Shadow": 0.178,
+        "High House Life": 0.081,
+        "High House Iron": 0.49,
+        "High House Words": 0.036,
+        "High House Chains": 0.025
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.796
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "The AI industry is booming. Women are getting left behind",
-        "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-        "source": "guardian",
-        "full_text": "There\u2019s a common fear among people who work in Silicon Valley: snag one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the \u201cpermanent underclass\u201d, a phrase describing the fate of those who won\u2019t have upward mobility in the age of AI. The phrase usually describes a future in which AI automates human jobs. But for women in tech, it\u2019s starting to look like the present. \u201cA lot of people say: \u2018Oh, AI is lowering barriers, it\u2019s equalizing the playing field for women,\u2019\u201d said Urvashi Batra, co-founder and CEO of Prioriwise, an AI platform for IT service providers. \u201cI actually think it\u2019s the opposite.\u201d Batra said people take her less seriously as the founder of an AI company than her male co-founder. When pitching investors, she and her co-founder have learned that they are more likely to get an investment if he does the pitching. Women made up only about a quarter of new hires in AI roles in the last year, compared to 50% of new hires in non-AI roles, according to a recent report from LinkedIn. In executive roles, that number drops to just 13%. At the same time, LinkedIn\u2019s research shows that women are more likely to work in roles with high exposure to AI disruption, like customer service, meaning they are also at higher risk for job loss due to AI. AI jobs, whose postings have doubled since 2023, come with a salary premium, on average paying more than twice as much as roles that don\u2019t involve working with AI, according to LinkedIn\u2019s research. But women who do have jobs in AI are disproportionately concentrated in low-paying roles, like data annotators, said Sarah Steinberg, the head of global public policy partnerships at LinkedIn. Across all AI occupations, men have $45,000 higher median pay than women, partly due to the types of jobs they are likelier to have. \u201cAI is creating some of the fastest growing, highest paying and most consequential jobs in the global economy,\u201d said Steinberg. \u201cWomen are just strikingly underrepresented.\u201d The ongoing trend could produce the greatest gender pay gap in generations and leave women out of building a technology that shaped the economy, advocates for women in tech said. \u201cWhat we\u2019re witnessing is a sort of backsliding,\u201d said Brenda Darden Wilkerson, president of AnitaB.org, a non-profit devoted to advancing women in tech jobs. Initiatives to promote women in the tech industry have been ongoing for years, with mixed results. Women now hold about one-third of tech jobs in the US. But research has found that women leave the tech industry at a much higher rate than their male counterparts, citing factors like non-inclusive cultures and barriers to advancement. \u2018I\u2019ve seen so many women fall through the cracks\u2019 Women working in AI may face even greater challenges. \u201cAI moves extremely fast, and the pressure to keep up is immense,\u201d said Jayeeta Putatunda, an AI engineering lead at investment firm Turing. \u201cI have seen throughout my career so many amazing women I know kind of fall through the cracks.\u201d Putatunda said it\u2019s not uncommon to be the only female engineer on a team, and that when women are outnumbered, they have to speak up louder to make their ideas known. Mentorship in the AI field, especially by other women, can be hard to come by. And the breakneck pace of AI advancements means anyone working in the field should expect to put in long hours in order to keep up. \u201cIf you have very ambitious career goals in this field, there will be seasons when you work beyond normal hours,\u201d she said, noting that a culture of working 12-hour days to keep up was not uncommon. \u201cI don\u2019t think there is always a neat shortcut around that than to put in the hours.\u201d Those kinds of work expectations can make it impossible for everyone to stay in the field. \u201cI went on maternity leave for four months, and by the time I came back, there were completely different frameworks and levels of models,\u201d Putatunda said. Getting caught back up was overwhelming. She said it was only possible with t"
+        "title": "FISME, Google and Qualcomm to Launch AI & Digital Technologies Centre for MSMEs to Drive Practical AI Adoption, Productivity",
+        "url": "https://knnindia.co.in/news/newsdetails/msme/fisme-google-and-qualcomm-to-launch-ai-digital-technologies-centre-for-msmes-to-drive-practical-ai-adoption-productivity",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "CENTER"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.448,
+      "scores": {
+        "High House War": 0.448,
+        "High House Coin": 0.124,
+        "High House Shadow": 0.254,
+        "High House Life": 0.149,
+        "High House Iron": 0.07,
+        "High House Words": 0.223,
+        "High House Chains": 0.342
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
+      },
+      "article": {
+        "title": "The new dynamics of the role of the military in peace and security in Africa - Major General Kotia writes",
+        "url": "https://www.citinewsroom.com/2026/10/the-new-dynamics-of-the-role-of-the-military-in-peace-and-security-in-africa-major-general-kotia-writes",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
     },
     {
       "house": "High House Shadow",
@@ -55,35 +84,6 @@
         "title": "Our Reporter Emailed the F.B.I. Hackers. They Wrote Back.",
         "url": "https://www.nytimes.com/2026/10/01/insider/fbi-hack-shinyhunters-data.html",
         "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.424,
-      "scores": {
-        "High House War": 0.424,
-        "High House Coin": 0.105,
-        "High House Shadow": 0.259,
-        "High House Life": 0.17,
-        "High House Iron": 0.111,
-        "High House Words": 0.225,
-        "High House Chains": 0.354
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "The new Dynamics of the Role of the Military in Peace and Security in African States",
-        "url": "https://www.graphic.com.gh/features/opinion/ghana-news-the-new-dynamics-of-the-role-of-the-military-in-peace-and-security-in-african-states.html",
-        "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
@@ -120,29 +120,29 @@
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.372,
+      "reversed": true,
+      "confidence": 0.402,
       "scores": {
-        "High House War": -0.063,
-        "High House Coin": -0.048,
-        "High House Shadow": 0.006,
-        "High House Life": 0.372,
-        "High House Iron": -0.077,
-        "High House Words": 0.091,
-        "High House Chains": 0.01
+        "High House War": 0.099,
+        "High House Coin": 0.119,
+        "High House Shadow": 0.193,
+        "High House Life": 0.402,
+        "High House Iron": 0.08,
+        "High House Words": 0.201,
+        "High House Chains": 0.126
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.985
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "\u2018Self-healing\u2019 coach who was banned from working in Australia to speak in UK",
-        "url": "https://www.theguardian.com/society/2026/oct/02/natural-wellness-coach-banned-australia-uk-lectures",
+        "title": "British government \u2018complacent about food as a national security matter\u2019",
+        "url": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
         "source": "guardian",
-        "full_text": "A controversial proponent of natural remedies who has been banned from providing any health services in Australia is due to embark on a series of events in the UK and Ireland despite criticism from scientists, health charities and academic bodies. Barbara O\u2019Neill, who describes herself as a naturopath and nutritionist, lectures internationally on \u201cnatural self-healing\u201d. She has previously claimed that cancer is a fungus that can be treated with bicarbonate soda, that vaccines have caused an epidemic of conditions including autism and cot death, and that pregnant women with Strep B do not have to take antibiotics. Now experts in the UK have raised concerns in a letter to venues across UK and Ireland where O\u2019Neill, 73, is scheduled to speak. The letter \u2013 which was organised by Dr David Robert Grimes, a science communicator and expert in Biostatistics at Trinity College Dublin \u2013 describes O\u2019Neill as \u201ca leading vector of medical misinformation\u201d, adding that she repeatedly made \u201cmisguided medical assertions\u201d, gave \u201cunqualified advice\u201d and promoted \u201cabject demonisation of conventional medical treatment.\u201d The letter notes that O\u2019Neill charges thousands of dollars for retreats and telephone consultations, and raises concerns about the events due to be held at the venues. \u201cAt the event, she will spread dangerous health fictions to a susceptible audience, leeching off an illusion of legitimacy afforded to her by the surrounds of your respectable establishment,\u201d it said. Among those who have signed the letter are Orla Dolan, the chief executive of Breakthrough Cancer Research; Prof Colin Doherty, head of Trinity College Dublin School of Medicine; Prof David Colquhoun, a fellow of the Royal Society and University College London; and Sander van der Linden, professor of Psychology at the University of Cambridge. Grimes, who has authored a book on medical misinformation, told the Guardian that O\u2019Neill presented as a kindly grandmother dispensing natural wisdom. \u201cMedical misinformation kills, and we wrote the letter because we have seen first-hand the profound and tragic harms that health fictions inflict on vulnerable patients \u2026 We hope making people aware of this reality mitigates her ability to inflict harm elsewhere,\u201d he said. According to recent findings by the UK\u2019s Academy of Medical Sciences, 67% of UK adults see health misinformation as a significant or very serious problem, with 89% viewing it as putting lives at risk. O\u2019Neill is no stranger to controversy. In 2019, the New South Wales Health Care Complaints Commission (HCCC) in Australia concluded an investigation into her professional conduct. Among its findings, the investigation found O\u2019Neill \u201cdoes not recognise that she is misleading vulnerable people (including mothers and cancer sufferers) by providing very selective information. The misinformation has real potential to have a detrimental effect on the health of individuals because Mrs O\u2019Neill also discourages mainstream treatment for cancer, antibiotics and vaccinations.\u201d She was permanently barred from providing any health services either voluntarily or in a paid capacity. The HCCC has confirmed its prohibition orders are enforceable across all of Australia. However, the ruling has not prevented O\u2019Neill and her husband, Michael, from running events in other countries, including the UK, where she has given seminars at the luxury golf resort Trump Turnberry among other venues. The latest string of engagements includes a five-day retreat at the Cranage Estate in Cheshire in early October. Titled A Taste of Misty Mountain, the event includes lectures by O\u2019Neill with titles such as What Really Does Cause Disease, The Science of Breath and The Immune System, as well as talks by Michael, including one titled Barbara Under Attack. A ticket for the event, which includes a dinner dance, costs \u00a3700. Another multi-day event featuring Barbara O\u2019Neill, run by the Christian health and wellness group Balm of Gilead, is scheduled for mid-Oct"
+        "full_text": "Britain does not have a plan for how to feed people in a crisis and is unprepared for potential future food shortages, according to a warning from more than 150 experts delivered to Andy Burnham. The climate crisis, geopolitical shocks, cyber-attacks and energy outages are among the threats to food chain security, according to the open letter, which claims the government is \u201ccomplacent about food as a national security matter\u201d. Academics, business leaders, community groups and food partnerships are urging the new government to treat food as a national security issue and work to make the UK\u2019s food system more resilient, in a era when food supplies \u201ccan be weaponised\u201d, they caution. The signatories warn that the \u201cjust-in-time\u201d delivery system built up over recent decades \u201cis not fit for today\u2019s or tomorrow\u2019s challenges\u201d, as little stock is held along the food supply chain and the UK does not have any national food storage. Ministers wound up the strategic food stockpile that had been in place since the second world war in the 1990s. \u201cThe food system is exposed to shocks and threats from geopolitics, climate heating, ransomware, energy outages, software malfunction and disinformation,\u201d according to the letter. The experts go on to warn: \u201cThese shocks will fall upon a system that is highly wasteful, import-dependent, environmentally unsustainable, and driven by the pursuit of private profit rather than resilience, with millions of people unable to afford a decent, healthy diet.\u201d The letter calls on ministers to do the following. Establish a new system of local food resilience committees under the Civil Contingencies Act 2004. Audit the UK\u2019s reliance on a few very large food companies and food imports. Realign national food production around nutritional needs. Create national, regional, local and community food storage schemes. Support the decentralisation of the UK\u2019s food supply. The warning comes weeks after the National Audit Office, the public spending watchdog, issued a rebuke to ministers, accusing them of failing to do enough to help households and businesses plan for possible emergencies. The government\u2019s own research has shown Britons are less prepared for potential future catastrophic events than citizens of several other European countries, while the UK is more reliant on food imports than some of its neighbours. The environment secretary, Angela Eagle, recently recommended that UK households build up stores of enough food and water to survive a few days without power or water, amid warnings that the El Ni\u00f1o weather phenomenon could bring a wet, stormy winter to the UK. The letter claims the government is not paying enough attention to what such a store should look like, and is failing to consider that many lower-income households may not be able to afford to build up a stockpile. One of the signatories, Prof Tim Lang of the Centre for Food Policy, City St George\u2019s, University of London, said: \u201cWe need a system shift: grow more food; more regionalism, diversity and storage at multiple levels, not just households; and public engagement in civil food defence. Central government must provide more strategic leadership while encouraging actions at different levels. Communities and households cannot resolve faultlines in the UK\u2019s food system.\u201d Prof Paul Behrens of the Oxford Martin School, University of Oxford, who also signed the letter, said: \u201cFood resilience, healthy diet and environmental benefits all point in the same direction: grow more of the vegetables, fruit and pulses people actually need, closer to home.\u201d The Cabinet Office is to launch a campaign telling households to stock up on tinned foods alongside preparations for future emergencies. The government\u2019s Prepare website outlines steps it says people should take, which include assembling items at home that could include tinned meat, fruit or vegetables that do not need cooking. Eagle has said she would oversee farming improvements and a reservoir-building programm"
       },
       "position": "WILD"
     },
@@ -150,30 +150,30 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.34,
+      "confidence": 0.353,
       "scores": {
-        "High House War": 0.107,
-        "High House Coin": 0.115,
-        "High House Shadow": 0.267,
-        "High House Life": 0.15,
-        "High House Iron": -0.078,
-        "High House Words": 0.34,
-        "High House Chains": 0.123
+        "High House War": 0.134,
+        "High House Coin": 0.056,
+        "High House Shadow": 0.333,
+        "High House Life": 0.046,
+        "High House Iron": -0.082,
+        "High House Words": 0.353,
+        "High House Chains": 0.066
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.6,
+        "confidence": 0.7,
         "matched_signals": [
-          "misinformation"
+          "press freedom"
         ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.972
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "Friday briefing: How we covered the flydubai incident as it unfolded ",
-        "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
         "source": "guardian",
-        "full_text": "Good morning. Shocking news of a cockpit stabbing. Graphic footage of bloodied crew members. Mid-air testimony from terrified passengers. This was the tenor of the heart-in-mouth reporting as the horrifying events unfolded onboard flight FZ 1073 to Tel Aviv: the early morning budget flight that plummeted 17,000ft in under two minutes before the courageous intervention of passengers and crew averted an apparent hijacking, potentially saving the lives of not just the 170+ passengers and crew on board, but many more. This morning, speculation and conflicting reports are continuing to emerge about this dramatic incident in the sky above the most geopolitically sensitive region in the world. So how does the Guardian report a swiftly developing story engulfed in misinformation, as accurately and responsibility as possible? I spoke to the reporters, bloggers and editors involved to find out. But first, this morning\u2019s headlines. Five big stories UK politics | Ministers are working up sweeping plans for welfare changes including scrapping a key disability benefit for under-25s and replacing it with a multibillion-pound package of support to get into work. Northern Ireland | Talks aimed at resolving the Drumcree parade dispute have broken up without agreement, with Northern Ireland secretary Chris Bryant describing the situation as being between a \u201crock and a hard place\u201d. US news | Tennessee\u2019s governor has suspended all executions in the state and ordered an independent inquiry after a botched attempt to put a condemned inmate to death on Wednesday night. AI | When prompted, AI chat bots will edit images to remove the hijabs from Muslim women, a violation of one of the world\u2019s most common and visible expressions of faith. Europe news | A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into \u201curban violence\u201d, the French government has warned. In depth: \u2018It was very, very tricky to untangle what was happening\u2019 International leaders have rushed to praise Smit Machchhar, the captain of flight FZ 1073. Bleeding heavily from multiple stab wounds, he somehow managed to release his cockpit door, allowing passengers and crew to gain entry and overpower his co-pilot turned assailant, an Omani national, who had attacked Machchhar in an apparent attempt to crash the plane. Other crew members were able to stabilise the flight and, just before 11am local time on Wednesday, the Boeing 737 Max made a safe emergency landing in Saudi Arabia. All 174 passengers on board escaped serious injury. Yesterday, as internationally coordinated investigations continued, the attacker\u2019s motives remained unknown. Israeli prime minister Benjamin Netanyahu told Fox News it was \u201ctoo early to say\u201d if there was any Iranian involvement, while claiming the co-pilot had previously undergone radical Islamist indoctrination and was suicidal. Other senior Israeli figures have been more vehement, with ambassador to the UN, Danny Danon, describing the incident as a \u201cterror attack\u201d. Two Israeli security sources later told Reuters that they had not yet found Iranian involvement. Saudi investigators detained the co-pilot upon landing and are cooperating with the United Arab Emirates, the US, Oman and Israel to determine his reasons and potential affiliations. William Christou, a Beirut-based reporter with the Guardian, tells me: \u201cThey\u2019re examining whether it\u2019s a terror attack, whether it had any previous planning or prior direction, and if it could be a lone wolf attacker, who was perhaps motivated by anti-Israel hate, but wasn\u2019t necessarily linked to any larger organisation or state.\u201d *** \u2018The story changed moment to moment\u2019 William began drafting his initial report as soon as he woke up to news alerts about a potential hijacking. The Israeli government originally minimised the incident, describing it as a fight between pilots, while another early report suggested the plane had to land because of a fight between Uk"
+        "full_text": "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms. Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash \u2013 literally meaning \u201cdon\u2019t believe\u201d \u2013 accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood. The outlet\u2019s six journalists, Abdallah Qadri, Mohamed Ashraf, Mohamed Adel, Islam Barakat, Mohamed Mahmoud and Omar Helal, were arrested by security forces over the course of two days. On Sunday, Egyptian authorities charged Ashraf with joining a terrorist group and spreading false news, according to a statement by the Egyptian Initiative for Personal Rights, a NGO. The charges came after an interrogation that lasted from 10pm to 8am and focused exclusively on material published by Matsadaash, the rights group said. Ashraf was to be held for 15 days, pending investigation, while the whereabouts of the other five journalists were still unknown. Abdelrahman Mansour, the co-founder of the platform, denied having any association with the Muslim Brotherhood, a transnational movement that was designated a terrorist organisation by Egypt in 2013 after the former president Mohamed Morsi, a senior Brotherhood figure, was ousted in a coup. Mansour called the arrests \u201cone of the gravest attacks on journalism in Egypt\u2019s modern history\u201d. \u201cMy colleagues were doing what journalists should do: asking difficult questions, uncovering facts, and reporting on issues that affect people\u2019s lives. They deserve recognition for their work. Instead, their homes were raided, and all six were taken away,\u201d he said. \u201cThe government must answer this question: why have you arrested six journalists? What have they done beyond doing their jobs?\u201d The Guardian contacted the Egyptian State Information Service for a comment but did not receive a reply by the time of publishing. Dozens of journalists staged a sit-in outside the Egyptian Journalists Syndicate (EJS) in Cairo on Saturday, demanding the release of the Matsadaash staff. Members said they would keep the sit-in open ended until the journalists were released, and the EJS said it would convene an emergency meeting on Monday. The EJS had filed a request with the ministry of interior and public prosecutor for the release of the journalists, as well as for information on their whereabouts. More than 80 rights groups, including Human Rights Watch and the Committee to Protect Journalists, condemned the arrests as a violation of freedoms, and demanded the immediate release of the Matsadaash staff. The arrests came little over a week after the US government waived its human rights conditions on $320m (\u00a3242m) in military aid to Egypt, citing Cairo\u2019s \u201chelpful role\u201d to US national security after the US-Iran war. The US gives about $1.3bn in aid to Egypt annually, but a portion is contingent upon the Egyptian government meeting certain human rights and democracy-related requirements. The US has withheld portions of aid several times since the 2013 coup owing to Egypt\u2019s poor human rights record, but has largely kept funds flowing. This year, Washington waived the human rights requirement in total, as doing so was \u201cessential for the US-Egypt relationship and US national security priorities\u201d, according to a state department memo revealed by Reuters. While saying that he was unsure whether the arrests were linked to the recent waiver, Mansour said: \u201cThe use of the national security waiver on human rights conditions by the US by many years, a willingness by other states to look the other way on Egypt\u2019s human rights record \u2026 certainly enables violations like this to occur more easily.\u201d Cairo has for years faced criticism for its human rights abuses, with the rights monitor Freedom House saying Egyptian security forces \u201cengage in human rights abuses and extrajudicial killin"
       },
       "position": "EMERGING"
     },
@@ -181,49 +181,32 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.28,
+      "confidence": 0.335,
       "scores": {
-        "High House War": 0.166,
-        "High House Coin": 0.254,
-        "High House Shadow": 0.021,
-        "High House Life": -0.004,
-        "High House Iron": 0.09,
-        "High House Words": 0.145,
-        "High House Chains": 0.28
+        "High House War": 0.195,
+        "High House Coin": 0.28,
+        "High House Shadow": 0.096,
+        "High House Life": 0.119,
+        "High House Iron": 0.217,
+        "High House Words": 0.236,
+        "High House Chains": 0.335
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.748
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.936
       },
       "article": {
-        "title": "U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says",
-        "url": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
+        "title": "Geography Is Back With a Vengeance",
+        "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Life",
-      "actor_a": "TRUMP",
-      "actor_b": "AUSTRALIA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.244,
-      "confidence": 0.64,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 0.894,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
