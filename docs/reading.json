@@ -1,32 +1,34 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.49,
+      "reversed": true,
+      "confidence": 0.492,
       "scores": {
-        "High House War": 0.115,
-        "High House Coin": 0.11,
-        "High House Shadow": 0.178,
-        "High House Life": 0.081,
-        "High House Iron": 0.49,
-        "High House Words": 0.036,
-        "High House Chains": 0.025
+        "High House War": 0.142,
+        "High House Coin": 0.178,
+        "High House Shadow": 0.38,
+        "High House Life": 0.108,
+        "High House Iron": 0.492,
+        "High House Words": 0.214,
+        "High House Chains": 0.157
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
+        "reversed": true,
+        "confidence": 0.6,
+        "matched_signals": [
+          "surveillance"
+        ],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "FISME, Google and Qualcomm to Launch AI & Digital Technologies Centre for MSMEs to Drive Practical AI Adoption, Productivity",
-        "url": "https://knnindia.co.in/news/newsdetails/msme/fisme-google-and-qualcomm-to-launch-ai-digital-technologies-centre-for-msmes-to-drive-practical-ai-adoption-productivity",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Trump makes it clear his power is becoming entwined with AI",
+        "url": "https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape",
+        "source": "guardian",
+        "full_text": "Hello, and welcome to TechScape. I\u2019m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we\u2019re discussing technocracy. Trump entwines his power with AI Donald Trump made a series of moves over the past week that make it clear his power is becoming synonymous with artificial intelligence. The new tight alliances between the White House, the Pentagon, US intelligence agencies and AI companies loom ominously over governments and companies, particularly in Europe, that rely on American AI. Last Tuesday, Trump and six AI CEOs signed what he called a \u201cmorally binding\u201d agreement to put controls on artificial intelligence. The vague agreement stipulates a framework for what Trump called \u201ctremendous self-policing\u201d, reiterating his point that AI companies can act as their own watchmen. Elon Musk, Mark Zuckerberg, Jensen Huang and Dario Amodei signed. Zuckerberg hand-guided the writing of that agreement, Semafor reported. The pact reportedly arose from a conversation between the Meta CEO and House speaker, Mike Johnson, at the US state dinner for Xi Jinping, which preceded the conclave of the tech CEOs. Zuckerberg circulated a draft of the agreement in advance of the convening, and Huang threw his support behind it, per Semafor. It is one thing for tech executives to dine at the White House to curry favor with the president; it is entirely another to have them draft the terms of executive orders. Silicon Valley\u2019s CEOs are writing contracts that bear the White House letterhead, entrenching their interests and their power. \u201cIt\u2019s almost like a constitution in a way, and the biggest people in the world signed that, and I signed it as president, and it really \u2060is a form of protection,\u201d Trump said. Famously, constitutions are legally binding, which Zuckerberg and Trump\u2019s agreement is not. The president also decreed that government documents render any reference to \u201cartificial intelligence\u201d as \u201csuper intelligence\u201d. How loyal will they be to his rebrand? At least one acquiesced immediately: Musk copied the renaming by changing the name of one of his company\u2019s subsidiaries from SpaceXAI to SpaceXSI. The change coincided with the multi-CEO\u2019s re-entry into government work more than a year after his explosive term at Doge ended. On Thursday, the defense secretary, Pete Hegseth, named Musk to a taskforce to study the future of warfare alongside Palmer Luckey and Emil Michael, dubbed Project Meridian. The trio of men will release a report in 120 days with public recommendations on how to achieve \u201cabsolute technological dominance on the next-generation battlefield\u201d, in the words of Hegseth. Over the weekend, the president announced that he had appointed Jay Clayton, director of national intelligence, as the AI czar of his administration. Trump\u2019s first AI czar was a Silicon Valley insider. David Sacks is a venture capitalist who championed growth and deregulation during his term as a special government employee. He maintained direct financial stakes in multiple AI companies while working with the White House, indicating his ultimate goal was to build a bigger fortune. (He\u2019s made a name for himself recently championing AI accelerationism, the opposing philosophical camp to the \u201cdoomerism\u201d of the Anthropic employees who prophesy extinction.) Read more: \u2018An out-of-touch Silicon Valley radical\u2019: meet Trump\u2019s AI whisperer pushing for limited regulation The second czar, Clayton, is the leader of the US\u2019s spy agencies, a job he will continue to hold in addition to overseeing AI initiatives. His joint appointment sends a very different message, one echoed by Hegseth: AI will supercharge the offensive capabilities of the US government, in particular surveillance and the gathering of intel. Clayton\u2019s ascendancy has major worldwide implications: US spying agencies dictating global AI policy does not bode well for the sovereignty of other nations that need cutting-edge AI. The US economy is already extremely depen"
       },
       "position": "CENTER"
     },
@@ -89,6 +91,35 @@
       "position": "FOUNDATION"
     },
     {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
@@ -144,69 +175,44 @@
         "source": "guardian",
         "full_text": "Britain does not have a plan for how to feed people in a crisis and is unprepared for potential future food shortages, according to a warning from more than 150 experts delivered to Andy Burnham. The climate crisis, geopolitical shocks, cyber-attacks and energy outages are among the threats to food chain security, according to the open letter, which claims the government is \u201ccomplacent about food as a national security matter\u201d. Academics, business leaders, community groups and food partnerships are urging the new government to treat food as a national security issue and work to make the UK\u2019s food system more resilient, in a era when food supplies \u201ccan be weaponised\u201d, they caution. The signatories warn that the \u201cjust-in-time\u201d delivery system built up over recent decades \u201cis not fit for today\u2019s or tomorrow\u2019s challenges\u201d, as little stock is held along the food supply chain and the UK does not have any national food storage. Ministers wound up the strategic food stockpile that had been in place since the second world war in the 1990s. \u201cThe food system is exposed to shocks and threats from geopolitics, climate heating, ransomware, energy outages, software malfunction and disinformation,\u201d according to the letter. The experts go on to warn: \u201cThese shocks will fall upon a system that is highly wasteful, import-dependent, environmentally unsustainable, and driven by the pursuit of private profit rather than resilience, with millions of people unable to afford a decent, healthy diet.\u201d The letter calls on ministers to do the following. Establish a new system of local food resilience committees under the Civil Contingencies Act 2004. Audit the UK\u2019s reliance on a few very large food companies and food imports. Realign national food production around nutritional needs. Create national, regional, local and community food storage schemes. Support the decentralisation of the UK\u2019s food supply. The warning comes weeks after the National Audit Office, the public spending watchdog, issued a rebuke to ministers, accusing them of failing to do enough to help households and businesses plan for possible emergencies. The government\u2019s own research has shown Britons are less prepared for potential future catastrophic events than citizens of several other European countries, while the UK is more reliant on food imports than some of its neighbours. The environment secretary, Angela Eagle, recently recommended that UK households build up stores of enough food and water to survive a few days without power or water, amid warnings that the El Ni\u00f1o weather phenomenon could bring a wet, stormy winter to the UK. The letter claims the government is not paying enough attention to what such a store should look like, and is failing to consider that many lower-income households may not be able to afford to build up a stockpile. One of the signatories, Prof Tim Lang of the Centre for Food Policy, City St George\u2019s, University of London, said: \u201cWe need a system shift: grow more food; more regionalism, diversity and storage at multiple levels, not just households; and public engagement in civil food defence. Central government must provide more strategic leadership while encouraging actions at different levels. Communities and households cannot resolve faultlines in the UK\u2019s food system.\u201d Prof Paul Behrens of the Oxford Martin School, University of Oxford, who also signed the letter, said: \u201cFood resilience, healthy diet and environmental benefits all point in the same direction: grow more of the vegetables, fruit and pulses people actually need, closer to home.\u201d The Cabinet Office is to launch a campaign telling households to stock up on tinned foods alongside preparations for future emergencies. The government\u2019s Prepare website outlines steps it says people should take, which include assembling items at home that could include tinned meat, fruit or vegetables that do not need cooking. Eagle has said she would oversee farming improvements and a reservoir-building programm"
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.353,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.056,
-        "High House Shadow": 0.333,
-        "High House Life": 0.046,
-        "High House Iron": -0.082,
-        "High House Words": 0.353,
-        "High House Chains": 0.066
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "press freedom"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-        "source": "guardian",
-        "full_text": "An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms. Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash \u2013 literally meaning \u201cdon\u2019t believe\u201d \u2013 accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood. The outlet\u2019s six journalists, Abdallah Qadri, Mohamed Ashraf, Mohamed Adel, Islam Barakat, Mohamed Mahmoud and Omar Helal, were arrested by security forces over the course of two days. On Sunday, Egyptian authorities charged Ashraf with joining a terrorist group and spreading false news, according to a statement by the Egyptian Initiative for Personal Rights, a NGO. The charges came after an interrogation that lasted from 10pm to 8am and focused exclusively on material published by Matsadaash, the rights group said. Ashraf was to be held for 15 days, pending investigation, while the whereabouts of the other five journalists were still unknown. Abdelrahman Mansour, the co-founder of the platform, denied having any association with the Muslim Brotherhood, a transnational movement that was designated a terrorist organisation by Egypt in 2013 after the former president Mohamed Morsi, a senior Brotherhood figure, was ousted in a coup. Mansour called the arrests \u201cone of the gravest attacks on journalism in Egypt\u2019s modern history\u201d. \u201cMy colleagues were doing what journalists should do: asking difficult questions, uncovering facts, and reporting on issues that affect people\u2019s lives. They deserve recognition for their work. Instead, their homes were raided, and all six were taken away,\u201d he said. \u201cThe government must answer this question: why have you arrested six journalists? What have they done beyond doing their jobs?\u201d The Guardian contacted the Egyptian State Information Service for a comment but did not receive a reply by the time of publishing. Dozens of journalists staged a sit-in outside the Egyptian Journalists Syndicate (EJS) in Cairo on Saturday, demanding the release of the Matsadaash staff. Members said they would keep the sit-in open ended until the journalists were released, and the EJS said it would convene an emergency meeting on Monday. The EJS had filed a request with the ministry of interior and public prosecutor for the release of the journalists, as well as for information on their whereabouts. More than 80 rights groups, including Human Rights Watch and the Committee to Protect Journalists, condemned the arrests as a violation of freedoms, and demanded the immediate release of the Matsadaash staff. The arrests came little over a week after the US government waived its human rights conditions on $320m (\u00a3242m) in military aid to Egypt, citing Cairo\u2019s \u201chelpful role\u201d to US national security after the US-Iran war. The US gives about $1.3bn in aid to Egypt annually, but a portion is contingent upon the Egyptian government meeting certain human rights and democracy-related requirements. The US has withheld portions of aid several times since the 2013 coup owing to Egypt\u2019s poor human rights record, but has largely kept funds flowing. This year, Washington waived the human rights requirement in total, as doing so was \u201cessential for the US-Egypt relationship and US national security priorities\u201d, according to a state department memo revealed by Reuters. While saying that he was unsure whether the arrests were linked to the recent waiver, Mansour said: \u201cThe use of the national security waiver on human rights conditions by the US by many years, a willingness by other states to look the other way on Egypt\u2019s human rights record \u2026 certainly enables violations like this to occur more easily.\u201d Cairo has for years faced criticism for its human rights abuses, with the rights monitor Freedom House saying Egyptian security forces \u201cengage in human rights abuses and extrajudicial killin"
-      },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.335,
+      "confidence": 0.358,
       "scores": {
-        "High House War": 0.195,
-        "High House Coin": 0.28,
-        "High House Shadow": 0.096,
+        "High House War": 0.325,
+        "High House Coin": 0.277,
+        "High House Shadow": 0.117,
         "High House Life": 0.119,
-        "High House Iron": 0.217,
-        "High House Words": 0.236,
-        "High House Chains": 0.335
+        "High House Iron": 0.182,
+        "High House Words": 0.307,
+        "High House Chains": 0.358
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.936
+        "sentiment_score": 0.55
       },
       "article": {
-        "title": "Geography Is Back With a Vengeance",
+        "title": "War Is Forcing the World to Reckon With Geography\u2019s Power",
         "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [],
-  "house_trends": {}
+  "house_trends": {
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.797,
+      "source": "gdelt_volume"
+    }
+  }
 }
