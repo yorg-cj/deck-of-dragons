@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,35 +31,6 @@
         "full_text": "Hello, and welcome to TechScape. I\u2019m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we\u2019re discussing technocracy. Trump entwines his power with AI Donald Trump made a series of moves over the past week that make it clear his power is becoming synonymous with artificial intelligence. The new tight alliances between the White House, the Pentagon, US intelligence agencies and AI companies loom ominously over governments and companies, particularly in Europe, that rely on American AI. Last Tuesday, Trump and six AI CEOs signed what he called a \u201cmorally binding\u201d agreement to put controls on artificial intelligence. The vague agreement stipulates a framework for what Trump called \u201ctremendous self-policing\u201d, reiterating his point that AI companies can act as their own watchmen. Elon Musk, Mark Zuckerberg, Jensen Huang and Dario Amodei signed. Zuckerberg hand-guided the writing of that agreement, Semafor reported. The pact reportedly arose from a conversation between the Meta CEO and House speaker, Mike Johnson, at the US state dinner for Xi Jinping, which preceded the conclave of the tech CEOs. Zuckerberg circulated a draft of the agreement in advance of the convening, and Huang threw his support behind it, per Semafor. It is one thing for tech executives to dine at the White House to curry favor with the president; it is entirely another to have them draft the terms of executive orders. Silicon Valley\u2019s CEOs are writing contracts that bear the White House letterhead, entrenching their interests and their power. \u201cIt\u2019s almost like a constitution in a way, and the biggest people in the world signed that, and I signed it as president, and it really \u2060is a form of protection,\u201d Trump said. Famously, constitutions are legally binding, which Zuckerberg and Trump\u2019s agreement is not. The president also decreed that government documents render any reference to \u201cartificial intelligence\u201d as \u201csuper intelligence\u201d. How loyal will they be to his rebrand? At least one acquiesced immediately: Musk copied the renaming by changing the name of one of his company\u2019s subsidiaries from SpaceXAI to SpaceXSI. The change coincided with the multi-CEO\u2019s re-entry into government work more than a year after his explosive term at Doge ended. On Thursday, the defense secretary, Pete Hegseth, named Musk to a taskforce to study the future of warfare alongside Palmer Luckey and Emil Michael, dubbed Project Meridian. The trio of men will release a report in 120 days with public recommendations on how to achieve \u201cabsolute technological dominance on the next-generation battlefield\u201d, in the words of Hegseth. Over the weekend, the president announced that he had appointed Jay Clayton, director of national intelligence, as the AI czar of his administration. Trump\u2019s first AI czar was a Silicon Valley insider. David Sacks is a venture capitalist who championed growth and deregulation during his term as a special government employee. He maintained direct financial stakes in multiple AI companies while working with the White House, indicating his ultimate goal was to build a bigger fortune. (He\u2019s made a name for himself recently championing AI accelerationism, the opposing philosophical camp to the \u201cdoomerism\u201d of the Anthropic employees who prophesy extinction.) Read more: \u2018An out-of-touch Silicon Valley radical\u2019: meet Trump\u2019s AI whisperer pushing for limited regulation The second czar, Clayton, is the leader of the US\u2019s spy agencies, a job he will continue to hold in addition to overseeing AI initiatives. His joint appointment sends a very different message, one echoed by Hegseth: AI will supercharge the offensive capabilities of the US government, in particular surveillance and the gathering of intel. Clayton\u2019s ascendancy has major worldwide implications: US spying agencies dictating global AI policy does not bode well for the sovereignty of other nations that need cutting-edge AI. The US economy is already extremely depen"
       },
       "position": "CENTER"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.448,
-      "scores": {
-        "High House War": 0.448,
-        "High House Coin": 0.124,
-        "High House Shadow": 0.254,
-        "High House Life": 0.149,
-        "High House Iron": 0.07,
-        "High House Words": 0.223,
-        "High House Chains": 0.342
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
-      },
-      "article": {
-        "title": "The new dynamics of the role of the military in peace and security in Africa - Major General Kotia writes",
-        "url": "https://www.citinewsroom.com/2026/10/the-new-dynamics-of-the-role-of-the-military-in-peace-and-security-in-africa-major-general-kotia-writes",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
     },
     {
       "house": "High House Shadow",
@@ -146,7 +117,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Life",
@@ -178,36 +149,86 @@
       "position": "WANING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.358,
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.341,
       "scores": {
-        "High House War": 0.325,
-        "High House Coin": 0.277,
-        "High House Shadow": 0.117,
-        "High House Life": 0.119,
-        "High House Iron": 0.182,
-        "High House Words": 0.307,
-        "High House Chains": 0.358
+        "High House War": 0.341,
+        "High House Coin": 0.248,
+        "High House Shadow": 0.195,
+        "High House Life": 0.156,
+        "High House Iron": 0.077,
+        "High House Words": 0.271,
+        "High House Chains": 0.266
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.547,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.55
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "War Is Forcing the World to Reckon With Geography\u2019s Power",
-        "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
+        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.282,
+      "scores": {
+        "High House War": 0.117,
+        "High House Coin": 0.138,
+        "High House Shadow": 0.121,
+        "High House Life": 0.127,
+        "High House Iron": 0.092,
+        "High House Words": 0.144,
+        "High House Chains": 0.282
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.",
+        "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "TRUMP",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -2.039,
+      "confidence": 0.26,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Coin",
+      "actor_a": "IRAN",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -2.65,
+      "confidence": 0.26,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
     "High House Life": {
       "trend": "falling",
