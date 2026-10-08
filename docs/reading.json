@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "cards": [
     {
       "house": "High House Iron",
@@ -59,7 +59,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Words",
@@ -88,7 +88,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -117,36 +117,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "EMERGING"
     },
     {
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.402,
+      "confidence": 0.386,
       "scores": {
-        "High House War": 0.099,
-        "High House Coin": 0.119,
-        "High House Shadow": 0.193,
-        "High House Life": 0.402,
-        "High House Iron": 0.08,
-        "High House Words": 0.201,
-        "High House Chains": 0.126
+        "High House War": -0.001,
+        "High House Coin": 0.043,
+        "High House Shadow": 0.119,
+        "High House Life": 0.386,
+        "High House Iron": 0.256,
+        "High House Words": 0.15,
+        "High House Chains": 0.012
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "British government \u2018complacent about food as a national security matter\u2019",
-        "url": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
+        "title": "Scientists who put faith in technology less likely to take climate action",
+        "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
         "source": "guardian",
-        "full_text": "Britain does not have a plan for how to feed people in a crisis and is unprepared for potential future food shortages, according to a warning from more than 150 experts delivered to Andy Burnham. The climate crisis, geopolitical shocks, cyber-attacks and energy outages are among the threats to food chain security, according to the open letter, which claims the government is \u201ccomplacent about food as a national security matter\u201d. Academics, business leaders, community groups and food partnerships are urging the new government to treat food as a national security issue and work to make the UK\u2019s food system more resilient, in a era when food supplies \u201ccan be weaponised\u201d, they caution. The signatories warn that the \u201cjust-in-time\u201d delivery system built up over recent decades \u201cis not fit for today\u2019s or tomorrow\u2019s challenges\u201d, as little stock is held along the food supply chain and the UK does not have any national food storage. Ministers wound up the strategic food stockpile that had been in place since the second world war in the 1990s. \u201cThe food system is exposed to shocks and threats from geopolitics, climate heating, ransomware, energy outages, software malfunction and disinformation,\u201d according to the letter. The experts go on to warn: \u201cThese shocks will fall upon a system that is highly wasteful, import-dependent, environmentally unsustainable, and driven by the pursuit of private profit rather than resilience, with millions of people unable to afford a decent, healthy diet.\u201d The letter calls on ministers to do the following. Establish a new system of local food resilience committees under the Civil Contingencies Act 2004. Audit the UK\u2019s reliance on a few very large food companies and food imports. Realign national food production around nutritional needs. Create national, regional, local and community food storage schemes. Support the decentralisation of the UK\u2019s food supply. The warning comes weeks after the National Audit Office, the public spending watchdog, issued a rebuke to ministers, accusing them of failing to do enough to help households and businesses plan for possible emergencies. The government\u2019s own research has shown Britons are less prepared for potential future catastrophic events than citizens of several other European countries, while the UK is more reliant on food imports than some of its neighbours. The environment secretary, Angela Eagle, recently recommended that UK households build up stores of enough food and water to survive a few days without power or water, amid warnings that the El Ni\u00f1o weather phenomenon could bring a wet, stormy winter to the UK. The letter claims the government is not paying enough attention to what such a store should look like, and is failing to consider that many lower-income households may not be able to afford to build up a stockpile. One of the signatories, Prof Tim Lang of the Centre for Food Policy, City St George\u2019s, University of London, said: \u201cWe need a system shift: grow more food; more regionalism, diversity and storage at multiple levels, not just households; and public engagement in civil food defence. Central government must provide more strategic leadership while encouraging actions at different levels. Communities and households cannot resolve faultlines in the UK\u2019s food system.\u201d Prof Paul Behrens of the Oxford Martin School, University of Oxford, who also signed the letter, said: \u201cFood resilience, healthy diet and environmental benefits all point in the same direction: grow more of the vegetables, fruit and pulses people actually need, closer to home.\u201d The Cabinet Office is to launch a campaign telling households to stock up on tinned foods alongside preparations for future emergencies. The government\u2019s Prepare website outlines steps it says people should take, which include assembling items at home that could include tinned meat, fruit or vegetables that do not need cooking. Eagle has said she would oversee farming improvements and a reservoir-building programm"
+        "full_text": "Scientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study. The report from the London School of Economics found they are 23% less likelyto sign petitions or take part in protests than peers who doubt that technology is the answer. They are also 18% less likely to make high-impact lifestyle changes, from reducing flights to changing to a vegan or vegetarian diet. Fabian Dablander, the lead author, said the belief that technology will largely solve climate change and its consequences, labelled \u201ctechno-optimism\u201d, can lead to an over reliance on unproven solutions at the expense of the far-reaching socioeconomic transformations needed to address the climate and nature crisis. \u201cTechnological solutions are often politically attractive because they promise to address climate change without requiring changes to how people live and consume,\u201d said Dablander. \u201cStrikingly, we see the same tendency at the individual level, with greater faith in technological solutions going hand in hand with less engagement in climate action. Yet technology cannot substitute for the broader societal changes and large-scale shifts in consumption that are also needed.\u201d The study surveyed more than 9,000 scientists across 115 countries. Overall 27% said they agreed with the statement \u201ctechnology will largely solve the problems caused by climate change\u201d and 44% disagreed (29% neither agreed nor disagreed). The \u201ctechno-optimist\u201d scientists reported engaging in less civic actions and protests, signed fewer petitions and engaged in less advocacy. They were also less likely to reduce the number of flights they took, cut their car usage or follow a mostly vegan or vegetarian diet. The report, published in Environmental Research Letters, also found that techno-optimism was most prevalent among scientists with right leaning political views and those working in applied and natural sciences. Prof Kevin Anderson, one of the world\u2019s leading climate scientists, of the Tyndall Centre for Climate Change Research at the University of Manchester, who was not involved in the study, said in his experience \u201ca significant proportion of climate academics who enjoy very high incomes from their work, particularly when those incomes are accompanied by prestige, status and glittering honours, have enthusiastically swallowed the blue pill\u201d. \u201cIt offers a convenient escape from any uncomfortable sense of personal responsibility, allowing them to maintain the comforting fiction that they are deeply concerned about the world their children will inherit while continuing to live lives that contribute disproportionately to the problem.\u201d He added the \u201caccompanying faith in future technological salvation provides another crutch: a way of postponing difficult choices today by placing hope in solutions that may arrive tomorrow\u201d. \u201cYet strikingly often, the evidential basis for these promises falls far short of the standards of scrutiny they would demand of research conducted by others. The result is a remarkable inversion of scientific practice: the more uncomfortable the implications of the evidence, the greater the enthusiasm for believing in a future that the evidence does not support.\u201d"
       },
-      "position": "WANING"
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -180,59 +180,54 @@
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.282,
+      "reversed": false,
+      "confidence": 0.324,
       "scores": {
-        "High House War": 0.117,
-        "High House Coin": 0.138,
-        "High House Shadow": 0.121,
-        "High House Life": 0.127,
-        "High House Iron": 0.092,
-        "High House Words": 0.144,
-        "High House Chains": 0.282
+        "High House War": -0.026,
+        "High House Coin": 0.236,
+        "High House Shadow": 0.109,
+        "High House Life": -0.032,
+        "High House Iron": 0.013,
+        "High House Words": 0.15,
+        "High House Chains": 0.324
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.661
       },
       "article": {
-        "title": "Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.",
-        "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html",
-        "source": "nyt",
+        "title": "EU Russia sanctions agreement covers 1,646 targets, with final adoption pending",
+        "url": "https://finchannel.com/eu-russia-sanctions-agreement-covers-1646-targets-with-final-adoption-pending/137391/world-2/europe/2026/10",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
   "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "TRUMP",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -2.039,
-      "confidence": 0.26,
-      "source": "gdelt_tone"
-    },
     {
       "house_a": "High House Words",
       "house_b": "High House Coin",
       "actor_a": "IRAN",
       "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -2.65,
-      "confidence": 0.26,
+      "goldstein_avg": -2.75,
+      "confidence": 0.12,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.797,
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 4.216,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.465,
       "source": "gdelt_volume"
     }
   }
