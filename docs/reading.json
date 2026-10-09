@@ -1,34 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.492,
+      "reversed": false,
+      "confidence": 0.479,
       "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.178,
-        "High House Shadow": 0.38,
-        "High House Life": 0.108,
-        "High House Iron": 0.492,
-        "High House Words": 0.214,
-        "High House Chains": 0.157
+        "High House War": 0.088,
+        "High House Coin": 0.047,
+        "High House Shadow": 0.18,
+        "High House Life": 0.124,
+        "High House Iron": 0.479,
+        "High House Words": 0.03,
+        "High House Chains": -0.009
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.6,
-        "matched_signals": [
-          "surveillance"
-        ],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.997
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.796
       },
       "article": {
-        "title": "Trump makes it clear his power is becoming entwined with AI",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape",
+        "title": "The AI industry is booming. Women are getting left behind",
+        "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
         "source": "guardian",
-        "full_text": "Hello, and welcome to TechScape. I\u2019m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we\u2019re discussing technocracy. Trump entwines his power with AI Donald Trump made a series of moves over the past week that make it clear his power is becoming synonymous with artificial intelligence. The new tight alliances between the White House, the Pentagon, US intelligence agencies and AI companies loom ominously over governments and companies, particularly in Europe, that rely on American AI. Last Tuesday, Trump and six AI CEOs signed what he called a \u201cmorally binding\u201d agreement to put controls on artificial intelligence. The vague agreement stipulates a framework for what Trump called \u201ctremendous self-policing\u201d, reiterating his point that AI companies can act as their own watchmen. Elon Musk, Mark Zuckerberg, Jensen Huang and Dario Amodei signed. Zuckerberg hand-guided the writing of that agreement, Semafor reported. The pact reportedly arose from a conversation between the Meta CEO and House speaker, Mike Johnson, at the US state dinner for Xi Jinping, which preceded the conclave of the tech CEOs. Zuckerberg circulated a draft of the agreement in advance of the convening, and Huang threw his support behind it, per Semafor. It is one thing for tech executives to dine at the White House to curry favor with the president; it is entirely another to have them draft the terms of executive orders. Silicon Valley\u2019s CEOs are writing contracts that bear the White House letterhead, entrenching their interests and their power. \u201cIt\u2019s almost like a constitution in a way, and the biggest people in the world signed that, and I signed it as president, and it really \u2060is a form of protection,\u201d Trump said. Famously, constitutions are legally binding, which Zuckerberg and Trump\u2019s agreement is not. The president also decreed that government documents render any reference to \u201cartificial intelligence\u201d as \u201csuper intelligence\u201d. How loyal will they be to his rebrand? At least one acquiesced immediately: Musk copied the renaming by changing the name of one of his company\u2019s subsidiaries from SpaceXAI to SpaceXSI. The change coincided with the multi-CEO\u2019s re-entry into government work more than a year after his explosive term at Doge ended. On Thursday, the defense secretary, Pete Hegseth, named Musk to a taskforce to study the future of warfare alongside Palmer Luckey and Emil Michael, dubbed Project Meridian. The trio of men will release a report in 120 days with public recommendations on how to achieve \u201cabsolute technological dominance on the next-generation battlefield\u201d, in the words of Hegseth. Over the weekend, the president announced that he had appointed Jay Clayton, director of national intelligence, as the AI czar of his administration. Trump\u2019s first AI czar was a Silicon Valley insider. David Sacks is a venture capitalist who championed growth and deregulation during his term as a special government employee. He maintained direct financial stakes in multiple AI companies while working with the White House, indicating his ultimate goal was to build a bigger fortune. (He\u2019s made a name for himself recently championing AI accelerationism, the opposing philosophical camp to the \u201cdoomerism\u201d of the Anthropic employees who prophesy extinction.) Read more: \u2018An out-of-touch Silicon Valley radical\u2019: meet Trump\u2019s AI whisperer pushing for limited regulation The second czar, Clayton, is the leader of the US\u2019s spy agencies, a job he will continue to hold in addition to overseeing AI initiatives. His joint appointment sends a very different message, one echoed by Hegseth: AI will supercharge the offensive capabilities of the US government, in particular surveillance and the gathering of intel. Clayton\u2019s ascendancy has major worldwide implications: US spying agencies dictating global AI policy does not bode well for the sovereignty of other nations that need cutting-edge AI. The US economy is already extremely depen"
+        "full_text": "There\u2019s a common fear among people who work in Silicon Valley: snag one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the \u201cpermanent underclass\u201d, a phrase describing the fate of those who won\u2019t have upward mobility in the age of AI. The phrase usually describes a future in which AI automates human jobs. But for women in tech, it\u2019s starting to look like the present. \u201cA lot of people say: \u2018Oh, AI is lowering barriers, it\u2019s equalizing the playing field for women,\u2019\u201d said Urvashi Batra, co-founder and CEO of Prioriwise, an AI platform for IT service providers. \u201cI actually think it\u2019s the opposite.\u201d Batra said people take her less seriously as the founder of an AI company than her male co-founder. When pitching investors, she and her co-founder have learned that they are more likely to get an investment if he does the pitching. Women made up only about a quarter of new hires in AI roles in the last year, compared with 50% of new hires in non-AI roles, according to a recent report from LinkedIn. In executive roles, that number drops to just 13%. At the same time, LinkedIn\u2019s research shows that women are more likely to work in roles with high exposure to AI disruption, like customer service, meaning they are also at higher risk for job loss due to AI. AI jobs, whose postings have doubled since 2023, come with a salary premium, on average paying more than twice as much as roles that don\u2019t involve working with AI, according to LinkedIn\u2019s research. But women who do have jobs in AI are disproportionately concentrated in low-paying roles, like data annotators, said Sarah Steinberg, the head of global public policy partnerships at LinkedIn. Across all AI occupations, men have $45,000 higher median pay than women, partly due to the types of jobs they are likelier to have. \u201cAI is creating some of the fastest-growing, highest-paying and most consequential jobs in the global economy,\u201d said Steinberg. \u201cWomen are just strikingly underrepresented.\u201d The ongoing trend could produce the greatest gender pay gap in generations and leave women out of building a technology that shaped the economy, advocates for women in tech said. \u201cWhat we\u2019re witnessing is a sort of backsliding,\u201d said Brenda Darden Wilkerson, president of AnitaB.org, a non-profit devoted to advancing women in tech jobs. Initiatives to promote women in the tech industry have been ongoing for years, with mixed results. Women now hold about one-third of tech jobs in the US. But research has found that women leave the tech industry at a much higher rate than their male counterparts, citing factors like non-inclusive cultures and barriers to advancement. \u2018I\u2019ve seen so many women fall through the cracks\u2019 Women working in AI may face even greater challenges. \u201cAI moves extremely fast, and the pressure to keep up is immense,\u201d said Jayeeta Putatunda, an AI engineering lead at the investment firm Turing. \u201cI have seen throughout my career so many amazing women I know kind of fall through the cracks.\u201d Putatunda said it was not uncommon to be the only female engineer on a team, and that when women are outnumbered, they have to speak up louder to make their ideas known. Mentorship in the AI field, especially by other women, can be hard to come by. And the breakneck pace of AI advancements means anyone working in the field should expect to put in long hours in order to keep up. \u201cIf you have very ambitious career goals in this field, there will be seasons when you work beyond normal hours,\u201d she said, noting that a culture of working 12-hour days to keep up was not uncommon. \u201cI don\u2019t think there is always a neat shortcut around that than to put in the hours.\u201d Those kinds of work expectations can make it impossible for everyone to stay in the field. \u201cI went on maternity leave for four months, and by the time I came back, there were completely different frameworks and levels of models,\u201d Putatunda said. Getting caught back up was overwhelming. She said it was only possibl"
       },
       "position": "CENTER"
     },
@@ -117,7 +115,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.412,
+      "scores": {
+        "High House War": 0.019,
+        "High House Coin": 0.322,
+        "High House Shadow": 0.038,
+        "High House Life": 0.114,
+        "High House Iron": 0.014,
+        "High House Words": 0.203,
+        "High House Chains": 0.412
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.537,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.976
+      },
+      "article": {
+        "title": "\u2018Self-imposed irrelevance\u2019: why the EU is failing to act on growing public criticism of Israel",
+        "url": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
+        "source": "guardian",
+        "full_text": "When the British government announced sweeping sanctions on trade with illegal Israeli settlements and condemned \u201cethnic cleansing\u201d in the West Bank by state-backed \u201csettler terrorists\u201d, some EU diplomats hoped this dramatic shift in UK government policy towards Israel would have a galvanising effect on the rest of Europe. So far, it has not. Although France and Canada joined the UK in pledging to ban goods from illegal settlements and impose sanctions on \u201cthose who facilitate them or profit from them\u201d, there has not yet been a wider ripple effect. A meeting of EU foreign affairs ministers on Monday is likely to showcase the bloc\u2019s stasis in policy towards Israel \u2013 a stalemate that is at odds with rising public criticism in Europe of Israel\u2019s government. A survey of 10 European countries, including Spain, France and Sweden, found large majorities of people had a negative opinion of Israel. Views had become more negative compared with the previous year, according to the Pew Research Center, mostly after the start of the US-Israeli war on Iran, which unleashed a new crisis in the Middle East and a global economic shock. In Poland, negative views jumped eight points to 70% of respondents, in Italy they increased by nine points to 75% and in Germany they also rose by nine points to 73%. Israel is facing ever deeper isolation in the theatre of public opinion. Five countries chose to boycott the Eurovision song contest this year over Israel\u2019s participation, after organisers declined to exclude it over its conduct in the Gaza war and rising violence in the West Bank. Organisers have now decided that broadcasters will no longer be eligible to host the song contest if their state is involved in an armed conflict or sensitive geopolitical situation. More than 74,000 people, including at least 21,200 children, have been killed in Gaza since Israel launched its war in retaliation for the Hamas attack of 7 October 2023, in which the terrorist group killed 1,209 people \u2013 including 36 children \u2013 and took 251 hostages, inflicting a nationwide trauma. Gaza remains a humanitarian catastrophe, with people facing acute shortages of water, nutritious food and medical equipment and medicines, while contending with disease, unemployment, economic collapse and the threat of death or injury. Israel\u2019s airstrikes continue: the death toll includes 1,400 Palestinians killed since a ceasefire was declared a year ago. The EU talks on the Middle East will focus on the conflicts in Iran and Yemen, but ministers will also discuss the situation in Gaza and the West Bank in the context of elections in Israel on 27 October and the first legislative elections in Palestine in 20 years, which are expected by late November. The discussion is expected to expose familiar fault lines in the 27-member EU. One group of countries are vocal supporters of the Palestinian cause: Spain and Ireland were the first to call for a review of whether Israel\u2019s conduct in the Gaza war was in breach of the human rights requirements of its association agreement with the EU, which covers the \u20ac68bn (\u00a358bn) trade relationship, cooperation in research, environment and energy. A second group consistently opposes targeting Israel\u2019s government: Germany and Austria are close allies for historical reasons, while Czechia and Italy are ideologically aligned with Benjamin Netanyahu\u2019s administration. Among a third, larger group of countries in the middle are several, such as France and the Netherlands, that are increasingly critical of the Netanyahu government\u2019s conduct in Gaza and its plans to build the vast E1 settlement, which threatens to critically damage the two-state solution. Martin Kone\u010dn\u00fd, the director of the Brussels-based European Middle East Project, thinks the EU has a diplomatic role to play as Israel advances with the controversial E1 plan. However, he does not see any sign of action. \u201cThe EU is basically staying in its usual self-imposed irrelevance,\u201d he said. This is not an isolated"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -146,89 +173,38 @@
         "source": "guardian",
         "full_text": "Scientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study. The report from the London School of Economics found they are 23% less likelyto sign petitions or take part in protests than peers who doubt that technology is the answer. They are also 18% less likely to make high-impact lifestyle changes, from reducing flights to changing to a vegan or vegetarian diet. Fabian Dablander, the lead author, said the belief that technology will largely solve climate change and its consequences, labelled \u201ctechno-optimism\u201d, can lead to an over reliance on unproven solutions at the expense of the far-reaching socioeconomic transformations needed to address the climate and nature crisis. \u201cTechnological solutions are often politically attractive because they promise to address climate change without requiring changes to how people live and consume,\u201d said Dablander. \u201cStrikingly, we see the same tendency at the individual level, with greater faith in technological solutions going hand in hand with less engagement in climate action. Yet technology cannot substitute for the broader societal changes and large-scale shifts in consumption that are also needed.\u201d The study surveyed more than 9,000 scientists across 115 countries. Overall 27% said they agreed with the statement \u201ctechnology will largely solve the problems caused by climate change\u201d and 44% disagreed (29% neither agreed nor disagreed). The \u201ctechno-optimist\u201d scientists reported engaging in less civic actions and protests, signed fewer petitions and engaged in less advocacy. They were also less likely to reduce the number of flights they took, cut their car usage or follow a mostly vegan or vegetarian diet. The report, published in Environmental Research Letters, also found that techno-optimism was most prevalent among scientists with right leaning political views and those working in applied and natural sciences. Prof Kevin Anderson, one of the world\u2019s leading climate scientists, of the Tyndall Centre for Climate Change Research at the University of Manchester, who was not involved in the study, said in his experience \u201ca significant proportion of climate academics who enjoy very high incomes from their work, particularly when those incomes are accompanied by prestige, status and glittering honours, have enthusiastically swallowed the blue pill\u201d. \u201cIt offers a convenient escape from any uncomfortable sense of personal responsibility, allowing them to maintain the comforting fiction that they are deeply concerned about the world their children will inherit while continuing to live lives that contribute disproportionately to the problem.\u201d He added the \u201caccompanying faith in future technological salvation provides another crutch: a way of postponing difficult choices today by placing hope in solutions that may arrive tomorrow\u201d. \u201cYet strikingly often, the evidential basis for these promises falls far short of the standards of scrutiny they would demand of research conducted by others. The result is a remarkable inversion of scientific practice: the more uncomfortable the implications of the evidence, the greater the enthusiasm for believing in a future that the evidence does not support.\u201d"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.341,
+      "confidence": 0.332,
       "scores": {
-        "High House War": 0.341,
-        "High House Coin": 0.248,
-        "High House Shadow": 0.195,
-        "High House Life": 0.156,
-        "High House Iron": 0.077,
-        "High House Words": 0.271,
-        "High House Chains": 0.266
+        "High House War": 0.332,
+        "High House Coin": 0.127,
+        "High House Shadow": 0.152,
+        "High House Life": 0.026,
+        "High House Iron": -0.028,
+        "High House Words": 0.254,
+        "High House Chains": 0.113
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.546,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Behind the Scenes of NATO, Europe Is Falling Apart",
-        "url": "https://www.nytimes.com/2026/07/07/opinion/european-union-nato-trump.html",
+        "title": "Contrasts in War: Trump Sought an Exit. Putin Pushed On. Now Both Are Stuck.",
+        "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
         "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.324,
-      "scores": {
-        "High House War": -0.026,
-        "High House Coin": 0.236,
-        "High House Shadow": 0.109,
-        "High House Life": -0.032,
-        "High House Iron": 0.013,
-        "High House Words": 0.15,
-        "High House Chains": 0.324
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.661
-      },
-      "article": {
-        "title": "EU Russia sanctions agreement covers 1,646 targets, with final adoption pending",
-        "url": "https://finchannel.com/eu-russia-sanctions-agreement-covers-1646-targets-with-final-adoption-pending/137391/world-2/europe/2026/10",
-        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -2.75,
-      "confidence": 0.12,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 4.216,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.465,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
