@@ -1,6 +1,35 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.518,
+      "scores": {
+        "High House War": 0.031,
+        "High House Coin": 0.154,
+        "High House Shadow": 0.151,
+        "High House Life": 0.021,
+        "High House Iron": 0.518,
+        "High House Words": 0.012,
+        "High House Chains": 0.04
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.96
+      },
+      "article": {
+        "title": "TSMC to get 6th straight record profit quarter",
+        "url": "https://www.manilatimes.net/2026/10/13/business/foreign-business/tsmc-to-get-6th-straight-record-profit-quarter/2443996",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,7 +57,36 @@
         "source": "guardian",
         "full_text": "The ex-spymaster August Hanning once criticised Germany\u2019s own intelligence services as \u201cvegetarians\u201d among prowling carnivores, demanding broader powers to keep the country safe in a treacherous world. Often described as a \u201cgodfather\u201d of Germany\u2019s 21st-century security architecture, Hanning is now charged with treasonous espionage and handing state secrets to a foreign power in one of the most spectacular alleged intelligence breaches of the postwar period. If true, Hanning may have irreparably damaged Germany\u2019s global security cooperation while exposing grievous internal vulnerabilities, in a tale ripped from a far-fetched political thriller. \u201cThis is an incident that has the potential to escalate into a genuine national scandal,\u201d said Konstantin von Notz, a Bundestag member who sits on the parliamentary intelligence supervisory committee. Von Notz warned of a \u201cdevastating\u201d loss of trust among partner countries \u201cwhose support we cannot do without in the current extremely tense security situation\u201d. Tuesday\u2019s scenes from a small town in Germany staggered even seasoned spy watchers: masked commandos led Hanning from his estate in his birthplace, Nordwalde, to a black police van, his familiar bespectacled face framed by neatly combed white hair. His expression was calm and focused, his wrists without handcuffs. The detention of the 80-year-old, who ran the federal foreign intelligence service (BND) from 1998 to 2005, marked a first in a western democracy given his previous rank, according to experts. Federal prosecutors believe Hanning ran his former chief of staff, identified only as Manfred D, as a mole at the BND, paying him to spirit out nearly 2,000 documents, at least some of them classified, over 12 years. He then allegedly exploited the intelligence for clients of the private consulting firm he launched after retiring \u2013 a legal business model that drew fierce criticism over the course of a tumultuous week. Hanning is in pretrial detention and has, through his lawyers, denied passing on confidential documents to foreign powers. If convicted, he could face 10 years in prison. Many of the compromised files are believed to have been briefing papers prepared for top officials including the chancellor. The former BND vice-president Arndt Freytag von Loringhoven described the material as the \u201ccrown jewels of the BND\u201d, telling Der Spiegel magazine they were \u201cthe most important assessments that a BND president provides\u201d. The explosive case sent allied secret services scrambling to assess the possible damage. A western official told Reuters that US foreign intelligence was included in documents stolen from the BND. The CIA has not commented on the case. Luca Manns, managing director of the Intelligence Services Research Unit at the University of Cologne, called the case a \u201cstab to the heart\u201d of the BND, causing incalculable damage to allied cooperation. \u201cIt won\u2019t be an abrupt break,\u201d Manns said, predicting a \u201ccreeping erosion of partnerships\u201d. The suspected betrayal could be corrosive within the agencies as well as in public perception, said Dieter Bacher, a historian at the University of Graz in Austria specialising in secret services. \u201cWhen the former head of a service does something like this, the implications are, of course, enormous,\u201d he said. \u201cA loss of trust is certainly inevitable. As information from partner services was apparently also involved, the impact on agency \u2018business\u2019 is all the greater.\u201d The news broke in a week in which Germany\u2019s intelligence service directors had testified to parliament about the heightened threat posed by powers including Russia and China. The BND chief, Martin J\u00e4ger, a former ambassador to Ukraine, warned of a possible violent conflict with Moscow, accusing the Kremlin of mounting a \u201cshadow war\u201d of hybrid and drone attacks. \u201cWe sincerely want to be Germany\u2019s first line of defence,\u201d he said. J\u00e4ger was reportedly already aware of Henning\u2019s impending arrest at the time of his testimony, which c"
       },
-      "position": "CENTER"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Coin",
@@ -60,95 +118,6 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.412,
-      "scores": {
-        "High House War": 0.019,
-        "High House Coin": 0.322,
-        "High House Shadow": 0.038,
-        "High House Life": 0.114,
-        "High House Iron": 0.014,
-        "High House Words": 0.203,
-        "High House Chains": 0.412
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.537,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.976
-      },
-      "article": {
-        "title": "\u2018Self-imposed irrelevance\u2019: why the EU is failing to act on growing public criticism of Israel",
-        "url": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
-        "source": "guardian",
-        "full_text": "When the British government announced sweeping sanctions on trade with illegal Israeli settlements and condemned \u201cethnic cleansing\u201d in the West Bank by state-backed \u201csettler terrorists\u201d, some EU diplomats hoped this dramatic shift in UK government policy towards Israel would have a galvanising effect on the rest of Europe. So far, it has not. Although France and Canada joined the UK in pledging to ban goods from illegal settlements and impose sanctions on \u201cthose who facilitate them or profit from them\u201d, there has not yet been a wider ripple effect. A meeting of EU foreign affairs ministers on Monday is likely to showcase the bloc\u2019s stasis in policy towards Israel \u2013 a stalemate that is at odds with rising public criticism in Europe of Israel\u2019s government. A survey of 10 European countries, including Spain, France and Sweden, found large majorities of people had a negative opinion of Israel. Views had become more negative compared with the previous year, according to the Pew Research Center, mostly after the start of the US-Israeli war on Iran, which unleashed a new crisis in the Middle East and a global economic shock. In Poland, negative views jumped eight points to 70% of respondents, in Italy they increased by nine points to 75% and in Germany they also rose by nine points to 73%. Israel is facing ever deeper isolation in the theatre of public opinion. Five countries chose to boycott the Eurovision song contest this year over Israel\u2019s participation, after organisers declined to exclude it over its conduct in the Gaza war and rising violence in the West Bank. Organisers have now decided that broadcasters will no longer be eligible to host the song contest if their state is involved in an armed conflict or sensitive geopolitical situation. More than 74,000 people, including at least 21,200 children, have been killed in Gaza since Israel launched its war in retaliation for the Hamas attack of 7 October 2023, in which the terrorist group killed 1,209 people \u2013 including 36 children \u2013 and took 251 hostages, inflicting a nationwide trauma. Gaza remains a humanitarian catastrophe, with people facing acute shortages of water, nutritious food and medical equipment and medicines, while contending with disease, unemployment, economic collapse and the threat of death or injury. Israel\u2019s airstrikes continue: the death toll includes 1,400 Palestinians killed since a ceasefire was declared a year ago. The EU talks on the Middle East will focus on the conflicts in Iran and Yemen, but ministers will also discuss the situation in Gaza and the West Bank in the context of elections in Israel on 27 October and the first legislative elections in Palestine in 20 years, which are expected by late November. The discussion is expected to expose familiar fault lines in the 27-member EU. One group of countries are vocal supporters of the Palestinian cause: Spain and Ireland were the first to call for a review of whether Israel\u2019s conduct in the Gaza war was in breach of the human rights requirements of its association agreement with the EU, which covers the \u20ac68bn (\u00a358bn) trade relationship, cooperation in research, environment and energy. A second group consistently opposes targeting Israel\u2019s government: Germany and Austria are close allies for historical reasons, while Czechia and Italy are ideologically aligned with Benjamin Netanyahu\u2019s administration. Among a third, larger group of countries in the middle are several, such as France and the Netherlands, that are increasingly critical of the Netanyahu government\u2019s conduct in Gaza and its plans to build the vast E1 settlement, which threatens to critically damage the two-state solution. Martin Kone\u010dn\u00fd, the director of the Brussels-based European Middle East Project, thinks the EU has a diplomatic role to play as Israel advances with the controversial E1 plan. However, he does not see any sign of action. \u201cThe EU is basically staying in its usual self-imposed irrelevance,\u201d he said. This is not an isolated"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.394,
-      "scores": {
-        "High House War": 0.085,
-        "High House Coin": 0.077,
-        "High House Shadow": 0.164,
-        "High House Life": 0.207,
-        "High House Iron": 0.394,
-        "High House Words": 0.144,
-        "High House Chains": 0.191
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.534,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.971
-      },
-      "article": {
-        "title": "Africanising Technology: Why AI Must Be Built For The Continent, Not Imported Into It",
-        "url": "https://iafrica.com/africanising-technology-why-ai-must-be-built-for-the-continent-not-imported-into-it",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.361,
-      "scores": {
-        "High House War": 0.199,
-        "High House Coin": 0.139,
-        "High House Shadow": 0.328,
-        "High House Life": 0.05,
-        "High House Iron": 0.113,
-        "High House Words": 0.361,
-        "High House Chains": 0.124
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "disinformation"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
-      },
-      "article": {
-        "title": "A.I. Is Lying to You. Here\u2019s How to Fight Back.",
-        "url": "https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Life",
       "title": "The King",
       "reversed": false,
@@ -172,6 +141,35 @@
       "article": {
         "title": "Watch the 2026 Climate Forward Conference: A Video Library",
         "url": "https://www.nytimes.com/live/2026/09/23/climate/climate-forward-conference/heres-a-look-at-the-speakers-at-the-2026-climate-forward-conference",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.343,
+      "scores": {
+        "High House War": -0.022,
+        "High House Coin": 0.328,
+        "High House Shadow": 0.215,
+        "High House Life": 0.083,
+        "High House Iron": 0.07,
+        "High House Words": 0.259,
+        "High House Chains": 0.343
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.517,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
         "source": "nyt",
         "full_text": null
       },
@@ -209,22 +207,12 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "EXIT",
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "TSMC",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -3.365,
-      "confidence": 0.02,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Chains",
-      "house_b": "High House War",
-      "actor_a": "ISRAEL",
-      "actor_b": "EXIT",
-      "relationship": "neutral",
-      "goldstein_avg": -1.374,
+      "goldstein_avg": -1.985,
       "confidence": 0.02,
       "source": "gdelt_tone"
     }
