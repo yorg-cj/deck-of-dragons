@@ -1,35 +1,6 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.518,
-      "scores": {
-        "High House War": 0.031,
-        "High House Coin": 0.154,
-        "High House Shadow": 0.151,
-        "High House Life": 0.021,
-        "High House Iron": 0.518,
-        "High House Words": 0.012,
-        "High House Chains": 0.04
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.96
-      },
-      "article": {
-        "title": "TSMC to get 6th straight record profit quarter",
-        "url": "https://www.manilatimes.net/2026/10/13/business/foreign-business/tsmc-to-get-6th-straight-record-profit-quarter/2443996",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,7 +28,7 @@
         "source": "guardian",
         "full_text": "The ex-spymaster August Hanning once criticised Germany\u2019s own intelligence services as \u201cvegetarians\u201d among prowling carnivores, demanding broader powers to keep the country safe in a treacherous world. Often described as a \u201cgodfather\u201d of Germany\u2019s 21st-century security architecture, Hanning is now charged with treasonous espionage and handing state secrets to a foreign power in one of the most spectacular alleged intelligence breaches of the postwar period. If true, Hanning may have irreparably damaged Germany\u2019s global security cooperation while exposing grievous internal vulnerabilities, in a tale ripped from a far-fetched political thriller. \u201cThis is an incident that has the potential to escalate into a genuine national scandal,\u201d said Konstantin von Notz, a Bundestag member who sits on the parliamentary intelligence supervisory committee. Von Notz warned of a \u201cdevastating\u201d loss of trust among partner countries \u201cwhose support we cannot do without in the current extremely tense security situation\u201d. Tuesday\u2019s scenes from a small town in Germany staggered even seasoned spy watchers: masked commandos led Hanning from his estate in his birthplace, Nordwalde, to a black police van, his familiar bespectacled face framed by neatly combed white hair. His expression was calm and focused, his wrists without handcuffs. The detention of the 80-year-old, who ran the federal foreign intelligence service (BND) from 1998 to 2005, marked a first in a western democracy given his previous rank, according to experts. Federal prosecutors believe Hanning ran his former chief of staff, identified only as Manfred D, as a mole at the BND, paying him to spirit out nearly 2,000 documents, at least some of them classified, over 12 years. He then allegedly exploited the intelligence for clients of the private consulting firm he launched after retiring \u2013 a legal business model that drew fierce criticism over the course of a tumultuous week. Hanning is in pretrial detention and has, through his lawyers, denied passing on confidential documents to foreign powers. If convicted, he could face 10 years in prison. Many of the compromised files are believed to have been briefing papers prepared for top officials including the chancellor. The former BND vice-president Arndt Freytag von Loringhoven described the material as the \u201ccrown jewels of the BND\u201d, telling Der Spiegel magazine they were \u201cthe most important assessments that a BND president provides\u201d. The explosive case sent allied secret services scrambling to assess the possible damage. A western official told Reuters that US foreign intelligence was included in documents stolen from the BND. The CIA has not commented on the case. Luca Manns, managing director of the Intelligence Services Research Unit at the University of Cologne, called the case a \u201cstab to the heart\u201d of the BND, causing incalculable damage to allied cooperation. \u201cIt won\u2019t be an abrupt break,\u201d Manns said, predicting a \u201ccreeping erosion of partnerships\u201d. The suspected betrayal could be corrosive within the agencies as well as in public perception, said Dieter Bacher, a historian at the University of Graz in Austria specialising in secret services. \u201cWhen the former head of a service does something like this, the implications are, of course, enormous,\u201d he said. \u201cA loss of trust is certainly inevitable. As information from partner services was apparently also involved, the impact on agency \u2018business\u2019 is all the greater.\u201d The news broke in a week in which Germany\u2019s intelligence service directors had testified to parliament about the heightened threat posed by powers including Russia and China. The BND chief, Martin J\u00e4ger, a former ambassador to Ukraine, warned of a possible violent conflict with Moscow, accusing the Kremlin of mounting a \u201cshadow war\u201d of hybrid and drone attacks. \u201cWe sincerely want to be Germany\u2019s first line of defence,\u201d he said. J\u00e4ger was reportedly already aware of Henning\u2019s impending arrest at the time of his testimony, which c"
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Words",
@@ -86,36 +57,67 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
+      "title": "The Throne",
+      "reversed": true,
       "confidence": 0.423,
       "scores": {
-        "High House War": 0.198,
+        "High House War": 0.053,
         "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
+        "High House Shadow": 0.159,
+        "High House Life": 0.131,
+        "High House Iron": 0.25,
+        "High House Words": 0.108,
+        "High House Chains": 0.313
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "crash"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.846
+      },
+      "article": {
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "source": "guardian",
+        "full_text": "The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are \u201celevated\u201d. \u201cThe consequences of an AI correction could be global,\u201d it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated \u2013 though investors with US holdings would be hit. Athanasios Vamvakidis, the deputy director of the IMF\u2019s monetary and capital department, launching the report, said: \u201cThe exposure of the rest of the world to US assets, particularly AI, is the highest it has ever been. So this is supporting the global economy through wealth effects today; but if we get a market correction it could have broad implications.\u201d An AI crash was one of three \u201csalient risks\u201d to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack. It called this trio of factors \u201cplausible near-term catalysts for a sharp tightening of financial conditions and market turmoil\u201d. The IMF\u2019s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. \u201cWeaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,\u201d it said. Such a reassessment would then \u201csharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers\u201d. The \u201cmagnificent seven\u201d big tech stocks \u2013 Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla \u2013 account for more than 35% of the S&amp;P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years. Yet the IMF warned of \u201cgrowing evidence\u201d that the successful rollout of AI \u201cmay not require investment on the massive scale being undertaken by \u2018hyperscaler\u2019 firms\u201d, and \u201cpotential economic gains may not be as large as expected\u201d. The hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle. Shares in semiconductor companies fell on Tuesday after the boss of Broadcom compared many AI investors to \u201ccasino\u201d gamblers. Reports that the Chinese memory chip maker CXMT was making good progress on a new chip architecture also hit South Korean tech companies. The IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash. In particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks. In the event of an AI-led market downturn \u201cthese growing sources of leverage heighten the potential for forced selling and surges in equity volatility\u201d, it said. It also pointed to the prevalence of \u201ccircular financing\u201d deals, tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction. It identified $300bn (\u00a3227bn) worth of transactions between hyperscalers and \u201cweaker AI firms\u201d in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments. In London, the chief executive of the UK\u2019s Financial Conduct Authority, Nikhil Rathi, urged every small business across the financial sector to take out insurance to protect themselves against AI-related cybersecurity threats. He told MPs on the Commons Treasury committee that not all companies would have the resources to pay for access to \u201cfrontier\u201d AI model"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.417,
+      "scores": {
+        "High House War": 0.073,
+        "High House Coin": 0.135,
+        "High House Shadow": 0.228,
+        "High House Life": 0.185,
+        "High House Iron": 0.417,
+        "High House Words": 0.129,
+        "High House Chains": 0.115
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
+        "sentiment_score": 0.993
       },
       "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+        "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+        "source": "guardian",
+        "full_text": "Companies building the most advanced AI systems must increase safety efforts, the UK\u2019s AI minister will say, as he announces a strengthening of Britain\u2019s cyber defences. Kanishka Narayan will call on companies developing frontier AI to do more to make sure it is safe. He will say Britain cannot rely entirely on technology companies to police their own models and will argue the UK needs to build more of its own AI infrastructure. Narayan\u2019s speech in west London will be the first since Andy Burnham made AI a cabinet-level brief. It comes as Geoffrey Irving, a former chief scientist at the UK\u2019s AI Security Institute, which tests the most powerful AI models, raised fears enemy states could steal unreleased cutting-edge models. Amid increasing global concern at dangers posed by AI, Irving told the Guardian: \u201cThe AI companies do not have security that would prevent an adversarial country from stealing the models.\u201d He cited a recent incident at OpenAI where it was \u201chacked\u201d by cybersecurity researchers, who said \u201cthe scope of what we could theoretically access was huge\u201d. The attack was carried out under an OpenAI programme that rewarded ethical hackers testing its systems. OpenAI says it has multiple protections against theft of its models, including encryption and continuous monitoring. Irving, a former employee at OpenAI and Google DeepMind who now runs an AI safety research body, has warned there is a \u201c50% chance\u201d of humanity being wiped out by superintelligent AIs and the only answer, for now, is to stop development of advanced systems as soon as possible. Irving is concerned by the rate of progress in alarming attributes shown by models, which could lead to them becoming highly advanced in traits such as concealing their actions and manipulating humans. \u201cIt is possible we [will] get superintelligence in less than 12 months, on the current path,\u201d he said. Narayan\u2019s speech will be watched closely for signs the UK may join a call for international governments to coordinate common safety standards for AIs, which has been signed by leaders of nations including Finland, France, Germany, Australia, Singapore, the UAE and Ireland, but not the UK and the US, where Donald Trump has said he wants the leading AI companies to \u201cself-police\u201d. The international alliance calling for strict rules comes after a wave of recent incidents with misaligned advanced AIs hacking into private and government systems. In one of the latest cases, Anthropic on Friday revealed that when it was testing a version of its Claude model the AI contacted police claiming it could help solve a murder. It had landed on a page containing a police department tip form and a mention of an unsolved homicide. It wrote: \u201cI may have information regarding this case. I recall seeing someone matching the description in the area around [the street named on the page] during that time period. Please contact me if this information is relevant.\u201d Although Claude was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, its instructions did not rule out form submissions. Last week UK intelligence leaders from MI5, MI6 and GCHQ briefed the cabinet on AI\u2019s threat to national security, according to the Sunday Times. The warning from the spy chiefs is being seen by some as encouragement for Burnham to grip the AI safety issue more firmly. The prime minister told the UN last month that Britain would use its G20 presidency next year to champion agreement on AI safety with \u201ca single set of global principles and standards\u201d. But safety experts are calling for faster action to avert the most serious risks, which range from advanced AIs being used to mount a cyber-attack on essential infrastructure to the creation of novel bioweapons. Meanwhile, Satya Nadella, the chair and chief executive of Microsoft, which operates AI infrastructure and is an OpenAI shareholder, on Saturday called for AI models to be designed with an \u201cemergency brake\u201d. H"
       },
-      "position": "ASCENDING"
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -205,17 +207,6 @@
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Coin",
-      "actor_a": "TSMC",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -1.985,
-      "confidence": 0.02,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {}
 }
