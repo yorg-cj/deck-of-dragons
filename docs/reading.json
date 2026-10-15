@@ -1,6 +1,35 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.467,
+      "scores": {
+        "High House War": 0.124,
+        "High House Coin": 0.075,
+        "High House Shadow": 0.198,
+        "High House Life": 0.276,
+        "High House Iron": 0.467,
+        "High House Words": -0.006,
+        "High House Chains": 0.004
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "The World&#039;s New Agronomists are AI Agents\u00a0",
+        "url": "https://www.newsweek.com/the-worlds-new-agronomists-are-ai-agents-12407587",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,36 +57,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.441,
+      "reversed": false,
+      "confidence": 0.443,
       "scores": {
-        "High House War": 0.033,
-        "High House Coin": 0.107,
-        "High House Shadow": 0.247,
-        "High House Life": 0.11,
-        "High House Iron": 0.03,
-        "High House Words": 0.441,
-        "High House Chains": 0.112
+        "High House War": 0.031,
+        "High House Coin": 0.103,
+        "High House Shadow": 0.251,
+        "High House Life": 0.104,
+        "High House Iron": 0.027,
+        "High House Words": 0.443,
+        "High House Chains": 0.11
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.519,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.944
+        "sentiment_score": 0.926
       },
       "article": {
         "title": "French minister accuses Elon Musk of \u2018online harassment campaigns\u2019 against European leaders",
         "url": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
         "source": "guardian",
-        "full_text": "France\u2019s foreign minister has accused Elon Musk of using his social media platform to orchestrate \u201cmassive online harassment campaigns\u201d against European leaders, as he took aim at foreign efforts to destabilise the country before next year\u2019s presidential election. Speaking at an Organisation for Economic Cooperation and Development conference on Tuesday, Jean-No\u00ebl Barrot pointed to the role that social media had come to play in the global battle over democracy. \u201cThe forces seeking to undermine democracy now dominate the information landscape, where they employ tactics designed to polarise public debate,\u201d he said. The result was that \u201cpolitical movements with authoritarian aims\u201d, which \u201cplay right into the hands of democracy\u2019s declared enemies\u201d, had been gaining ground in Europe and North America, he said. \u201cThey exacerbate the polarisation of our societies,\u201d he added. \u201cTheir ultimate goal is clear: to seize power and then create the conditions to never relinquish it.\u201d Barrot cited the 2027 presidential election in France, where the far-right leader Marine Le Pen is the frontrunner in the polls. \u201cThe enemies of democracy are doing everything they can to destabilise us,\u201d he said. \u201cThey exploit our divisions and use immigration, secularism and the Israeli-Palestinian conflict to stoke hatred and tensions.\u201d He listed several other examples, from an unnamed Israeli company accused of creating fake French social media accounts to influence perceptions of the Israel-Gaza war to accusations that Azerbaijan stirred up tensions amid deadly riots in the French Pacific territory New Caledonia. Barrot also singled out Musk, the world\u2019s richest man and owner of the social media platform X. \u201cThere are massive online harassment campaigns launched by Elon Musk against European leaders, in order to influence debates by exploiting the virality of his social media platform.\u201d Musk did not reply to a request for comment. Barrot also cited the protests that have rocked France in recent weeks, as schoolchildren, students and trade unionists blockaded schools and marched through cities. The events, said Barrot, had been exploited by \u201chostile narratives\u201d from Russia, China and Iran, as well as those associated with the Maga movement in the US. Last week Musk and the US president, Donald Trump, weighed in on the protests in France, seeking to recast them through a lens of mass migration and brushing aside protesters\u2019 demands for better school conditions. Barrot said his government was working to respond to a reality in which paid or commissioned influencers sought to explore the viral reach of digital platforms. \u201cThe Kremlin\u2019s goal is explicitly stated: to put an end to our liberal democracies in favour of a new authoritarianism. Other actors are converging on this goal, seeking to dictate to Europe which democracies are \u2018good\u2019 and which are \u2018bad\u2019 based on whether they align with their own interests,\u201d he said. The French minister\u2019s remarks come days after the British prime minister, Andy Burnham, said it was \u201cclear\u201d that Russia had interfered in the Brexit referendum. Barrot said his government would work to counter these efforts by foreign entities. \u201cWe are uncompromising, because it is clear to us that they undermine the nation\u2019s fundamental interests,\u201d he said. \u201cWe do not tolerate any foreign interference, from wherever it may come. It is a matter of sovereignty.\u201d"
+        "full_text": "France\u2019s foreign minister has accused Elon Musk of using his social media platform to orchestrate \u201cmassive online harassment campaigns\u201d against European leaders as he took aim at foreign efforts to destabilise the country before next year\u2019s presidential election. Speaking at an Organisation for Economic Cooperation and Development conference on Tuesday, Jean-No\u00ebl Barrot pointed to the role that social media had come to play in the global battle over democracy. \u201cThe forces seeking to undermine democracy now dominate the information landscape, where they employ tactics designed to polarise public debate,\u201d he said. The result was that \u201cpolitical movements with authoritarian aims\u201d, which \u201cplay right into the hands of democracy\u2019s declared enemies\u201d, had been gaining ground in Europe and North America, he said. \u201cThey exacerbate the polarisation of our societies,\u201d he added. \u201cTheir ultimate goal is clear: to seize power and then create the conditions to never relinquish it.\u201d Barrot cited the 2027 presidential election in France, where the far-right leader Marine Le Pen is the frontrunner in the polls. \u201cThe enemies of democracy are doing everything they can to destabilise us,\u201d he said. \u201cThey exploit our divisions and use immigration, secularism and the Israeli-Palestinian conflict to stoke hatred and tensions.\u201d He listed several other examples, from an unnamed Israeli company accused of creating fake French social media accounts to influence perceptions of the Israel-Gaza war, to accusations that Azerbaijan stirred up tensions amid deadly riots in the French Pacific territory New Caledonia. Barrot also singled out Musk, the world\u2019s richest man and owner of the social media platform X. \u201cThere are massive online harassment campaigns launched by Elon Musk against European leaders in order to influence debates by exploiting the virality of his social media platform.\u201d Musk did not reply to a request for comment. Barrot also cited the protests that have rocked France in recent weeks, as schoolchildren, students and trade unionists blockaded schools and marched through cities. The events, said Barrot, had been exploited by \u201chostile narratives\u201d from Russia, China and Iran, as well as those associated with the Maga movement in the US. Last week Musk and the US president, Donald Trump, weighed in on the protests in France, seeking to recast them through a lens of mass migration and brushing aside protesters\u2019 demands for better school conditions. Barrot said his government was working to respond to a reality in which paid or commissioned influencers sought to explore the viral reach of digital platforms. \u201cThe Kremlin\u2019s goal is explicitly stated: to put an end to our liberal democracies in favour of a new authoritarianism. Other actors are converging on this goal, seeking to dictate to Europe which democracies are \u2018good\u2019 and which are \u2018bad\u2019 based on whether they align with their own interests,\u201d he said. The French minister\u2019s remarks come days after the British prime minister, Andy Burnham, said it was \u201cclear\u201d that Russia had interfered in the Brexit referendum. Barrot said his government would work to counter these efforts by foreign entities. \u201cWe are uncompromising, because it is clear to us that they undermine the nation\u2019s fundamental interests,\u201d he said. \u201cWe do not tolerate any foreign interference, from wherever it may come. It is a matter of sovereignty.\u201d"
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -84,9 +113,9 @@
         "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
         "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
         "source": "guardian",
-        "full_text": "Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country\u2019s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track \u201cnonspecific\u201d health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Members of a Danish research ethics committee were informed that officials in Guinea-Bissau had approved an updated design of the study, which influenced some committee members\u2019 votes to proceed with the trial last week. But the health ministry never agreed to or authorized the trial, said Quinhin Nantote in Portuguese at a press briefing, where he referred to the study as \u201ctests\u201d. \u201cThe ministry did not authorize the tests under the terms presented in the publications currently in circulation,\u201d the health minister said. He said officials in Guinea-Bissau were \u201csurprised\u201d to see media reports that the country had given approval to the study. \u201cAny scientific research initiative involving human beings, particularly children, \u200cmust \u2060strictly comply with applicable national legislation, international ethical principles, competent evaluation and approval mechanisms,\u201d Nantote said. He spoke after convening an emergency meeting in Guinea-Bissau with the Bandim Health Project, the local ethics committee, the National Institute of Public Health (Inasa) and the Expanded Vaccination Program (PAV). The Bandim Health Project is run by the Danish researchers Peter Aaby and Christine Stabell Benn, whose decades of research have been called into question in the past year. Kennedy has repeatedly praised their work, which he says shows that after vaccination, \u201cyou can have mass injuries, and catastrophic injuries, and they\u2019re hiding in plain sight.\u201d Aaby, Stabell Benn and Frederik Schaltz-Buchholzer did not respond by press time to the Guardian\u2019s questions about why the Danish ethics committee members were told the trial had been approved by local authorities and why it could not be held in Denmark. In Denmark, infants born to hepatitis B-negative parents do not receive the shot, there is widespread testing for and low incidence of the virus, and the robust healthcare system can track health outcomes and provide timely and comprehensive medical care \u2013 making it an ideal location for such a study. Experts have decried the African experiment as \u201chorribly unethical and cruel\u201d, \u201cneo-colonialist\u201d and \u201cdamaging\u201d. \u201cFor the government of Guinea-Bissau to stand up against the United States and Denmark exploiting its children is no small statement,\u201d said Colette Delawalla, a researcher and founder and CEO of the non-profit Stand Up for Science. \u201cWe absolutely must respect their sovereignty as a nation.\u201d It would cost approximately $13,200 to buy enough vaccines through Unicef and Gavi, the Vaccine Alliance, to immunize all newborns in Guinea-Bissau each year, Delawalla pointed out. Everyone involved should work together to ensure that every baby in Guinea-Bissau receives the birth dose of the hepatitis B vaccination, she added. \u201cThis is not muddy water: we can use Black babies to further pseudoscience or we can save children\u2019s lives with a 20-cent shot.\u201d It is unclear whether the US plans to move forward with the study, even after reporting indicated that the US Centers for Disease Control and Prevention (CDC) has again set aside $1.6m for funding for the trial this year, to be matched by private funding from the Pershing Square Foundation and the Bluebell Foundation. \u201cThe study has \u2060not been approved,\u201d the HHS told Reuters in a statement. The agency has not responded to the Guardian\u2019s questions about the trial. At least four members of the Danish committee resigned after approval for the trial was fast-tracked. The rules of t"
+        "full_text": "Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country\u2019s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track \u201cnonspecific\u201d health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Members of a Danish research ethics committee were informed that officials in Guinea-Bissau had approved an updated design of the study, which influenced some committee members\u2019 votes to proceed with the trial last week. But the health ministry never agreed to or authorized the trial, said Quinhin Nantote in Portuguese at a press briefing, where he referred to the study as \u201ctests\u201d. \u201cThe ministry did not authorize the tests under the terms presented in the publications currently in circulation,\u201d the health minister said. He said officials in Guinea-Bissau were \u201csurprised\u201d to see media reports that the country had given approval to the study. \u201cAny scientific research initiative involving human beings, particularly children, \u200cmust \u2060strictly comply with applicable national legislation, international ethical principles, competent evaluation and approval mechanisms,\u201d Nantote said. He spoke after convening an emergency meeting in Guinea-Bissau with the Bandim Health Project, the local ethics committee, the National Institute of Public Health (Inasa) and the Expanded Vaccination Program (PAV). The Bandim Health Project is run by the Danish researchers Peter Aaby and Christine Stabell Benn, whose decades of research have been called into question in the past year. The claims made in nearly all of their papers are \u201chighly misleading\u201d, said Charlotte Str\u00f8m, a Danish researcher who has co-authored research showing that Aaby, Stabell Benn, and their co-authors had no significant findings in 24 out of 25 studies and that they\u2019ve chosen not to publish research that may not support their viewpoints. \u201cWhen researchers operate like this and abandon proper methodological rigor, they literally decide on the results themselves, and that is not science,\u201d Str\u00f8m said, calling it \u201cproblematic, questionable [and] unethical\u201d. She added: \u201cI believe there is serious cause for concern.\u201d Kennedy has repeatedly praised their work, which he says shows that after vaccination, \u201cyou can have mass injuries, and catastrophic injuries, and they\u2019re hiding in plain sight\u201d. Aaby, Stabell Benn and Frederik Schaltz-Buchholzer did not respond by press time to the Guardian\u2019s questions about why the Danish ethics committee members were told the trial had been approved by local authorities and why it could not be held in Denmark. In Denmark, infants born to hepatitis B-negative parents do not receive the shot, there is widespread testing for and low incidence of the virus, and the robust healthcare system can track health outcomes and provide timely and comprehensive medical care \u2013 making it an ideal location for such a study. \u201cIt\u2019s completely unethical that this trial is even proposed,\u201d because a safe and effective vaccine has been available for decades, said BK Titanji, a researcher at Emory University. It\u2019s \u201creassuring\u201d to see Guinea-Bissau pushing back on the trial, Titanji said, adding: \u201cA study like this one needs the highest level of ethical scrutiny. You are going to be conducting a study on the most vulnerable population, which is newborn babies, in a country that is resource-constrained.\u201d When Titanji recently applied for approval of a collaborative study in Cameroon, she had to include extensive documentation in her application \u2013 and it was a survey, not medical research on human subjects, she said. \u201cI can\u2019t come to Emory\u2019s [institutional review board] and just be like: \u2018I got permission from Cameroon.\u2019 I have to provide the document."
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -145,35 +174,6 @@
         "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
         "source": "guardian",
         "full_text": "The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are \u201celevated\u201d. \u201cThe consequences of an AI correction could be global,\u201d it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated \u2013 though investors with US holdings would be hit. Athanasios Vamvakidis, the deputy director of the IMF\u2019s monetary and capital department, launching the report, said: \u201cThe exposure of the rest of the world to US assets, particularly AI, is the highest it has ever been. So this is supporting the global economy through wealth effects today; but if we get a market correction it could have broad implications.\u201d An AI crash was one of three \u201csalient risks\u201d to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack. It called this trio of factors \u201cplausible near-term catalysts for a sharp tightening of financial conditions and market turmoil\u201d. The IMF\u2019s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. \u201cWeaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,\u201d it said. Such a reassessment would then \u201csharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers\u201d. The \u201cmagnificent seven\u201d big tech stocks \u2013 Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla \u2013 account for more than 35% of the S&amp;P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years. Yet the IMF warned of \u201cgrowing evidence\u201d that the successful rollout of AI \u201cmay not require investment on the massive scale being undertaken by \u2018hyperscaler\u2019 firms\u201d, and \u201cpotential economic gains may not be as large as expected\u201d. The hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle. Shares in semiconductor companies fell on Tuesday after the boss of Broadcom compared many AI investors to \u201ccasino\u201d gamblers. Reports that the Chinese memory chip maker CXMT was making good progress on a new chip architecture also hit South Korean tech companies. The IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash. In particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks. In the event of an AI-led market downturn \u201cthese growing sources of leverage heighten the potential for forced selling and surges in equity volatility\u201d, it said. It also pointed to the prevalence of \u201ccircular financing\u201d deals, tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction. It identified $300bn (\u00a3227bn) worth of transactions between hyperscalers and \u201cweaker AI firms\u201d in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments. In London, the chief executive of the UK\u2019s Financial Conduct Authority, Nikhil Rathi, urged every small business across the financial sector to take out insurance to protect themselves against AI-related cybersecurity threats. He told MPs on the Commons Treasury committee that not all companies would have the resources to pay for access to \u201cfrontier\u201d AI model"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.421,
-      "scores": {
-        "High House War": 0.004,
-        "High House Coin": 0.242,
-        "High House Shadow": 0.217,
-        "High House Life": 0.019,
-        "High House Iron": 0.421,
-        "High House Words": -0.015,
-        "High House Chains": 0.058
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.529,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.962
-      },
-      "article": {
-        "title": "Business News | AI Could Free Up 40% of Banks' Middle and Back-office Capacity by 2030: BCG Report",
-        "url": "https://www.latestly.com/agency-news/business-news-ai-could-free-up-40-of-banks-middle-and-back-office-capacity-by-2030-bcg-report-7644532.html",
-        "source": "worldnews",
-        "full_text": null
       },
       "position": "EMERGING"
     },
