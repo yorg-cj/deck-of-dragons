@@ -1,35 +1,6 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.467,
-      "scores": {
-        "High House War": 0.124,
-        "High House Coin": 0.075,
-        "High House Shadow": 0.198,
-        "High House Life": 0.276,
-        "High House Iron": 0.467,
-        "High House Words": -0.006,
-        "High House Chains": 0.004
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.991
-      },
-      "article": {
-        "title": "The World&#039;s New Agronomists are AI Agents\u00a0",
-        "url": "https://www.newsweek.com/the-worlds-new-agronomists-are-ai-agents-12407587",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -54,6 +25,35 @@
       "article": {
         "title": "Spying and A.I.",
         "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.454,
+      "scores": {
+        "High House War": 0.08,
+        "High House Coin": 0.201,
+        "High House Shadow": 0.279,
+        "High House Life": 0.169,
+        "High House Iron": 0.454,
+        "High House Words": 0.042,
+        "High House Chains": 0.063
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.543,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.988
+      },
+      "article": {
+        "title": "The Fallout From the \u2018Neocloud\u2019 Wipeout",
+        "url": "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html",
         "source": "nyt",
         "full_text": null
       },
@@ -148,32 +148,30 @@
     },
     {
       "house": "High House Coin",
-      "title": "The Throne",
-      "reversed": true,
+      "title": "The King",
+      "reversed": false,
       "confidence": 0.423,
       "scores": {
-        "High House War": 0.053,
+        "High House War": 0.198,
         "High House Coin": 0.423,
-        "High House Shadow": 0.159,
-        "High House Life": 0.131,
-        "High House Iron": 0.25,
-        "High House Words": 0.108,
-        "High House Chains": 0.313
+        "High House Shadow": 0.269,
+        "High House Life": 0.124,
+        "High House Iron": 0.064,
+        "High House Words": 0.207,
+        "High House Chains": 0.212
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "crash"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.846
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.507
       },
       "article": {
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "source": "guardian",
-        "full_text": "The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are \u201celevated\u201d. \u201cThe consequences of an AI correction could be global,\u201d it warned. Aside from the US, Asian markets would be most exposed, and the UK and euro area potentially more insulated \u2013 though investors with US holdings would be hit. Athanasios Vamvakidis, the deputy director of the IMF\u2019s monetary and capital department, launching the report, said: \u201cThe exposure of the rest of the world to US assets, particularly AI, is the highest it has ever been. So this is supporting the global economy through wealth effects today; but if we get a market correction it could have broad implications.\u201d An AI crash was one of three \u201csalient risks\u201d to stability identified by the IMF, alongside rising government borrowing costs and the threat of a big cyber-attack. It called this trio of factors \u201cplausible near-term catalysts for a sharp tightening of financial conditions and market turmoil\u201d. The IMF\u2019s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector. \u201cWeaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures, and circular financing arrangements,\u201d it said. Such a reassessment would then \u201csharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers\u201d. The \u201cmagnificent seven\u201d big tech stocks \u2013 Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla \u2013 account for more than 35% of the S&amp;P 500 share index in the US, up from 12% a decade ago, and their total market capitalisation has increased by more than 50% in the past two years. Yet the IMF warned of \u201cgrowing evidence\u201d that the successful rollout of AI \u201cmay not require investment on the massive scale being undertaken by \u2018hyperscaler\u2019 firms\u201d, and \u201cpotential economic gains may not be as large as expected\u201d. The hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle. Shares in semiconductor companies fell on Tuesday after the boss of Broadcom compared many AI investors to \u201ccasino\u201d gamblers. Reports that the Chinese memory chip maker CXMT was making good progress on a new chip architecture also hit South Korean tech companies. The IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash. In particular, it identified soaring debts contracted by the companies themselves; hedge fund investment in the sector; and retail investors borrowing to speculate in AI stocks. In the event of an AI-led market downturn \u201cthese growing sources of leverage heighten the potential for forced selling and surges in equity volatility\u201d, it said. It also pointed to the prevalence of \u201ccircular financing\u201d deals, tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction. It identified $300bn (\u00a3227bn) worth of transactions between hyperscalers and \u201cweaker AI firms\u201d in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments. In London, the chief executive of the UK\u2019s Financial Conduct Authority, Nikhil Rathi, urged every small business across the financial sector to take out insurance to protect themselves against AI-related cybersecurity threats. He told MPs on the Commons Treasury committee that not all companies would have the resources to pay for access to \u201cfrontier\u201d AI model"
+        "title": "Trump vs. the Bond Market",
+        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "EMERGING"
     },
@@ -207,6 +205,33 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {}
+  "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Coin",
+      "actor_a": "ELON MUSK",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -3.077,
+      "confidence": 0.14,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "EXIT",
+      "relationship": "opposed",
+      "goldstein_avg": -2.284,
+      "confidence": 0.14,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 5.049,
+      "source": "gdelt_volume"
+    }
+  }
 }
