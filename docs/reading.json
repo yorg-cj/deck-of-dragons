@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.459,
+      "confidence": 0.533,
       "scores": {
-        "High House War": 0.004,
-        "High House Coin": 0.122,
-        "High House Shadow": 0.459,
-        "High House Life": 0.094,
-        "High House Iron": 0.198,
-        "High House Words": 0.153,
-        "High House Chains": 0.099
+        "High House War": 0.105,
+        "High House Coin": 0.176,
+        "High House Shadow": 0.533,
+        "High House Life": -0.051,
+        "High House Iron": 0.164,
+        "High House Words": 0.213,
+        "High House Chains": 0.07
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.545,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "Spying and A.I.",
-        "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
-        "source": "nyt",
+        "title": "FBI disrupts North Korean corporate espionage ring in north Texas",
+        "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/fbi-disrupts-north-korean-corporate-espionage-ring-in-north-texas/article_dd19a16a-69d9-58d7-9cd6-501e9432ee5d.html",
+        "source": "gdelt_doc",
         "full_text": null
       },
       "position": "CENTER"
@@ -60,91 +60,33 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.443,
-      "scores": {
-        "High House War": 0.031,
-        "High House Coin": 0.103,
-        "High House Shadow": 0.251,
-        "High House Life": 0.104,
-        "High House Iron": 0.027,
-        "High House Words": 0.443,
-        "High House Chains": 0.11
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.926
-      },
-      "article": {
-        "title": "French minister accuses Elon Musk of \u2018online harassment campaigns\u2019 against European leaders",
-        "url": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
-        "source": "guardian",
-        "full_text": "France\u2019s foreign minister has accused Elon Musk of using his social media platform to orchestrate \u201cmassive online harassment campaigns\u201d against European leaders as he took aim at foreign efforts to destabilise the country before next year\u2019s presidential election. Speaking at an Organisation for Economic Cooperation and Development conference on Tuesday, Jean-No\u00ebl Barrot pointed to the role that social media had come to play in the global battle over democracy. \u201cThe forces seeking to undermine democracy now dominate the information landscape, where they employ tactics designed to polarise public debate,\u201d he said. The result was that \u201cpolitical movements with authoritarian aims\u201d, which \u201cplay right into the hands of democracy\u2019s declared enemies\u201d, had been gaining ground in Europe and North America, he said. \u201cThey exacerbate the polarisation of our societies,\u201d he added. \u201cTheir ultimate goal is clear: to seize power and then create the conditions to never relinquish it.\u201d Barrot cited the 2027 presidential election in France, where the far-right leader Marine Le Pen is the frontrunner in the polls. \u201cThe enemies of democracy are doing everything they can to destabilise us,\u201d he said. \u201cThey exploit our divisions and use immigration, secularism and the Israeli-Palestinian conflict to stoke hatred and tensions.\u201d He listed several other examples, from an unnamed Israeli company accused of creating fake French social media accounts to influence perceptions of the Israel-Gaza war, to accusations that Azerbaijan stirred up tensions amid deadly riots in the French Pacific territory New Caledonia. Barrot also singled out Musk, the world\u2019s richest man and owner of the social media platform X. \u201cThere are massive online harassment campaigns launched by Elon Musk against European leaders in order to influence debates by exploiting the virality of his social media platform.\u201d Musk did not reply to a request for comment. Barrot also cited the protests that have rocked France in recent weeks, as schoolchildren, students and trade unionists blockaded schools and marched through cities. The events, said Barrot, had been exploited by \u201chostile narratives\u201d from Russia, China and Iran, as well as those associated with the Maga movement in the US. Last week Musk and the US president, Donald Trump, weighed in on the protests in France, seeking to recast them through a lens of mass migration and brushing aside protesters\u2019 demands for better school conditions. Barrot said his government was working to respond to a reality in which paid or commissioned influencers sought to explore the viral reach of digital platforms. \u201cThe Kremlin\u2019s goal is explicitly stated: to put an end to our liberal democracies in favour of a new authoritarianism. Other actors are converging on this goal, seeking to dictate to Europe which democracies are \u2018good\u2019 and which are \u2018bad\u2019 based on whether they align with their own interests,\u201d he said. The French minister\u2019s remarks come days after the British prime minister, Andy Burnham, said it was \u201cclear\u201d that Russia had interfered in the Brexit referendum. Barrot said his government would work to counter these efforts by foreign entities. \u201cWe are uncompromising, because it is clear to us that they undermine the nation\u2019s fundamental interests,\u201d he said. \u201cWe do not tolerate any foreign interference, from wherever it may come. It is a matter of sovereignty.\u201d"
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.433,
-      "scores": {
-        "High House War": -0.083,
-        "High House Coin": 0.027,
-        "High House Shadow": 0.048,
-        "High House Life": 0.433,
-        "High House Iron": -0.017,
-        "High House Words": 0.033,
-        "High House Chains": 0.101
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.54,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
-      },
-      "article": {
-        "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-        "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-        "source": "guardian",
-        "full_text": "Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country\u2019s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track \u201cnonspecific\u201d health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Members of a Danish research ethics committee were informed that officials in Guinea-Bissau had approved an updated design of the study, which influenced some committee members\u2019 votes to proceed with the trial last week. But the health ministry never agreed to or authorized the trial, said Quinhin Nantote in Portuguese at a press briefing, where he referred to the study as \u201ctests\u201d. \u201cThe ministry did not authorize the tests under the terms presented in the publications currently in circulation,\u201d the health minister said. He said officials in Guinea-Bissau were \u201csurprised\u201d to see media reports that the country had given approval to the study. \u201cAny scientific research initiative involving human beings, particularly children, \u200cmust \u2060strictly comply with applicable national legislation, international ethical principles, competent evaluation and approval mechanisms,\u201d Nantote said. He spoke after convening an emergency meeting in Guinea-Bissau with the Bandim Health Project, the local ethics committee, the National Institute of Public Health (Inasa) and the Expanded Vaccination Program (PAV). The Bandim Health Project is run by the Danish researchers Peter Aaby and Christine Stabell Benn, whose decades of research have been called into question in the past year. The claims made in nearly all of their papers are \u201chighly misleading\u201d, said Charlotte Str\u00f8m, a Danish researcher who has co-authored research showing that Aaby, Stabell Benn, and their co-authors had no significant findings in 24 out of 25 studies and that they\u2019ve chosen not to publish research that may not support their viewpoints. \u201cWhen researchers operate like this and abandon proper methodological rigor, they literally decide on the results themselves, and that is not science,\u201d Str\u00f8m said, calling it \u201cproblematic, questionable [and] unethical\u201d. She added: \u201cI believe there is serious cause for concern.\u201d Kennedy has repeatedly praised their work, which he says shows that after vaccination, \u201cyou can have mass injuries, and catastrophic injuries, and they\u2019re hiding in plain sight\u201d. Aaby, Stabell Benn and Frederik Schaltz-Buchholzer did not respond by press time to the Guardian\u2019s questions about why the Danish ethics committee members were told the trial had been approved by local authorities and why it could not be held in Denmark. In Denmark, infants born to hepatitis B-negative parents do not receive the shot, there is widespread testing for and low incidence of the virus, and the robust healthcare system can track health outcomes and provide timely and comprehensive medical care \u2013 making it an ideal location for such a study. \u201cIt\u2019s completely unethical that this trial is even proposed,\u201d because a safe and effective vaccine has been available for decades, said BK Titanji, a researcher at Emory University. It\u2019s \u201creassuring\u201d to see Guinea-Bissau pushing back on the trial, Titanji said, adding: \u201cA study like this one needs the highest level of ethical scrutiny. You are going to be conducting a study on the most vulnerable population, which is newborn babies, in a country that is resource-constrained.\u201d When Titanji recently applied for approval of a collaborative study in Cameroon, she had to include extensive documentation in her application \u2013 and it was a survey, not medical research on human subjects, she said. \u201cI can\u2019t come to Emory\u2019s [institutional review board] and just be like: \u2018I got permission from Cameroon.\u2019 I have to provide the document."
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.427,
+      "confidence": 0.425,
       "scores": {
-        "High House War": 0.04,
-        "High House Coin": 0.383,
-        "High House Shadow": -0.0,
-        "High House Life": 0.25,
-        "High House Iron": 0.026,
-        "High House Words": 0.081,
-        "High House Chains": 0.427
+        "High House War": 0.263,
+        "High House Coin": 0.396,
+        "High House Shadow": 0.167,
+        "High House Life": 0.173,
+        "High House Iron": 0.047,
+        "High House Words": 0.125,
+        "High House Chains": 0.425
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.54
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.937
       },
       "article": {
-        "title": "The IMF says we need to make \u2018urgent choices\u2019. But are they choices the Albanese government is willing to make?",
-        "url": "https://www.theguardian.com/business/grogonomics/2026/oct/14/imf-world-economic-outlook-urgent-choices-albanese-australia",
-        "source": "guardian",
-        "full_text": "The IMF on Tuesday released its latest World Economic Outlook, suggesting \u201cResilience Under Strain, Urgent Choices\u201d. But the choices are ones a government wishing to win an election would likely ignore. The IMF, as a rule, always sees a need to cut spending and lower taxes. Given its history of lending money to countries in severe debt, that\u2019s no shock, and, even if the austerity it prescribed ruined lives, the IMF is very much in the Margaret Thatcher \u201cthe medicine is harsh but the patient requires it\u201d mould. That\u2019s important given what it thinks are \u201curgent choices\u201d. But first we always get a sense of how the IMF see the world when we look at the titles of its outlook. A year ago, it was Global Economy in Flux, Prospects Remain Dim, followed by Global Economy: Steady amid Divergent Forces. That, as I suggested at the time, was an extraordinary way to describe a world where Donald Trump was threatening Greenland and had just launched an insurgency into Venezuela. Since then, of course, there has been nothing \u201csteady\u201d, and the IMF outlooks went from Global Economy in the Shadow of War to Global Economy in Crosscurrents of War and Technology. Now apparently all is resilient despite the strain. For Australia the update slightly downgrades forecasts for economic growth over the next couple years. The big downgrades, though, came last October, before the US and Israel\u2019s war on Iran: Click here if this graph does not display The downgrades since April are all margin of error stuff. The forecast for economic growth this year has Australia in the top half of the advanced nations of the OECD, and only behind the US among the G7 nations: Click here if this graph does not display Similarly, the forecast for inflation is not much changed from April \u2013 up a bit, but the IMF still thinks inflation will be below 3% by next year: Click here if this graph does not display There has been a report that this will mean Australia\u2019s inflation is among the highest across the OECD next year. But, to be honest, so long at it is between 2% and 3%, arguing over who has the lowest is pretty silly. And yes, Australia is expected to see its unemployment rise by more than most OECD economies but it will remain lower here than three of the G7. Click here if this graph does not display I also would happily take the IMF\u2019s prediction for unemployment in 2026 of 4.4% and 4.7% next year, given currently (at least until Thursday) it is 4.6%. Over the next five years (at which point predictions get very ropey) the IMF sees pretty weak growth, inflation within the target range and unemployment not going above 4.8% Click here if this graph does not display Would that be so bad? I\u2019d prefer unemployment closer to 4% but, right now, given the ructions in the economy, steady inflation below 3% and unemployment lower than 4.8% is a pretty nice combination. These things never come true though (see above), so perhaps more relevant are the \u201curgent choices\u201d that the IMF thinks needs to be made. One chapter of the outlook examines how governments respond to cost of living shocks such as the US-Israel war on Iran or Russia\u2019s invasion of Ukraine. It notes government can either provide income support to (mostly) low-income households or it can suppress prices by, for example, cutting the fuel excise or subsidising energy costs (two policies the Albanese government undertook). The IMF found that (and prepare to be shocked) price-suppressing policies suppressed prices and thus lowered current inflation and also the inflationary expectations of the following year. By contrast, providing households with income support raised consumption by more (again not a shock) but it actually raised inflation not only in the current year but the expectation for inflation in the following year: Click here if this graph does not display Now you might think that makes it obvious that if you want to lower the burden of inflation the best policy is to suppress prices and actually lower inflation. But n"
+        "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks/articleshow/135010301.cms",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -171,6 +113,64 @@
         "title": "Trump vs. the Bond Market",
         "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
         "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.365,
+      "scores": {
+        "High House War": -0.056,
+        "High House Coin": 0.042,
+        "High House Shadow": -0.027,
+        "High House Life": 0.365,
+        "High House Iron": -0.004,
+        "High House Words": 0.029,
+        "High House Chains": 0.074
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.548,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "Severe drought declared in six areas of England as reservoirs run low",
+        "url": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
+        "source": "guardian",
+        "full_text": "A severe drought has been declared in six areas of England, with some reservoirs at critically low levels, threatening public supplies. Parts of Devon, Cornwall, Dorset, Somerset, East Sussex and West Sussex have moved into severe drought, and urgent measures are being taken to secure public supplies of water after the UK experienced its hottest summer on record. Despite the crisis, the environment secretary, Angela Eagle, has yet to approve requests from three water companies, two in areas now in severe drought, to extend restrictions on water use to businesses such as golf clubs and commercial car washes. Emma Hardy, the water minister, indicated on Thursday that the environment could suffer in the continuing drought. Hardy instructed the Environment Agency to prioritise protecting public water supplies in areas affected by severe drought where there is an unavoidable trade-off between environmental rules and water supplies. After a meeting of the national drought group, Eagle, said: \u201cThis level of drought is something we have not experienced for decades, so this government is stepping up our support and planning. \u201cWe are working closely with water companies to protect public supplies in the areas affected, and I\u2019d continue to urge everyone to think about how they can use water wisely over the coming weeks.\u201d South East Water, South West Water and Southern Water want to impose non-essential user bans on businesses to protect supplies. This would affect golf clubs, private schools and commercial properties. But while Eagle called on water companies to step up their drought planning, she did not announce approval for the non-essential user bans. The south-east and south-west of England have experienced their driest April to September in more than a century, fuelled by the climate crisis, affecting reservoir levels in those areas. Levels at two reservoirs are critically low. Ardingly reservoir, which serves about 95,000 properties in Haywards Heath, Uckfield and surrounding areas, is only 19% full. Storage at Wimbleball, which supplies South West Water customers in East Devon, North Devon, Somerset and West Dorset and Wessex Water customers in West Somerset, is at 16%. The Environment Agency (EA) would expect reservoir storage to be about 75% at this time of year. There are also concerns for several smaller South West Water reservoirs serving homes in Devon and Cornwall; these include Drift and Stithians which supply 56,000 households in Cornwall, and the Tottiford and Venford group which supplies 47,000 households in Devon. The National Drought Group said the government and the EA would move to daily monitoring of reservoir and river levels and run heightened water quality monitoring because of the lower dilution levels of sewage, raising the risks for water quality and environmental pollution. Businesses that abstract water will be put through more compliance checks to make sure they are taking only what they are allowed. Philip Duffy, the chief executive of the EA, said: \u201cWe cannot change the weather, but water companies can act now. We expect them to follow their drought plans and take the steps needed to secure public water supplies. \u201cWe are also asking everyone to use less water. That will leave more in our rivers and the environment, helping farmers and protecting wildlife and nature.\u201d"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.337,
+      "scores": {
+        "High House War": 0.109,
+        "High House Coin": 0.196,
+        "High House Shadow": 0.206,
+        "High House Life": 0.205,
+        "High House Iron": -0.004,
+        "High House Words": 0.337,
+        "High House Chains": 0.277
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.985
+      },
+      "article": {
+        "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+        "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "EMERGING"
@@ -207,13 +207,23 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "ELON MUSK",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -3.077,
-      "confidence": 0.14,
+      "house_a": "High House Shadow",
+      "house_b": "High House Life",
+      "actor_a": "TEXAS",
+      "actor_b": "ENGLAND",
+      "relationship": "neutral",
+      "goldstein_avg": -0.586,
+      "confidence": 0.29,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "ANTONIO GUTERRES",
+      "relationship": "neutral",
+      "goldstein_avg": -0.372,
+      "confidence": 0.29,
       "source": "gdelt_tone"
     },
     {
@@ -222,15 +232,20 @@
       "actor_a": "TRUMP",
       "actor_b": "EXIT",
       "relationship": "opposed",
-      "goldstein_avg": -2.284,
-      "confidence": 0.14,
+      "goldstein_avg": -1.98,
+      "confidence": 0.29,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
+      "trend": "stable",
+      "trend_ratio": 1.143,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
       "trend": "rising",
-      "trend_ratio": 5.049,
+      "trend_ratio": 1.603,
       "source": "gdelt_volume"
     }
   }
