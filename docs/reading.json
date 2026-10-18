@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.533,
+      "confidence": 0.459,
       "scores": {
-        "High House War": 0.105,
-        "High House Coin": 0.176,
-        "High House Shadow": 0.533,
-        "High House Life": -0.051,
-        "High House Iron": 0.164,
-        "High House Words": 0.213,
-        "High House Chains": 0.07
+        "High House War": 0.004,
+        "High House Coin": 0.122,
+        "High House Shadow": 0.459,
+        "High House Life": 0.094,
+        "High House Iron": 0.198,
+        "High House Words": 0.153,
+        "High House Chains": 0.099
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.991
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "FBI disrupts North Korean corporate espionage ring in north Texas",
-        "url": "https://www.vtcng.com/shelburnenews/state_and_world/world_news/fbi-disrupts-north-korean-corporate-espionage-ring-in-north-texas/article_dd19a16a-69d9-58d7-9cd6-501e9432ee5d.html",
-        "source": "gdelt_doc",
+        "title": "Spying and A.I.",
+        "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -60,29 +60,29 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": false,
-      "confidence": 0.425,
+      "confidence": 0.438,
       "scores": {
-        "High House War": 0.263,
-        "High House Coin": 0.396,
-        "High House Shadow": 0.167,
-        "High House Life": 0.173,
-        "High House Iron": 0.047,
-        "High House Words": 0.125,
-        "High House Chains": 0.425
+        "High House War": 0.438,
+        "High House Coin": 0.081,
+        "High House Shadow": 0.165,
+        "High House Life": 0.261,
+        "High House Iron": 0.019,
+        "High House Words": 0.188,
+        "High House Chains": 0.203
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.937
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9
       },
       "article": {
-        "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks/articleshow/135010301.cms",
+        "title": "Fighting intensifies across Yemen as humanitarian crisis deepens\u00a0 - Jamaica Inquirer \u2013 Daily Jamaica News",
+        "url": "https://jamaicainquirer.com/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens",
         "source": "worldnews",
         "full_text": null
       },
@@ -120,29 +120,29 @@
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.365,
+      "reversed": false,
+      "confidence": 0.36,
       "scores": {
-        "High House War": -0.056,
-        "High House Coin": 0.042,
-        "High House Shadow": -0.027,
-        "High House Life": 0.365,
-        "High House Iron": -0.004,
-        "High House Words": 0.029,
-        "High House Chains": 0.074
+        "High House War": 0.032,
+        "High House Coin": 0.068,
+        "High House Shadow": 0.081,
+        "High House Life": 0.36,
+        "High House Iron": 0.05,
+        "High House Words": 0.182,
+        "High House Chains": 0.118
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.987
       },
       "article": {
-        "title": "Severe drought declared in six areas of England as reservoirs run low",
-        "url": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
-        "source": "guardian",
-        "full_text": "A severe drought has been declared in six areas of England, with some reservoirs at critically low levels, threatening public supplies. Parts of Devon, Cornwall, Dorset, Somerset, East Sussex and West Sussex have moved into severe drought, and urgent measures are being taken to secure public supplies of water after the UK experienced its hottest summer on record. Despite the crisis, the environment secretary, Angela Eagle, has yet to approve requests from three water companies, two in areas now in severe drought, to extend restrictions on water use to businesses such as golf clubs and commercial car washes. Emma Hardy, the water minister, indicated on Thursday that the environment could suffer in the continuing drought. Hardy instructed the Environment Agency to prioritise protecting public water supplies in areas affected by severe drought where there is an unavoidable trade-off between environmental rules and water supplies. After a meeting of the national drought group, Eagle, said: \u201cThis level of drought is something we have not experienced for decades, so this government is stepping up our support and planning. \u201cWe are working closely with water companies to protect public supplies in the areas affected, and I\u2019d continue to urge everyone to think about how they can use water wisely over the coming weeks.\u201d South East Water, South West Water and Southern Water want to impose non-essential user bans on businesses to protect supplies. This would affect golf clubs, private schools and commercial properties. But while Eagle called on water companies to step up their drought planning, she did not announce approval for the non-essential user bans. The south-east and south-west of England have experienced their driest April to September in more than a century, fuelled by the climate crisis, affecting reservoir levels in those areas. Levels at two reservoirs are critically low. Ardingly reservoir, which serves about 95,000 properties in Haywards Heath, Uckfield and surrounding areas, is only 19% full. Storage at Wimbleball, which supplies South West Water customers in East Devon, North Devon, Somerset and West Dorset and Wessex Water customers in West Somerset, is at 16%. The Environment Agency (EA) would expect reservoir storage to be about 75% at this time of year. There are also concerns for several smaller South West Water reservoirs serving homes in Devon and Cornwall; these include Drift and Stithians which supply 56,000 households in Cornwall, and the Tottiford and Venford group which supplies 47,000 households in Devon. The National Drought Group said the government and the EA would move to daily monitoring of reservoir and river levels and run heightened water quality monitoring because of the lower dilution levels of sewage, raising the risks for water quality and environmental pollution. Businesses that abstract water will be put through more compliance checks to make sure they are taking only what they are allowed. Philip Duffy, the chief executive of the EA, said: \u201cWe cannot change the weather, but water companies can act now. We expect them to follow their drought plans and take the steps needed to secure public water supplies. \u201cWe are also asking everyone to use less water. That will leave more in our rivers and the environment, helping farmers and protecting wildlife and nature.\u201d"
+        "title": "President Obama\u2019s Climate Legacy",
+        "url": "https://www.nytimes.com/2026/10/13/climate/obama-presidential-center-climate.html",
+        "source": "nyt",
+        "full_text": null
       },
       "position": "WILD"
     },
@@ -176,29 +176,31 @@
       "position": "EMERGING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.332,
+      "confidence": 0.25,
       "scores": {
-        "High House War": 0.332,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.152,
-        "High House Life": 0.026,
-        "High House Iron": -0.028,
-        "High House Words": 0.254,
-        "High House Chains": 0.113
+        "High House War": 0.071,
+        "High House Coin": 0.143,
+        "High House Shadow": 0.147,
+        "High House Life": 0.103,
+        "High House Iron": -0.105,
+        "High House Words": 0.191,
+        "High House Chains": 0.25
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "expelled"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "Contrasts in War: Trump Sought an Exit. Putin Pushed On. Now Both Are Stuck.",
-        "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+        "title": "They Were Eager to Return Home. Then the U.S. Bombed Iran.",
+        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
         "source": "nyt",
         "full_text": null
       },
@@ -207,45 +209,20 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Life",
-      "actor_a": "TEXAS",
-      "actor_b": "ENGLAND",
-      "relationship": "neutral",
-      "goldstein_avg": -0.586,
-      "confidence": 0.29,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "ANTONIO GUTERRES",
-      "relationship": "neutral",
-      "goldstein_avg": -0.372,
-      "confidence": 0.29,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "EXIT",
+      "house_a": "High House War",
+      "house_b": "High House Coin",
+      "actor_a": "YEMEN",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -1.98,
-      "confidence": 0.29,
+      "goldstein_avg": -3.439,
+      "confidence": 0.42,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 1.143,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.603,
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
