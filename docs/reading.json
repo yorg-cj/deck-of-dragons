@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "cards": [
     {
       "house": "High House Shadow",
@@ -60,31 +60,31 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.438,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.45,
       "scores": {
-        "High House War": 0.438,
-        "High House Coin": 0.081,
-        "High House Shadow": 0.165,
-        "High House Life": 0.261,
-        "High House Iron": 0.019,
-        "High House Words": 0.188,
-        "High House Chains": 0.203
+        "High House War": -0.015,
+        "High House Coin": 0.024,
+        "High House Shadow": 0.067,
+        "High House Life": 0.45,
+        "High House Iron": -0.009,
+        "High House Words": 0.066,
+        "High House Chains": 0.073
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.532,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.9
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.968
       },
       "article": {
-        "title": "Fighting intensifies across Yemen as humanitarian crisis deepens\u00a0 - Jamaica Inquirer \u2013 Daily Jamaica News",
-        "url": "https://jamaicainquirer.com/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+        "source": "guardian",
+        "full_text": "The government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged. Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. The same research found that minority-ethnic populations were exposed to air pollution levels that were about 6% higher than those experienced by white populations. In a letter coordinated by the charity Enact Equality and signed by 150 scientists, MPs and activists, including the climate activist Greta Thunberg, the prime minister, Andy Burnham, has been urged to hold a national inquiry into the impacts of air pollution on these groups. Exposure to air pollution is linked to heart disease, strokes, cancer, asthma and effects on lung development in children. Despite this, the letter says, the UK does not have a dedicated mechanism to address the health inequalities. Air pollution can come from a wide range of sources, from wood-burning stoves to industrial fossil fuel burning. But the leading threat to clean air is posed by traffic emissions, with petrol and diesel vehicles emitting a variety of toxic pollutants. Measures such as London\u2019s ultra-low emission zone have had a significant impact on improving air quality, with children\u2019s lungs found to have grown bigger and stronger as a result of the policy. While there has been marked progress in reducing air pollution in cities like London, new government data shows that in 2025, parts of London, Glasgow and Bristol still had illegal levels of air pollution. Rosamund Adoo-Kissi-Debrah, the mother of a nine-year-old girl who became the first person in the UK to have air pollution cited on their death certificate, said a \u201cfailure of inaction by all the main political parties over so many years, has meant the UK population is exposed to illegal levels of emissions\u201d. This warning comes as new data, obtained through freedom of information requests by the campaign group Mums for Lungs, shows that in 11 English cities and areas, including London, Greater Manchester and Birmingham, more than 200,000 children were taken to hospital with breathing difficulties in 2025. The research found that younger children were the most affected, with more than 120,000 babies and toddlers admitted to A&amp;E or hospital. Children are particularly vulnerable to air pollution because their lungs are still developing and they breathe more air relative to their body size than adults. In the city of Manchester, there has been a stark increase in admissions of babies and toddlers, rising from 653 in 2023 to 1,072 in 2025. Mums for Lungs said the decision in 2023 by Burnham, the then mayor of Greater Manchester, to scrap plans for a clean air zone raised important questions about whether sufficient action was being taken to drive down pollution levels. Jemima Hartshorn, the campaign group\u2019s founder, declared the situation an \u201cair pollution emergency\u201d. \u201cBehind every number is a child who is struggling to breathe and a family looking for help. We cannot keep treating dirty air as inevitable or acceptable,\u201d she said. A spokesperson for the Department for Environment, Food and Rural Affairs said: \u201cAir quality continues to improve over the longer term and while most air quality standards are being met, more action is needed to protect communities. \u201cOur ambitious new targets will cut harmful particle exposure by nearly a third by 2030. Working together with local authorities will keep driving progress through clean air plans and robust monitoring.\u201d"
       },
       "position": "FOUNDATION"
     },
@@ -118,33 +118,33 @@
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.36,
+      "house": "High House War",
+      "title": "The Warlord",
+      "reversed": true,
+      "confidence": 0.372,
       "scores": {
-        "High House War": 0.032,
-        "High House Coin": 0.068,
-        "High House Shadow": 0.081,
-        "High House Life": 0.36,
-        "High House Iron": 0.05,
-        "High House Words": 0.182,
-        "High House Chains": 0.118
+        "High House War": 0.372,
+        "High House Coin": 0.124,
+        "High House Shadow": 0.154,
+        "High House Life": -0.038,
+        "High House Iron": 0.005,
+        "High House Words": 0.191,
+        "High House Chains": 0.271
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.523,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.987
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.951
       },
       "article": {
-        "title": "President Obama\u2019s Climate Legacy",
-        "url": "https://www.nytimes.com/2026/10/13/climate/obama-presidential-center-climate.html",
-        "source": "nyt",
+        "title": "\u57c3\u53ca\u6e96\u5099\u8ecd\u63f4\u6c99\u70cf\u5730 \u5c0d\u6297\u65e5\u76ca\u7316\u7357\u7684\u8449\u9580\u80e1\u585e\u53db\u8ecd - \u570b\u969b",
+        "url": "https://www.chinatimes.com/realtimenews/20261019003568-260408",
+        "source": "gdelt_doc",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
@@ -173,7 +173,7 @@
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -207,19 +207,18 @@
       "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House War",
-      "house_b": "High House Coin",
-      "actor_a": "YEMEN",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -3.439,
-      "confidence": 0.42,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.741,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.602,
+      "source": "gdelt_volume"
+    },
     "High House Chains": {
       "trend": "falling",
       "trend_ratio": 0.0,
