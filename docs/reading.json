@@ -1,32 +1,35 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.459,
+      "confidence": 0.504,
       "scores": {
-        "High House War": 0.004,
-        "High House Coin": 0.122,
-        "High House Shadow": 0.459,
-        "High House Life": 0.094,
-        "High House Iron": 0.198,
-        "High House Words": 0.153,
-        "High House Chains": 0.099
+        "High House War": 0.063,
+        "High House Coin": 0.22,
+        "High House Shadow": 0.504,
+        "High House Life": 0.027,
+        "High House Iron": 0.145,
+        "High House Words": 0.223,
+        "High House Chains": 0.122
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
+        "confidence": 0.8,
+        "matched_signals": [
+          "caught",
+          "revealed"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
+        "sentiment_score": 0.98
       },
       "article": {
-        "title": "Spying and A.I.",
-        "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Serbian prosecutor who investigated Belgrade Trump tower project \u2018targeted with spyware\u2019",
+        "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+        "source": "guardian",
+        "full_text": "A Serbian prosecutor who investigated the authorities\u2019 allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates. The finding suggests a disturbing new element in the authoritarian Serbian regime\u2019s campaign to undermine what is believed to be the first criminal case related to global moneymaking drive of the US president\u2019s family, which critics describe as a \u201cpay to play\u201d scheme trading the Trump administration\u2019s favour for business opportunities. Rade Baji\u0107, the targeted prosecutor, said: \u201cIn my opinion, my involvement in this case was the sole reason for this unlawful spyware attack.\u201d Analysts at the Citizen Lab, a digital forensics laboratory, have not so far established who was behind the attack but the Serbian regime has previously been caught using spyware against its opponents. News of the alleged hack follows the Guardian\u2019s revelations last week that Aleksandar Vu\u010di\u0107, Serbia\u2019s president, personally ordered that a cherished site in Belgrade be stripped of its legal protection so it could be handed over for a $500m Trump hotel and tower. Vu\u010di\u0107, one of the Balkans\u2019 most influential nationalists, hosted the US president\u2019s son Donald Jr \u2013 \u201cdear Don\u201d, as he calls him \u2013 and son-in-law Jared Kushner as he ingratiated himself with the Trumps. At the weekend, Vu\u010di\u0107 responded to the Guardian\u2019s revelations about his role in the scandal by confirming details of a previously secret meeting. He indicated he had done nothing wrong. \u201cI fought for my people,\u201d he said. \u201cAnd that\u2019s what I\u2019ll continue to do in the future.\u201d Last year prosecutors brought a landmark indictment against senior members of Vu\u010di\u0107\u2019s regime, accusing them of abusing their office to unlawfully strip the General Staff building \u2013 a monument to Serbia\u2019s recent difficult history \u2013 of its protected status. They face years in jail if convicted. Kushner, who was leading the Trump Belgrade development, called off the plans after the charges were made public. Vu\u010di\u0107 vowed reprisals, denouncing the prosecutors, including Baji\u0107, a member of the specialised organised-crime unit that brought the indictment. Baji\u0107 has said he was taken off the case without explanation shortly before the indictment was published. He went on to address one of the rolling protests against the regime triggered by widespread corruption, telling demonstrators in February: \u201cThe law will be equal for all.\u201d In August, Baji\u0107 received a message from Apple saying it had \u201cdetected a targeted mercenary attack against your iPhone\u201d. Citizen Lab researchers, who have been analysing Baji\u0107\u2019s phone, said this was \u201ca high confidence indicator that his device was likely targeted with mercenary spyware, such as Pegasus\u201d. Working with the Share Foundation, a Serbian rights group, they previously identified spyware attacks against anti-government protesters. In at least one case, the Citizen Lab analysts discovered Pegasus on a protester\u2019s phone. \u201cA zero-click infection with Pegasus spyware would not have been visible to the target, and would give the Pegasus attacker total access to the device,\u201d they said of that discovery. The Guardian\u2019s Pegasus Project revealed how journalists, activists, politicians and others have been targeted by governments using the spyware. NSO Group, the Israel-based company that makes Pegasus, has been approached for comment. Vu\u010di\u0107, who stepped down late last month and called snap elections for 25 October, hoping to prolong his 12-year rule by switching from president to prime minister. He has been approached for comment, as has the prosecutors\u2019 unit, which has said it may bring more charges in the General Staff building case. Representatives of the Trumps and Kushner have denied they engaged in \u201cpay to play\u201d arrangements and said they were not involved in the Serbian authorities\u2019 decision to strip the building of its protected status."
       },
       "position": "CENTER"
     },
@@ -118,62 +121,62 @@
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Warlord",
-      "reversed": true,
-      "confidence": 0.372,
-      "scores": {
-        "High House War": 0.372,
-        "High House Coin": 0.124,
-        "High House Shadow": 0.154,
-        "High House Life": -0.038,
-        "High House Iron": 0.005,
-        "High House Words": 0.191,
-        "High House Chains": 0.271
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.523,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.951
-      },
-      "article": {
-        "title": "\u57c3\u53ca\u6e96\u5099\u8ecd\u63f4\u6c99\u70cf\u5730 \u5c0d\u6297\u65e5\u76ca\u7316\u7357\u7684\u8449\u9580\u80e1\u585e\u53db\u8ecd - \u570b\u969b",
-        "url": "https://www.chinatimes.com/realtimenews/20261019003568-260408",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.337,
+      "confidence": 0.386,
       "scores": {
-        "High House War": 0.109,
-        "High House Coin": 0.196,
-        "High House Shadow": 0.206,
-        "High House Life": 0.205,
-        "High House Iron": -0.004,
-        "High House Words": 0.337,
-        "High House Chains": 0.277
+        "High House War": 0.246,
+        "High House Coin": 0.232,
+        "High House Shadow": 0.367,
+        "High House Life": -0.033,
+        "High House Iron": -0.025,
+        "High House Words": 0.386,
+        "High House Chains": 0.268
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.798
+      },
+      "article": {
+        "title": "How Iran carries out violence abroad - from diplomats and assassins to criminal networks",
+        "url": "http://www.iranherald.com/news/279385476/how-iran-carries-out-violence-abroad-from-diplomats-and-assassins-to-criminal-networks",
+        "source": "gdelt_doc",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.367,
+      "scores": {
+        "High House War": 0.367,
+        "High House Coin": 0.063,
+        "High House Shadow": 0.14,
+        "High House Life": 0.156,
+        "High House Iron": 0.021,
+        "High House Words": 0.091,
+        "High House Chains": 0.094
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.985
+        "sentiment_score": 0.861
       },
       "article": {
-        "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
-        "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
-        "source": "worldnews",
-        "full_text": null
+        "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+        "source": "guardian",
+        "full_text": "RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen\u2019s Houthis, flying defensive missions over the country\u2019s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation \u2013 the most significant military mission signed off by Andy Burnham as prime minister \u2013 will involve RAF pilots attempting to shoot down Houthi missiles and drones, which have been used in attacks on Saudi airports and oil facilities. The Ministry of Defence emphasised that the role of the fighters \u2013 whose number was not stated \u2013 would be limited. \u201cThese aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\u201d it said. Military advisers and an Atlas A400M transport aircraft, capable of transporting heavy equipment, would also be provided, in addition to an existing commitment to supply air-to-air refuelling for Saudi fighter jets with an RAF Voyager. The refuelling mission has been extended by 90 days. An offensive by the Iran-aligned Houthis in Yemen that began in September has gradually escalated into a deadly regional conflict, with the Houthis attacking Saudi Arabia, the backer of Yemen\u2019s officially recognised government. Thirteen people were killed when a missile hit King Khalid international airport in Riyadh this month, the deadliest incident so far in a war that has claimed 19 lives in Saudi Arabia. The UK has long been a military ally of Saudi Arabia, with BAE Systems supplying 72 Typhoons in a deal originally worth \u00a34.4bn. Riyadh has also been considering buying another 48 in a negotiation that has dragged on for years. Though the UK only had a limited involvement in the US-Israel war against Iran, Typhoons from the RAF airbase in Akrotiri, Cyprus, and in Qatar, flew defensive missions in the spring and summer to shoot down missiles and drones launched by Iran and other proxies against Gulf states. Britain\u2019s announcement came a few days after the defence secretary, Wes Streeting, visited his US counterpart, Pete Hegseth, at the Pentagon, where they discussed how to respond to the Houthi escalation. Amid some concern that the UK risks being seen as closely aligned to the unpopular US war on Iran, the military intervention was partly justified because instability in the Middle East was driving up energy prices and affecting the cost of living. Streeting said: \u201cThe continuing attacks from the Houthis on our ally Saudi Arabia are absolutely despicable. The targeting of the airport in Riyadh in particular shows the lengths the Houthis are going to to escalate the situation in the region. \u201cThat\u2019s why today I have approved further UK military support. RAF Typhoons will fly defensive air missions to help protect Saudi airspace from drones and missiles. This builds on the UK equipment and personnel we already have in the country to defend against Houthi air attacks.\u201d"
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -207,16 +210,22 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "SAUDI ARABIA",
+      "relationship": "opposed",
+      "goldstein_avg": -3.385,
+      "confidence": 0.7,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
     "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.741,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.602,
+      "trend": "stable",
+      "trend_ratio": 1.077,
       "source": "gdelt_volume"
     },
     "High House Chains": {
