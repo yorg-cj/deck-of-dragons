@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "cards": [
     {
       "house": "High House Shadow",
@@ -92,6 +92,35 @@
       "position": "FOUNDATION"
     },
     {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.426,
+      "scores": {
+        "High House War": 0.134,
+        "High House Coin": 0.152,
+        "High House Shadow": 0.229,
+        "High House Life": 0.067,
+        "High House Iron": 0.012,
+        "High House Words": 0.426,
+        "High House Chains": 0.167
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Your Iran Questions, Answered",
+        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
@@ -121,60 +150,31 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.386,
-      "scores": {
-        "High House War": 0.246,
-        "High House Coin": 0.232,
-        "High House Shadow": 0.367,
-        "High House Life": -0.033,
-        "High House Iron": -0.025,
-        "High House Words": 0.386,
-        "High House Chains": 0.268
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.798
-      },
-      "article": {
-        "title": "How Iran carries out violence abroad - from diplomats and assassins to criminal networks",
-        "url": "http://www.iranherald.com/news/279385476/how-iran-carries-out-violence-abroad-from-diplomats-and-assassins-to-criminal-networks",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.367,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.367,
-        "High House Coin": 0.063,
-        "High House Shadow": 0.14,
-        "High House Life": 0.156,
-        "High House Iron": 0.021,
-        "High House Words": 0.091,
-        "High House Chains": 0.094
+        "High House War": 0.377,
+        "High House Coin": 0.047,
+        "High House Shadow": 0.146,
+        "High House Life": 0.174,
+        "High House Iron": -0.0,
+        "High House Words": 0.111,
+        "High House Chains": 0.088
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.861
+        "sentiment_score": 0.773
       },
       "article": {
         "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
         "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
         "source": "guardian",
-        "full_text": "RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen\u2019s Houthis, flying defensive missions over the country\u2019s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation \u2013 the most significant military mission signed off by Andy Burnham as prime minister \u2013 will involve RAF pilots attempting to shoot down Houthi missiles and drones, which have been used in attacks on Saudi airports and oil facilities. The Ministry of Defence emphasised that the role of the fighters \u2013 whose number was not stated \u2013 would be limited. \u201cThese aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\u201d it said. Military advisers and an Atlas A400M transport aircraft, capable of transporting heavy equipment, would also be provided, in addition to an existing commitment to supply air-to-air refuelling for Saudi fighter jets with an RAF Voyager. The refuelling mission has been extended by 90 days. An offensive by the Iran-aligned Houthis in Yemen that began in September has gradually escalated into a deadly regional conflict, with the Houthis attacking Saudi Arabia, the backer of Yemen\u2019s officially recognised government. Thirteen people were killed when a missile hit King Khalid international airport in Riyadh this month, the deadliest incident so far in a war that has claimed 19 lives in Saudi Arabia. The UK has long been a military ally of Saudi Arabia, with BAE Systems supplying 72 Typhoons in a deal originally worth \u00a34.4bn. Riyadh has also been considering buying another 48 in a negotiation that has dragged on for years. Though the UK only had a limited involvement in the US-Israel war against Iran, Typhoons from the RAF airbase in Akrotiri, Cyprus, and in Qatar, flew defensive missions in the spring and summer to shoot down missiles and drones launched by Iran and other proxies against Gulf states. Britain\u2019s announcement came a few days after the defence secretary, Wes Streeting, visited his US counterpart, Pete Hegseth, at the Pentagon, where they discussed how to respond to the Houthi escalation. Amid some concern that the UK risks being seen as closely aligned to the unpopular US war on Iran, the military intervention was partly justified because instability in the Middle East was driving up energy prices and affecting the cost of living. Streeting said: \u201cThe continuing attacks from the Houthis on our ally Saudi Arabia are absolutely despicable. The targeting of the airport in Riyadh in particular shows the lengths the Houthis are going to to escalate the situation in the region. \u201cThat\u2019s why today I have approved further UK military support. RAF Typhoons will fly defensive air missions to help protect Saudi airspace from drones and missiles. This builds on the UK equipment and personnel we already have in the country to defend against Houthi air attacks.\u201d"
+        "full_text": "RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen\u2019s Houthis, flying protective missions over the country\u2019s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation \u2013 the most significant military mission signed off by Andy Burnham as prime minister \u2013 will involve RAF pilots attempting to shoot down Houthi missiles and drones, which attacked Saudi airports and oil facilities. The Ministry of Defence emphasised that the role of the fighters \u2013 whose number was not stated \u2013 would be limited. \u201cThese aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\u201d it said. An offensive by the Iran-aligned Houthis in Yemen that began in September has gradually escalated into a deadly regional conflict. This month the Houthis have attacked Saudi Arabia, the backer of Yemen\u2019s officially recognised government. Thirteen people were killed when a missile hit King Khalid international airport in Riyadh, the deadliest incident since September in a war that has claimed 19 lives in Saudi Arabia so far. Dozens more have been killed in Yemen by the surge in fighting. The death toll from Monday\u2019s Houthi missile strike on a Yemeni government training camp has risen to 73, a brutal demonstration of the rebel group\u2019s military effectiveness. Wes Streeting, the defence secretary, said in a TV interview the UK had agreed to help Saudi Arabia to counter the \u201coutrageous Houthi escalation that we\u2019ve seen in recent weeks\u201d and said the UK was \u201cresponding to protect civilians\u201d from attack. HA Hellyer, a Middle East expert with the Royal United Services Institute thinktank, speculated that the UK could get drawn further into the conflict in the future, asking: \u201cWhat does defensive mean?\u201d He asked what the RAF would do if a Houthi attack happened on a Saudi ship in the Red Sea and the British were in a position to stop it. \u201cThe UK might say it was defensive but the Houthis would see it as offensive,\u201d he said. Streeting, however, said that the fighter jets\u2019 remit was narrow. \u201cRAF Typhoons will fly defensive air missions to help protect Saudi airspace from drones and missiles,\u201d he said. Military advisers said the UK would also provide an Atlas A400M transport aircraft capable of transporting heavy equipment, in addition to an existing commitment to supply air-to-air refuelling for Saudi fighter jets with an RAF Voyager. The refuelling mission has been extended by 90 days. The UK has long been a military ally of Saudi Arabia: BAE Systems has supplied it with 72 Typhoons in a deal originally worth \u00a34.4bn. Riyadh has been considering buying another 48 in a negotiation that has dragged on for years. Though the UK only had a limited involvement in the US-Israel war against Iran, Typhoons from the RAF airbase in Akrotiri, Cyprus, and in Qatar, flew defensive missions in the spring and summer to shoot down missiles and drones launched by Iran and other proxies against Gulf states. Britain\u2019s announcement came a few days after Streeting visited his US counterpart, Pete Hegseth, at the Pentagon, where they discussed how to respond to the Houthi escalation amongst other issues. The US has so far stepped up its intelligence support and sent more than 100 military advisers to help the Saudis with targeting, but it has been cautious about providing more direct military support. Donald Trump urged Riyadh on Friday to accept help from Israel, though it was unclear what was on offer. The White House has been trying to de-escalate against Iran and in the Middle Eastbefore US midterm elections in November and with the oil price over $100 a barrel. The US envoy to Syria and Iraq, Tom Barrack, told a conference in Qatar that sending in ground troops against the Houthis \u201cseems fruitless\u201d. The Saudi strategy for dealing with the Houthis, who have been gaining territory along the Red Sea coast, remains unclear. \u201cAllies would be happy to help"
       },
       "position": "EMERGING"
     },
@@ -182,28 +182,26 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.25,
+      "confidence": 0.343,
       "scores": {
-        "High House War": 0.071,
-        "High House Coin": 0.143,
-        "High House Shadow": 0.147,
-        "High House Life": 0.103,
-        "High House Iron": -0.105,
-        "High House Words": 0.191,
-        "High House Chains": 0.25
+        "High House War": -0.022,
+        "High House Coin": 0.328,
+        "High House Shadow": 0.215,
+        "High House Life": 0.083,
+        "High House Iron": 0.07,
+        "High House Words": 0.259,
+        "High House Chains": 0.343
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "expelled"
-        ],
+        "confidence": 0.517,
+        "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "They Were Eager to Return Home. Then the U.S. Bombed Iran.",
-        "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
         "source": "nyt",
         "full_text": null
       },
@@ -213,24 +211,24 @@
   "relationships": [
     {
       "house_a": "High House Words",
-      "house_b": "High House War",
+      "house_b": "High House Coin",
       "actor_a": "IRAN",
-      "actor_b": "SAUDI ARABIA",
+      "actor_b": "TRUMP",
       "relationship": "opposed",
-      "goldstein_avg": -3.385,
-      "confidence": 0.7,
+      "goldstein_avg": -2.576,
+      "confidence": 0.85,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 1.077,
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.235,
       "source": "gdelt_volume"
     },
     "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
+      "trend": "rising",
+      "trend_ratio": 2.276,
       "source": "gdelt_volume"
     }
   }
