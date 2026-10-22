@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "cards": [
     {
       "house": "High House Shadow",
@@ -66,28 +66,30 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.45,
+      "confidence": 0.432,
       "scores": {
-        "High House War": -0.015,
-        "High House Coin": 0.024,
-        "High House Shadow": 0.067,
-        "High House Life": 0.45,
-        "High House Iron": -0.009,
-        "High House Words": 0.066,
-        "High House Chains": 0.073
+        "High House War": -0.048,
+        "High House Coin": 0.102,
+        "High House Shadow": 0.076,
+        "High House Life": 0.432,
+        "High House Iron": 0.006,
+        "High House Words": 0.056,
+        "High House Chains": 0.121
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.532,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "denied"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.968
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
-        "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+        "title": "Controversial US-backed vaccine trial in African newborns halted",
+        "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
         "source": "guardian",
-        "full_text": "The government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged. Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. The same research found that minority-ethnic populations were exposed to air pollution levels that were about 6% higher than those experienced by white populations. In a letter coordinated by the charity Enact Equality and signed by 150 scientists, MPs and activists, including the climate activist Greta Thunberg, the prime minister, Andy Burnham, has been urged to hold a national inquiry into the impacts of air pollution on these groups. Exposure to air pollution is linked to heart disease, strokes, cancer, asthma and effects on lung development in children. Despite this, the letter says, the UK does not have a dedicated mechanism to address the health inequalities. Air pollution can come from a wide range of sources, from wood-burning stoves to industrial fossil fuel burning. But the leading threat to clean air is posed by traffic emissions, with petrol and diesel vehicles emitting a variety of toxic pollutants. Measures such as London\u2019s ultra-low emission zone have had a significant impact on improving air quality, with children\u2019s lungs found to have grown bigger and stronger as a result of the policy. While there has been marked progress in reducing air pollution in cities like London, new government data shows that in 2025, parts of London, Glasgow and Bristol still had illegal levels of air pollution. Rosamund Adoo-Kissi-Debrah, the mother of a nine-year-old girl who became the first person in the UK to have air pollution cited on their death certificate, said a \u201cfailure of inaction by all the main political parties over so many years, has meant the UK population is exposed to illegal levels of emissions\u201d. This warning comes as new data, obtained through freedom of information requests by the campaign group Mums for Lungs, shows that in 11 English cities and areas, including London, Greater Manchester and Birmingham, more than 200,000 children were taken to hospital with breathing difficulties in 2025. The research found that younger children were the most affected, with more than 120,000 babies and toddlers admitted to A&amp;E or hospital. Children are particularly vulnerable to air pollution because their lungs are still developing and they breathe more air relative to their body size than adults. In the city of Manchester, there has been a stark increase in admissions of babies and toddlers, rising from 653 in 2023 to 1,072 in 2025. Mums for Lungs said the decision in 2023 by Burnham, the then mayor of Greater Manchester, to scrap plans for a clean air zone raised important questions about whether sufficient action was being taken to drive down pollution levels. Jemima Hartshorn, the campaign group\u2019s founder, declared the situation an \u201cair pollution emergency\u201d. \u201cBehind every number is a child who is struggling to breathe and a family looking for help. We cannot keep treating dirty air as inevitable or acceptable,\u201d she said. A spokesperson for the Department for Environment, Food and Rural Affairs said: \u201cAir quality continues to improve over the longer term and while most air quality standards are being met, more action is needed to protect communities. \u201cOur ambitious new targets will cut harmful particle exposure by nearly a third by 2030. Working together with local authorities will keep driving progress through clean air plans and robust monitoring.\u201d"
+        "full_text": "The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was \u201cnow clear\u201d that the study \u201cwill not move forward in Guinea-Bissau\u201d, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, \u201cwe were not given the necessary governmental approval.\u201d The minister of health in Guinea-Bissau, Quinhin Nantote, previously denied that the project would move forward. \u201cThis is not even remotely true,\u201d Nantote told the Guardian in Portuguese last week. The study was to be funded with $1.6m from the US Centers for Disease Control and Prevention (CDC), along with another $1.6m from private partners like the Bill Ackman-backed Pershing Square Foundation and the Bluebell Foundation. \u201cThe solution is clear here: take the money and vaccinate as many kids as you can,\u201d said Paul Offit, a vaccines expert at the Children\u2019s Hospital of Philadelphia, who sharply criticized the proposed study as unethical. The government of Guinea-Bissau now has control over the researchers\u2019 vaccines, which they apprehended when they searched the offices of the Bandim Health Project on Monday. It was vital to support Guinea-Bissau in rolling the immunizations out to all newborns as soon as possible, Offit said. Guinea-Bissau currently plans to offer the universal birth dose in 2028. The Danish researchers, led by Schaltz-Buchholzer, Christine Stabell Benn and Peter Aaby, hypothesized giving live vaccines, like the Bacillus Calmette-Gu\u00e9rin (BCG), may have an overall mortality benefit beyond simply preventing illnesses like tuberculosis \u2013 but giving another vaccine like hepatitis B alongside it could dampen that effect. Such a hypothesis was \u201cfanciful\u201d because the hepatitis B vaccine is a single protein among billions encountered by the immune system each day, Offit said. \u201cThere\u2019s no evidence for that, and it doesn\u2019t make biological sense,\u201d he continued. He also added that there was a very clear benefit to giving the vaccine to babies as soon as possible, because of high rates of hepatitis B in the country and the possibility of lifelong illness and death from infection. The Danish researchers did not respond by press time to questions about the study or to this criticism. The CDC did not respond by press time to questions about whether the funding, which was appropriated through its global health work, would now be used to roll out the vaccine to all newborns in Guinea-Bissau, as recommended by the World Health Organization (WHO). \u201cWHO recommends that all infants receive a first dose of the hepatitis B vaccine as soon as possible after birth \u2013 preferably within 24 hours \u2013 followed by at least two additional doses,\u201d said Tarik Ja\u0161arevi\u0107, a WHO spokesperson. \u201cWHO remains committed to working with national authorities, researchers, and partners to ensure that all newborns \u2013 in Guinea\u2011Bissau and worldwide \u2013 receive timely, evidence\u2011based protection against hepatitis B.\u201d Those who declined participation in the study would not have received the vaccines \u2013 making true informed consent impossible, experts say. \u201cImagine you\u2019re a mother. You want to do the best for your child,\u201d said Henrik St\u00f8vring, a Danish researcher who has co-published research raising questions about previous research from the Bandim project. \u201cIf they decide to participate in the trial, they have a 50% chance of getting the vaccine for their children. But if they stay out, they have a 0% chance of getting the vaccine. So how can you say that\u2019s a non-coercive informed consent?\u201d St\u00f8vring asked. The proposed trial led to distrust among Bissau-Guineans, who wondered if the vaccine \u2013 which has a decades-long record of being safe and effective \u2013 was being tested on Africans because it was dangerous, Schaltz-Buchholzer said in his post. It \u201cshould be clear\u201d that both birth vaccination schedules \u2013 with or without hepatitis B \u2013 are not \u201cdangerous to anyone\u201d, he wrote. There is a clear benefit to giving hepatitis B vac"
       },
       "position": "FOUNDATION"
     },
@@ -210,22 +212,17 @@
   ],
   "relationships": [
     {
-      "house_a": "High House Words",
-      "house_b": "High House Coin",
-      "actor_a": "IRAN",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -2.576,
-      "confidence": 0.85,
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "BELGRADE",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.053,
+      "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.235,
-      "source": "gdelt_volume"
-    },
     "High House Chains": {
       "trend": "rising",
       "trend_ratio": 2.276,
