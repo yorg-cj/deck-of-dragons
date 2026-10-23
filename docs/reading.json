@@ -1,66 +1,65 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "cards": [
     {
       "house": "High House Shadow",
-      "title": "The Knight",
+      "title": "The Assassin",
       "reversed": true,
-      "confidence": 0.504,
+      "confidence": 0.537,
       "scores": {
-        "High House War": 0.063,
-        "High House Coin": 0.22,
-        "High House Shadow": 0.504,
-        "High House Life": 0.027,
-        "High House Iron": 0.145,
-        "High House Words": 0.223,
-        "High House Chains": 0.122
+        "High House War": 0.132,
+        "High House Coin": 0.274,
+        "High House Shadow": 0.537,
+        "High House Life": 0.049,
+        "High House Iron": 0.015,
+        "High House Words": 0.356,
+        "High House Chains": 0.18
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.8,
+        "confidence": 0.7,
         "matched_signals": [
-          "caught",
-          "revealed"
+          "double agent"
         ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.98
+        "sentiment_score": 0.93
       },
       "article": {
-        "title": "Serbian prosecutor who investigated Belgrade Trump tower project \u2018targeted with spyware\u2019",
-        "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
-        "source": "guardian",
-        "full_text": "A Serbian prosecutor who investigated the authorities\u2019 allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates. The finding suggests a disturbing new element in the authoritarian Serbian regime\u2019s campaign to undermine what is believed to be the first criminal case related to global moneymaking drive of the US president\u2019s family, which critics describe as a \u201cpay to play\u201d scheme trading the Trump administration\u2019s favour for business opportunities. Rade Baji\u0107, the targeted prosecutor, said: \u201cIn my opinion, my involvement in this case was the sole reason for this unlawful spyware attack.\u201d Analysts at the Citizen Lab, a digital forensics laboratory, have not so far established who was behind the attack but the Serbian regime has previously been caught using spyware against its opponents. News of the alleged hack follows the Guardian\u2019s revelations last week that Aleksandar Vu\u010di\u0107, Serbia\u2019s president, personally ordered that a cherished site in Belgrade be stripped of its legal protection so it could be handed over for a $500m Trump hotel and tower. Vu\u010di\u0107, one of the Balkans\u2019 most influential nationalists, hosted the US president\u2019s son Donald Jr \u2013 \u201cdear Don\u201d, as he calls him \u2013 and son-in-law Jared Kushner as he ingratiated himself with the Trumps. At the weekend, Vu\u010di\u0107 responded to the Guardian\u2019s revelations about his role in the scandal by confirming details of a previously secret meeting. He indicated he had done nothing wrong. \u201cI fought for my people,\u201d he said. \u201cAnd that\u2019s what I\u2019ll continue to do in the future.\u201d Last year prosecutors brought a landmark indictment against senior members of Vu\u010di\u0107\u2019s regime, accusing them of abusing their office to unlawfully strip the General Staff building \u2013 a monument to Serbia\u2019s recent difficult history \u2013 of its protected status. They face years in jail if convicted. Kushner, who was leading the Trump Belgrade development, called off the plans after the charges were made public. Vu\u010di\u0107 vowed reprisals, denouncing the prosecutors, including Baji\u0107, a member of the specialised organised-crime unit that brought the indictment. Baji\u0107 has said he was taken off the case without explanation shortly before the indictment was published. He went on to address one of the rolling protests against the regime triggered by widespread corruption, telling demonstrators in February: \u201cThe law will be equal for all.\u201d In August, Baji\u0107 received a message from Apple saying it had \u201cdetected a targeted mercenary attack against your iPhone\u201d. Citizen Lab researchers, who have been analysing Baji\u0107\u2019s phone, said this was \u201ca high confidence indicator that his device was likely targeted with mercenary spyware, such as Pegasus\u201d. Working with the Share Foundation, a Serbian rights group, they previously identified spyware attacks against anti-government protesters. In at least one case, the Citizen Lab analysts discovered Pegasus on a protester\u2019s phone. \u201cA zero-click infection with Pegasus spyware would not have been visible to the target, and would give the Pegasus attacker total access to the device,\u201d they said of that discovery. The Guardian\u2019s Pegasus Project revealed how journalists, activists, politicians and others have been targeted by governments using the spyware. NSO Group, the Israel-based company that makes Pegasus, has been approached for comment. Vu\u010di\u0107, who stepped down late last month and called snap elections for 25 October, hoping to prolong his 12-year rule by switching from president to prime minister. He has been approached for comment, as has the prosecutors\u2019 unit, which has said it may bring more charges in the General Staff building case. Representatives of the Trumps and Kushner have denied they engaged in \u201cpay to play\u201d arrangements and said they were not involved in the Serbian authorities\u2019 decision to strip the building of its protected status."
+        "title": "  Who can be trusted ? Inside Putin shadow war of spies and suspected double agents - London Business News",
+        "url": "https://londonlovesbusiness.com/who-can-be-trusted-inside-putins-shadow-war-of-spies-and-suspected-double-agents/",
+        "source": "gdelt_doc",
+        "full_text": null
       },
       "position": "CENTER"
     },
     {
       "house": "High House Iron",
       "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.454,
+      "reversed": false,
+      "confidence": 0.496,
       "scores": {
-        "High House War": 0.08,
-        "High House Coin": 0.201,
-        "High House Shadow": 0.279,
-        "High House Life": 0.169,
-        "High House Iron": 0.454,
-        "High House Words": 0.042,
-        "High House Chains": 0.063
+        "High House War": 0.158,
+        "High House Coin": 0.21,
+        "High House Shadow": 0.284,
+        "High House Life": 0.118,
+        "High House Iron": 0.496,
+        "High House Words": 0.079,
+        "High House Chains": 0.029
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.543,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.988
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "The Fallout From the \u2018Neocloud\u2019 Wipeout",
-        "url": "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html",
+        "title": "A Tech Rotation Roils the Markets, Again",
+        "url": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -91,36 +90,7 @@
         "source": "guardian",
         "full_text": "The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was \u201cnow clear\u201d that the study \u201cwill not move forward in Guinea-Bissau\u201d, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, \u201cwe were not given the necessary governmental approval.\u201d The minister of health in Guinea-Bissau, Quinhin Nantote, previously denied that the project would move forward. \u201cThis is not even remotely true,\u201d Nantote told the Guardian in Portuguese last week. The study was to be funded with $1.6m from the US Centers for Disease Control and Prevention (CDC), along with another $1.6m from private partners like the Bill Ackman-backed Pershing Square Foundation and the Bluebell Foundation. \u201cThe solution is clear here: take the money and vaccinate as many kids as you can,\u201d said Paul Offit, a vaccines expert at the Children\u2019s Hospital of Philadelphia, who sharply criticized the proposed study as unethical. The government of Guinea-Bissau now has control over the researchers\u2019 vaccines, which they apprehended when they searched the offices of the Bandim Health Project on Monday. It was vital to support Guinea-Bissau in rolling the immunizations out to all newborns as soon as possible, Offit said. Guinea-Bissau currently plans to offer the universal birth dose in 2028. The Danish researchers, led by Schaltz-Buchholzer, Christine Stabell Benn and Peter Aaby, hypothesized giving live vaccines, like the Bacillus Calmette-Gu\u00e9rin (BCG), may have an overall mortality benefit beyond simply preventing illnesses like tuberculosis \u2013 but giving another vaccine like hepatitis B alongside it could dampen that effect. Such a hypothesis was \u201cfanciful\u201d because the hepatitis B vaccine is a single protein among billions encountered by the immune system each day, Offit said. \u201cThere\u2019s no evidence for that, and it doesn\u2019t make biological sense,\u201d he continued. He also added that there was a very clear benefit to giving the vaccine to babies as soon as possible, because of high rates of hepatitis B in the country and the possibility of lifelong illness and death from infection. The Danish researchers did not respond by press time to questions about the study or to this criticism. The CDC did not respond by press time to questions about whether the funding, which was appropriated through its global health work, would now be used to roll out the vaccine to all newborns in Guinea-Bissau, as recommended by the World Health Organization (WHO). \u201cWHO recommends that all infants receive a first dose of the hepatitis B vaccine as soon as possible after birth \u2013 preferably within 24 hours \u2013 followed by at least two additional doses,\u201d said Tarik Ja\u0161arevi\u0107, a WHO spokesperson. \u201cWHO remains committed to working with national authorities, researchers, and partners to ensure that all newborns \u2013 in Guinea\u2011Bissau and worldwide \u2013 receive timely, evidence\u2011based protection against hepatitis B.\u201d Those who declined participation in the study would not have received the vaccines \u2013 making true informed consent impossible, experts say. \u201cImagine you\u2019re a mother. You want to do the best for your child,\u201d said Henrik St\u00f8vring, a Danish researcher who has co-published research raising questions about previous research from the Bandim project. \u201cIf they decide to participate in the trial, they have a 50% chance of getting the vaccine for their children. But if they stay out, they have a 0% chance of getting the vaccine. So how can you say that\u2019s a non-coercive informed consent?\u201d St\u00f8vring asked. The proposed trial led to distrust among Bissau-Guineans, who wondered if the vaccine \u2013 which has a decades-long record of being safe and effective \u2013 was being tested on Africans because it was dangerous, Schaltz-Buchholzer said in his post. It \u201cshould be clear\u201d that both birth vaccination schedules \u2013 with or without hepatitis B \u2013 are not \u201cdangerous to anyone\u201d, he wrote. There is a clear benefit to giving hepatitis B vac"
       },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.426,
-      "scores": {
-        "High House War": 0.134,
-        "High House Coin": 0.152,
-        "High House Shadow": 0.229,
-        "High House Life": 0.067,
-        "High House Iron": 0.012,
-        "High House Words": 0.426,
-        "High House Chains": 0.167
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.94
-      },
-      "article": {
-        "title": "Your Iran Questions, Answered",
-        "url": "https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -152,80 +122,174 @@
       "position": "WILD"
     },
     {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.377,
+      "confidence": 0.352,
       "scores": {
-        "High House War": 0.377,
-        "High House Coin": 0.047,
-        "High House Shadow": 0.146,
-        "High House Life": 0.174,
-        "High House Iron": -0.0,
-        "High House Words": 0.111,
-        "High House Chains": 0.088
+        "High House War": 0.237,
+        "High House Coin": 0.161,
+        "High House Shadow": 0.266,
+        "High House Life": 0.083,
+        "High House Iron": -0.007,
+        "High House Words": 0.352,
+        "High House Chains": 0.173
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.773
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+        "title": "\u2018You are a humanitarian also, sir\u2019: the US feeds Putin with lies as Ukraine\u2019s children take cover and die",
+        "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
         "source": "guardian",
-        "full_text": "RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen\u2019s Houthis, flying protective missions over the country\u2019s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation \u2013 the most significant military mission signed off by Andy Burnham as prime minister \u2013 will involve RAF pilots attempting to shoot down Houthi missiles and drones, which attacked Saudi airports and oil facilities. The Ministry of Defence emphasised that the role of the fighters \u2013 whose number was not stated \u2013 would be limited. \u201cThese aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\u201d it said. An offensive by the Iran-aligned Houthis in Yemen that began in September has gradually escalated into a deadly regional conflict. This month the Houthis have attacked Saudi Arabia, the backer of Yemen\u2019s officially recognised government. Thirteen people were killed when a missile hit King Khalid international airport in Riyadh, the deadliest incident since September in a war that has claimed 19 lives in Saudi Arabia so far. Dozens more have been killed in Yemen by the surge in fighting. The death toll from Monday\u2019s Houthi missile strike on a Yemeni government training camp has risen to 73, a brutal demonstration of the rebel group\u2019s military effectiveness. Wes Streeting, the defence secretary, said in a TV interview the UK had agreed to help Saudi Arabia to counter the \u201coutrageous Houthi escalation that we\u2019ve seen in recent weeks\u201d and said the UK was \u201cresponding to protect civilians\u201d from attack. HA Hellyer, a Middle East expert with the Royal United Services Institute thinktank, speculated that the UK could get drawn further into the conflict in the future, asking: \u201cWhat does defensive mean?\u201d He asked what the RAF would do if a Houthi attack happened on a Saudi ship in the Red Sea and the British were in a position to stop it. \u201cThe UK might say it was defensive but the Houthis would see it as offensive,\u201d he said. Streeting, however, said that the fighter jets\u2019 remit was narrow. \u201cRAF Typhoons will fly defensive air missions to help protect Saudi airspace from drones and missiles,\u201d he said. Military advisers said the UK would also provide an Atlas A400M transport aircraft capable of transporting heavy equipment, in addition to an existing commitment to supply air-to-air refuelling for Saudi fighter jets with an RAF Voyager. The refuelling mission has been extended by 90 days. The UK has long been a military ally of Saudi Arabia: BAE Systems has supplied it with 72 Typhoons in a deal originally worth \u00a34.4bn. Riyadh has been considering buying another 48 in a negotiation that has dragged on for years. Though the UK only had a limited involvement in the US-Israel war against Iran, Typhoons from the RAF airbase in Akrotiri, Cyprus, and in Qatar, flew defensive missions in the spring and summer to shoot down missiles and drones launched by Iran and other proxies against Gulf states. Britain\u2019s announcement came a few days after Streeting visited his US counterpart, Pete Hegseth, at the Pentagon, where they discussed how to respond to the Houthi escalation amongst other issues. The US has so far stepped up its intelligence support and sent more than 100 military advisers to help the Saudis with targeting, but it has been cautious about providing more direct military support. Donald Trump urged Riyadh on Friday to accept help from Israel, though it was unclear what was on offer. The White House has been trying to de-escalate against Iran and in the Middle Eastbefore US midterm elections in November and with the oil price over $100 a barrel. The US envoy to Syria and Iraq, Tom Barrack, told a conference in Qatar that sending in ground troops against the Houthis \u201cseems fruitless\u201d. The Saudi strategy for dealing with the Houthis, who have been gaining territory along the Red Sea coast, remains unclear. \u201cAllies would be happy to help"
+        "full_text": "They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies. Steve Witkoff delivered one as he sat down with Vladimir Putin in St Petersburg on Wednesday, aiming to close the deal on Russia\u2019s land grab in Ukraine with the White House\u2019s strategy of maximum pressure on Kyiv and saccharine flattery of the Kremlin. \u201cYou talk so much about my president, President Trump, being a humanitarian,\u201d said Witkoff, a real-estate mogul who, thanks to being Trump\u2019s friend, is now the US\u2019s senior envoy and diplomat to end the largest European conflict since the second world war. \u201cYou are a humanitarian also, sir, and I salute that. I commend you.\u201d In Putin\u2019s 26 years in power, it is a rare moment when he has been granted that specific honour. Skim through Russia\u2019s past wartime exploits \u2013 from the bombing campaigns in Chechnya and Georgia and Syria, to the thousands of Russian citizens jailed for dissent, to the violent deaths of prominent opposition journalists and politicians in barely disguised assassinations and poisonings \u2013 and it will be difficult to identify Putin\u2019s credentials as a humanitarian. And that is before looking to Ukraine, where Russia chose to launch a full-scale invasion that has claimed hundreds of thousands of lives. The Guardian recently obtained a Russian strategy document showing the Kremlin\u2019s potential to black out Ukrainian cities this winter, cutting off up to 90% of electricity to cities such as Kyiv and Odesa and Kharkiv \u2013 where millions of people live \u2013 to intentionally create a humanitarian catastrophe. And judging by the nightly barrages levelled at power plants for cities across Ukraine, the Kremlin has decided to move forward with that strategy until Kyiv surrenders. As Witkoff met Putin on Wednesday, schoolchildren in Kharkiv hastened down a reinforced stairway, sirens announcing the arrival of Shahed drones overhead. This is no ordinary bomb shelter; it is one of 10 underground schools Kharkiv has constructed because of Russia\u2019s regular bombing of the city less than 20 miles from the border. Parents had welcomed the schools because they were safe, said teachers, and this was the one way that young people could have an uninterrupted school day during a war that could last years more \u2013 and reignite even if a shaky peace deal is reached. \u201cWe all believed in Trump. We all really had hopes for America and for Trump to stop this monster Putin,\u201d said Olena Svytlychna, the head of the education department of the Novobavarskyi region in Kharkiv, sitting in the school\u2019s cafe on Wednesday. \u201cAnd now we have doubts, we don\u2019t believe them. And we are very scared.\u201d As Witkoff spoke, the families of six people killed in a drone strike in a park near Kharkiv this week were holding funerals. The youngest victim of the strike was a one-year-old girl, Anhelina, who was killed as she was sitting strapped into her stroller in a playground. Her mother, Inna Mariukhna, a local schoolteacher, was also killed in the strike. The final death toll was four adults and two children, Anhelina and an 11-year-old girl. Those lives have barely earned a mention from the White House as it pushes for Ukraine to capitulate as quickly as it can this week \u2013 and crucially before the 3 November midterm elections when voters will deliver a referendum on Trump\u2019s leadership for the last two years. Shortly after the bombing, Trump told reporters on the White House lawn that Russia \u201chas been fine on Ukraine\u201d. After taking criticism for that remark, he mentioned the attacks in passing just to downplay the shelling of civilians: there were \u201csome people in a town that got hit or whatever, but mostly young soldiers\u201d died, he said from the Oval Office on Tuesday. For the White House, those words cost little. Witkoff\u2019s goal was to bring home a US citizen, a 74-year-old retired teacher from Michigan, who had been detained in Russia. But if Witkoff wants to buy a peace deal by 3"
       },
-      "position": "EMERGING"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.34,
+      "scores": {
+        "High House War": 0.34,
+        "High House Coin": 0.18,
+        "High House Shadow": 0.182,
+        "High House Life": 0.093,
+        "High House Iron": 0.151,
+        "High House Words": 0.217,
+        "High House Chains": 0.168
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.582
+      },
+      "article": {
+        "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+        "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.343,
+      "confidence": 0.326,
       "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.328,
-        "High House Shadow": 0.215,
-        "High House Life": 0.083,
-        "High House Iron": 0.07,
-        "High House Words": 0.259,
-        "High House Chains": 0.343
+        "High House War": -0.002,
+        "High House Coin": 0.299,
+        "High House Shadow": 0.126,
+        "High House Life": 0.095,
+        "High House Iron": -0.045,
+        "High House Words": 0.167,
+        "High House Chains": 0.326
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.517,
+        "confidence": 0.54,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.981
       },
       "article": {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Reader Q&A: what\u2019s next for France? Ask our Europe columnists",
+        "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+        "source": "guardian",
+        "full_text": "After weeks of protests and a weekend of riots in which a town hall was set ablaze, 2,000-plus shops were looted, 2,300 people were arrested and 1,000 police injured, the repercussions for France \u2013 for its society and its economy \u2013 continue. Allegations of police brutality surfaced, and the violent protests unnerved investors, resulting in a debt sell-off, with borrowing costs rising higher than for Greece. All of this ahead of a hotly contested presidential election that\u2019s now just six months away. The French government\u2019s escalating financial problems were covered by the Guardian\u2019s Europe correspondent Jon Henley who wrote: \u201cFrance\u2019s national debt, at 119% of GDP, is at its highest level since 1946. Its budget deficit, at 5.1%, is also among the highest in the EU. There is just no money in the bank to ease the cost of living squeeze that brought 550,000 people on to the streets on Saturday.\u201d Columnist Paul Taylor commented that \u201cLast weekend\u2019s violence has increased the likelihood of a law-and-order backlash among voters that could propel (Marine) Le Pen into the \u00c9lys\u00e9e Palace. But if the financial situation worsens and the campaign turns on who can save the economy, she may yet lose out to a candidate who is firm on security and more orthodox on fiscal policy.\u201d And the Guardian\u2019s editorial noted that \u201cIn an increasingly febrile atmosphere, France is heading towards a seismic reckoning in May. Alarmingly, the civil strife witnessed at the weekend may only be a foretaste of what is to come.\u201d What are your views on the riots, their causes and their aftermath? Are they paving a path to the presidency for Le Pen? In his final months in charge, can embattled incumbent Emmanuel Macron meaningfully address the situation in which France finds herself? France-based Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live here at 1500BST today to answer your questions on what happened, why, and where France goes from here. Post your questions in the comments below or email conversations@theguardian.com"
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Shadow",
       "house_b": "High House Words",
-      "actor_a": "BELGRADE",
-      "actor_b": "IRAN",
+      "actor_a": "INSIDE PUTIN",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.614,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "INSIDE PUTIN",
+      "actor_b": "KOREA",
       "relationship": "neutral",
-      "goldstein_avg": -0.053,
+      "goldstein_avg": -0.643,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Chains",
+      "actor_a": "INSIDE PUTIN",
+      "actor_b": "FRANCE",
+      "relationship": "neutral",
+      "goldstein_avg": -1.136,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.829,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "KOREA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.565,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House Chains",
+      "actor_a": "UKRAINE",
+      "actor_b": "FRANCE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.463,
+      "confidence": 0.9,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Chains",
+      "actor_a": "KOREA",
+      "actor_b": "FRANCE",
+      "relationship": "neutral",
+      "goldstein_avg": -0.44,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Chains": {
-      "trend": "rising",
-      "trend_ratio": 2.276,
+    "High House Life": {
+      "trend": "falling",
+      "trend_ratio": 0.434,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "falling",
+      "trend_ratio": 0.668,
       "source": "gdelt_volume"
     }
   }
