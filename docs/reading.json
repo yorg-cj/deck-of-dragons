@@ -1,37 +1,6 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "cards": [
-    {
-      "house": "High House Shadow",
-      "title": "The Assassin",
-      "reversed": true,
-      "confidence": 0.537,
-      "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.274,
-        "High House Shadow": 0.537,
-        "High House Life": 0.049,
-        "High House Iron": 0.015,
-        "High House Words": 0.356,
-        "High House Chains": 0.18
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "double agent"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.93
-      },
-      "article": {
-        "title": "  Who can be trusted ? Inside Putin shadow war of spies and suspected double agents - London Business News",
-        "url": "https://londonlovesbusiness.com/who-can-be-trusted-inside-putins-shadow-war-of-spies-and-suspected-double-agents/",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Iron",
       "title": "The Merchant",
@@ -59,38 +28,65 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "CENTER"
     },
     {
       "house": "High House Life",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.432,
+      "reversed": false,
+      "confidence": 0.486,
       "scores": {
-        "High House War": -0.048,
-        "High House Coin": 0.102,
-        "High House Shadow": 0.076,
-        "High House Life": 0.432,
-        "High House Iron": 0.006,
-        "High House Words": 0.056,
-        "High House Chains": 0.121
+        "High House War": 0.085,
+        "High House Coin": 0.033,
+        "High House Shadow": 0.044,
+        "High House Life": 0.486,
+        "High House Iron": 0.041,
+        "High House Words": 0.062,
+        "High House Chains": 0.056
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "denied"
-        ],
-        "sentiment": "NEGATIVE",
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "Controversial US-backed vaccine trial in African newborns halted",
-        "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-        "source": "guardian",
-        "full_text": "The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was \u201cnow clear\u201d that the study \u201cwill not move forward in Guinea-Bissau\u201d, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, \u201cwe were not given the necessary governmental approval.\u201d The minister of health in Guinea-Bissau, Quinhin Nantote, previously denied that the project would move forward. \u201cThis is not even remotely true,\u201d Nantote told the Guardian in Portuguese last week. The study was to be funded with $1.6m from the US Centers for Disease Control and Prevention (CDC), along with another $1.6m from private partners like the Bill Ackman-backed Pershing Square Foundation and the Bluebell Foundation. \u201cThe solution is clear here: take the money and vaccinate as many kids as you can,\u201d said Paul Offit, a vaccines expert at the Children\u2019s Hospital of Philadelphia, who sharply criticized the proposed study as unethical. The government of Guinea-Bissau now has control over the researchers\u2019 vaccines, which they apprehended when they searched the offices of the Bandim Health Project on Monday. It was vital to support Guinea-Bissau in rolling the immunizations out to all newborns as soon as possible, Offit said. Guinea-Bissau currently plans to offer the universal birth dose in 2028. The Danish researchers, led by Schaltz-Buchholzer, Christine Stabell Benn and Peter Aaby, hypothesized giving live vaccines, like the Bacillus Calmette-Gu\u00e9rin (BCG), may have an overall mortality benefit beyond simply preventing illnesses like tuberculosis \u2013 but giving another vaccine like hepatitis B alongside it could dampen that effect. Such a hypothesis was \u201cfanciful\u201d because the hepatitis B vaccine is a single protein among billions encountered by the immune system each day, Offit said. \u201cThere\u2019s no evidence for that, and it doesn\u2019t make biological sense,\u201d he continued. He also added that there was a very clear benefit to giving the vaccine to babies as soon as possible, because of high rates of hepatitis B in the country and the possibility of lifelong illness and death from infection. The Danish researchers did not respond by press time to questions about the study or to this criticism. The CDC did not respond by press time to questions about whether the funding, which was appropriated through its global health work, would now be used to roll out the vaccine to all newborns in Guinea-Bissau, as recommended by the World Health Organization (WHO). \u201cWHO recommends that all infants receive a first dose of the hepatitis B vaccine as soon as possible after birth \u2013 preferably within 24 hours \u2013 followed by at least two additional doses,\u201d said Tarik Ja\u0161arevi\u0107, a WHO spokesperson. \u201cWHO remains committed to working with national authorities, researchers, and partners to ensure that all newborns \u2013 in Guinea\u2011Bissau and worldwide \u2013 receive timely, evidence\u2011based protection against hepatitis B.\u201d Those who declined participation in the study would not have received the vaccines \u2013 making true informed consent impossible, experts say. \u201cImagine you\u2019re a mother. You want to do the best for your child,\u201d said Henrik St\u00f8vring, a Danish researcher who has co-published research raising questions about previous research from the Bandim project. \u201cIf they decide to participate in the trial, they have a 50% chance of getting the vaccine for their children. But if they stay out, they have a 0% chance of getting the vaccine. So how can you say that\u2019s a non-coercive informed consent?\u201d St\u00f8vring asked. The proposed trial led to distrust among Bissau-Guineans, who wondered if the vaccine \u2013 which has a decades-long record of being safe and effective \u2013 was being tested on Africans because it was dangerous, Schaltz-Buchholzer said in his post. It \u201cshould be clear\u201d that both birth vaccination schedules \u2013 with or without hepatitis B \u2013 are not \u201cdangerous to anyone\u201d, he wrote. There is a clear benefit to giving hepatitis B vac"
+        "title": "The Galien Foundation Presents Senator John Kerry with 2026 Roy Vagelos Pro Bono Humanum Award for Global Health Equity",
+        "url": "https://bubblear.com/the-galien-foundation-presents-senator-john-kerry-with-2026-roy-vagelos-pro-bono-humanum-award-for-global-health-equity/34957",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.459,
+      "scores": {
+        "High House War": 0.004,
+        "High House Coin": 0.122,
+        "High House Shadow": 0.459,
+        "High House Life": 0.094,
+        "High House Iron": 0.198,
+        "High House Words": 0.153,
+        "High House Chains": 0.099
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.994
+      },
+      "article": {
+        "title": "Spying and A.I.",
+        "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -122,60 +118,31 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.352,
-      "scores": {
-        "High House War": 0.237,
-        "High House Coin": 0.161,
-        "High House Shadow": 0.266,
-        "High House Life": 0.083,
-        "High House Iron": -0.007,
-        "High House Words": 0.352,
-        "High House Chains": 0.173
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.995
-      },
-      "article": {
-        "title": "\u2018You are a humanitarian also, sir\u2019: the US feeds Putin with lies as Ukraine\u2019s children take cover and die",
-        "url": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-        "source": "guardian",
-        "full_text": "They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies. Steve Witkoff delivered one as he sat down with Vladimir Putin in St Petersburg on Wednesday, aiming to close the deal on Russia\u2019s land grab in Ukraine with the White House\u2019s strategy of maximum pressure on Kyiv and saccharine flattery of the Kremlin. \u201cYou talk so much about my president, President Trump, being a humanitarian,\u201d said Witkoff, a real-estate mogul who, thanks to being Trump\u2019s friend, is now the US\u2019s senior envoy and diplomat to end the largest European conflict since the second world war. \u201cYou are a humanitarian also, sir, and I salute that. I commend you.\u201d In Putin\u2019s 26 years in power, it is a rare moment when he has been granted that specific honour. Skim through Russia\u2019s past wartime exploits \u2013 from the bombing campaigns in Chechnya and Georgia and Syria, to the thousands of Russian citizens jailed for dissent, to the violent deaths of prominent opposition journalists and politicians in barely disguised assassinations and poisonings \u2013 and it will be difficult to identify Putin\u2019s credentials as a humanitarian. And that is before looking to Ukraine, where Russia chose to launch a full-scale invasion that has claimed hundreds of thousands of lives. The Guardian recently obtained a Russian strategy document showing the Kremlin\u2019s potential to black out Ukrainian cities this winter, cutting off up to 90% of electricity to cities such as Kyiv and Odesa and Kharkiv \u2013 where millions of people live \u2013 to intentionally create a humanitarian catastrophe. And judging by the nightly barrages levelled at power plants for cities across Ukraine, the Kremlin has decided to move forward with that strategy until Kyiv surrenders. As Witkoff met Putin on Wednesday, schoolchildren in Kharkiv hastened down a reinforced stairway, sirens announcing the arrival of Shahed drones overhead. This is no ordinary bomb shelter; it is one of 10 underground schools Kharkiv has constructed because of Russia\u2019s regular bombing of the city less than 20 miles from the border. Parents had welcomed the schools because they were safe, said teachers, and this was the one way that young people could have an uninterrupted school day during a war that could last years more \u2013 and reignite even if a shaky peace deal is reached. \u201cWe all believed in Trump. We all really had hopes for America and for Trump to stop this monster Putin,\u201d said Olena Svytlychna, the head of the education department of the Novobavarskyi region in Kharkiv, sitting in the school\u2019s cafe on Wednesday. \u201cAnd now we have doubts, we don\u2019t believe them. And we are very scared.\u201d As Witkoff spoke, the families of six people killed in a drone strike in a park near Kharkiv this week were holding funerals. The youngest victim of the strike was a one-year-old girl, Anhelina, who was killed as she was sitting strapped into her stroller in a playground. Her mother, Inna Mariukhna, a local schoolteacher, was also killed in the strike. The final death toll was four adults and two children, Anhelina and an 11-year-old girl. Those lives have barely earned a mention from the White House as it pushes for Ukraine to capitulate as quickly as it can this week \u2013 and crucially before the 3 November midterm elections when voters will deliver a referendum on Trump\u2019s leadership for the last two years. Shortly after the bombing, Trump told reporters on the White House lawn that Russia \u201chas been fine on Ukraine\u201d. After taking criticism for that remark, he mentioned the attacks in passing just to downplay the shelling of civilians: there were \u201csome people in a town that got hit or whatever, but mostly young soldiers\u201d died, he said from the Oval Office on Tuesday. For the White House, those words cost little. Witkoff\u2019s goal was to bring home a US citizen, a 74-year-old retired teacher from Michigan, who had been detained in Russia. But if Witkoff wants to buy a peace deal by 3"
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.34,
+      "confidence": 0.303,
       "scores": {
-        "High House War": 0.34,
-        "High House Coin": 0.18,
-        "High House Shadow": 0.182,
-        "High House Life": 0.093,
-        "High House Iron": 0.151,
-        "High House Words": 0.217,
-        "High House Chains": 0.168
+        "High House War": 0.303,
+        "High House Coin": 0.153,
+        "High House Shadow": 0.099,
+        "High House Life": 0.073,
+        "High House Iron": 0.06,
+        "High House Words": 0.221,
+        "High House Chains": 0.151
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.582
+        "sentiment_score": 0.899
       },
       "article": {
-        "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
-        "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
+        "url": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+        "source": "guardian",
+        "full_text": "The conflict in the Middle East continues to disrupt shipping across the region, including in the strait of Hormuz, one of the world\u2019s busiest maritime routes. Iran state TV has reported that seven oil tankers were damaged in the Straight of Hormuz on Wednesday night. There has been an increase in the number of attacks on ships in recent days; some vessels have been hit by drones, others by mines. We would like to hear from maritime workers, port staff and shipping crews or families aboard ships affected by the conflict. What is happening in the Strait of Hormuz? How is the situation affecting your work? We would also like to speak to friends or family of those on board. What are you hearing? How are they coping?"
       },
       "position": "WILD"
     },
@@ -183,113 +150,77 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.326,
+      "confidence": 0.297,
       "scores": {
-        "High House War": -0.002,
-        "High House Coin": 0.299,
-        "High House Shadow": 0.126,
-        "High House Life": 0.095,
-        "High House Iron": -0.045,
-        "High House Words": 0.167,
-        "High House Chains": 0.326
+        "High House War": 0.112,
+        "High House Coin": 0.202,
+        "High House Shadow": 0.001,
+        "High House Life": 0.105,
+        "High House Iron": 0.096,
+        "High House Words": 0.16,
+        "High House Chains": 0.297
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.531,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.981
+        "sentiment_score": 0.965
       },
       "article": {
-        "title": "Reader Q&A: what\u2019s next for France? Ask our Europe columnists",
-        "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+        "title": "Britain\u2019s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
         "source": "guardian",
-        "full_text": "After weeks of protests and a weekend of riots in which a town hall was set ablaze, 2,000-plus shops were looted, 2,300 people were arrested and 1,000 police injured, the repercussions for France \u2013 for its society and its economy \u2013 continue. Allegations of police brutality surfaced, and the violent protests unnerved investors, resulting in a debt sell-off, with borrowing costs rising higher than for Greece. All of this ahead of a hotly contested presidential election that\u2019s now just six months away. The French government\u2019s escalating financial problems were covered by the Guardian\u2019s Europe correspondent Jon Henley who wrote: \u201cFrance\u2019s national debt, at 119% of GDP, is at its highest level since 1946. Its budget deficit, at 5.1%, is also among the highest in the EU. There is just no money in the bank to ease the cost of living squeeze that brought 550,000 people on to the streets on Saturday.\u201d Columnist Paul Taylor commented that \u201cLast weekend\u2019s violence has increased the likelihood of a law-and-order backlash among voters that could propel (Marine) Le Pen into the \u00c9lys\u00e9e Palace. But if the financial situation worsens and the campaign turns on who can save the economy, she may yet lose out to a candidate who is firm on security and more orthodox on fiscal policy.\u201d And the Guardian\u2019s editorial noted that \u201cIn an increasingly febrile atmosphere, France is heading towards a seismic reckoning in May. Alarmingly, the civil strife witnessed at the weekend may only be a foretaste of what is to come.\u201d What are your views on the riots, their causes and their aftermath? Are they paving a path to the presidency for Le Pen? In his final months in charge, can embattled incumbent Emmanuel Macron meaningfully address the situation in which France finds herself? France-based Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live here at 1500BST today to answer your questions on what happened, why, and where France goes from here. Post your questions in the comments below or email conversations@theguardian.com"
+        "full_text": "After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas and the stuff has to come from somewhere. We\u2019re now doing a deal with Belgium to ensure enough supply can flow through a connecting pipeline this winter should a \u201clow-probability but high-impact stress event\u201d, to quote the regulatory mouthful, occur. To be fair, the arrangement to maintain capacity from Belgium is a belt-and-braces measure. The imagined events do sound genuinely stressful and may never happen. A critical piece of infrastructure, such as the two import terminals in Milford Haven to bring in liquefied natural gas (LNG) into Britain, would have to be out of action during a prolonged cold snap in which demand is very high. Equally, though, the \u201chigh-impact\u201d bit matters: we\u2019re talking about having enough supplies to run gas-fired power stations at full pelt if necessary to keep the lights on. You don\u2019t take chances. In short, 10p a month will be added to bills to cover the cost of paying Interconnector Limited, the Belgian owner of the pipeline, to maintain the compressors needed to shove big volumes of gas to Britain in a hurry if required. Without the arrangement, the company had already warned it would cut capacity, in part because the big pipe was not used much in practice last year. The first conclusion \u2013 the comforting one \u2013 is that the deal sounds like decent value for money. As insurance policies go, \u00a31.19 a household a year is not much. The second, however, is that risks to Britain\u2019s gas security are plainly mounting. The Ofgem document describing the Belgian deal says it was \u201cthe only currently available intervention identified that both addresses the immediate security of supply position for winter 2026/27 and provides continuing security of supply benefits over the following four years\u201d. It was Belgium, plus any future deal on the Dutch pipeline, or nothing. Nor is the Belgian shuffle a cure-all. \u201cThe agreement does not remove the need for further measures led by government that are likely to be required to support security of supply and wider gas system resilience over the medium and longer term,\u201d says Ofgem. The government should take that line as a heavy hint to get a move on. Do we need more gas storage, more LNG terminals, or both? And post-Jackdaw, what\u2019s a realistic appraisal of how much will be sourced from the North Sea? It is now almost a year since an alarming report from the National Energy System Operator (Neso) warned of an \u201cemerging risk to gas supply security\u201d in 2030. The government promised to \u201cdo whatever it takes\u201d to avert a crunch but one cannot say it has actually done much. An interim response to the Neso report came in August but no timetable was given for choosing what kit or arrangements were needed and by when. The final response isn\u2019t due until next year. Read the \u201cwinter outlook\u201d report from National Gas, published on Friday, and a few points stand out. Yes, it\u2019s good news that, with the help of the Belgian deal, this winter\u2019s outlook is positive. But the company also says that, even as annual consumption drifts down slightly, the peaks for demand remain as high as ever, driven by the role of gas-fired power generation when renewables output is low. Like Ofgem, National Gas says \u201ccontinued progress on government plans to reform security of supply arrangements will be vital to address enduring challenges in the years ahead\u201d. It is becoming a theme. The obvious answer is more gas storage to address Britain\u2019s skimpy current levels. That could mean Centrica\u2019s Rough facility in North Sea (currently due to close next spring), the Bains development led by dCarbonX off the north-west coast of England (which may happen anyway), more on-shore salt caverns or any combination. Or, perhaps, German-style forward-buying deals on LNG. But something has to happen soon. None of this infrastructure gets built quickly and that 2030 potential crunch is getting "
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.28,
+      "scores": {
+        "High House War": 0.163,
+        "High House Coin": 0.032,
+        "High House Shadow": 0.233,
+        "High House Life": 0.249,
+        "High House Iron": -0.029,
+        "High House Words": 0.28,
+        "High House Chains": 0.053
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.548,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.997
+      },
+      "article": {
+        "title": "\u2018Realistic and reassuring\u2019: UK public \u2018responding calmly\u2019 to Be Ready campaign",
+        "url": "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign",
+        "source": "guardian",
+        "full_text": "When the UK government launched its \u201cProtect and Survive\u201d public information campaign in 1980 on how to stay alive after a nuclear attack, it was met with a combination of scepticism, disbelief and derision. The advice included how to build a \u201cfallout room\u201d at home, how to whitewash windows to protect from a blast, and how to store a dead body for up to five days. You might expect this would have prompted widespread panic, but in fact it led to a political backlash, and was later lampooned on TV and in music. It shows the risks governments take when launching such campaigns, and the fine balance that must be struck between hammering home a practical message without causing panic \u2013 or other unintended reactions. The government\u2019s new Be Ready campaign is advising the public to stock up on three day\u2019s worth of supplies for use during severe weather or cyber-attacks, so help can be directed to the most vulnerable first. In a concise, two-page document, it suggests people stock bottled water and non-perishable food for three days, a torch with spare batteries, a wind-up FM radio, a first aid kit and a copy of their passport. To stave off panic buying, it advises people to check their cupboards first and build up items gradually on regular shopping trips. While there is no evidence the advice has triggered mass panic, the public is clearly responding. Jack Brown, who co-owns Sgt Prepper Shop, which stocks emergency food and survival tools, said he received a month\u2019s worth of orders in the first 24 hours of the Be Ready campaign. \u201cI thought my phone was glitching or being hacked with the number of orders coming in,\u201d he said. Brown said the advice seemed sensible and proportionate. Three days was the \u201csweet spot\u201d, he said, with most everyday emergencies like power cuts, a burst water main or flooding sorted within that timeframe. It is also \u201crealistic, affordable and fits in a cupboard\u201d, he said, adding that asking people to stock up on a month\u2019s worth of supplies would feel overwhelming and most people would do nothing at all. A wind-up radio was also a sensible suggestion, and ones with a built-in torch and phone-charging USB port make them \u201cone of the most useful bits of kit you can own\u201d, he said. Dr Sarita Robinson, associate dean for the school of psychology and humanities at the University of Lancashire, said there was little evidence to suggest these kinds of messaging campaigns cause panic. \u201cThere\u2019s this perception that if we tell people the truth we\u2019re somehow going to panic them and it isn\u2019t the case,\u201d she said. \u201cWhen we use accurate messaging about emergency situations, the public will engage with that proactively. It\u2019s when we start to hide information and there\u2019s a void of information, that\u2019s when things can go wrong for government.\u201d She said Be Ready was \u201crealistic, quite low level, and should be reassuring because it\u2019s basically treating the public like the grownups they are\u201d. Dan Goss, who runs Start Prepping UK, said traffic to his website was up 700% since news of the campaign emerged in August. He said he was glad to see the subject finally being taken seriously and spoken about in \u201cplain language\u201d by the government, and felt the risk of panic was low. \u201cThe level of uptake required for that would be huge \u2013 you would need to have an enormous number of people all take the government\u2019s advice very seriously and all jump on it as a priority,\u201d he said. \u201cWe\u2019re definitely in a phase now where we\u2019re seeing lots of more disruption to people\u2019s lives \u2013 not necessarily apocalyptic disasters, but things that have a big impact on small areas, so this advice is very much needed.\u201d Robinson said the campaign showed how the perception of \u201cprepping\u201d has shifted, especially since the Covid-19 pandemic when most people will remember seeing empty supermarket shelves. \u201cWe did a study during Covid that showed people who did mild levels of prepping, such as having food, masks and hand gel in the house a few weeks before the pandemic, had lo"
+      },
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
-      "house_a": "High House Shadow",
-      "house_b": "High House Words",
-      "actor_a": "INSIDE PUTIN",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.614,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "INSIDE PUTIN",
-      "actor_b": "KOREA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.643,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House Chains",
-      "actor_a": "INSIDE PUTIN",
-      "actor_b": "FRANCE",
-      "relationship": "neutral",
-      "goldstein_avg": -1.136,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
       "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.829,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "KOREA",
-      "relationship": "opposed",
-      "goldstein_avg": -1.565,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
       "house_b": "High House Chains",
-      "actor_a": "UKRAINE",
-      "actor_b": "FRANCE",
+      "actor_a": "TRUMP",
+      "actor_b": "BRITAIN",
       "relationship": "opposed",
-      "goldstein_avg": -2.463,
-      "confidence": 0.9,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House War",
-      "house_b": "High House Chains",
-      "actor_a": "KOREA",
-      "actor_b": "FRANCE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.44,
+      "goldstein_avg": -2.211,
       "confidence": 0.9,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "falling",
-      "trend_ratio": 0.434,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.668,
+    "High House Chains": {
+      "trend": "rising",
+      "trend_ratio": 2.271,
       "source": "gdelt_volume"
     }
   }
