@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-26",
   "cards": [
     {
       "house": "High House Iron",
@@ -86,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WANING"
     },
     {
       "house": "High House Coin",
@@ -115,112 +115,127 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": false,
-      "confidence": 0.303,
+      "reversed": true,
+      "confidence": 0.385,
       "scores": {
-        "High House War": 0.303,
-        "High House Coin": 0.153,
-        "High House Shadow": 0.099,
-        "High House Life": 0.073,
-        "High House Iron": 0.06,
-        "High House Words": 0.221,
-        "High House Chains": 0.151
+        "High House War": 0.385,
+        "High House Coin": 0.233,
+        "High House Shadow": 0.14,
+        "High House Life": 0.023,
+        "High House Iron": -0.013,
+        "High House Words": 0.233,
+        "High House Chains": 0.273
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.541,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.899
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
-        "url": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
-        "source": "guardian",
-        "full_text": "The conflict in the Middle East continues to disrupt shipping across the region, including in the strait of Hormuz, one of the world\u2019s busiest maritime routes. Iran state TV has reported that seven oil tankers were damaged in the Straight of Hormuz on Wednesday night. There has been an increase in the number of attacks on ships in recent days; some vessels have been hit by drones, others by mines. We would like to hear from maritime workers, port staff and shipping crews or families aboard ships affected by the conflict. What is happening in the Strait of Hormuz? How is the situation affecting your work? We would also like to speak to friends or family of those on board. What are you hearing? How are they coping?"
+        "title": "UK , French troops war - game attack on NATO",
+        "url": "https://www.taipeitimes.com/News/world/archives/2026/10/26/2003866638",
+        "source": "gdelt_doc",
+        "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.297,
+      "confidence": 0.343,
       "scores": {
-        "High House War": 0.112,
-        "High House Coin": 0.202,
-        "High House Shadow": 0.001,
-        "High House Life": 0.105,
-        "High House Iron": 0.096,
-        "High House Words": 0.16,
-        "High House Chains": 0.297
+        "High House War": -0.022,
+        "High House Coin": 0.328,
+        "High House Shadow": 0.215,
+        "High House Life": 0.083,
+        "High House Iron": 0.07,
+        "High House Words": 0.259,
+        "High House Chains": 0.343
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.531,
+        "confidence": 0.517,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.965
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "Britain\u2019s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
-        "source": "guardian",
-        "full_text": "After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas and the stuff has to come from somewhere. We\u2019re now doing a deal with Belgium to ensure enough supply can flow through a connecting pipeline this winter should a \u201clow-probability but high-impact stress event\u201d, to quote the regulatory mouthful, occur. To be fair, the arrangement to maintain capacity from Belgium is a belt-and-braces measure. The imagined events do sound genuinely stressful and may never happen. A critical piece of infrastructure, such as the two import terminals in Milford Haven to bring in liquefied natural gas (LNG) into Britain, would have to be out of action during a prolonged cold snap in which demand is very high. Equally, though, the \u201chigh-impact\u201d bit matters: we\u2019re talking about having enough supplies to run gas-fired power stations at full pelt if necessary to keep the lights on. You don\u2019t take chances. In short, 10p a month will be added to bills to cover the cost of paying Interconnector Limited, the Belgian owner of the pipeline, to maintain the compressors needed to shove big volumes of gas to Britain in a hurry if required. Without the arrangement, the company had already warned it would cut capacity, in part because the big pipe was not used much in practice last year. The first conclusion \u2013 the comforting one \u2013 is that the deal sounds like decent value for money. As insurance policies go, \u00a31.19 a household a year is not much. The second, however, is that risks to Britain\u2019s gas security are plainly mounting. The Ofgem document describing the Belgian deal says it was \u201cthe only currently available intervention identified that both addresses the immediate security of supply position for winter 2026/27 and provides continuing security of supply benefits over the following four years\u201d. It was Belgium, plus any future deal on the Dutch pipeline, or nothing. Nor is the Belgian shuffle a cure-all. \u201cThe agreement does not remove the need for further measures led by government that are likely to be required to support security of supply and wider gas system resilience over the medium and longer term,\u201d says Ofgem. The government should take that line as a heavy hint to get a move on. Do we need more gas storage, more LNG terminals, or both? And post-Jackdaw, what\u2019s a realistic appraisal of how much will be sourced from the North Sea? It is now almost a year since an alarming report from the National Energy System Operator (Neso) warned of an \u201cemerging risk to gas supply security\u201d in 2030. The government promised to \u201cdo whatever it takes\u201d to avert a crunch but one cannot say it has actually done much. An interim response to the Neso report came in August but no timetable was given for choosing what kit or arrangements were needed and by when. The final response isn\u2019t due until next year. Read the \u201cwinter outlook\u201d report from National Gas, published on Friday, and a few points stand out. Yes, it\u2019s good news that, with the help of the Belgian deal, this winter\u2019s outlook is positive. But the company also says that, even as annual consumption drifts down slightly, the peaks for demand remain as high as ever, driven by the role of gas-fired power generation when renewables output is low. Like Ofgem, National Gas says \u201ccontinued progress on government plans to reform security of supply arrangements will be vital to address enduring challenges in the years ahead\u201d. It is becoming a theme. The obvious answer is more gas storage to address Britain\u2019s skimpy current levels. That could mean Centrica\u2019s Rough facility in North Sea (currently due to close next spring), the Bains development led by dCarbonX off the north-west coast of England (which may happen anyway), more on-shore salt caverns or any combination. Or, perhaps, German-style forward-buying deals on LNG. But something has to happen soon. None of this infrastructure gets built quickly and that 2030 potential crunch is getting "
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.28,
+      "confidence": 0.322,
       "scores": {
-        "High House War": 0.163,
-        "High House Coin": 0.032,
-        "High House Shadow": 0.233,
-        "High House Life": 0.249,
-        "High House Iron": -0.029,
-        "High House Words": 0.28,
-        "High House Chains": 0.053
+        "High House War": 0.142,
+        "High House Coin": 0.263,
+        "High House Shadow": 0.206,
+        "High House Life": 0.171,
+        "High House Iron": 0.115,
+        "High House Words": 0.322,
+        "High House Chains": 0.196
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.55,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "\u2018Realistic and reassuring\u2019: UK public \u2018responding calmly\u2019 to Be Ready campaign",
-        "url": "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign",
-        "source": "guardian",
-        "full_text": "When the UK government launched its \u201cProtect and Survive\u201d public information campaign in 1980 on how to stay alive after a nuclear attack, it was met with a combination of scepticism, disbelief and derision. The advice included how to build a \u201cfallout room\u201d at home, how to whitewash windows to protect from a blast, and how to store a dead body for up to five days. You might expect this would have prompted widespread panic, but in fact it led to a political backlash, and was later lampooned on TV and in music. It shows the risks governments take when launching such campaigns, and the fine balance that must be struck between hammering home a practical message without causing panic \u2013 or other unintended reactions. The government\u2019s new Be Ready campaign is advising the public to stock up on three day\u2019s worth of supplies for use during severe weather or cyber-attacks, so help can be directed to the most vulnerable first. In a concise, two-page document, it suggests people stock bottled water and non-perishable food for three days, a torch with spare batteries, a wind-up FM radio, a first aid kit and a copy of their passport. To stave off panic buying, it advises people to check their cupboards first and build up items gradually on regular shopping trips. While there is no evidence the advice has triggered mass panic, the public is clearly responding. Jack Brown, who co-owns Sgt Prepper Shop, which stocks emergency food and survival tools, said he received a month\u2019s worth of orders in the first 24 hours of the Be Ready campaign. \u201cI thought my phone was glitching or being hacked with the number of orders coming in,\u201d he said. Brown said the advice seemed sensible and proportionate. Three days was the \u201csweet spot\u201d, he said, with most everyday emergencies like power cuts, a burst water main or flooding sorted within that timeframe. It is also \u201crealistic, affordable and fits in a cupboard\u201d, he said, adding that asking people to stock up on a month\u2019s worth of supplies would feel overwhelming and most people would do nothing at all. A wind-up radio was also a sensible suggestion, and ones with a built-in torch and phone-charging USB port make them \u201cone of the most useful bits of kit you can own\u201d, he said. Dr Sarita Robinson, associate dean for the school of psychology and humanities at the University of Lancashire, said there was little evidence to suggest these kinds of messaging campaigns cause panic. \u201cThere\u2019s this perception that if we tell people the truth we\u2019re somehow going to panic them and it isn\u2019t the case,\u201d she said. \u201cWhen we use accurate messaging about emergency situations, the public will engage with that proactively. It\u2019s when we start to hide information and there\u2019s a void of information, that\u2019s when things can go wrong for government.\u201d She said Be Ready was \u201crealistic, quite low level, and should be reassuring because it\u2019s basically treating the public like the grownups they are\u201d. Dan Goss, who runs Start Prepping UK, said traffic to his website was up 700% since news of the campaign emerged in August. He said he was glad to see the subject finally being taken seriously and spoken about in \u201cplain language\u201d by the government, and felt the risk of panic was low. \u201cThe level of uptake required for that would be huge \u2013 you would need to have an enormous number of people all take the government\u2019s advice very seriously and all jump on it as a priority,\u201d he said. \u201cWe\u2019re definitely in a phase now where we\u2019re seeing lots of more disruption to people\u2019s lives \u2013 not necessarily apocalyptic disasters, but things that have a big impact on small areas, so this advice is very much needed.\u201d Robinson said the campaign showed how the perception of \u201cprepping\u201d has shifted, especially since the Covid-19 pandemic when most people will remember seeing empty supermarket shelves. \u201cWe did a study during Covid that showed people who did mild levels of prepping, such as having food, masks and hand gel in the house a few weeks before the pandemic, had lo"
+        "title": "I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us.",
+        "url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html",
+        "source": "nyt",
+        "full_text": null
       },
-      "position": "WANING"
+      "position": "WILD"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Coin",
-      "house_b": "High House Chains",
+      "house_b": "High House War",
       "actor_a": "TRUMP",
-      "actor_b": "BRITAIN",
+      "actor_b": "NATO",
       "relationship": "opposed",
-      "goldstein_avg": -2.211,
-      "confidence": 0.9,
+      "goldstein_avg": -2.371,
+      "confidence": 0.79,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Chains": {
+    "High House Life": {
       "trend": "rising",
-      "trend_ratio": 2.271,
+      "trend_ratio": 1.94,
+      "source": "gdelt_volume"
+    },
+    "High House Shadow": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 2.213,
+      "source": "gdelt_volume"
+    },
+    "High House Chains": {
+      "trend": "falling",
+      "trend_ratio": 0.0,
       "source": "gdelt_volume"
     }
   }
