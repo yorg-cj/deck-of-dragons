@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,35 +31,6 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.486,
-      "scores": {
-        "High House War": 0.085,
-        "High House Coin": 0.033,
-        "High House Shadow": 0.044,
-        "High House Life": 0.486,
-        "High House Iron": 0.041,
-        "High House Words": 0.062,
-        "High House Chains": 0.056
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "The Galien Foundation Presents Senator John Kerry with 2026 Roy Vagelos Pro Bono Humanum Award for Global Health Equity",
-        "url": "https://bubblear.com/the-galien-foundation-presents-senator-john-kerry-with-2026-roy-vagelos-pro-bono-humanum-award-for-global-health-equity/34957",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
@@ -86,7 +57,36 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.439,
+      "scores": {
+        "High House War": 0.009,
+        "High House Coin": 0.076,
+        "High House Shadow": 0.223,
+        "High House Life": 0.439,
+        "High House Iron": -0.025,
+        "High House Words": 0.129,
+        "High House Chains": 0.082
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.55,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Plague risks in Russia and a dangerous delay on WHO pandemic agreement",
+        "url": "https://www.theguardian.com/science/2026/oct/25/plague-risks-in-russia-and-a-dangerous-delay-on-who-pandemic-agreement",
+        "source": "guardian",
+        "full_text": "Your editorial on the silence from Siberia after a worker died at a plague research institute there is right that the lack of information is the real worry (The Guardian view on plague in Russia: what is most worrying is the lack of information, 18 October). But the deeper failure is not Russian. It is that, six years after Covid, we still have no agreed system for sharing pathogens, or for sharing what is made from them. I spent three decades in Hong Kong, through bird flu, Sars and Covid, working on outbreak surveillance and sample-sharing between Hong Kong and the UK. It is also where this territorial argument began. In June 1894, two bacteriologists arrived to investigate the plague. Kitasato Shibasabur\u014d was given lab space and immediate access to the bodies. Alexandre Yersin was refused access to the dead, and worked from a straw hut, having to appeal to the governor for his share of cadavers. Access to the material was allocated by favour, not by need. The organism carries the name of the man who was shut out: Yersinia pestis. The pathogen access and benefit-sharing annexe to the World Health Organization pandemic agreement is the same argument in modern dress, and it has stalled on the same point. Poorer countries are asked to detect and share dangerous pathogens quickly. In return, they want a binding guarantee of what follows: 20% of real-time production of vaccines and treatments, half donated and half sold at cost. In article 13, the global supply chain and logistics network provides for a more equitable distribution of personal protective equipment. Richer countries prefer all that sharing to stay voluntary. The agreement cannot open for signature until this is settled, and it has now been deferred to 2027. All pandemics start with a rumour. The next pandemic is likely to be something we have never seen before, and whoever first holds the samples will not be us. If we cannot agree what they get in return, we should not be surprised when they are slow to hand them over. Dr Darren Mann Former medical director, Cabinet Office Covid-19 PPE taskforce \u2022 Your editorial on plague in Russia is right that the system is fraying, but wrong to treat Moscow\u2019s silence as an aberration. It is the predictable product of rules that member states built without teeth. The International Health Regulations oblige governments to notify the WHO within 24 hours, yet provide no verification, no sanctions and no independent monitoring. States mark their own homework through annual self-assessments. The amendments in force since last September add an implementation committee that is, by design, consultative only. Member states, Britain included, chose this. They then starved the WHO of assessed funding, leaving it dependent on the goodwill of the governments it is meant to hold to account. Britain accepted the amended regulations in July 2025 and, with the United States gone, is among the WHO\u2019s largest government funders. Ministers should raise Russia\u2019s non-reporting formally within the WHO rather than leave Washington to make the only public request. The UK should table proposals for independent verification and a public compliance register when the pandemic agreement\u2019s pathogen-sharing annex returns to the assembly, due by May 2027. And it should volunteer for the WHO\u2019s Universal Health and Preparedness Review, a peer review that only 11 countries have joined and Britain has not. A government cannot demand transparency it declines to practise. The recent UN declaration on pandemics will mean little unless the governments that signed it are held to account. Kent Buse Co-CEO, Global 50/50 \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -115,36 +115,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.385,
-      "scores": {
-        "High House War": 0.385,
-        "High House Coin": 0.233,
-        "High House Shadow": 0.14,
-        "High House Life": 0.023,
-        "High House Iron": -0.013,
-        "High House Words": 0.233,
-        "High House Chains": 0.273
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.541,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
-      },
-      "article": {
-        "title": "UK , French troops war - game attack on NATO",
-        "url": "https://www.taipeitimes.com/News/world/archives/2026/10/26/2003866638",
-        "source": "gdelt_doc",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
       "house": "High House Chains",
@@ -173,69 +144,128 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.322,
+      "reversed": false,
+      "confidence": 0.331,
       "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.263,
-        "High House Shadow": 0.206,
-        "High House Life": 0.171,
-        "High House Iron": 0.115,
-        "High House Words": 0.322,
-        "High House Chains": 0.196
+        "High House War": 0.068,
+        "High House Coin": 0.04,
+        "High House Shadow": 0.183,
+        "High House Life": 0.109,
+        "High House Iron": 0.022,
+        "High House Words": 0.331,
+        "High House Chains": 0.102
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.963
+      },
+      "article": {
+        "title": "Rare call with Putin on Ukraine was \u2018substantive\u2019 but \u2018significant differences\u2019 remain, say Finnish and Norwegian leaders \u2013 Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+        "source": "guardian",
+        "full_text": "Norway\u2019s Jonas Gahr St\u00f8re has offered a bit more colour on his and Stubb\u2019s call with Russia\u2019s Putin in a huddle with journalists in Helsinki just now. He and Stubb had been initially given only 20 minutes to talk to Putin, but ended up speaking for 90 minutes, in a conversation he described as \u201csubstantive, focused on the issues at hand, and professional.\u201d \u201cMuch of what he said was already known \u2013 he [Putin] recalled his views on how the conflict evolved since 2014 \u2013 and we stated our positions. These are well-known views, which we were able to acknowledge and respond to,\u201d he said. The talks touched on what can be done to tackle most pressing issues, including attacks on energy infrastructure and in the Black Sea. But St\u00f8re conceded \u201cthere remain significant differences in our respective positions,\u201d reiterating Norway\u2019s continued support for Ukraine. \u201cWe stand with Ukraine, defend its right to self-defence, and emphasise the need for a diplomatic path to end this war in a lasting and just manner,\u201d he said. St\u00f8re also stressed that he and Finland\u2019s Stubb spoke on behalf of their two countries only, \u201cand no one else.\u201d Responding to criticism of their call from Denmark\u2019s Frederiksen (11:26), he said that \u201call our partners and allies were informed in advance and received a detailed account afterwards.\u201d Pushing back further, he added: \u201cIf one assumes that the current situation \u2013 where communication from the American administration to Moscow serves as the sole channel for discussing Ukraine outside of Ukraine \u2013 is the only way, then one is entitled to that view. I believe it is important that other voices are heard as well.\u201d St\u00f8re also stressed that the importance of the meeting in Abu Dhabi, first agreed as a result of the Oslo consultations that he and Stubb hosted. In a brief section of the briefing in English, St\u00f8re again focused on pushing back against Frederiksen\u2019s criticism: \u201cI believe that talking, having the right messages, is not wrong. Today these messages [are] coming out of the American administration; that is the only thing reaching Moscow. So [now] there are [also] voices from two neighbouring states, speaking on behalf of Finland and Norway, not speaking on behalf of others, but \u2026 in full compliance with the coalition of the willing who share view on the nature of this war and how with has to end.\u201d Russia is exploring the possibility \u2060of \u2060cooperation with partners from the \u2060United States in the resource-rich \u2060Arctic, president Vladimir \u200cPutin \u200ctold a conference \u200cof gas-exporting countries in Moscow. Putin did not specify \u200cwhether the joint projects under consideration would involve extracting natural gas \u2060or other resources. Three tankers carrying Russian diesel are en route to the United States, with a fourth expected to depart Wednesday, Moscow said, part of a deal that triggered a fierce Ukrainian and European backlash. US president Donald Trump this month struck an agreement with Russia\u2019s president Vladimir Putin to ease sanctions in exchange for Moscow releasing diesel onto global markets. The measure was seen as an attempt to lower fuel prices for American consumers ahead of the US midterm legislative elections on 3 November and drew sharp criticism from Ukraine and its allies. \u201cAt present, three tankers\u201d with Russian fuel are on their way to the United States, Russian deputy prime minister Alexander Novak told reporters on Tuesday. A fourth was expected to set off on Wednesday, he added. The first US-bound tanker with Russian diesel departed last week. According to data from the maritime tracking firm Kpler, it loaded nearly 300,000 barrels of diesel at the Primorsk terminal and was headed to New York. In other news, the Netherlands has dropped (again) from the 2027 Eurovision song contest as public broadcaster NPO reversed its plans to pick up the baton after another broadcaster pulled out in August. The withdrawal is linked with \u201csensitivities\u201d over Israel\u2019s participation in the competition, NPO\u2019s media dire"
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.327,
+      "scores": {
+        "High House War": 0.327,
+        "High House Coin": 0.081,
+        "High House Shadow": 0.113,
+        "High House Life": 0.111,
+        "High House Iron": 0.085,
+        "High House Words": 0.154,
+        "High House Chains": 0.166
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.55,
+        "confidence": 0.542,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
+        "sentiment_score": 0.985
       },
       "article": {
-        "title": "I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us.",
-        "url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html",
+        "title": "Egypt Approves Sending Military Support to Defend Saudi Arabia From Houthis",
+        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     }
   ],
   "relationships": [
     {
+      "house_a": "High House Life",
+      "house_b": "High House Coin",
+      "actor_a": "RUSSIA",
+      "actor_b": "TRUMP",
+      "relationship": "opposed",
+      "goldstein_avg": -2.163,
+      "confidence": 0.65,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "RUSSIA",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.487,
+      "confidence": 0.65,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.42,
+      "confidence": 0.65,
+      "source": "gdelt_tone"
+    },
+    {
       "house_a": "High House Coin",
       "house_b": "High House War",
       "actor_a": "TRUMP",
-      "actor_b": "NATO",
-      "relationship": "opposed",
-      "goldstein_avg": -2.371,
-      "confidence": 0.79,
+      "actor_b": "EGYPT APPROVES SENDING MILITARY SUPPORT",
+      "relationship": "neutral",
+      "goldstein_avg": -0.033,
+      "confidence": 0.65,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "UKRAINE",
+      "actor_b": "EGYPT APPROVES SENDING MILITARY SUPPORT",
+      "relationship": "neutral",
+      "goldstein_avg": -0.033,
+      "confidence": 0.65,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Life": {
-      "trend": "rising",
-      "trend_ratio": 1.94,
-      "source": "gdelt_volume"
-    },
-    "High House Shadow": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 2.213,
-      "source": "gdelt_volume"
-    },
     "High House Chains": {
       "trend": "falling",
       "trend_ratio": 0.0,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.328,
       "source": "gdelt_volume"
     }
   }
