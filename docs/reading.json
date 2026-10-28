@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "cards": [
     {
       "house": "High House Iron",
@@ -60,31 +60,31 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.439,
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.437,
       "scores": {
-        "High House War": 0.009,
-        "High House Coin": 0.076,
-        "High House Shadow": 0.223,
-        "High House Life": 0.439,
-        "High House Iron": -0.025,
-        "High House Words": 0.129,
-        "High House Chains": 0.082
+        "High House War": 0.072,
+        "High House Coin": 0.049,
+        "High House Shadow": 0.279,
+        "High House Life": 0.132,
+        "High House Iron": 0.044,
+        "High House Words": 0.437,
+        "High House Chains": 0.094
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998
       },
       "article": {
-        "title": "Plague risks in Russia and a dangerous delay on WHO pandemic agreement",
-        "url": "https://www.theguardian.com/science/2026/oct/25/plague-risks-in-russia-and-a-dangerous-delay-on-who-pandemic-agreement",
-        "source": "guardian",
-        "full_text": "Your editorial on the silence from Siberia after a worker died at a plague research institute there is right that the lack of information is the real worry (The Guardian view on plague in Russia: what is most worrying is the lack of information, 18 October). But the deeper failure is not Russian. It is that, six years after Covid, we still have no agreed system for sharing pathogens, or for sharing what is made from them. I spent three decades in Hong Kong, through bird flu, Sars and Covid, working on outbreak surveillance and sample-sharing between Hong Kong and the UK. It is also where this territorial argument began. In June 1894, two bacteriologists arrived to investigate the plague. Kitasato Shibasabur\u014d was given lab space and immediate access to the bodies. Alexandre Yersin was refused access to the dead, and worked from a straw hut, having to appeal to the governor for his share of cadavers. Access to the material was allocated by favour, not by need. The organism carries the name of the man who was shut out: Yersinia pestis. The pathogen access and benefit-sharing annexe to the World Health Organization pandemic agreement is the same argument in modern dress, and it has stalled on the same point. Poorer countries are asked to detect and share dangerous pathogens quickly. In return, they want a binding guarantee of what follows: 20% of real-time production of vaccines and treatments, half donated and half sold at cost. In article 13, the global supply chain and logistics network provides for a more equitable distribution of personal protective equipment. Richer countries prefer all that sharing to stay voluntary. The agreement cannot open for signature until this is settled, and it has now been deferred to 2027. All pandemics start with a rumour. The next pandemic is likely to be something we have never seen before, and whoever first holds the samples will not be us. If we cannot agree what they get in return, we should not be surprised when they are slow to hand them over. Dr Darren Mann Former medical director, Cabinet Office Covid-19 PPE taskforce \u2022 Your editorial on plague in Russia is right that the system is fraying, but wrong to treat Moscow\u2019s silence as an aberration. It is the predictable product of rules that member states built without teeth. The International Health Regulations oblige governments to notify the WHO within 24 hours, yet provide no verification, no sanctions and no independent monitoring. States mark their own homework through annual self-assessments. The amendments in force since last September add an implementation committee that is, by design, consultative only. Member states, Britain included, chose this. They then starved the WHO of assessed funding, leaving it dependent on the goodwill of the governments it is meant to hold to account. Britain accepted the amended regulations in July 2025 and, with the United States gone, is among the WHO\u2019s largest government funders. Ministers should raise Russia\u2019s non-reporting formally within the WHO rather than leave Washington to make the only public request. The UK should table proposals for independent verification and a public compliance register when the pandemic agreement\u2019s pathogen-sharing annex returns to the assembly, due by May 2027. And it should volunteer for the WHO\u2019s Universal Health and Preparedness Review, a peer review that only 11 countries have joined and Britain has not. A government cannot demand transparency it declines to practise. The recent UN declaration on pandemics will mean little unless the governments that signed it are held to account. Kent Buse Co-CEO, Global 50/50 \u2022 Have an opinion on anything you\u2019ve read in the Guardian today? Please email us your letter and it will be considered for publication in our letters section."
+        "title": "The shifting spectrum of truth",
+        "url": "https://www.arabnews.com/opinion/the-shifting-spectrum-of-truth-3008556",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "FOUNDATION"
     },
@@ -118,6 +118,35 @@
       "position": "WILD"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.397,
+      "scores": {
+        "High House War": 0.071,
+        "High House Coin": 0.078,
+        "High House Shadow": 0.198,
+        "High House Life": 0.397,
+        "High House Iron": 0.086,
+        "High House Words": 0.036,
+        "High House Chains": 0.105
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.795
+      },
+      "article": {
+        "title": "Russian doctors ready to keep helping Africa fight cholera and Ebola \u2014 Putin",
+        "url": "https://tass.com/politics/2209515",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
@@ -144,129 +173,38 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.331,
-      "scores": {
-        "High House War": 0.068,
-        "High House Coin": 0.04,
-        "High House Shadow": 0.183,
-        "High House Life": 0.109,
-        "High House Iron": 0.022,
-        "High House Words": 0.331,
-        "High House Chains": 0.102
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.963
-      },
-      "article": {
-        "title": "Rare call with Putin on Ukraine was \u2018substantive\u2019 but \u2018significant differences\u2019 remain, say Finnish and Norwegian leaders \u2013 Europe live",
-        "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-        "source": "guardian",
-        "full_text": "Norway\u2019s Jonas Gahr St\u00f8re has offered a bit more colour on his and Stubb\u2019s call with Russia\u2019s Putin in a huddle with journalists in Helsinki just now. He and Stubb had been initially given only 20 minutes to talk to Putin, but ended up speaking for 90 minutes, in a conversation he described as \u201csubstantive, focused on the issues at hand, and professional.\u201d \u201cMuch of what he said was already known \u2013 he [Putin] recalled his views on how the conflict evolved since 2014 \u2013 and we stated our positions. These are well-known views, which we were able to acknowledge and respond to,\u201d he said. The talks touched on what can be done to tackle most pressing issues, including attacks on energy infrastructure and in the Black Sea. But St\u00f8re conceded \u201cthere remain significant differences in our respective positions,\u201d reiterating Norway\u2019s continued support for Ukraine. \u201cWe stand with Ukraine, defend its right to self-defence, and emphasise the need for a diplomatic path to end this war in a lasting and just manner,\u201d he said. St\u00f8re also stressed that he and Finland\u2019s Stubb spoke on behalf of their two countries only, \u201cand no one else.\u201d Responding to criticism of their call from Denmark\u2019s Frederiksen (11:26), he said that \u201call our partners and allies were informed in advance and received a detailed account afterwards.\u201d Pushing back further, he added: \u201cIf one assumes that the current situation \u2013 where communication from the American administration to Moscow serves as the sole channel for discussing Ukraine outside of Ukraine \u2013 is the only way, then one is entitled to that view. I believe it is important that other voices are heard as well.\u201d St\u00f8re also stressed that the importance of the meeting in Abu Dhabi, first agreed as a result of the Oslo consultations that he and Stubb hosted. In a brief section of the briefing in English, St\u00f8re again focused on pushing back against Frederiksen\u2019s criticism: \u201cI believe that talking, having the right messages, is not wrong. Today these messages [are] coming out of the American administration; that is the only thing reaching Moscow. So [now] there are [also] voices from two neighbouring states, speaking on behalf of Finland and Norway, not speaking on behalf of others, but \u2026 in full compliance with the coalition of the willing who share view on the nature of this war and how with has to end.\u201d Russia is exploring the possibility \u2060of \u2060cooperation with partners from the \u2060United States in the resource-rich \u2060Arctic, president Vladimir \u200cPutin \u200ctold a conference \u200cof gas-exporting countries in Moscow. Putin did not specify \u200cwhether the joint projects under consideration would involve extracting natural gas \u2060or other resources. Three tankers carrying Russian diesel are en route to the United States, with a fourth expected to depart Wednesday, Moscow said, part of a deal that triggered a fierce Ukrainian and European backlash. US president Donald Trump this month struck an agreement with Russia\u2019s president Vladimir Putin to ease sanctions in exchange for Moscow releasing diesel onto global markets. The measure was seen as an attempt to lower fuel prices for American consumers ahead of the US midterm legislative elections on 3 November and drew sharp criticism from Ukraine and its allies. \u201cAt present, three tankers\u201d with Russian fuel are on their way to the United States, Russian deputy prime minister Alexander Novak told reporters on Tuesday. A fourth was expected to set off on Wednesday, he added. The first US-bound tanker with Russian diesel departed last week. According to data from the maritime tracking firm Kpler, it loaded nearly 300,000 barrels of diesel at the Primorsk terminal and was headed to New York. In other news, the Netherlands has dropped (again) from the 2027 Eurovision song contest as public broadcaster NPO reversed its plans to pick up the baton after another broadcaster pulled out in August. The withdrawal is linked with \u201csensitivities\u201d over Israel\u2019s participation in the competition, NPO\u2019s media dire"
-      },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.327,
+      "confidence": 0.236,
       "scores": {
-        "High House War": 0.327,
-        "High House Coin": 0.081,
-        "High House Shadow": 0.113,
-        "High House Life": 0.111,
-        "High House Iron": 0.085,
-        "High House Words": 0.154,
-        "High House Chains": 0.166
+        "High House War": 0.236,
+        "High House Coin": -0.006,
+        "High House Shadow": 0.139,
+        "High House Life": -0.061,
+        "High House Iron": -0.066,
+        "High House Words": 0.099,
+        "High House Chains": 0.062
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.542,
+        "confidence": 0.538,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.985
+        "sentiment_score": 0.978
       },
       "article": {
-        "title": "Egypt Approves Sending Military Support to Defend Saudi Arabia From Houthis",
-        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-        "source": "nyt",
-        "full_text": null
+        "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+        "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+        "source": "guardian",
+        "full_text": "A significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating glaciers in the Dolomites, the Italian army has said. The devices, which included Italian artillery shells and French mortar bombs, were removed and defused by the army\u2019s Julia Alpine brigade, according to a statement. The weapons originated from the white war, a battle between the Austro-Hungarian army and Italian troops across treacherous and bitterly cold terrain between 1915 and 1918. More than a century later, hikers reported several sightings of bombs during the summer, mostly in the area of Canal San Bovo in the Primiero Valley in eastern Trentino. The soldiers then conducted an extensive sweep there and across other high-altitude and glacier locations in the Trentino Alto Adige region of the Dolomites. They recovered and neutralised 250 explosives, including \u201c18 Italian 75mm artillery shells and 37 Thevetot mortar shells \u2013 a French-made device that was also supplied to the Italian royal army during the first world war\u201d, the Julia Alpine brigade. It is not the first time that relics of the white war have emerged from melting glaciers, whose retreat has accelerated over more than decade. \u201cIt is very much a consequence of global heating,\u201d said Stefano Morosini, a professor at the University of Bergamo and the coordinator of heritage projects at Stelvio national park, where some of the explosives were also found. \u201cIn recent years, at the end of each summer, these dangerous artefacts emerge and each year there is a higher number. They have been conserved by the ice for more than 100 years. Some had already exploded but many hadn\u2019t, so now when they re-emerge, they are very, very dangerous.\u201d The advice to hikers and mountaineers is to \u201cnever touch any type of explosive device you might find, regardless of where it is located\u201d and to promptly report any discovery to police. Fought mainly in the Dolomites of Trentino Alto-Adige and the Alps of the Lombardy region, the white war was a period of history frozen in time until the 1990s, when global heating started to reveal an assortment of perfectly preserved relics, including weapons, sledges, letters and diaries. A wooden barracks that had been dug into a cave on the top of Mount Scorluzzo, a 3,095-metre (10,154ft) peak overlooking the Stelvio pass, reappeared in 2015 after the ice which had sealed it off for almost a century completely melted. The shelter had been hastily locked up when the first world war ended in November 1918, and the soldiers abandoned most of their belongings. Beds made of straw as well as clothes, lanterns, newspapers, postcards, coins, and tinned food were found well preserved inside. A white war museum to host the relics is scheduled to open in Bormio in June 2027. The white war is estimated to have claimed as many as 180,000 lives, although the majority of deaths were likely caused by avalanches, falling down mountains or hypothermia. Dozens of corpses, some still in their uniforms, have emerged from the melting ice over the past 15 years. The relatives of an Italian soldier were able to bury him in 2017 after documents revealing his identity were found with his body on Presena glacier. Morosini said the intense summer heat was making access to the glaciers in the Dolomites less safe. Eleven people died when a huge mass of the Marmolada glacier broke off in 2022. \u201cIt is becoming more and more impossible to access the glaciers during the summer because of the very long heatwave at high altitude,\u201d he said. \u201cIf you come to the area, you can see how fast the glaciers are retreating and how strong the impact of climate change is.\u201d \u2022 This article was amended on 28 October 2026. The white war is estimated to have claimed as many as 180,000 lives, not \u201cmore than one million\u201d as an earlier version said."
       },
-      "position": "EMERGING"
+      "position": "WANING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Coin",
-      "actor_a": "RUSSIA",
-      "actor_b": "TRUMP",
-      "relationship": "opposed",
-      "goldstein_avg": -2.163,
-      "confidence": 0.65,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "RUSSIA",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.487,
-      "confidence": 0.65,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -2.42,
-      "confidence": 0.65,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "EGYPT APPROVES SENDING MILITARY SUPPORT",
-      "relationship": "neutral",
-      "goldstein_avg": -0.033,
-      "confidence": 0.65,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "UKRAINE",
-      "actor_b": "EGYPT APPROVES SENDING MILITARY SUPPORT",
-      "relationship": "neutral",
-      "goldstein_avg": -0.033,
-      "confidence": 0.65,
-      "source": "gdelt_tone"
-    }
-  ],
-  "house_trends": {
-    "High House Chains": {
-      "trend": "falling",
-      "trend_ratio": 0.0,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.328,
-      "source": "gdelt_volume"
-    }
-  }
+  "relationships": [],
+  "house_trends": {}
 }
