@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "cards": [
     {
       "house": "High House Iron",
@@ -60,35 +60,6 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.437,
-      "scores": {
-        "High House War": 0.072,
-        "High House Coin": 0.049,
-        "High House Shadow": 0.279,
-        "High House Life": 0.132,
-        "High House Iron": 0.044,
-        "High House Words": 0.437,
-        "High House Chains": 0.094
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.998
-      },
-      "article": {
-        "title": "The shifting spectrum of truth",
-        "url": "https://www.arabnews.com/opinion/the-shifting-spectrum-of-truth-3008556",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Coin",
       "title": "The King",
       "reversed": false,
@@ -115,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Life",
@@ -173,34 +144,63 @@
         "source": "nyt",
         "full_text": null
       },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": true,
+      "confidence": 0.322,
+      "scores": {
+        "High House War": 0.142,
+        "High House Coin": 0.263,
+        "High House Shadow": 0.206,
+        "High House Life": 0.171,
+        "High House Iron": 0.115,
+        "High House Words": 0.322,
+        "High House Chains": 0.196
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.55,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us.",
+        "url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html",
+        "source": "nyt",
+        "full_text": null
+      },
       "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.236,
+      "confidence": 0.283,
       "scores": {
-        "High House War": 0.236,
-        "High House Coin": -0.006,
-        "High House Shadow": 0.139,
-        "High House Life": -0.061,
-        "High House Iron": -0.066,
-        "High House Words": 0.099,
-        "High House Chains": 0.062
+        "High House War": 0.283,
+        "High House Coin": -0.016,
+        "High House Shadow": 0.219,
+        "High House Life": 0.16,
+        "High House Iron": 0.036,
+        "High House Words": 0.263,
+        "High House Chains": 0.1
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.538,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.978
+        "sentiment_score": 0.994
       },
       "article": {
-        "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-        "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+        "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+        "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
         "source": "guardian",
-        "full_text": "A significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating glaciers in the Dolomites, the Italian army has said. The devices, which included Italian artillery shells and French mortar bombs, were removed and defused by the army\u2019s Julia Alpine brigade, according to a statement. The weapons originated from the white war, a battle between the Austro-Hungarian army and Italian troops across treacherous and bitterly cold terrain between 1915 and 1918. More than a century later, hikers reported several sightings of bombs during the summer, mostly in the area of Canal San Bovo in the Primiero Valley in eastern Trentino. The soldiers then conducted an extensive sweep there and across other high-altitude and glacier locations in the Trentino Alto Adige region of the Dolomites. They recovered and neutralised 250 explosives, including \u201c18 Italian 75mm artillery shells and 37 Thevetot mortar shells \u2013 a French-made device that was also supplied to the Italian royal army during the first world war\u201d, the Julia Alpine brigade. It is not the first time that relics of the white war have emerged from melting glaciers, whose retreat has accelerated over more than decade. \u201cIt is very much a consequence of global heating,\u201d said Stefano Morosini, a professor at the University of Bergamo and the coordinator of heritage projects at Stelvio national park, where some of the explosives were also found. \u201cIn recent years, at the end of each summer, these dangerous artefacts emerge and each year there is a higher number. They have been conserved by the ice for more than 100 years. Some had already exploded but many hadn\u2019t, so now when they re-emerge, they are very, very dangerous.\u201d The advice to hikers and mountaineers is to \u201cnever touch any type of explosive device you might find, regardless of where it is located\u201d and to promptly report any discovery to police. Fought mainly in the Dolomites of Trentino Alto-Adige and the Alps of the Lombardy region, the white war was a period of history frozen in time until the 1990s, when global heating started to reveal an assortment of perfectly preserved relics, including weapons, sledges, letters and diaries. A wooden barracks that had been dug into a cave on the top of Mount Scorluzzo, a 3,095-metre (10,154ft) peak overlooking the Stelvio pass, reappeared in 2015 after the ice which had sealed it off for almost a century completely melted. The shelter had been hastily locked up when the first world war ended in November 1918, and the soldiers abandoned most of their belongings. Beds made of straw as well as clothes, lanterns, newspapers, postcards, coins, and tinned food were found well preserved inside. A white war museum to host the relics is scheduled to open in Bormio in June 2027. The white war is estimated to have claimed as many as 180,000 lives, although the majority of deaths were likely caused by avalanches, falling down mountains or hypothermia. Dozens of corpses, some still in their uniforms, have emerged from the melting ice over the past 15 years. The relatives of an Italian soldier were able to bury him in 2017 after documents revealing his identity were found with his body on Presena glacier. Morosini said the intense summer heat was making access to the glaciers in the Dolomites less safe. Eleven people died when a huge mass of the Marmolada glacier broke off in 2022. \u201cIt is becoming more and more impossible to access the glaciers during the summer because of the very long heatwave at high altitude,\u201d he said. \u201cIf you come to the area, you can see how fast the glaciers are retreating and how strong the impact of climate change is.\u201d \u2022 This article was amended on 28 October 2026. The white war is estimated to have claimed as many as 180,000 lives, not \u201cmore than one million\u201d as an earlier version said."
+        "full_text": "Bereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from the latest instalment of the video game. The clips, which are seconds-long, appear in the opening moments of Call of Duty: Modern Warfare 4, and are used to represent a scenario of civilian casualties during a fictional North Korean invasion. One shows a scene of chaos with a figure performing CPR on a victim lying in the street. Another shows rows of bodies laid out in the road, and a victim being carried away on a stretcher. A total of 158 people were killed in a narrow alley in Seoul\u2019s Itaewon nightlife district during the Halloween weekend in 2022. Two more have since been recognised as victims, having died from trauma caused by the disaster. \u201cWe are appalled that the chaotic and desperate scenes, in which countless citizens performed CPR to save one another and victims lay on the cold street, were used exactly as they were to create a scene in a game,\u201d the bereaved families\u2019 council and a coalition of civic groups said in a joint statement on Wednesday, demanding that the footage be removed. They said people who had taken part in the rescue or witnessed the crush were still living with trauma, while hateful comments about the victims were spreading online in connection with the game\u2019s premise. Activision, the game\u2019s publisher, told the Yonhap news agency that \u201csome actual news footage included in the game\u2019s opening cinematic was utilised as an element to convey the fictional story within the work.\u201d They added, \u201cWe had absolutely no intention of mentioning or treating lightly any actual tragic events, including the Itaewon tragedy.\u201d The Guardian has contacted Activision for comment. The demand comes as the country marks the fourth anniversary of the crush on Thursday. Players in South Korea identified the clip after the game\u2019s release, and Korean broadcasters have compared it side by side with footage filmed on the night of the crowd crush. The Korean Game Users Association called for an apology and for the footage to be replaced. Modern Warfare 4 follows a South Korean marine private fighting a North Korean invasion through recognisable Korean streets. The title had already become a political talking point before its release, with conservative politicians urging president Lee Jae Myung \u2013 who is pursuing a more conciliatory approach towards North Korea \u2013 to play the game to understand what they described as the threat from Pyongyang. It topped South Korea\u2019s sales chart on Steam, the leading PC gaming platform, within days of its release."
       },
       "position": "WANING"
     }
