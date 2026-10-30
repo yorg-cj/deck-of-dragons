@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "cards": [
     {
       "house": "High House Iron",
@@ -31,6 +31,35 @@
       "position": "CENTER"
     },
     {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.486,
+      "scores": {
+        "High House War": 0.022,
+        "High House Coin": 0.06,
+        "High House Shadow": -0.042,
+        "High House Life": 0.486,
+        "High House Iron": -0.002,
+        "High House Words": 0.024,
+        "High House Chains": 0.14
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.547,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.995
+      },
+      "article": {
+        "title": "El Ni\u00f1o-driven drought in Papua New Guinea a \u2018national crisis\u2019 as rivers dry up and local farms fail",
+        "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+        "source": "guardian",
+        "full_text": "Extreme drought driven by an historic El Ni\u00f1o is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions and business groups has said the Pacific nation is in the midst of a \u201cnational crisis\u201d, but there appears to be \u201cno coordinated plan to protect vulnerable communities from the worsening impacts of El Ni\u00f1o.\u201d Residents and community leaders have told the Guardian that rivers and creeks have dried up and family food gardens \u2013 a vital source of food and income for many \u2013 have shrivelled. Schools and health facilities are being forced to close early because they lack sufficient water to provide basic services. Emilly Meren, humanitarian projects manager at CARE International in PNG, said in rural highland areas families were rationing food to one meal a day \u2013 while food insecurity was leading to localised disputes between families. \u201cFor women and girls, they are expected to do more to support their families,\u201d she said, yet they were \u201cthe last to eat because they have to serve others first\u201d. \u201cThey have to travel three to four hours to source water and food and are exposed to a heightened risk of harassment. We are hearing stories of transactional sex happening in the community \u2013 exchanging sex for money or for food.\u201d The El Ni\u00f1o climate pattern is gaining strength in the tropical Pacific with forecasts suggesting it will be the strongest ever recorded with its impacts worsened by global heating. Some parts of PNG have had less than a quarter of their usual rainfall since August. The PNG National Weather Service declared the onset of El Ni\u00f1o in June but Kasis Inape, the service\u2019s assistant director, said at that point, much of the country was already in drought and about 8 million people had been affected. Inape said PNG was one of the wettest places in the world with rain fed by warm tropical waters, but the El Ni\u00f1o had seen those waters shift east \u201cand we\u2019re starved of rain\u201d. \u201cBecause we\u2019re a rain-fed country, a lot of our people are subsistence farmers and they depend just on rainfall to survive and to feed themselves,\u201d he said. PNG\u2019s wet season is between November and April and Inape said while some short term relief was forecasted, there were concerns El Ni\u00f1o would shorten the season. \u201cThe place is so dry \u2013 just two months of rain is not enough to allow crops to grow and water levels to be comfortable,\u201d Inape said. In Morobe province\u2019s Bulolo district, smaller rivers have dried up leaving families without access to water for drinking, cooking and washing. Resident Theophil Zarack said many schools and health centres were operating for only half a day, with some clinics no longer accepting inpatients due to a lack of available water. Martha Zureno, a resident in Leklu village, said: \u201cAll our rivers have dried up, including the one behind my house. Now, my children and I have to walk for miles every afternoon to fetch water for cooking and drinking from the other side. \u201cWe have a well that we dug ourselves, but we only use that water for washing. All the crops in our gardens have dried up and died, and we cannot grow anything now.\u201d Zureno said that most of the local residents depend on panning for gold to earn an income, but without water, \u201ceven that has become increasingly difficult\u201d. Meanwhile, a destructive hailstorm in parts of Enga province earlier this month \u2013 not blamed directly on El Ni\u00f1o \u2013 buried sweet potatoes under ice, exacerbating the food scarcity issue, according to George Iki, president of the Sambe Unity Development Association. In the capital Port Moresby, PNG Power has begun planned electricity blackouts after falling dam levels cut hydropower generation and said disruptions could continue for up to 10 months. The company was working to manage dam releases to protect the city\u2019s water supply. Peter Aitsi, a prominent PNG business figure"
+      },
+      "position": "ASCENDING"
+    },
+    {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": true,
@@ -57,7 +86,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -86,32 +115,32 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.397,
+      "confidence": 0.392,
       "scores": {
-        "High House War": 0.071,
-        "High House Coin": 0.078,
-        "High House Shadow": 0.198,
-        "High House Life": 0.397,
-        "High House Iron": 0.086,
-        "High House Words": 0.036,
-        "High House Chains": 0.105
+        "High House War": 0.168,
+        "High House Coin": 0.157,
+        "High House Shadow": 0.194,
+        "High House Life": 0.107,
+        "High House Iron": -0.054,
+        "High House Words": 0.392,
+        "High House Chains": 0.148
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.795
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "Russian doctors ready to keep helping Africa fight cholera and Ebola \u2014 Putin",
-        "url": "https://tass.com/politics/2209515",
+        "title": "Press review: EU, NATO try to hinder Ukraine peace and Russia seeks constructive G20 talks",
+        "url": "https://tass.com/pressreview/2210659",
         "source": "worldnews",
         "full_text": null
       },
@@ -144,35 +173,6 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.322,
-      "scores": {
-        "High House War": 0.142,
-        "High House Coin": 0.263,
-        "High House Shadow": 0.206,
-        "High House Life": 0.171,
-        "High House Iron": 0.115,
-        "High House Words": 0.322,
-        "High House Chains": 0.196
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us.",
-        "url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "EMERGING"
     },
     {
@@ -200,11 +200,38 @@
         "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
         "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
         "source": "guardian",
-        "full_text": "Bereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from the latest instalment of the video game. The clips, which are seconds-long, appear in the opening moments of Call of Duty: Modern Warfare 4, and are used to represent a scenario of civilian casualties during a fictional North Korean invasion. One shows a scene of chaos with a figure performing CPR on a victim lying in the street. Another shows rows of bodies laid out in the road, and a victim being carried away on a stretcher. A total of 158 people were killed in a narrow alley in Seoul\u2019s Itaewon nightlife district during the Halloween weekend in 2022. Two more have since been recognised as victims, having died from trauma caused by the disaster. \u201cWe are appalled that the chaotic and desperate scenes, in which countless citizens performed CPR to save one another and victims lay on the cold street, were used exactly as they were to create a scene in a game,\u201d the bereaved families\u2019 council and a coalition of civic groups said in a joint statement on Wednesday, demanding that the footage be removed. They said people who had taken part in the rescue or witnessed the crush were still living with trauma, while hateful comments about the victims were spreading online in connection with the game\u2019s premise. Activision, the game\u2019s publisher, told the Yonhap news agency that \u201csome actual news footage included in the game\u2019s opening cinematic was utilised as an element to convey the fictional story within the work.\u201d They added, \u201cWe had absolutely no intention of mentioning or treating lightly any actual tragic events, including the Itaewon tragedy.\u201d The Guardian has contacted Activision for comment. The demand comes as the country marks the fourth anniversary of the crush on Thursday. Players in South Korea identified the clip after the game\u2019s release, and Korean broadcasters have compared it side by side with footage filmed on the night of the crowd crush. The Korean Game Users Association called for an apology and for the footage to be replaced. Modern Warfare 4 follows a South Korean marine private fighting a North Korean invasion through recognisable Korean streets. The title had already become a political talking point before its release, with conservative politicians urging president Lee Jae Myung \u2013 who is pursuing a more conciliatory approach towards North Korea \u2013 to play the game to understand what they described as the threat from Pyongyang. It topped South Korea\u2019s sales chart on Steam, the leading PC gaming platform, within days of its release."
+        "full_text": "Bereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from the latest instalment of the video game. The clips, which are seconds-long, appear in the opening moments of Call of Duty: Modern Warfare 4, and are used to represent a scenario of civilian casualties during a fictional North Korean invasion. One shows a scene of chaos with a figure performing CPR on a victim lying in the street. Another shows rows of bodies laid out in the road, and a victim being carried away on a stretcher. A total of 158 people were killed in a narrow alley in Seoul\u2019s Itaewon nightlife district during the Halloween weekend in 2022. Two more have since been recognised as victims, having died from trauma caused by the disaster. \u201cWe are appalled that the chaotic and desperate scenes, in which countless citizens performed CPR to save one another and victims lay on the cold street, were used exactly as they were to create a scene in a game,\u201d the bereaved families\u2019 council and a coalition of civic groups said in a joint statement on Wednesday, demanding that the footage be removed. They said people who had taken part in the rescue or witnessed the crush were still living with trauma, while hateful comments about the victims were spreading online in connection with the game\u2019s premise. Activision, the game\u2019s publisher, said that \u201cin developing Call of Duty: Modern Warfare 4, we approached the subject matter with care and respect. The game\u2019s opening cinematic utilizes some real world news coverage to establish the game\u2019s fictional narrative.\u201d \u201cIt is not intended to reference or trivialize the Itaewon disaster or any other real-world tragedy in any way, shape or form.\u201d The demand comes as the country marks the fourth anniversary of the crush on Thursday. Players in South Korea identified the clip after the game\u2019s release, and Korean broadcasters have compared it side by side with footage filmed on the night of the crowd crush. The Korean Game Users Association called for an apology and for the footage to be replaced. Modern Warfare 4 follows a South Korean marine private fighting a North Korean invasion through recognisable Korean streets. The title had already become a political talking point before its release, with conservative politicians urging president Lee Jae Myung \u2013 who is pursuing a more conciliatory approach towards North Korea \u2013 to play the game to understand what they described as the threat from Pyongyang. It topped South Korea\u2019s sales chart on Steam, the leading PC gaming platform, within days of its release."
       },
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {}
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -2.576,
+      "confidence": 0.22,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "SEOUL",
+      "relationship": "neutral",
+      "goldstein_avg": -0.161,
+      "confidence": 0.22,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 2.039,
+      "source": "gdelt_volume"
+    }
+  }
 }
