@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "cards": [
     {
       "house": "High House Iron",
@@ -118,58 +118,58 @@
       "position": "WILD"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.356,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.343,
       "scores": {
-        "High House War": 0.174,
-        "High House Coin": 0.126,
-        "High House Shadow": 0.239,
-        "High House Life": 0.251,
-        "High House Iron": 0.036,
-        "High House Words": 0.356,
-        "High House Chains": 0.198
+        "High House War": 0.202,
+        "High House Coin": 0.273,
+        "High House Shadow": 0.254,
+        "High House Life": 0.161,
+        "High House Iron": 0.171,
+        "High House Words": 0.284,
+        "High House Chains": 0.343
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.55,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "25th anniversary: Countercurrents Gave A Voice to Truth-telling Humanitarians and the Global South",
-        "url": "https://countercurrents.org/2026/10/25th-anniversary-countercurrents-gave-a-voice-to-truth-telling-humanitarians-and-the-global-south",
+        "title": "Upgrade your subscription",
+        "url": "https://chinaglobalsouth.com/podcasts/south-africa-us-trade-relations-china-alternative",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.343,
+      "confidence": 0.315,
       "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.328,
-        "High House Shadow": 0.215,
-        "High House Life": 0.083,
-        "High House Iron": 0.07,
-        "High House Words": 0.259,
-        "High House Chains": 0.343
+        "High House War": 0.039,
+        "High House Coin": 0.011,
+        "High House Shadow": 0.227,
+        "High House Life": 0.063,
+        "High House Iron": -0.094,
+        "High House Words": 0.315,
+        "High House Chains": 0.016
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.517,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+        "title": "Distaste for Russian Diplomat Forces U.S. to Cancel Photo Session in Atlanta",
+        "url": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
         "source": "nyt",
         "full_text": null
       },
@@ -178,39 +178,33 @@
     {
       "house": "High House War",
       "title": "The Army",
-      "reversed": false,
-      "confidence": 0.293,
+      "reversed": true,
+      "confidence": 0.282,
       "scores": {
-        "High House War": 0.293,
-        "High House Coin": 0.159,
-        "High House Shadow": 0.156,
-        "High House Life": -0.029,
-        "High House Iron": 0.063,
-        "High House Words": 0.158,
-        "High House Chains": 0.184
+        "High House War": 0.282,
+        "High House Coin": 0.235,
+        "High House Shadow": 0.145,
+        "High House Life": 0.064,
+        "High House Iron": 0.117,
+        "High House Words": 0.176,
+        "High House Chains": 0.255
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.549,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.967
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Iran's Khamenei Orders Military To Expand US Retaliation Plans",
-        "url": "https://www.ndtvprofit.com/world/irans-khamenei-orders-military-to-expand-us-retaliation-plans-12263822",
-        "source": "worldnews",
-        "full_text": null
+        "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+        "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+        "source": "guardian",
+        "full_text": "Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of Iranian attack, according to a study by the International Institute for Strategic Studies. The report says that in the weeks before the 8 April ceasefire, 12 regional states, overwhelmingly in the Gulf, faced 4,670 Iranian one-way attack drones and more than 1,400 ballistic missiles. Nearly half were aimed at the United Arab Emirates. Although the vast majority were repelled, one estimate of the damage to energy infrastructure cited by the report is put as high as $58bn (\u00a343bn). Iran would portray either a reduction or complete withdrawal of US forces from the region as \u201ca strategic success and vindication of its steadfastness, but also use it to embarrass the Gulf states about their decades-long courtship of US protection\u201d. The report says the war also highlights another \u201cuncomfortable truth for the Gulf states: not only has their trillion-dollar acquisition of US weapons not translated into US protection at the crucial time, but their respective militaries are also not adequately prepared for the new kind of attritional air war to which they are being exposed\u201d. Despite huge investment in mainly US armaments, the report identified significant shortcomings: \u201coverwhelming reliance on US-supplied air- and missile-defence systems and munitions; a failure to achieve regional defence integration; a shortage of minesweeping capability; limited retaliatory options; and the prohibitive costs stemming from an overdependence on expensive, high-end systems to take down relatively inexpensive drones and missiles\u201d. The report is neutral on whether the divided Gulf states should seek a new non-aggression pact with Iran, but notes that the US-Iran war has shown longstanding defence and security partnerships with the US \u201chave failed to ensure adequate protection against Iranian aggression\u201d. It adds: \u201cIf anything, US military bases and defence partnerships with the US have provided Iran with another pretext for attacks against the Gulf states.\u201d Public opinion on the US in the Gulf has also been shifting, it says, \u201cfrom security provider to strategic liability\u201d. Any reduction or withdrawal of US forces from the Gulf region would be portrayed by Iran \u201cas a strategic success and vindication of its steadfastness\u201d and would also be used \u201cto embarrass the Gulf states about their decades-long courtship of US protection,\u201d the report notes. The study comes after Chris Murphy, the Democrat senator and member of the senate foreign relations committee, said a debate was under way in the US military about the value of seeking to rebuild the damaged US bases in the Gulf. Murphy said the Gulf state leadership \u201cwant us to rebuild\u201d and \u201cto keep a presence in the region\u201d, but asked: \u201cWhat good is it to have a base in the region to protect American interests if within 24 hours of a hot war starting, it is wiped off the map? \u201cWe would be criminally incompetent as stewards of taxpayer dollars if we were to rebuild bases that are blown up within hours of the next war starting. \u201cSo clearly, we are going to have to have a smaller footprint in the region, and the limiting principle on the footprint that we rebuild will be \u2018what can we protect?\u2019 because we clearly cannot protect the scope of our footprint today and if we can\u2019t protect it, it is useless.\u201d Murphy suggested that, at the very least, the US may need to relocate its bases in the eastern Mediterranean further away from Iranian missiles."
       },
       "position": "WANING"
     }
   ],
   "relationships": [],
-  "house_trends": {
-    "High House Coin": {
-      "trend": "stable",
-      "trend_ratio": 1.011,
-      "source": "gdelt_volume"
-    }
-  }
+  "house_trends": {}
 }
