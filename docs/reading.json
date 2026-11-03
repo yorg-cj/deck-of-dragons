@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "cards": [
     {
       "house": "High House Iron",
@@ -89,31 +89,31 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.385,
+      "confidence": 0.371,
       "scores": {
-        "High House War": 0.099,
-        "High House Coin": 0.092,
-        "High House Shadow": 0.229,
-        "High House Life": 0.037,
-        "High House Iron": -0.048,
-        "High House Words": 0.385,
-        "High House Chains": 0.111
+        "High House War": 0.096,
+        "High House Coin": 0.304,
+        "High House Shadow": 0.132,
+        "High House Life": 0.22,
+        "High House Iron": 0.027,
+        "High House Words": 0.309,
+        "High House Chains": 0.371
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.54,
+        "confidence": 0.539,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.982
+        "sentiment_score": 0.979
       },
       "article": {
-        "title": "Ukraine war briefing: Moscow\u2019s Lavrov snubbed at G20 in Atlanta",
-        "url": "https://www.theguardian.com/world/2026/oct/31/ukraine-war-briefing-moscows-lavrov-snubbed-at-g20-in-atlanta",
-        "source": "guardian",
-        "full_text": "The EU\u2019s foreign policy chief has accused Russian foreign minister Sergei Lavrov of presenting \u201clies\u201d in G20 meetings in Atlanta about the Ukrainian conflict and suggested Moscow was not ready for peace negotiations. \u201cWe were talking about the big geopolitical crisis, including Ukraine, and we were able to address Sergei Lavrov head-on with this,\u201d Kaja Kallas told Agence France-Presse on the sidelines of a meeting on Friday. \u201cOf course, he put forward a lot of lies, a lot of false narratives that we were also able to then rebuke.\u201d Kallas said Russia did not appear ready to move ahead in peace talks. \u201cEven if they would have said this in words, their deeds tell something else,\u201d she said. \u201cJuly, August, and September have been the deadliest months for civilians in Ukraine.\u201d She added: \u201cThey should show with their deeds that they are ready to negotiate, but they are clearly, clearly not.\u201d At the talks, which are focusing on global economic growth, energy security and trade, European officials pushed Russia to secure a ceasefire in the Black Sea, an important agriculture export corridor. However, Lavrov conceded no ground on Ukraine and at a press conference, he criticised Europeans for their \u201carrogant boycott\u201d while praising the willingness of US President Donald Trump\u2019s administration to engage with Moscow. Plans for a traditional family photo of G20 ministers were called off after some European officials objected to appearing alongside Lavrov. Moscow has been shunned by most of the West since it invaded Ukraine, and Lavrov himself remains under international sanctions. The UK foreign secretary, Ed Miliband, said: \u201cWe do not engage in that way with the Russians and have not for a number of years.\u201d German foreign minister Johann Wadephul said there would be no photo because \u201cthere is no normality with Russia\u201d. US secretary of state Marco Rubio spoke briefly with Lavrov on the sidelines of the G20 meeting, with the Russian minister saying both sides had a \u201cdecent talk\u201d. Trump has invited Russian President Vladimir Putin to Florida in December and has eased some sanctions on Moscow while touting a deal for Russia to sell diesel as prices soared. The Russian foreign minister\u2019s G20 appearance comes also ahead of fresh negotiations expected between Moscow, Kyiv and Washington in November. Meanwhile, the Trump administration on Friday approved the sale of 500 Patriot missiles to Ukraine for an estimated $2.1bn, the state department said, but Ukraine\u2019s president has warned deliveries could take years. The approval, which goes to Congress for review, comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling. A state department statement did not provide an estimate for when the weapons could be delivered but Volodymyr Zelenskyy said late Friday in a post on X that \u201cdeliveries may begin ONLY IN A FEW YEARS\u201d. Weapons sales typically take years to fulfil, and two people briefed on the US decision said the missiles \u2013 which are yet to be manufactured \u2013 are not expected to be delivered until a couple of years into the 2030s. Patriot missiles are among the most important weapons Ukraine has to intercept Russian drones and missiles. The Ukrainian president on Friday suggested the US and European allies could give his country missiles they have stockpiled now, which would later be replenished by the new purchase. \u201cWe are asking our American partners to find a solution for the time when there is a real danger and a real need to use PAC-3 interceptors,\u201d Zelenskyy said. People living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war. The city, which lies on the Russian-occupied side of the Dnipro River has suffered months of food and medical shortages, leading to warnings of starvation for the few thousand people remaining there, including children. A human"
+        "title": "Comment on Chasing climate goals in a sanctions-targeted country by documentation",
+        "url": "https://www.newzimbabwe.com/chasing-climate-goals-in-a-sanctions-targeted-country",
+        "source": "worldnews",
+        "full_text": null
       },
       "position": "WILD"
     },
@@ -147,29 +147,29 @@
       "position": "WILD"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.343,
+      "confidence": 0.322,
       "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.328,
-        "High House Shadow": 0.215,
-        "High House Life": 0.083,
-        "High House Iron": 0.07,
-        "High House Words": 0.259,
-        "High House Chains": 0.343
+        "High House War": 0.142,
+        "High House Coin": 0.263,
+        "High House Shadow": 0.206,
+        "High House Life": 0.171,
+        "High House Iron": 0.115,
+        "High House Words": 0.322,
+        "High House Chains": 0.196
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.517,
+        "confidence": 0.55,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+        "title": "I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us.",
+        "url": "https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html",
         "source": "nyt",
         "full_text": null
       },
@@ -179,26 +179,26 @@
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.235,
+      "confidence": 0.279,
       "scores": {
-        "High House War": 0.235,
-        "High House Coin": 0.117,
-        "High House Shadow": 0.075,
-        "High House Life": 0.018,
-        "High House Iron": 0.03,
-        "High House Words": 0.121,
-        "High House Chains": 0.214
+        "High House War": 0.279,
+        "High House Coin": 0.101,
+        "High House Shadow": 0.102,
+        "High House Life": 0.067,
+        "High House Iron": -0.063,
+        "High House Words": 0.223,
+        "High House Chains": 0.182
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.947
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.926
       },
       "article": {
-        "title": "Retired US Air Force officer Rick Francona discusses Kurds, Iranian threat with 'Post' - interview",
-        "url": "https://www.jpost.com/middle-east/article-913588",
+        "title": "Brits who dodge WW3 conscription call-up to army could face 'societal shaming'",
+        "url": "https://www.dailystar.co.uk/news/latest-news/brits-who-dodge-ww3-conscription-37838042",
         "source": "worldnews",
         "full_text": null
       },
