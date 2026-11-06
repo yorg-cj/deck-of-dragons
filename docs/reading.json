@@ -1,6 +1,35 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.559,
+      "scores": {
+        "High House War": 0.14,
+        "High House Coin": 0.257,
+        "High House Shadow": 0.337,
+        "High House Life": 0.18,
+        "High House Iron": 0.559,
+        "High House Words": 0.17,
+        "High House Chains": 0.216
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.933
+      },
+      "article": {
+        "title": "The Push for AI Sovereignty",
+        "url": "https://www.newsweek.com/businesses-ai-sovereignty-private-infrastructure-control-12672643",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -25,35 +54,6 @@
       "article": {
         "title": "Spying and A.I.",
         "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.428,
-      "scores": {
-        "High House War": 0.092,
-        "High House Coin": 0.236,
-        "High House Shadow": 0.206,
-        "High House Life": 0.174,
-        "High House Iron": 0.428,
-        "High House Words": 0.142,
-        "High House Chains": 0.245
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
-        "url": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
         "source": "nyt",
         "full_text": null
       },
@@ -89,31 +89,31 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Life",
+      "title": "The King",
       "reversed": true,
-      "confidence": 0.371,
+      "confidence": 0.399,
       "scores": {
-        "High House War": 0.096,
-        "High House Coin": 0.304,
-        "High House Shadow": 0.132,
-        "High House Life": 0.22,
-        "High House Iron": 0.027,
-        "High House Words": 0.309,
-        "High House Chains": 0.371
+        "High House War": 0.021,
+        "High House Coin": -0.053,
+        "High House Shadow": 0.135,
+        "High House Life": 0.399,
+        "High House Iron": -0.049,
+        "High House Words": 0.019,
+        "High House Chains": 0.093
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.539,
+        "confidence": 0.534,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.979
+        "sentiment_score": 0.971
       },
       "article": {
-        "title": "Comment on Chasing climate goals in a sanctions-targeted country by documentation",
-        "url": "https://www.newzimbabwe.com/chasing-climate-goals-in-a-sanctions-targeted-country",
-        "source": "worldnews",
-        "full_text": null
+        "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+        "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+        "source": "guardian",
+        "full_text": "A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to the UK for specialist treatment. The patient, whose identity is unknown, was transported home on a medical evacuation flight, the Department of Health and Social Care said on Thursday. They are now being cared for in a specialised high-level isolation unit at the Royal Free hospital in Hampstead, north London. Dr Renu Bindra, the deputy director for all-hazards public health response at the UK Health Security Agency, said: \u201cUKHSA and the NHS have well-established and robust infection prevention and control protocols to limit the risk of onward transmission, and the risk to the wider public remains low.\u201d A humanitarian organisation sent the doctor to DR Congo to help in the response to the outbreak, which is the second largest on record. It is the first case involving a British national contracting Ebola in the current outbreak. The Royal Free's isolation unit has strict protocols in place to prevent the patient coming into contact with any members of the public, and all staff treating the patient are equipped with the necessary personal protective equipment alongside other measures to prevent transmission. Ebola is a highly contagious, severe and often fatal illness spread through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies. The current outbreak, declared in May by DR Congo\u2019s health ministry, has surpassed 10,000 cases and 5,000 deaths. It has spread to Kenya and Uganda in east Africa, and last month Nigeria confirmed a case in its capital, Abuja. People with the disease tend to fall ill two to 21 days after contact with an orthoebolavirus. Initial symptoms include fever, aches, pains, and fatigue, but can then progress to diarrhoea, vomiting and unexplained bleeding. There have only been four confirmed cases of the virus in the UK previously. A case in 1976 was from a laboratory needle incident, and the three others involved health workers who were responding to an outbreak in West Africa between 2014 and 2015."
       },
       "position": "WILD"
     },
@@ -149,31 +149,31 @@
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Chains",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.32,
+      "confidence": 0.329,
       "scores": {
-        "High House War": -0.019,
-        "High House Coin": -0.06,
-        "High House Shadow": 0.098,
-        "High House Life": 0.32,
-        "High House Iron": -0.018,
-        "High House Words": 0.02,
-        "High House Chains": 0.068
+        "High House War": 0.293,
+        "High House Coin": 0.147,
+        "High House Shadow": 0.247,
+        "High House Life": 0.14,
+        "High House Iron": 0.197,
+        "High House Words": 0.278,
+        "High House Chains": 0.329
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.534,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.997
+        "sentiment_score": 0.971
       },
       "article": {
-        "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-        "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+        "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+        "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
         "source": "guardian",
-        "full_text": "A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. \u201cA British citizen currently in the DR Congo has tested positive for Ebola,\u201d a spokesperson for the UK government said in a statement on Wednesday. \u201cThe UK has well-established procedures for dealing with cases like this, and those processes have been activated \u2026 The risk to the UK public from Ebola remains low.\u201d The patient, whose identity is unknown, is in a stable condition and is expected to arrive in the UK on Wednesday or Thursday before being transferred in a specialist ambulance to a \u201chigh consequence\u201d infectious disease unit, according to an official document seen by Reuters. A humanitarian organisation sent the worker to DR Congo to help in the response to the outbreak, which is the second largest on record. It is the first case involving a British national contracting Ebola in the current outbreak. The Royal Free hospital in London has a high-level isolation unit for infectious diseases such as Ebola; other centres are in Newcastle and Liverpool. Ebola is a highly contagious, severe and often fatal illness. It is spread through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies. The current outbreak, declared on 15 May by DR Congo\u2019s health ministry, has surpassed 10,000 cases, and 5,000 deaths. It is the 17th in DR Congo since Ebola was identified, was caused by the Bundibugyo virus, and has become the largest and deadliest in the country\u2019s history. The Bundibugyo virus has no approved treatment, though vaccine trials are under way. Since the outbreak started, it has spread to Kenya and Uganda in east Africa, while last month Nigeria confirmed a case in the capital, Abuja, after a woman who arrived from Uganda tested positive for the virus. She, along with a close contact, were evacuated to Switzerland for treatment. In an interview with the Guardian last month, Dr Jean Kaseya, the director general of the Africa Centres for Disease Control and Prevention (CDC), said the \u201cunprecedented\u201d spread of the Ebola outbreak meant it could reach the UK and other countries. \u201cWe want all countries to know that they are not safe if they don\u2019t take appropriate measures,\u201d he said. \u201cEach country, not only in the African region, but all continents, must now increase the preparedness level and the possibility for treatment. \u201cIt is the first time three African regions have been affected [by Ebola]. The geographic extension of this outbreak is unprecedented.\u201d Other patients who have been medically evacuated for specialised care since the start of the outbreak include two sent to Germany and one to the Netherlands. Another case was reported in France in July. British health authorities say the risk \u2060to the wider public from imported Ebola cases remains low and the NHS has procedures in place to manage suspected and confirmed infections. There have only been four confirmed cases recorded in Britain since 1976, \u200caccording to the UK Health Security Agency."
+        "full_text": "Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules. The scale of the opposition will become clear at a diplomatic retreat starting on Friday before the seventh review conference on \u201ccertain conventional weapons\u201d in Geneva due to be attended by 128 countries from 16 to 20 November. The review conference is seen as the key moment when the world could decide whether to back a mandate to negotiate a legally binding instrument negotiated within a defined timetable. The speed with which autonomous weapons are being developed and used in warfare is widely acknowledged. Anna Hehir, the head of military AI governance at the Future of Life Institute, an independent nonprofit, said: \u201cStates have never been closer to launching a global agreement on AI weapons. A lot of the hard work has already been done and states have now agreed by consensus to elements of a draft treaty text that would be the basis for negotiations to start. \u201cBut we will likely see some states hide behind language that has the veneer of progress but advocates for a continuation of endless discussions on voluntary measures that have no teeth. The proposals for more years of discussions on non-legally binding measures are smokescreens to keep autonomous weapons systems unregulated and states unaccountable for their use.\u201d Discussions have been under way on the issue inside the UN for nearly three years but Russia, the US and Israel, among others, are pushing against the review conference setting a timetable for a legally binding instrument. In an intervention timed to influence the review conference, Pope Leo XIV stressed that decisions relating to human life could never be given to machines. He said: \u201cDecisions affecting human life, freedom and the use of force must always remain subject to effective, informed and responsible human oversight. For this reason, artificial intelligence must be \u2018disarmed\u2019, and I encourage the states meeting in Geneva in November to take concrete steps toward banning lethal autonomous weapons.\u201d Human Rights Watch and the campaign group Stop Killer Robots argue that weapons systems, assisted by AI, are proven to behave unpredictably, increasing the risk of fatal errors and battlefields spinning out of human control. The International Committee of the Red Cross (ICRC) said on Thursday: \u201cThe time has come to move from discussion to negotiation on new international rules to regulate autonomous systems. The world cannot afford further delays.\u201d In July, Ukraine reported for the first time that Russia had used an AI-guided drone, which struck a propane tank at a fuel station in Zaporizhzhia. The Ukrainian president, Volodymyr Zelenskyy, has warned about the speed of AI weapon development, calling for the Ukraine war to be ended before AI takes over the battlefield. On 22 October, a coalition of 50 states including Ireland, Italy, Brazil, Mexico, France and Germany called for the conference to agree a strict negotiating mandate. The ICRC separately reported that more than 70 states supported beginning negotiations on a legal instrument. The UK did not back the Irish statement and has previously argued that existing international humanitarian law is sufficient basis for the regulation of such weapons. The Ireland-led group proposed a mandate to be agreed by the review conference that would establish a time-limited expert group tasked with negotiating the needed rules over three sessions in Geneva in 2027, totalling 25 days. The group would be required to submit a report containing the draft protocol to that year\u2019s annual meeting, expected to take place later in 2027. In September, a UN experts group report prepared for the Geneva review conference tried to define the moral issues at stake by backing general calls for human judgment and control in the use of such weapons, as"
       },
       "position": "EMERGING"
     },
@@ -207,6 +207,53 @@
       "position": "WANING"
     }
   ],
-  "relationships": [],
-  "house_trends": {}
+  "relationships": [
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Life",
+      "actor_a": "TRUMP",
+      "actor_b": "LONDON",
+      "relationship": "neutral",
+      "goldstein_avg": -1.313,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Chains",
+      "actor_a": "TRUMP",
+      "actor_b": "RUSSIA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.966,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Words",
+      "actor_a": "LONDON",
+      "actor_b": "RUSSIA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.134,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House Chains",
+      "actor_a": "LONDON",
+      "actor_b": "RUSSIA",
+      "relationship": "opposed",
+      "goldstein_avg": -2.134,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    }
+  ],
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.179,
+      "source": "gdelt_volume"
+    }
+  }
 }
