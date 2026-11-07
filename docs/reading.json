@@ -1,35 +1,6 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.559,
-      "scores": {
-        "High House War": 0.14,
-        "High House Coin": 0.257,
-        "High House Shadow": 0.337,
-        "High House Life": 0.18,
-        "High House Iron": 0.559,
-        "High House Words": 0.17,
-        "High House Chains": 0.216
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.933
-      },
-      "article": {
-        "title": "The Push for AI Sovereignty",
-        "url": "https://www.newsweek.com/businesses-ai-sovereignty-private-infrastructure-control-12672643",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -57,36 +28,96 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "CENTER"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": false,
-      "confidence": 0.423,
+      "reversed": true,
+      "confidence": 0.456,
       "scores": {
-        "High House War": 0.198,
-        "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
+        "High House War": 0.116,
+        "High House Coin": 0.456,
+        "High House Shadow": 0.351,
+        "High House Life": 0.012,
+        "High House Iron": 0.131,
+        "High House Words": 0.292,
+        "High House Chains": 0.368
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.983
       },
       "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
-        "source": "nyt",
+        "title": "United States:  U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
+        "url": "https://www.thestkittsnevisobserver.com/united-states-u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.41,
+      "scores": {
+        "High House War": 0.132,
+        "High House Coin": 0.272,
+        "High House Shadow": 0.08,
+        "High House Life": 0.011,
+        "High House Iron": -0.01,
+        "High House Words": 0.167,
+        "High House Chains": 0.41
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.538,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.978
+      },
+      "article": {
+        "title": "UN outlines indicators of progress on Caspian agreements (Exclusive)",
+        "url": "https://www.trend.az/casia/4243914.html",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.408,
+      "scores": {
+        "High House War": -0.035,
+        "High House Coin": -0.037,
+        "High House Shadow": 0.084,
+        "High House Life": 0.033,
+        "High House Iron": 0.408,
+        "High House Words": -0.017,
+        "High House Chains": -0.113
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.55,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+        "source": "guardian",
+        "full_text": "Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company\u2019s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi. Musk did not say whether Tesla had plans to produce the vehicle in another factory, although that would probably require significant investment for the specialised tooling needed to make it. Musk has pinned hopes for Tesla on robotics, artificial intelligence and an autonomous driving fleet rather than following the traditional carmakers\u2019 approach of developing a steady stream of new models to entice private buyers. It caps a tricky week for the world\u2019s richest person, after Republican candidates he had backed with $446m (\u00a3332m) in donations lost in the US midterm elections. The paper value of Musk\u2019s fortune fell by $113bn after the extent of the rout became clear, as stock market investors questioned whether a Democrat-led Congress could slow the pace of the AI boom. Tesla shares fell by 11% on Thursday, while his AI and rocket launch company, SpaceX, dropped by 9%. Tesla started deliveries of the Cybertruck in late 2023, after several long delays as the company tried to cope with the technical challenges of producing such an unusual vehicle \u2013 and particularly its steel shell. The Cybertruck never made it on sale in Europe because it did not reach the required safety standards. Even before sales began, Musk acknowledged how difficult it would be to make it a success. In a 2023 earnings call, he said: \u201cWe dug our own grave with Cybertruck,\u201d and noted \u201cenormous challenges\u201d in increasing production and earning money from it. Musk had said the company aimed to sell 200,000 Cybertrucks each year but it never approached that target. Tesla does not report sales of the trucks separately but in the third quarter of 2026 it delivered only 8,300 \u201cother models\u201d, which include the Cybertruck. The vast majority of its sales were the Model 3 saloon and the Model Y SUV, with 478,000 combined deliveries during the quarter. Tesla also this year stopped production of its Model S and Model X, its premium saloon and SUV, amid declining sales for ageing products. Tesla\u2019s automotive focus has shifted to the Cybercab. Tesla has started offering paid trips in the car, which has space for two passengers and no steering wheel, in limited parts of Austin, Texas. However, it is unclear how quickly the company will be able to roll out the taxi service around the US or further afield amid close regulatory scrutiny of driverless car technology. As well as the Cybercab, Tesla is still ramping up production of its long-delayed Semi electric lorry. Musk is also aiming to produce one other new model: the Roadster sportscar, which Musk revealed with a demonstration of a \u201cflying car\u201d version that used thrusters developed by SpaceX to drive up a curved ramp before flipping and landing. Tesla is aiming to start production of a road-bound version in 2028. Analysts do not expect the Roadster to make a large difference to Tesla\u2019s future profits. Beyond vehicles, the Texas factory will also be used to build Tesla\u2019s Optimus humanoid robot. Musk posted on X, the social network he owns: \u201cTesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.\u201d"
+      },
+      "position": "WILD"
     },
     {
       "house": "High House Life",
@@ -120,60 +151,29 @@
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.366,
+      "reversed": false,
+      "confidence": 0.34,
       "scores": {
-        "High House War": 0.049,
-        "High House Coin": 0.078,
-        "High House Shadow": 0.267,
-        "High House Life": 0.093,
-        "High House Iron": -0.042,
-        "High House Words": 0.366,
-        "High House Chains": 0.068
+        "High House War": 0.056,
+        "High House Coin": 0.198,
+        "High House Shadow": 0.332,
+        "High House Life": 0.042,
+        "High House Iron": -0.114,
+        "High House Words": 0.34,
+        "High House Chains": 0.258
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "press freedom"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.904
-      },
-      "article": {
-        "title": "\u2018We are a threat to Putin\u2019: the small Norwegian news outlet with half its staff on Russia\u2019s wanted list",
-        "url": "https://www.theguardian.com/world/2026/nov/04/small-norwegian-news-outlet-russia-wanted-list-barents-observer",
-        "source": "guardian",
-        "full_text": "The official newspaper of the Russian government is an unlikely source of recognition for a European news outlet critical of Vladimir Putin and providing sanctuary to exiled Russian journalists. But in May, two days after Russia tested its new intercontinental ballistic missile system nicknamed \u201cSatan II\u201d by Nato, an article in Rossiyskaya Gazeta prompted celebrations in a remote newsroom in the Arctic. The story about how \u201cleading global media\u201d reacted to the Sarmat missile test referred to just a handful of outlets including the BBC, Reuters, the Associated Press and France 24. But among them was the Barents Observer, a small, journalist-owned online newspaper publishing in English and Russian about northern Russia and the Euro-Arctic region from a modest office in the north-eastern Norwegian town of Kirkenes. It was especially surprising given that the publication had been declared an \u201cundesirable organisation\u201d by the office of Russia\u2019s prosecutor general, and half of its staff journalists are on Russia\u2019s wanted list. Its editor, Thomas Nilsen, said: \u201cWe were listed among what the Russian government newspaper itself called \u2018leading global media\u2019. That was a very good day at the Barents Observer, because it means we had reached into the inner circle of the Kremlin.\u201d Last week the Norwegian prime minister, Jonas Gahr St\u00f8re, and the Finnish president, Alexander Stubb, held a call with Putin, marking a rare moment of contact between the Russian president and European leaders. Afterwards, St\u00f8re said there were \u201cbig differences in views\u201d with Putin. This certainly applies when it comes to press freedom. A few days later, the Nobel prize-winning independent Russian newspaper Novaya Gazeta was forced to close, citing intolerable pressure from authorities. A short drive from the Norway-Russia border and the only remaining legal land border crossing from Russia into the European Schengen free travel area, Kirkenes is a place where rising tensions with Moscow are felt acutely. But since the full-scale invasion of Ukraine the town has also become a refuge for Russians who have found themselves targeted by Putin\u2019s regime \u2013 some of whom are journalists who have been hired by the Barents Observer. Recently, the journalist Denis Zagore, originally from the Russian city of Murmansk, appeared in the Russian interior ministry\u2019s database, accused of involvement with an \u201cundesirable\u201d organisation and failing to comply with the legal requirements for \u201cforeign agents\u201d. Officials in Murmansk have filed a motion to detain Zagore in absentia. He is the third Barents Observer journalist living in exile in Kirkenes to be added to Russia\u2019s wanted list. Despite this, like the rest of his colleagues he remains determined to continue his work unaffected. \u201cI can\u2019t say this came as a surprise, given that the actions of the Russian state are quite predictable and the initiation of criminal cases was only a matter of time,\u201d he said in an interview. \u201cI don\u2019t intend to change anything in my life because of this. Besides, they could have found me without declaring me wanted.\u201d Zagore\u2019s entry on to the Russian list of targets came after his colleague Olesia Krivtsova was sentenced in absentia in July to six years in a penal colony on charges of \u201cjustifying terrorism\u201d and \u201cdiscrediting\u201d the Russian army. Last year, the paper\u2019s news editor, Farida Kurbangaleeva, was sentenced in absentia to eight years in prison for \u201cspreading false information\u201d about the Russian army and \u201cjustifying terrorism\u201d. She had previously been labelled a \u201cforeign agent\u201d and an unsuccessful extradition request was made to the Czech Republic where she was living at the time. Another Barents Observer journalist, Georgii Chentemirov, has also been added to the \u201cforeign agents\u201d registry, criminally charged and fined. In the newspaper\u2019s office, staff try to make light of the threats and intimidation by making a \u201cwanted\u201d wall with pictures from their Russian wanted listings. While they have been l"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.329,
-      "scores": {
-        "High House War": 0.293,
-        "High House Coin": 0.147,
-        "High House Shadow": 0.247,
-        "High House Life": 0.14,
-        "High House Iron": 0.197,
-        "High House Words": 0.278,
-        "High House Chains": 0.329
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.534,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.971
+        "sentiment_score": 0.541
       },
       "article": {
-        "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
-        "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+        "title": "UK and US condemn \u2018cruel\u2019 second jail term handed to Hong Kong activist Joshua Wong",
+        "url": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
         "source": "guardian",
-        "full_text": "Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules. The scale of the opposition will become clear at a diplomatic retreat starting on Friday before the seventh review conference on \u201ccertain conventional weapons\u201d in Geneva due to be attended by 128 countries from 16 to 20 November. The review conference is seen as the key moment when the world could decide whether to back a mandate to negotiate a legally binding instrument negotiated within a defined timetable. The speed with which autonomous weapons are being developed and used in warfare is widely acknowledged. Anna Hehir, the head of military AI governance at the Future of Life Institute, an independent nonprofit, said: \u201cStates have never been closer to launching a global agreement on AI weapons. A lot of the hard work has already been done and states have now agreed by consensus to elements of a draft treaty text that would be the basis for negotiations to start. \u201cBut we will likely see some states hide behind language that has the veneer of progress but advocates for a continuation of endless discussions on voluntary measures that have no teeth. The proposals for more years of discussions on non-legally binding measures are smokescreens to keep autonomous weapons systems unregulated and states unaccountable for their use.\u201d Discussions have been under way on the issue inside the UN for nearly three years but Russia, the US and Israel, among others, are pushing against the review conference setting a timetable for a legally binding instrument. In an intervention timed to influence the review conference, Pope Leo XIV stressed that decisions relating to human life could never be given to machines. He said: \u201cDecisions affecting human life, freedom and the use of force must always remain subject to effective, informed and responsible human oversight. For this reason, artificial intelligence must be \u2018disarmed\u2019, and I encourage the states meeting in Geneva in November to take concrete steps toward banning lethal autonomous weapons.\u201d Human Rights Watch and the campaign group Stop Killer Robots argue that weapons systems, assisted by AI, are proven to behave unpredictably, increasing the risk of fatal errors and battlefields spinning out of human control. The International Committee of the Red Cross (ICRC) said on Thursday: \u201cThe time has come to move from discussion to negotiation on new international rules to regulate autonomous systems. The world cannot afford further delays.\u201d In July, Ukraine reported for the first time that Russia had used an AI-guided drone, which struck a propane tank at a fuel station in Zaporizhzhia. The Ukrainian president, Volodymyr Zelenskyy, has warned about the speed of AI weapon development, calling for the Ukraine war to be ended before AI takes over the battlefield. On 22 October, a coalition of 50 states including Ireland, Italy, Brazil, Mexico, France and Germany called for the conference to agree a strict negotiating mandate. The ICRC separately reported that more than 70 states supported beginning negotiations on a legal instrument. The UK did not back the Irish statement and has previously argued that existing international humanitarian law is sufficient basis for the regulation of such weapons. The Ireland-led group proposed a mandate to be agreed by the review conference that would establish a time-limited expert group tasked with negotiating the needed rules over three sessions in Geneva in 2027, totalling 25 days. The group would be required to submit a report containing the draft protocol to that year\u2019s annual meeting, expected to take place later in 2027. In September, a UN experts group report prepared for the Geneva review conference tried to define the moral issues at stake by backing general calls for human judgment and control in the use of such weapons, as"
+        "full_text": "The UK and the US have condemned the 10-year sentence given to Hong Kong pro-democracy activist Joshua Wong under a controversial national security law. Wong, 30, was sentenced on Thursday after pleading guilty to \u201cforeign collusion\u201d under the law. He is the only person to have been prosecuted twice under the legislation that critics say has been used to silence political opposition in the city. A spokesperson for the UK Foreign Office said that Wong\u2019s sentence was \u201ca clear example of how the National Security Law is being used to target individuals for political expression and participation\u201d. The spokesperson added: \u201cWe call for an immediate end to all unjust prosecutions of individuals charged under the National Security Law and urge the authorities in China and Hong Kong to honour the rights and freedoms guaranteed to the people of Hong Kong under the Sino-British joint declaration (1984).\u201d The US consulate in Hong Kong said in a statement that it \u201cstrongly condemns\u201d the additional sentence and called for Wong\u2019s immediate release. \u201cWong has been unjustly imprisoned since December 2020, demonstrating that Beijing will go to extraordinary lengths to silence those who advocate for fundamental freedoms in Hong Kong,\u201d a consular spokesperson said. Shortly after the US consulate strongly condemned the sentence on Thursday, China warned \u201crelevant parties\u201d to \u201cstop making irresponsible remarks\u201d about Hong Kong judicial cases. Human rights groups and politicians from across the political spectrum also criticised the sentence. Elaine Pearson, Asia director at Human Rights Watch, said: \u201cThe harsh sentence on baseless charges against Joshua Wong is cruel and unjust. Young people promoting social change are an asset for any vibrant society, but the Hong Kong government puts them behind bars.\u201d Sarah Brooks, deputy regional director for Amnesty International, said: \u201cToday\u2019s sentence is another grim reminder of how Hong Kong\u2019s National Security Law has become a tool to punish dissent rather than to genuinely protect national security.\u201d She said the new conviction \u201ccruelly \u2013 and perhaps deliberately \u2013 comes mere months before he would have been eligible for release under his previous conviction\u201d. Wong has already spent six years in detention and had been due for release in January 2027. In the most recent Foreign Office report on Hong Kong, published last month, the UK\u2019s foreign secretary, Ed Miliband, said that Wong\u2019s case \u201creinforced concerns about the increasingly broad application of national security legislation\u201d. Wong\u2019s supporters called on governments around the world to push for his release. Nathan Law, a Hong Kong activist and friend of Wong\u2019s who was named as a co-conspirator in the case, said: \u201cIt\u2019s incredibly sad to see my friend Joshua Wong suffer another sentencing over his peaceful advocacy work for Hong Kong\u2019s democracy.\u201d Law called the sentencing \u201ca farce\u201d which signified that China \u201cis determined to quash any hopes for freedom and democracy on its soil\u201d. When former British colony Hong Kong was handed to China in 1997, it was promised 50 years of \u201cone country two systems\u201d, under which the city would keep some autonomy and freedoms. The UK considers Beijing to be in violation of that international treaty, after the crackdown on protests in 2019 and 2020, and the sweeping legal reforms that followed. Conservative MP Iain Duncan Smith said Wong had \u201cstood up\u201d for that treaty, which he said China had \u201csubsequently trashed\u201d. He added: \u201cDespite this, the UK government has done little to nothing about it. The more we give in when China breaks the rules, the worse it gets in the future.\u201d The Labour MP James Naish said: \u201cHongkongers in my constituency chose Britain for the freedoms Joshua is jailed for defending \u2013 values we should all support. This is not a lenient sentence and the government must show China that Britain will not tolerate it.\u201d"
       },
       "position": "EMERGING"
     },
@@ -211,48 +211,38 @@
     {
       "house_a": "High House Coin",
       "house_b": "High House Life",
-      "actor_a": "TRUMP",
+      "actor_a": "UNITED STATES",
       "actor_b": "LONDON",
       "relationship": "neutral",
-      "goldstein_avg": -1.313,
-      "confidence": 0.1,
+      "goldstein_avg": -1.303,
+      "confidence": 0.18,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Coin",
-      "house_b": "High House Chains",
-      "actor_a": "TRUMP",
-      "actor_b": "RUSSIA",
+      "house_b": "High House Words",
+      "actor_a": "UNITED STATES",
+      "actor_b": "HONG KONG",
       "relationship": "neutral",
-      "goldstein_avg": -0.966,
-      "confidence": 0.1,
+      "goldstein_avg": -0.568,
+      "confidence": 0.18,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
       "house_b": "High House Words",
       "actor_a": "LONDON",
-      "actor_b": "RUSSIA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.134,
-      "confidence": 0.1,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "LONDON",
-      "actor_b": "RUSSIA",
-      "relationship": "opposed",
-      "goldstein_avg": -2.134,
-      "confidence": 0.1,
+      "actor_b": "HONG KONG",
+      "relationship": "neutral",
+      "goldstein_avg": -0.081,
+      "confidence": 0.18,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.179,
+      "trend": "falling",
+      "trend_ratio": 0.445,
       "source": "gdelt_volume"
     }
   }
