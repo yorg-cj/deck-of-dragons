@@ -1,6 +1,35 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "cards": [
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.473,
+      "scores": {
+        "High House War": 0.183,
+        "High House Coin": 0.078,
+        "High House Shadow": 0.318,
+        "High House Life": 0.186,
+        "High House Iron": 0.473,
+        "High House Words": 0.071,
+        "High House Chains": 0.031
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "In the cybersecurity space, we have to use AI to fight AI: Tim Gokey",
+        "url": "https://www.business-standard.com/technology/tech-news/in-the-cybersecurity-space-we-have-to-use-ai-to-fight-ai-tim-gokey-126110800367_1.html",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Shadow",
       "title": "The Knight",
@@ -28,154 +57,123 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Coin",
       "title": "The King",
-      "reversed": true,
-      "confidence": 0.456,
+      "reversed": false,
+      "confidence": 0.423,
       "scores": {
-        "High House War": 0.116,
-        "High House Coin": 0.456,
-        "High House Shadow": 0.351,
-        "High House Life": 0.012,
-        "High House Iron": 0.131,
-        "High House Words": 0.292,
-        "High House Chains": 0.368
+        "High House War": 0.198,
+        "High House Coin": 0.423,
+        "High House Shadow": 0.269,
+        "High House Life": 0.124,
+        "High House Iron": 0.064,
+        "High House Words": 0.207,
+        "High House Chains": 0.212
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "sanction"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.983
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.507
       },
       "article": {
-        "title": "United States:  U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
-        "url": "https://www.thestkittsnevisobserver.com/united-states-u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime",
-        "source": "worldnews",
+        "title": "Trump vs. the Bond Market",
+        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "source": "nyt",
         "full_text": null
       },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.41,
-      "scores": {
-        "High House War": 0.132,
-        "High House Coin": 0.272,
-        "High House Shadow": 0.08,
-        "High House Life": 0.011,
-        "High House Iron": -0.01,
-        "High House Words": 0.167,
-        "High House Chains": 0.41
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.538,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.978
-      },
-      "article": {
-        "title": "UN outlines indicators of progress on Caspian agreements (Exclusive)",
-        "url": "https://www.trend.az/casia/4243914.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.408,
-      "scores": {
-        "High House War": -0.035,
-        "High House Coin": -0.037,
-        "High House Shadow": 0.084,
-        "High House Life": 0.033,
-        "High House Iron": 0.408,
-        "High House Words": -0.017,
-        "High House Chains": -0.113
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.55,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-        "source": "guardian",
-        "full_text": "Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company\u2019s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi. Musk did not say whether Tesla had plans to produce the vehicle in another factory, although that would probably require significant investment for the specialised tooling needed to make it. Musk has pinned hopes for Tesla on robotics, artificial intelligence and an autonomous driving fleet rather than following the traditional carmakers\u2019 approach of developing a steady stream of new models to entice private buyers. It caps a tricky week for the world\u2019s richest person, after Republican candidates he had backed with $446m (\u00a3332m) in donations lost in the US midterm elections. The paper value of Musk\u2019s fortune fell by $113bn after the extent of the rout became clear, as stock market investors questioned whether a Democrat-led Congress could slow the pace of the AI boom. Tesla shares fell by 11% on Thursday, while his AI and rocket launch company, SpaceX, dropped by 9%. Tesla started deliveries of the Cybertruck in late 2023, after several long delays as the company tried to cope with the technical challenges of producing such an unusual vehicle \u2013 and particularly its steel shell. The Cybertruck never made it on sale in Europe because it did not reach the required safety standards. Even before sales began, Musk acknowledged how difficult it would be to make it a success. In a 2023 earnings call, he said: \u201cWe dug our own grave with Cybertruck,\u201d and noted \u201cenormous challenges\u201d in increasing production and earning money from it. Musk had said the company aimed to sell 200,000 Cybertrucks each year but it never approached that target. Tesla does not report sales of the trucks separately but in the third quarter of 2026 it delivered only 8,300 \u201cother models\u201d, which include the Cybertruck. The vast majority of its sales were the Model 3 saloon and the Model Y SUV, with 478,000 combined deliveries during the quarter. Tesla also this year stopped production of its Model S and Model X, its premium saloon and SUV, amid declining sales for ageing products. Tesla\u2019s automotive focus has shifted to the Cybercab. Tesla has started offering paid trips in the car, which has space for two passengers and no steering wheel, in limited parts of Austin, Texas. However, it is unclear how quickly the company will be able to roll out the taxi service around the US or further afield amid close regulatory scrutiny of driverless car technology. As well as the Cybercab, Tesla is still ramping up production of its long-delayed Semi electric lorry. Musk is also aiming to produce one other new model: the Roadster sportscar, which Musk revealed with a demonstration of a \u201cflying car\u201d version that used thrusters developed by SpaceX to drive up a curved ramp before flipping and landing. Tesla is aiming to start production of a road-bound version in 2028. Analysts do not expect the Roadster to make a large difference to Tesla\u2019s future profits. Beyond vehicles, the Texas factory will also be used to build Tesla\u2019s Optimus humanoid robot. Musk posted on X, the social network he owns: \u201cTesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.\u201d"
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.399,
-      "scores": {
-        "High House War": 0.021,
-        "High House Coin": -0.053,
-        "High House Shadow": 0.135,
-        "High House Life": 0.399,
-        "High House Iron": -0.049,
-        "High House Words": 0.019,
-        "High House Chains": 0.093
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.534,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.971
-      },
-      "article": {
-        "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
-        "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
-        "source": "guardian",
-        "full_text": "A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to the UK for specialist treatment. The patient, whose identity is unknown, was transported home on a medical evacuation flight, the Department of Health and Social Care said on Thursday. They are now being cared for in a specialised high-level isolation unit at the Royal Free hospital in Hampstead, north London. Dr Renu Bindra, the deputy director for all-hazards public health response at the UK Health Security Agency, said: \u201cUKHSA and the NHS have well-established and robust infection prevention and control protocols to limit the risk of onward transmission, and the risk to the wider public remains low.\u201d A humanitarian organisation sent the doctor to DR Congo to help in the response to the outbreak, which is the second largest on record. It is the first case involving a British national contracting Ebola in the current outbreak. The Royal Free's isolation unit has strict protocols in place to prevent the patient coming into contact with any members of the public, and all staff treating the patient are equipped with the necessary personal protective equipment alongside other measures to prevent transmission. Ebola is a highly contagious, severe and often fatal illness spread through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies. The current outbreak, declared in May by DR Congo\u2019s health ministry, has surpassed 10,000 cases and 5,000 deaths. It has spread to Kenya and Uganda in east Africa, and last month Nigeria confirmed a case in its capital, Abuja. People with the disease tend to fall ill two to 21 days after contact with an orthoebolavirus. Initial symptoms include fever, aches, pains, and fatigue, but can then progress to diarrhoea, vomiting and unexplained bleeding. There have only been four confirmed cases of the virus in the UK previously. A case in 1976 was from a laboratory needle incident, and the three others involved health workers who were responding to an outbreak in West Africa between 2014 and 2015."
-      },
-      "position": "WILD"
+      "position": "WANING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": false,
-      "confidence": 0.34,
+      "reversed": true,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.056,
-        "High House Coin": 0.198,
-        "High House Shadow": 0.332,
-        "High House Life": 0.042,
-        "High House Iron": -0.114,
-        "High House Words": 0.34,
-        "High House Chains": 0.258
+        "High House War": 0.029,
+        "High House Coin": 0.062,
+        "High House Shadow": 0.234,
+        "High House Life": 0.163,
+        "High House Iron": -0.118,
+        "High House Words": 0.377,
+        "High House Chains": 0.046
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.537,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.977
+      },
+      "article": {
+        "title": "Does Andy Burnham\u2019s pivot from press to social media put scrutiny at risk?",
+        "url": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+        "source": "guardian",
+        "full_text": "In an interview this week Andy Burnham said he believed the traditional media was less relevant and the world was \u201cnot like that any more\u201d. But some people are now asking: does this change in approach mean less scrutiny? The question was in part prompted by Burnham\u2019s decision to travel to the Commonwealth heads of government meeting (Chogm) without the usual accompanying pack of reporters, instead bringing just one TV crew and a news agency journalist. Across three days of the event, which featured discussions of an apology for slavery and possible reparations, and during which significant global events occurred, including the US midterm elections, Burnham faced just seven-and-a-half minutes of media questions, via two brief BBC chats. Downing Street officials say Chogm is unique in offering very limited access to journalists, and that the prime minister had done other interviews and media events beforehand. But it was nonetheless a change. At the last Commonwealth summit in 2024, Keir Starmer took along a full press contingent, submitting himself to both a press conference and a \u201chuddle\u201d \u2013 an off-camera but on-record Q&amp;A on the government plane on the way over, in which each travelling journalist gets a question. When it comes to communications, Burnham and his team are unapologetic about doing things differently. As well as talking to influencers and podcasters, the prime minister is an adept social media performer himself, with an output that ranges from more traditional pieces to camera to a YouTube video where he and the chancellor, John Healey, ranked pub snacks. Asked about the pub snack video in an interview with ITV that was broadcast this week, Burnham said he hoped such content \u201cconnects with people, particularly younger people who may have felt quite distanced from politics\u201d. Asked whether his focus on that sort of output was a sign he cared less about rightwing newspapers such as the Sun and the Daily Mail said about him, Burnham replied: \u201cDefinitely. I left Westminster for a reason. I got fed up with commentators deciding things down there, and the whole world is meant to believe what they believe. Well, sorry, the world\u2019s not like that any more.\u201d While no one in politics disagrees with the need for leaders to keep up with the fast-changing ways in which people consume news, it is undeniable that an interview on a lifestyle podcast, or a brief TV clip in which the reporter has to cover all the news of the day, is less taxing than a full press conference with specialist journalists. No 10 is insistent that Burnham does not dodge scrutiny, pointing to recent longer-form interviews, as well as a grilling last month on ITV\u2019s Good Morning Britain, where the comfy sofas generally come with robust questioning. Some observers nonetheless detect what they see as efforts by his team to make Burnham\u2019s mix of media engagements slightly less onerous than it might be. \u201cWhen the going is good, he can probably get away with it,\u201d said one former media adviser who worked with several Conservative prime ministers. \u201cBut if things get worse and it feels like the press is getting shut out, or not being given the chance to properly scrutinise policies, then in my experience the media are pretty good at working as a pack, and will come down quite hard.\u201d There is a particular incentive for a prime minister to dodge the traditional on-plane media huddle en route to a summit, which can often involve more than a dozen questions, ranging from global events to relative trivia. The repercussions can be significant, usually more so for prime ministers already under pressure. In a passing remark on a flight to China in 2018, Theresa May said she planned to fight the next election, galvanising critics on her own backbenches. \u201cMisadventures have a way of happening when prime ministers go out on the road,\u201d said Paul Harrison, who was May\u2019s press secretary. \u201cA huddle with the travelling press pack is about as unpredictable a high-wire act as the"
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.359,
+      "scores": {
+        "High House War": 0.077,
+        "High House Coin": 0.201,
+        "High House Shadow": 0.068,
+        "High House Life": 0.359,
+        "High House Iron": 0.113,
+        "High House Words": 0.12,
+        "High House Chains": 0.32
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.541
+        "sentiment_score": 0.894
       },
       "article": {
-        "title": "UK and US condemn \u2018cruel\u2019 second jail term handed to Hong Kong activist Joshua Wong",
-        "url": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
-        "source": "guardian",
-        "full_text": "The UK and the US have condemned the 10-year sentence given to Hong Kong pro-democracy activist Joshua Wong under a controversial national security law. Wong, 30, was sentenced on Thursday after pleading guilty to \u201cforeign collusion\u201d under the law. He is the only person to have been prosecuted twice under the legislation that critics say has been used to silence political opposition in the city. A spokesperson for the UK Foreign Office said that Wong\u2019s sentence was \u201ca clear example of how the National Security Law is being used to target individuals for political expression and participation\u201d. The spokesperson added: \u201cWe call for an immediate end to all unjust prosecutions of individuals charged under the National Security Law and urge the authorities in China and Hong Kong to honour the rights and freedoms guaranteed to the people of Hong Kong under the Sino-British joint declaration (1984).\u201d The US consulate in Hong Kong said in a statement that it \u201cstrongly condemns\u201d the additional sentence and called for Wong\u2019s immediate release. \u201cWong has been unjustly imprisoned since December 2020, demonstrating that Beijing will go to extraordinary lengths to silence those who advocate for fundamental freedoms in Hong Kong,\u201d a consular spokesperson said. Shortly after the US consulate strongly condemned the sentence on Thursday, China warned \u201crelevant parties\u201d to \u201cstop making irresponsible remarks\u201d about Hong Kong judicial cases. Human rights groups and politicians from across the political spectrum also criticised the sentence. Elaine Pearson, Asia director at Human Rights Watch, said: \u201cThe harsh sentence on baseless charges against Joshua Wong is cruel and unjust. Young people promoting social change are an asset for any vibrant society, but the Hong Kong government puts them behind bars.\u201d Sarah Brooks, deputy regional director for Amnesty International, said: \u201cToday\u2019s sentence is another grim reminder of how Hong Kong\u2019s National Security Law has become a tool to punish dissent rather than to genuinely protect national security.\u201d She said the new conviction \u201ccruelly \u2013 and perhaps deliberately \u2013 comes mere months before he would have been eligible for release under his previous conviction\u201d. Wong has already spent six years in detention and had been due for release in January 2027. In the most recent Foreign Office report on Hong Kong, published last month, the UK\u2019s foreign secretary, Ed Miliband, said that Wong\u2019s case \u201creinforced concerns about the increasingly broad application of national security legislation\u201d. Wong\u2019s supporters called on governments around the world to push for his release. Nathan Law, a Hong Kong activist and friend of Wong\u2019s who was named as a co-conspirator in the case, said: \u201cIt\u2019s incredibly sad to see my friend Joshua Wong suffer another sentencing over his peaceful advocacy work for Hong Kong\u2019s democracy.\u201d Law called the sentencing \u201ca farce\u201d which signified that China \u201cis determined to quash any hopes for freedom and democracy on its soil\u201d. When former British colony Hong Kong was handed to China in 1997, it was promised 50 years of \u201cone country two systems\u201d, under which the city would keep some autonomy and freedoms. The UK considers Beijing to be in violation of that international treaty, after the crackdown on protests in 2019 and 2020, and the sweeping legal reforms that followed. Conservative MP Iain Duncan Smith said Wong had \u201cstood up\u201d for that treaty, which he said China had \u201csubsequently trashed\u201d. He added: \u201cDespite this, the UK government has done little to nothing about it. The more we give in when China breaks the rules, the worse it gets in the future.\u201d The Labour MP James Naish said: \u201cHongkongers in my constituency chose Britain for the freedoms Joshua is jailed for defending \u2013 values we should all support. This is not a lenient sentence and the government must show China that Britain will not tolerate it.\u201d"
+        "title": "Nepal must lobby for climate debt relief",
+        "url": "https://nepalitimes.com/nepal-must-lobby-for-climate-debt-relief",
+        "source": "worldnews",
+        "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.352,
+      "scores": {
+        "High House War": 0.269,
+        "High House Coin": 0.253,
+        "High House Shadow": 0.262,
+        "High House Life": 0.039,
+        "High House Iron": 0.143,
+        "High House Words": 0.2,
+        "High House Chains": 0.352
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.561
+      },
+      "article": {
+        "title": "The Iron Gate; U.S. confession of military failure",
+        "url": "https://en.mehrnews.com/news/249234/The-Iron-Gate-U-S-confession-of-military-failure",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
     },
     {
       "house": "High House War",
@@ -204,45 +202,19 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "EMERGING"
     }
   ],
-  "relationships": [
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Life",
-      "actor_a": "UNITED STATES",
-      "actor_b": "LONDON",
-      "relationship": "neutral",
-      "goldstein_avg": -1.303,
-      "confidence": 0.18,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "UNITED STATES",
-      "actor_b": "HONG KONG",
-      "relationship": "neutral",
-      "goldstein_avg": -0.568,
-      "confidence": 0.18,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "LONDON",
-      "actor_b": "HONG KONG",
-      "relationship": "neutral",
-      "goldstein_avg": -0.081,
-      "confidence": 0.18,
-      "source": "gdelt_tone"
-    }
-  ],
+  "relationships": [],
   "house_trends": {
-    "High House War": {
+    "High House Coin": {
       "trend": "falling",
-      "trend_ratio": 0.445,
+      "trend_ratio": 0.334,
+      "source": "gdelt_volume"
+    },
+    "High House War": {
+      "trend": "stable",
+      "trend_ratio": 1.081,
       "source": "gdelt_volume"
     }
   }
