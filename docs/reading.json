@@ -1,64 +1,6 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "cards": [
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.473,
-      "scores": {
-        "High House War": 0.183,
-        "High House Coin": 0.078,
-        "High House Shadow": 0.318,
-        "High House Life": 0.186,
-        "High House Iron": 0.473,
-        "High House Words": 0.071,
-        "High House Chains": 0.031
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.993
-      },
-      "article": {
-        "title": "In the cybersecurity space, we have to use AI to fight AI: Tim Gokey",
-        "url": "https://www.business-standard.com/technology/tech-news/in-the-cybersecurity-space-we-have-to-use-ai-to-fight-ai-tim-gokey-126110800367_1.html",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.459,
-      "scores": {
-        "High House War": 0.004,
-        "High House Coin": 0.122,
-        "High House Shadow": 0.459,
-        "High House Life": 0.094,
-        "High House Iron": 0.198,
-        "High House Words": 0.153,
-        "High House Chains": 0.099
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.994
-      },
-      "article": {
-        "title": "Spying and A.I.",
-        "url": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
     {
       "house": "High House Coin",
       "title": "The King",
@@ -86,7 +28,67 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "CENTER"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.383,
+      "scores": {
+        "High House War": 0.113,
+        "High House Coin": 0.101,
+        "High House Shadow": 0.068,
+        "High House Life": 0.383,
+        "High House Iron": 0.039,
+        "High House Words": 0.02,
+        "High House Chains": 0.11
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.702
+      },
+      "article": {
+        "title": "Nigeria&#8217;s Healthcare Crisis: Preventable Deaths, Systemic Failures and Why Your Vote Matters -By Daniel Nduka Okonkwo",
+        "url": "https://www.opinionnigeria.com/nigerias-healthcare-crisis-preventable-deaths-systemic-failures-and-why-your-vote-matters-by-daniel-nduka-okonkwo",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "ASCENDING"
+    },
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.382,
+      "scores": {
+        "High House War": 0.323,
+        "High House Coin": 0.253,
+        "High House Shadow": 0.382,
+        "High House Life": 0.099,
+        "High House Iron": 0.234,
+        "High House Words": 0.298,
+        "High House Chains": 0.203
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "leaked"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "A \u2018customer success story\u2019: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+        "source": "guardian",
+        "full_text": "A year into the war in Gaza, the networks of Israel\u2019s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed. The problems, which started as intelligence operations were undergoing updates to digital infrastructure, became so persistent as to undermine the \u201cconfidence\u201d of Israeli intelligence agencies in one of their top network providers: the multinational tech conglomerate Cisco. \u201cThis series of events happened during the period of war, deeply impacting customer sentiment,\u201d warned a confidential memo drafted by Cisco and obtained by the Guardian. \u201cDuring a period of national conflict, these repeated outages severely impacted critical operations.\u201d The September 2025 draft memo was part of a trove of internal documents leaked by Cisco workers furious with the company\u2019s ties to Israel\u2019s military three years into the war, which has killed more than 70,000 Palestinians. Cisco, one of the largest tech companies in the world and at one point the single most valuable, is often described as selling the \u201cplumbing\u201d of the internet. It provides the routers, servers and communications systems that move data for companies, governments and militaries around the globe. While its business ties to the Israeli military have received less scrutiny than those of other tech giants, the company has worked with the Israeli security state for years. Israel\u2019s military intelligence contracts alone generated about $67m in business in three years, according to a 2025 document reviewed by the Guardian. While Cisco\u2019s involvement with Israel\u2019s military before and since 2023 has been documented before, the leaked documents obtained by the Guardian reveal the lengths the company went to in order to preserve and expand the relationship as the war in Gaza dragged on. They also show that earlier this year, Splunk \u2013 a Cisco subsidiary platform that can process and analyze massive volumes of machine-generated data \u2013 made a pitch to join the controversial cloud computing contract between the Israeli government, Google and Amazon known as Project Nimbus. Cisco pursued these opportunities as the mass killing of civilians in Gaza was amply documented, international organizations and governments began to refer to Israel\u2019s actions in Gaza as genocide, and the company itself was roiled by internal turmoil over its own role in the war. Cisco did not respond to a request for comment. A spokesperson for the Israeli military wrote in a statement to the Guardian: \u201cThe [Israel Defense Forces] is assisted by services provided by a range of companies to meet its ongoing needs and objectives. The IDF does not intend to comment on matters relating to contracts or services provided by other entities.\u201d Members of Bridge to Humanity, a group of current and former Cisco workers who have objected to the company\u2019s role in the Gaza war, called the company\u2019s work with Israeli intelligence a \u201cshocking and complete contradiction of values Cisco sells to us employees and externally to its customers, investors, and the public\u201d. They said the company, which pitches itself internally and to the public as an ethics-driven company, had become \u201can instrument of genocide\u201d. \u201cCisco has been able to skate under the radar because they sell hardware and software,\u201d the group wrote in a statement to the Guardian, adding that its business with Israeli intelligence made it \u201cno different to an arms company that is supplying the bombs and fighter jets\u201d. Earlier this year, the Equal Employment Opportunity Commission (EEOC) found reasonable cause to believe that, following the 7 October 2023 Hamas attacks on southern Israel, and Israel\u2019s subsequent war in Gaza, Cisco oversaw a hostile work environment rife with racist rhetoric that violated the rights of Palestinian, Arab and Muslim employees. Cisco previously told the Guardian that it disagreed with the EEOC\u2019s findings and that it i"
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
@@ -115,32 +117,32 @@
         "source": "guardian",
         "full_text": "In an interview this week Andy Burnham said he believed the traditional media was less relevant and the world was \u201cnot like that any more\u201d. But some people are now asking: does this change in approach mean less scrutiny? The question was in part prompted by Burnham\u2019s decision to travel to the Commonwealth heads of government meeting (Chogm) without the usual accompanying pack of reporters, instead bringing just one TV crew and a news agency journalist. Across three days of the event, which featured discussions of an apology for slavery and possible reparations, and during which significant global events occurred, including the US midterm elections, Burnham faced just seven-and-a-half minutes of media questions, via two brief BBC chats. Downing Street officials say Chogm is unique in offering very limited access to journalists, and that the prime minister had done other interviews and media events beforehand. But it was nonetheless a change. At the last Commonwealth summit in 2024, Keir Starmer took along a full press contingent, submitting himself to both a press conference and a \u201chuddle\u201d \u2013 an off-camera but on-record Q&amp;A on the government plane on the way over, in which each travelling journalist gets a question. When it comes to communications, Burnham and his team are unapologetic about doing things differently. As well as talking to influencers and podcasters, the prime minister is an adept social media performer himself, with an output that ranges from more traditional pieces to camera to a YouTube video where he and the chancellor, John Healey, ranked pub snacks. Asked about the pub snack video in an interview with ITV that was broadcast this week, Burnham said he hoped such content \u201cconnects with people, particularly younger people who may have felt quite distanced from politics\u201d. Asked whether his focus on that sort of output was a sign he cared less about rightwing newspapers such as the Sun and the Daily Mail said about him, Burnham replied: \u201cDefinitely. I left Westminster for a reason. I got fed up with commentators deciding things down there, and the whole world is meant to believe what they believe. Well, sorry, the world\u2019s not like that any more.\u201d While no one in politics disagrees with the need for leaders to keep up with the fast-changing ways in which people consume news, it is undeniable that an interview on a lifestyle podcast, or a brief TV clip in which the reporter has to cover all the news of the day, is less taxing than a full press conference with specialist journalists. No 10 is insistent that Burnham does not dodge scrutiny, pointing to recent longer-form interviews, as well as a grilling last month on ITV\u2019s Good Morning Britain, where the comfy sofas generally come with robust questioning. Some observers nonetheless detect what they see as efforts by his team to make Burnham\u2019s mix of media engagements slightly less onerous than it might be. \u201cWhen the going is good, he can probably get away with it,\u201d said one former media adviser who worked with several Conservative prime ministers. \u201cBut if things get worse and it feels like the press is getting shut out, or not being given the chance to properly scrutinise policies, then in my experience the media are pretty good at working as a pack, and will come down quite hard.\u201d There is a particular incentive for a prime minister to dodge the traditional on-plane media huddle en route to a summit, which can often involve more than a dozen questions, ranging from global events to relative trivia. The repercussions can be significant, usually more so for prime ministers already under pressure. In a passing remark on a flight to China in 2018, Theresa May said she planned to fight the next election, galvanising critics on her own backbenches. \u201cMisadventures have a way of happening when prime ministers go out on the road,\u201d said Paul Harrison, who was May\u2019s press secretary. \u201cA huddle with the travelling press pack is about as unpredictable a high-wire act as the"
       },
-      "position": "FOUNDATION"
+      "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Iron",
+      "title": "The Merchant",
       "reversed": false,
-      "confidence": 0.359,
+      "confidence": 0.345,
       "scores": {
-        "High House War": 0.077,
-        "High House Coin": 0.201,
-        "High House Shadow": 0.068,
-        "High House Life": 0.359,
-        "High House Iron": 0.113,
-        "High House Words": 0.12,
-        "High House Chains": 0.32
+        "High House War": 0.025,
+        "High House Coin": 0.102,
+        "High House Shadow": 0.167,
+        "High House Life": 0.124,
+        "High House Iron": 0.345,
+        "High House Words": -0.017,
+        "High House Chains": 0.045
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.894
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.987
       },
       "article": {
-        "title": "Nepal must lobby for climate debt relief",
-        "url": "https://nepalitimes.com/nepal-must-lobby-for-climate-debt-relief",
+        "title": "Google Expands Gen-8 Lineup With TPU 8tx, 8i Max: How This Targets AI Agent Workloads",
+        "url": "https://www.ndtvprofit.com/technology/google-expands-gen-8-lineup-with-tpu-8tx-8i-max-how-this-targets-ai-agent-workloads-12304967",
         "source": "worldnews",
         "full_text": null
       },
@@ -149,72 +151,78 @@
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.352,
+      "reversed": true,
+      "confidence": 0.343,
       "scores": {
-        "High House War": 0.269,
-        "High House Coin": 0.253,
-        "High House Shadow": 0.262,
-        "High House Life": 0.039,
-        "High House Iron": 0.143,
-        "High House Words": 0.2,
-        "High House Chains": 0.352
+        "High House War": -0.022,
+        "High House Coin": 0.328,
+        "High House Shadow": 0.215,
+        "High House Life": 0.083,
+        "High House Iron": 0.07,
+        "High House Words": 0.259,
+        "High House Chains": 0.343
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.517,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.561
+        "sentiment_score": 0.94
       },
       "article": {
-        "title": "The Iron Gate; U.S. confession of military failure",
-        "url": "https://en.mehrnews.com/news/249234/The-Iron-Gate-U-S-confession-of-military-failure",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": false,
-      "confidence": 0.318,
-      "scores": {
-        "High House War": 0.318,
-        "High House Coin": 0.139,
-        "High House Shadow": 0.243,
-        "High House Life": 0.039,
-        "High House Iron": 0.058,
-        "High House Words": 0.203,
-        "High House Chains": 0.056
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.817
-      },
-      "article": {
-        "title": "\u2018I Have Seen the Enemy, and It Is Us\u2019: Inside Team Trump\u2019s Historic Collapse",
-        "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
         "source": "nyt",
         "full_text": null
       },
       "position": "EMERGING"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": true,
+      "confidence": 0.275,
+      "scores": {
+        "High House War": 0.275,
+        "High House Coin": 0.035,
+        "High House Shadow": 0.238,
+        "High House Life": -0.015,
+        "High House Iron": 0.057,
+        "High House Words": 0.231,
+        "High House Chains": 0.007
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.546,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.993
+      },
+      "article": {
+        "title": "US carries out another round of \u2018minor\u2019 strikes on Iran, Trump says",
+        "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+        "source": "guardian",
+        "full_text": "Donald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, describing the action as \u201cminor.\u201d Iranian state media reported the sound of two explosions in the Suza area of Qeshm Island, which is in the strait of Hormuz, the crucial waterway for oil shipments that has been disrupted since the beginning of the US war on Iran in February. In an exchange with reporters on Friday, Trump said \u201cthey built a little bit of an anti-aircraft device and we knocked it out in about 15 minutes, maybe five\u201d. The US military had previously reported carrying out what it described as \u201cdefensive\u201d strikes on Monday, when explosions were heard on the islands of Qeshm and Hengam and in the nearby mainland area of Bandar Abbas. Friday\u2019s strikes are the first since Trump\u2019s Republican party was dealt a stunning repudiation in Tuesday\u2019s midterm elections in the US. The electoral setback was stoked in part by voter dissatisfaction with Trump\u2019s execution of the Iran war and elevated fuel prices \u2013 a byproduct of the war that has affected nearly every part of the global economy. In the days since, Trump has vacillated between threatening to \u201cdestroy\u201d Iran and suggesting a resolution to the war is near. Differences with Iran about its nuclear program remain the thorniest issue and one that Trump insists must be resolved as part of any deal meant to end the war. US Central Command, which oversees US military operations in the Middle East, announced in a post on X late Friday that the US was offering \u201ca reward of up to $20m and possible relocation for information about Iran\u2019s nuclear program, including its facilities, equipment, and associated personnel, such as those in the scientific community, or the movement of any of the above\u201d. The post included a link to the state department\u2019s Rewards for Justice program. Trump noted earlier Friday in an exchange with reporters that mediators\u2019 discussions with Iran continue. \u201cWe are talking to Iran. We have been,\u201d said Trump. A flurry of diplomatic phone calls in recent days between leaders in the Gulf and beyond has been aimed at easing tensions in the region. Concerns have mounted over the possibility that Trump could still order the US military to carry out new strikes against Iran. US defense secretary Pete Hegseth spoke on Friday with his Qatari counterpart, Sheikh Saoud bin Abdulrahman Al Thani, about developments, according to the Qatari government. Qatar has been mediating between the US and Iran to end the war. The Qatari government announced the call between the countries\u2019 defence officials after confirming earlier that Trump and Qatar\u2019s emir had a separate call to discuss efforts to de-escalate tensions. The telephone call between Trump and Qatar\u2019s Emir Sheikh Tamim bin Hamad al Thani focused on international efforts to end tensions, according to a statement from the Qatari ruler\u2019s media office. With the Associated Press"
+      },
+      "position": "WANING"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "ANDY BURNHAM",
+      "actor_b": "IRAN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.641,
+      "confidence": 0.32,
+      "source": "gdelt_tone"
+    }
+  ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "falling",
-      "trend_ratio": 0.334,
-      "source": "gdelt_volume"
-    },
     "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.081,
+      "trend": "rising",
+      "trend_ratio": 1.558,
       "source": "gdelt_volume"
     }
   }
