@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "cards": [
     {
       "house": "High House Coin",
@@ -31,91 +31,33 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.368,
-      "scores": {
-        "High House War": 0.157,
-        "High House Coin": 0.119,
-        "High House Shadow": 0.165,
-        "High House Life": 0.368,
-        "High House Iron": 0.081,
-        "High House Words": 0.244,
-        "High House Chains": 0.188
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.647
-      },
-      "article": {
-        "title": "PACNEWS THREE, 10 NOVEMBER 2026",
-        "url": "https://islandsbusiness.com/pacnews/pacnews-three-10-november-2026",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.361,
+      "confidence": 0.36,
       "scores": {
-        "High House War": 0.065,
-        "High House Coin": 0.175,
-        "High House Shadow": 0.361,
-        "High House Life": 0.106,
-        "High House Iron": 0.095,
-        "High House Words": 0.055,
-        "High House Chains": 0.114
+        "High House War": 0.148,
+        "High House Coin": 0.127,
+        "High House Shadow": 0.36,
+        "High House Life": -0.002,
+        "High House Iron": 0.088,
+        "High House Words": 0.223,
+        "High House Chains": 0.13
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "The A.I. Spy Thriller",
-        "url": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
+        "title": "In China\u2019s Spy Operations, Romance Can Be a Long Game",
+        "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.36,
-      "scores": {
-        "High House War": 0.064,
-        "High House Coin": 0.142,
-        "High House Shadow": 0.118,
-        "High House Life": 0.246,
-        "High House Iron": 0.36,
-        "High House Words": 0.203,
-        "High House Chains": 0.264
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.623
-      },
-      "article": {
-        "title": "Developing nations must have greater role in shaping global tech standards, spectrum policies: Minister",
-        "url": "https://bhaskarlive.in/others/developing-nations-must-have-greater-role-in-shaping-global-tech-standards-spectrum-policies-minister-2164374",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Chains",
@@ -144,62 +86,120 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.33,
+      "confidence": 0.317,
       "scores": {
-        "High House War": 0.165,
-        "High House Coin": 0.235,
-        "High House Shadow": 0.152,
-        "High House Life": 0.041,
-        "High House Iron": -0.037,
-        "High House Words": 0.33,
-        "High House Chains": 0.193
+        "High House War": 0.101,
+        "High House Coin": 0.155,
+        "High House Shadow": 0.203,
+        "High House Life": 0.187,
+        "High House Iron": 0.115,
+        "High House Words": 0.317,
+        "High House Chains": 0.084
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.541,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.984
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "US, Israel war crimes backfired at their polls: Iranian President",
-        "url": "https://www.dailyfinland.fi/worldwide/52213/US-Israel-war-crimes-backfired-at-their-polls-Iranian-President",
+        "title": "A Growing North Korea Problem",
+        "url": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.311,
+      "scores": {
+        "High House War": 0.129,
+        "High House Coin": 0.053,
+        "High House Shadow": 0.028,
+        "High House Life": 0.311,
+        "High House Iron": -0.016,
+        "High House Words": 0.107,
+        "High House Chains": 0.087
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.545,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.99
+      },
+      "article": {
+        "title": "UNRWA: Gaza Flooding Damages Around 40,000 Shelters, Worsening Humanitarian Crisis",
+        "url": "https://jowhar.com/unrwa-gaza-flooding-damages-around-40000-shelters-worsening-humanitarian-crisis",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "WILD"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.308,
+      "scores": {
+        "High House War": 0.106,
+        "High House Coin": 0.136,
+        "High House Shadow": 0.153,
+        "High House Life": 0.25,
+        "High House Iron": 0.308,
+        "High House Words": 0.185,
+        "High House Chains": 0.216
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9
+      },
+      "article": {
+        "title": "China\u2019s Message to Its Rivals: You Need What We Make",
+        "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.322,
+      "confidence": 0.219,
       "scores": {
-        "High House War": 0.322,
-        "High House Coin": 0.15,
-        "High House Shadow": 0.115,
-        "High House Life": 0.036,
-        "High House Iron": -0.063,
-        "High House Words": 0.177,
-        "High House Chains": 0.228
+        "High House War": 0.219,
+        "High House Coin": 0.124,
+        "High House Shadow": 0.131,
+        "High House Life": -0.018,
+        "High House Iron": -0.03,
+        "High House Words": 0.151,
+        "High House Chains": 0.153
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.528,
+        "confidence": 0.52,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.96
+        "sentiment_score": 0.945
       },
       "article": {
-        "title": "\u5ddd\u666e\u558a\u6230\u722d\u5be6\u8cea\u7d50\u675f\u662f\u5047\u8c61 \uff1f \u7f8e\u8ecd\u672a\u64a4\u5c01\u9396 \u4f0a\u6717\u958b5\u689d\u4ef6\u62d2\u548c\u8ac7 - \u570b\u969b",
-        "url": "https://news.ltn.com.tw/news/world/breakingnews/5635380",
-        "source": "gdelt_doc",
+        "title": "Iraq\u2019s Prime Minister Vows to Disarm and Disband Iran-Backed Militias in 2027",
+        "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
@@ -208,24 +208,39 @@
   "relationships": [
     {
       "house_a": "High House Coin",
-      "house_b": "High House Words",
+      "house_b": "High House Life",
       "actor_a": "TRUMP",
-      "actor_b": "ISRAEL",
-      "relationship": "opposed",
-      "goldstein_avg": -2.709,
-      "confidence": 0.39,
+      "actor_b": "UNRWA",
+      "relationship": "neutral",
+      "goldstein_avg": -0.581,
+      "confidence": 0.43,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "CHINA",
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.447,
+      "confidence": 0.43,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "IRAQ",
+      "relationship": "neutral",
+      "goldstein_avg": -1.015,
+      "confidence": 0.43,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
-      "trend": "rising",
-      "trend_ratio": 2.559,
-      "source": "gdelt_volume"
-    },
     "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.291,
+      "trend": "stable",
+      "trend_ratio": 1.139,
       "source": "gdelt_volume"
     }
   }
