@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "cards": [
     {
       "house": "High House Coin",
@@ -31,88 +31,59 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.36,
-      "scores": {
-        "High House War": 0.148,
-        "High House Coin": 0.127,
-        "High House Shadow": 0.36,
-        "High House Life": -0.002,
-        "High House Iron": 0.088,
-        "High House Words": 0.223,
-        "High House Chains": 0.13
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.992
-      },
-      "article": {
-        "title": "In China\u2019s Spy Operations, Romance Can Be a Long Game",
-        "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "ASCENDING"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
+      "house": "High House Iron",
+      "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.343,
+      "confidence": 0.401,
       "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.328,
+        "High House War": 0.02,
+        "High House Coin": 0.316,
         "High House Shadow": 0.215,
-        "High House Life": 0.083,
-        "High House Iron": 0.07,
-        "High House Words": 0.259,
-        "High House Chains": 0.343
+        "High House Life": 0.107,
+        "High House Iron": 0.401,
+        "High House Words": -0.015,
+        "High House Chains": 0.116
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.517,
+        "confidence": 0.547,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.995
       },
       "article": {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-        "source": "nyt",
+        "title": "\u200bUS: Fed\u2019s Barr warns AI could widen wealth gap",
+        "url": "https://bhaskarlive.in/international/us-feds-barr-warns-ai-could-widen-wealth-gap-2165204",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": true,
-      "confidence": 0.317,
+      "confidence": 0.374,
       "scores": {
-        "High House War": 0.101,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.203,
-        "High House Life": 0.187,
-        "High House Iron": 0.115,
-        "High House Words": 0.317,
-        "High House Chains": 0.084
+        "High House War": 0.12,
+        "High House Coin": 0.165,
+        "High House Shadow": 0.374,
+        "High House Life": -0.05,
+        "High House Iron": 0.091,
+        "High House Words": 0.228,
+        "High House Chains": 0.243
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.548,
+        "confidence": 0.52,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment_score": 0.945
       },
       "article": {
-        "title": "A Growing North Korea Problem",
-        "url": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
-        "source": "nyt",
+        "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+        "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
@@ -121,59 +92,90 @@
       "house": "High House Life",
       "title": "The King",
       "reversed": true,
-      "confidence": 0.311,
+      "confidence": 0.313,
       "scores": {
-        "High House War": 0.129,
-        "High House Coin": 0.053,
-        "High House Shadow": 0.028,
-        "High House Life": 0.311,
-        "High House Iron": -0.016,
-        "High House Words": 0.107,
-        "High House Chains": 0.087
+        "High House War": 0.098,
+        "High House Coin": 0.182,
+        "High House Shadow": 0.035,
+        "High House Life": 0.313,
+        "High House Iron": 0.03,
+        "High House Words": 0.124,
+        "High House Chains": 0.149
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.545,
-        "matched_signals": [],
+        "confidence": 0.7,
+        "matched_signals": [
+          "ecocide"
+        ],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.924
       },
       "article": {
-        "title": "UNRWA: Gaza Flooding Damages Around 40,000 Shelters, Worsening Humanitarian Crisis",
-        "url": "https://jowhar.com/unrwa-gaza-flooding-damages-around-40000-shelters-worsening-humanitarian-crisis",
+        "title": "Turkey's president calls the war in Gaza an 'ecocide' at UN climate summit",
+        "url": "https://naharnet.com/stories/en/323740-turkey-s-president-calls-the-war-in-gaza-an-ecocide-at-un-climate-summit",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.308,
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.309,
       "scores": {
-        "High House War": 0.106,
-        "High House Coin": 0.136,
-        "High House Shadow": 0.153,
-        "High House Life": 0.25,
-        "High House Iron": 0.308,
-        "High House Words": 0.185,
-        "High House Chains": 0.216
+        "High House War": 0.282,
+        "High House Coin": 0.217,
+        "High House Shadow": 0.115,
+        "High House Life": 0.105,
+        "High House Iron": 0.051,
+        "High House Words": 0.266,
+        "High House Chains": 0.309
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.549,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.999
+      },
+      "article": {
+        "title": "Lebanon\u2019s power\u2011sharing formula was once a model for conflict resolution \u2013 now it is creaking",
+        "url": "https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
+    },
+    {
+      "house": "High House Words",
+      "title": "The Weaver",
+      "reversed": false,
+      "confidence": 0.279,
+      "scores": {
+        "High House War": 0.079,
+        "High House Coin": 0.031,
+        "High House Shadow": 0.039,
+        "High House Life": 0.125,
+        "High House Iron": -0.041,
+        "High House Words": 0.279,
+        "High House Chains": 0.156
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.9
+        "sentiment_score": 0.807
       },
       "article": {
-        "title": "China\u2019s Message to Its Rivals: You Need What We Make",
-        "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-        "source": "nyt",
+        "title": "European voice in Ukraine peace talks must include UK, Taoiseach says",
+        "url": "https://www.standard.co.uk/news/uk/micheal-martin-european-ukraine-volodymyr-zelensky-jared-kushner-b1304747.html",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WANING"
     },
     {
       "house": "High House War",
@@ -202,7 +204,7 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "ASCENDING"
     }
   ],
   "relationships": [
@@ -210,37 +212,82 @@
       "house_a": "High House Coin",
       "house_b": "High House Life",
       "actor_a": "TRUMP",
-      "actor_b": "UNRWA",
-      "relationship": "neutral",
-      "goldstein_avg": -0.581,
-      "confidence": 0.43,
+      "actor_b": "TURKEY",
+      "relationship": "opposed",
+      "goldstein_avg": -1.519,
+      "confidence": 0.33,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "TRUMP",
+      "actor_b": "UKRAINE",
+      "relationship": "opposed",
+      "goldstein_avg": -1.608,
+      "confidence": 0.33,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "TRUMP",
+      "actor_b": "IRAQ",
+      "relationship": "opposed",
+      "goldstein_avg": -2.974,
+      "confidence": 0.33,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Shadow",
-      "house_b": "High House Iron",
-      "actor_a": "CHINA",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": 0.447,
-      "confidence": 0.43,
+      "house_b": "High House War",
+      "actor_a": "IRAN",
+      "actor_b": "IRAQ",
+      "relationship": "opposed",
+      "goldstein_avg": -3.407,
+      "confidence": 0.33,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "IRAQ",
+      "house_a": "High House Life",
+      "house_b": "High House Chains",
+      "actor_a": "TURKEY",
+      "actor_b": "LEBANON",
       "relationship": "neutral",
-      "goldstein_avg": -1.015,
-      "confidence": 0.43,
+      "goldstein_avg": -0.695,
+      "confidence": 0.33,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House Words",
+      "actor_a": "LEBANON",
+      "actor_b": "UKRAINE",
+      "relationship": "neutral",
+      "goldstein_avg": -0.909,
+      "confidence": 0.33,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Chains",
+      "house_b": "High House War",
+      "actor_a": "LEBANON",
+      "actor_b": "IRAQ",
+      "relationship": "opposed",
+      "goldstein_avg": -2.231,
+      "confidence": 0.33,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
+    "High House Coin": {
+      "trend": "rising",
+      "trend_ratio": 5.312,
+      "source": "gdelt_volume"
+    },
     "High House War": {
-      "trend": "stable",
-      "trend_ratio": 1.139,
+      "trend": "rising",
+      "trend_ratio": 1.223,
       "source": "gdelt_volume"
     }
   }
