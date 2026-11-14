@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "cards": [
     {
       "house": "High House Coin",
@@ -31,90 +31,88 @@
       "position": "CENTER"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
-      "confidence": 0.401,
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.415,
       "scores": {
-        "High House War": 0.02,
-        "High House Coin": 0.316,
-        "High House Shadow": 0.215,
-        "High House Life": 0.107,
-        "High House Iron": 0.401,
-        "High House Words": -0.015,
-        "High House Chains": 0.116
+        "High House War": 0.024,
+        "High House Coin": 0.157,
+        "High House Shadow": 0.415,
+        "High House Life": 0.132,
+        "High House Iron": 0.076,
+        "High House Words": 0.135,
+        "High House Chains": 0.12
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.547,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.748
       },
       "article": {
-        "title": "\u200bUS: Fed\u2019s Barr warns AI could widen wealth gap",
-        "url": "https://bhaskarlive.in/international/us-feds-barr-warns-ai-could-widen-wealth-gap-2165204",
-        "source": "worldnews",
+        "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+        "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.374,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.32,
       "scores": {
-        "High House War": 0.12,
-        "High House Coin": 0.165,
-        "High House Shadow": 0.374,
-        "High House Life": -0.05,
-        "High House Iron": 0.091,
-        "High House Words": 0.228,
-        "High House Chains": 0.243
+        "High House War": 0.137,
+        "High House Coin": 0.049,
+        "High House Shadow": 0.1,
+        "High House Life": 0.32,
+        "High House Iron": 0.064,
+        "High House Words": 0.171,
+        "High House Chains": 0.179
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.52,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.945
+        "sentiment": "POSITIVE",
+        "sentiment_score": 1.0
       },
       "article": {
-        "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
-        "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
+        "title": "World Vision brings hope to 650 000 vulnerable children",
+        "url": "https://publiceyenews.com/2026/11/13/world-vision-brings-hope-to-650-000-vulnerable-children",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.313,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.308,
       "scores": {
-        "High House War": 0.098,
-        "High House Coin": 0.182,
-        "High House Shadow": 0.035,
-        "High House Life": 0.313,
-        "High House Iron": 0.03,
-        "High House Words": 0.124,
-        "High House Chains": 0.149
+        "High House War": 0.106,
+        "High House Coin": 0.136,
+        "High House Shadow": 0.153,
+        "High House Life": 0.25,
+        "High House Iron": 0.308,
+        "High House Words": 0.185,
+        "High House Chains": 0.216
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.7,
-        "matched_signals": [
-          "ecocide"
-        ],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.924
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9
       },
       "article": {
-        "title": "Turkey's president calls the war in Gaza an 'ecocide' at UN climate summit",
-        "url": "https://naharnet.com/stories/en/323740-turkey-s-president-calls-the-war-in-gaza-an-ecocide-at-un-climate-summit",
-        "source": "worldnews",
+        "title": "China\u2019s Message to Its Rivals: You Need What We Make",
+        "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WILD"
@@ -123,26 +121,26 @@
       "house": "High House Chains",
       "title": "The Knight",
       "reversed": true,
-      "confidence": 0.309,
+      "confidence": 0.295,
       "scores": {
-        "High House War": 0.282,
-        "High House Coin": 0.217,
-        "High House Shadow": 0.115,
-        "High House Life": 0.105,
-        "High House Iron": 0.051,
-        "High House Words": 0.266,
-        "High House Chains": 0.309
+        "High House War": 0.162,
+        "High House Coin": 0.26,
+        "High House Shadow": 0.148,
+        "High House Life": 0.033,
+        "High House Iron": 0.071,
+        "High House Words": 0.24,
+        "High House Chains": 0.295
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.549,
+        "confidence": 0.542,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
+        "sentiment_score": 0.985
       },
       "article": {
-        "title": "Lebanon\u2019s power\u2011sharing formula was once a model for conflict resolution \u2013 now it is creaking",
-        "url": "https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991",
+        "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+        "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
         "source": "worldnews",
         "full_text": null
       },
@@ -152,26 +150,26 @@
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.279,
+      "confidence": 0.267,
       "scores": {
-        "High House War": 0.079,
-        "High House Coin": 0.031,
-        "High House Shadow": 0.039,
-        "High House Life": 0.125,
-        "High House Iron": -0.041,
-        "High House Words": 0.279,
-        "High House Chains": 0.156
+        "High House War": 0.245,
+        "High House Coin": 0.098,
+        "High House Shadow": 0.229,
+        "High House Life": 0.102,
+        "High House Iron": 0.108,
+        "High House Words": 0.267,
+        "High House Chains": 0.161
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.807
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "European voice in Ukraine peace talks must include UK, Taoiseach says",
-        "url": "https://www.standard.co.uk/news/uk/micheal-martin-european-ukraine-volodymyr-zelensky-jared-kushner-b1304747.html",
+        "title": "US must respect India's right to defend itself: Former US Secretary Blinken",
+        "url": "https://economictimes.indiatimes.com/news/india/us-must-respect-indias-right-to-defend-itself-former-us-secretary-blinken/articleshow/135833017.cms",
         "source": "worldnews",
         "full_text": null
       },
@@ -210,22 +208,12 @@
   "relationships": [
     {
       "house_a": "High House Coin",
-      "house_b": "High House Life",
+      "house_b": "High House Iron",
       "actor_a": "TRUMP",
-      "actor_b": "TURKEY",
-      "relationship": "opposed",
-      "goldstein_avg": -1.519,
-      "confidence": 0.33,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House Words",
-      "actor_a": "TRUMP",
-      "actor_b": "UKRAINE",
-      "relationship": "opposed",
-      "goldstein_avg": -1.608,
-      "confidence": 0.33,
+      "actor_b": "CHINA",
+      "relationship": "neutral",
+      "goldstein_avg": -1.425,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     },
     {
@@ -234,60 +222,65 @@
       "actor_a": "TRUMP",
       "actor_b": "IRAQ",
       "relationship": "opposed",
-      "goldstein_avg": -2.974,
-      "confidence": 0.33,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Shadow",
-      "house_b": "High House War",
-      "actor_a": "IRAN",
-      "actor_b": "IRAQ",
-      "relationship": "opposed",
-      "goldstein_avg": -3.407,
-      "confidence": 0.33,
+      "goldstein_avg": -3.075,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     },
     {
       "house_a": "High House Life",
-      "house_b": "High House Chains",
-      "actor_a": "TURKEY",
-      "actor_b": "LEBANON",
-      "relationship": "neutral",
-      "goldstein_avg": -0.695,
-      "confidence": 0.33,
+      "house_b": "High House Iron",
+      "actor_a": "WORLD VISION",
+      "actor_b": "CHINA",
+      "relationship": "allied",
+      "goldstein_avg": 1.799,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
+      "house_a": "High House Life",
       "house_b": "High House Words",
-      "actor_a": "LEBANON",
-      "actor_b": "UKRAINE",
-      "relationship": "neutral",
-      "goldstein_avg": -0.909,
-      "confidence": 0.33,
+      "actor_a": "WORLD VISION",
+      "actor_b": "INDIA",
+      "relationship": "allied",
+      "goldstein_avg": 1.321,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     },
     {
-      "house_a": "High House Chains",
+      "house_a": "High House Iron",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "INDIA",
+      "relationship": "neutral",
+      "goldstein_avg": 0.031,
+      "confidence": 0.27,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
       "house_b": "High House War",
-      "actor_a": "LEBANON",
+      "actor_a": "CHINA",
       "actor_b": "IRAQ",
-      "relationship": "opposed",
-      "goldstein_avg": -2.231,
-      "confidence": 0.33,
+      "relationship": "neutral",
+      "goldstein_avg": -1.384,
+      "confidence": 0.27,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Words",
+      "house_b": "High House War",
+      "actor_a": "INDIA",
+      "actor_b": "IRAQ",
+      "relationship": "neutral",
+      "goldstein_avg": -1.025,
+      "confidence": 0.27,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 5.312,
-      "source": "gdelt_volume"
-    },
-    "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.223,
+      "trend_ratio": 3.042,
       "source": "gdelt_volume"
     }
   }
