@@ -1,6 +1,35 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "cards": [
+    {
+      "house": "High House Shadow",
+      "title": "The Knight",
+      "reversed": false,
+      "confidence": 0.458,
+      "scores": {
+        "High House War": 0.11,
+        "High House Coin": 0.2,
+        "High House Shadow": 0.458,
+        "High House Life": 0.163,
+        "High House Iron": 0.102,
+        "High House Words": 0.241,
+        "High House Chains": 0.164
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.921
+      },
+      "article": {
+        "title": "James Bond Is Back. So Is Spying",
+        "url": "https://www.newsweek.com/james-bond-is-back-so-is-spying-12712145",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "CENTER"
+    },
     {
       "house": "High House Coin",
       "title": "The King",
@@ -28,137 +57,21 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "CENTER"
-    },
-    {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.415,
-      "scores": {
-        "High House War": 0.024,
-        "High House Coin": 0.157,
-        "High House Shadow": 0.415,
-        "High House Life": 0.132,
-        "High House Iron": 0.076,
-        "High House Words": 0.135,
-        "High House Chains": 0.12
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.748
-      },
-      "article": {
-        "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-        "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.32,
-      "scores": {
-        "High House War": 0.137,
-        "High House Coin": 0.049,
-        "High House Shadow": 0.1,
-        "High House Life": 0.32,
-        "High House Iron": 0.064,
-        "High House Words": 0.171,
-        "High House Chains": 0.179
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "World Vision brings hope to 650 000 vulnerable children",
-        "url": "https://publiceyenews.com/2026/11/13/world-vision-brings-hope-to-650-000-vulnerable-children",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.308,
-      "scores": {
-        "High House War": 0.106,
-        "High House Coin": 0.136,
-        "High House Shadow": 0.153,
-        "High House Life": 0.25,
-        "High House Iron": 0.308,
-        "High House Words": 0.185,
-        "High House Chains": 0.216
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.9
-      },
-      "article": {
-        "title": "China\u2019s Message to Its Rivals: You Need What We Make",
-        "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Chains",
-      "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.295,
-      "scores": {
-        "High House War": 0.162,
-        "High House Coin": 0.26,
-        "High House Shadow": 0.148,
-        "High House Life": 0.033,
-        "High House Iron": 0.071,
-        "High House Words": 0.24,
-        "High House Chains": 0.295
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.542,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.985
-      },
-      "article": {
-        "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-        "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
+      "position": "ASCENDING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
       "reversed": false,
-      "confidence": 0.267,
+      "confidence": 0.377,
       "scores": {
-        "High House War": 0.245,
-        "High House Coin": 0.098,
-        "High House Shadow": 0.229,
-        "High House Life": 0.102,
-        "High House Iron": 0.108,
-        "High House Words": 0.267,
-        "High House Chains": 0.161
+        "High House War": 0.171,
+        "High House Coin": 0.137,
+        "High House Shadow": 0.211,
+        "High House Life": 0.104,
+        "High House Iron": -0.079,
+        "High House Words": 0.377,
+        "High House Chains": 0.155
       },
       "reversal": {
         "reversed": false,
@@ -168,119 +81,156 @@
         "sentiment_score": 0.999
       },
       "article": {
-        "title": "US must respect India's right to defend itself: Former US Secretary Blinken",
-        "url": "https://economictimes.indiatimes.com/news/india/us-must-respect-indias-right-to-defend-itself-former-us-secretary-blinken/articleshow/135833017.cms",
+        "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+        "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "WANING"
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.363,
+      "scores": {
+        "High House War": -0.01,
+        "High House Coin": 0.038,
+        "High House Shadow": -0.02,
+        "High House Life": 0.363,
+        "High House Iron": -0.025,
+        "High House Words": 0.099,
+        "High House Chains": 0.105
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.98
+      },
+      "article": {
+        "title": "WHO calls on Europe to make mental health part of climate action",
+        "url": "https://qazinform.com/news/who-calls-on-europe-to-make-mental-health-part-of-climate-action-fb9744",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Chains",
+      "title": "The Knight",
+      "reversed": true,
+      "confidence": 0.343,
+      "scores": {
+        "High House War": -0.022,
+        "High House Coin": 0.328,
+        "High House Shadow": 0.215,
+        "High House Life": 0.083,
+        "High House Iron": 0.07,
+        "High House Words": 0.259,
+        "High House Chains": 0.343
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.517,
+        "matched_signals": [],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.94
+      },
+      "article": {
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": false,
+      "confidence": 0.33,
+      "scores": {
+        "High House War": 0.122,
+        "High House Coin": 0.249,
+        "High House Shadow": 0.17,
+        "High House Life": 0.063,
+        "High House Iron": 0.33,
+        "High House Words": -0.018,
+        "High House Chains": 0.052
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 1.0
+      },
+      "article": {
+        "title": "3 Magnificent AI Stocks That Could Help You Make a Fortune",
+        "url": "https://www.fool.com/investing/2026/11/15/3-magnificent-artificial-intelligence-ai-stocks-th",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
     },
     {
       "house": "High House War",
       "title": "The Army",
       "reversed": true,
-      "confidence": 0.219,
+      "confidence": 0.291,
       "scores": {
-        "High House War": 0.219,
-        "High House Coin": 0.124,
-        "High House Shadow": 0.131,
-        "High House Life": -0.018,
-        "High House Iron": -0.03,
-        "High House Words": 0.151,
-        "High House Chains": 0.153
+        "High House War": 0.291,
+        "High House Coin": 0.06,
+        "High House Shadow": 0.2,
+        "High House Life": 0.233,
+        "High House Iron": 0.124,
+        "High House Words": 0.097,
+        "High House Chains": 0.092
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.52,
+        "confidence": 0.544,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.945
+        "sentiment_score": 0.99
       },
       "article": {
-        "title": "Iraq\u2019s Prime Minister Vows to Disarm and Disband Iran-Backed Militias in 2027",
-        "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
-        "source": "nyt",
+        "title": "In the \u2018Kill Zone\u2019, Ukraine Bets on Flying Evacuation Drones",
+        "url": "https://www.kyivpost.com/post/90174",
+        "source": "worldnews",
         "full_text": null
       },
-      "position": "ASCENDING"
+      "position": "WANING"
     }
   ],
   "relationships": [
     {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "JAMES BOND",
+      "actor_b": "TRUMP",
+      "relationship": "neutral",
+      "goldstein_avg": -0.001,
+      "confidence": 0.23,
+      "source": "gdelt_tone"
+    },
+    {
       "house_a": "High House Coin",
-      "house_b": "High House Iron",
-      "actor_a": "TRUMP",
-      "actor_b": "CHINA",
-      "relationship": "neutral",
-      "goldstein_avg": -1.425,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
       "house_b": "High House War",
       "actor_a": "TRUMP",
-      "actor_b": "IRAQ",
-      "relationship": "opposed",
-      "goldstein_avg": -3.075,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Iron",
-      "actor_a": "WORLD VISION",
-      "actor_b": "CHINA",
-      "relationship": "allied",
-      "goldstein_avg": 1.799,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Life",
-      "house_b": "High House Words",
-      "actor_a": "WORLD VISION",
-      "actor_b": "INDIA",
-      "relationship": "allied",
-      "goldstein_avg": 1.321,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House Words",
-      "actor_a": "CHINA",
-      "actor_b": "INDIA",
+      "actor_b": "UKRAINE BETS",
       "relationship": "neutral",
-      "goldstein_avg": 0.031,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Iron",
-      "house_b": "High House War",
-      "actor_a": "CHINA",
-      "actor_b": "IRAQ",
-      "relationship": "neutral",
-      "goldstein_avg": -1.384,
-      "confidence": 0.27,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Words",
-      "house_b": "High House War",
-      "actor_a": "INDIA",
-      "actor_b": "IRAQ",
-      "relationship": "neutral",
-      "goldstein_avg": -1.025,
-      "confidence": 0.27,
+      "goldstein_avg": -0.022,
+      "confidence": 0.23,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House Coin": {
       "trend": "rising",
-      "trend_ratio": 3.042,
+      "trend_ratio": 4.995,
       "source": "gdelt_volume"
     }
   }
