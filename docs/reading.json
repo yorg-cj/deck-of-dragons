@@ -1,34 +1,63 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "cards": [
     {
       "house": "High House Shadow",
       "title": "The Knight",
       "reversed": false,
-      "confidence": 0.458,
+      "confidence": 0.477,
       "scores": {
-        "High House War": 0.11,
-        "High House Coin": 0.2,
-        "High House Shadow": 0.458,
-        "High House Life": 0.163,
-        "High House Iron": 0.102,
-        "High House Words": 0.241,
-        "High House Chains": 0.164
+        "High House War": 0.126,
+        "High House Coin": 0.246,
+        "High House Shadow": 0.477,
+        "High House Life": 0.099,
+        "High House Iron": 0.047,
+        "High House Words": 0.313,
+        "High House Chains": 0.174
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.921
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "James Bond Is Back. So Is Spying",
-        "url": "https://www.newsweek.com/james-bond-is-back-so-is-spying-12712145",
-        "source": "worldnews",
+        "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
+        "url": "https://www.ynetnews.com/article/syqkfq80gx",
+        "source": "gdelt_doc",
         "full_text": null
       },
       "position": "CENTER"
+    },
+    {
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.453,
+      "scores": {
+        "High House War": 0.088,
+        "High House Coin": 0.149,
+        "High House Shadow": 0.084,
+        "High House Life": 0.453,
+        "High House Iron": 0.052,
+        "High House Words": 0.064,
+        "High House Chains": 0.165
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.902
+      },
+      "article": {
+        "title": "American Global Health Aid Isn\u2019t Dead. It\u2019s Changing.",
+        "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
     },
     {
       "house": "High House Coin",
@@ -60,58 +89,58 @@
       "position": "ASCENDING"
     },
     {
-      "house": "High House Words",
-      "title": "The Weaver",
+      "house": "High House War",
+      "title": "The Army",
       "reversed": false,
-      "confidence": 0.377,
+      "confidence": 0.362,
       "scores": {
-        "High House War": 0.171,
-        "High House Coin": 0.137,
-        "High House Shadow": 0.211,
-        "High House Life": 0.104,
-        "High House Iron": -0.079,
-        "High House Words": 0.377,
-        "High House Chains": 0.155
+        "High House War": 0.362,
+        "High House Coin": 0.173,
+        "High House Shadow": 0.129,
+        "High House Life": 0.032,
+        "High House Iron": 0.142,
+        "High House Words": 0.243,
+        "High House Chains": 0.139
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.999
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.915
       },
       "article": {
-        "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
-        "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
+        "title": "The conflict between the US and Iran continues to escalate. Tankers burn, oil prices rise",
+        "url": "https://nashaniva.com/en/409373",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "FOUNDATION"
+      "position": "EMERGING"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.363,
+      "house": "High House Iron",
+      "title": "The Merchant",
+      "reversed": true,
+      "confidence": 0.354,
       "scores": {
-        "High House War": -0.01,
-        "High House Coin": 0.038,
-        "High House Shadow": -0.02,
-        "High House Life": 0.363,
-        "High House Iron": -0.025,
-        "High House Words": 0.099,
-        "High House Chains": 0.105
+        "High House War": -0.017,
+        "High House Coin": 0.138,
+        "High House Shadow": 0.19,
+        "High House Life": 0.243,
+        "High House Iron": 0.354,
+        "High House Words": 0.186,
+        "High House Chains": 0.115
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.546,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.98
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.992
       },
       "article": {
-        "title": "WHO calls on Europe to make mental health part of climate action",
-        "url": "https://qazinform.com/news/who-calls-on-europe-to-make-mental-health-part-of-climate-action-fb9744",
+        "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+        "url": "https://www.independent.co.uk/news/study-al-gore-harvard-university-denmark-turkey-b3085828.html",
         "source": "worldnews",
         "full_text": null
       },
@@ -147,59 +176,30 @@
       "position": "WILD"
     },
     {
-      "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": false,
-      "confidence": 0.33,
-      "scores": {
-        "High House War": 0.122,
-        "High House Coin": 0.249,
-        "High House Shadow": 0.17,
-        "High House Life": 0.063,
-        "High House Iron": 0.33,
-        "High House Words": -0.018,
-        "High House Chains": 0.052
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 1.0
-      },
-      "article": {
-        "title": "3 Magnificent AI Stocks That Could Help You Make a Fortune",
-        "url": "https://www.fool.com/investing/2026/11/15/3-magnificent-artificial-intelligence-ai-stocks-th",
-        "source": "worldnews",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
+      "house": "High House Words",
+      "title": "The Weaver",
       "reversed": true,
-      "confidence": 0.291,
+      "confidence": 0.317,
       "scores": {
-        "High House War": 0.291,
-        "High House Coin": 0.06,
-        "High House Shadow": 0.2,
-        "High House Life": 0.233,
-        "High House Iron": 0.124,
-        "High House Words": 0.097,
-        "High House Chains": 0.092
+        "High House War": 0.101,
+        "High House Coin": 0.155,
+        "High House Shadow": 0.203,
+        "High House Life": 0.187,
+        "High House Iron": 0.115,
+        "High House Words": 0.317,
+        "High House Chains": 0.084
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.544,
+        "confidence": 0.548,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.99
+        "sentiment_score": 0.996
       },
       "article": {
-        "title": "In the \u2018Kill Zone\u2019, Ukraine Bets on Flying Evacuation Drones",
-        "url": "https://www.kyivpost.com/post/90174",
-        "source": "worldnews",
+        "title": "A Growing North Korea Problem",
+        "url": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "WANING"
@@ -209,28 +209,18 @@
     {
       "house_a": "High House Shadow",
       "house_b": "High House Coin",
-      "actor_a": "JAMES BOND",
+      "actor_a": "QATAR",
       "actor_b": "TRUMP",
-      "relationship": "neutral",
-      "goldstein_avg": -0.001,
-      "confidence": 0.23,
-      "source": "gdelt_tone"
-    },
-    {
-      "house_a": "High House Coin",
-      "house_b": "High House War",
-      "actor_a": "TRUMP",
-      "actor_b": "UKRAINE BETS",
-      "relationship": "neutral",
-      "goldstein_avg": -0.022,
-      "confidence": 0.23,
+      "relationship": "opposed",
+      "goldstein_avg": -2.606,
+      "confidence": 0.15,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
-    "High House Coin": {
+    "High House War": {
       "trend": "rising",
-      "trend_ratio": 4.995,
+      "trend_ratio": 1.866,
       "source": "gdelt_volume"
     }
   }
