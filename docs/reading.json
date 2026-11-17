@@ -1,88 +1,59 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "cards": [
     {
-      "house": "High House Shadow",
-      "title": "The Knight",
-      "reversed": false,
-      "confidence": 0.477,
+      "house": "High House Life",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.404,
       "scores": {
-        "High House War": 0.126,
-        "High House Coin": 0.246,
-        "High House Shadow": 0.477,
-        "High House Life": 0.099,
-        "High House Iron": 0.047,
-        "High House Words": 0.313,
-        "High House Chains": 0.174
+        "High House War": 0.185,
+        "High House Coin": 0.113,
+        "High House Shadow": 0.082,
+        "High House Life": 0.404,
+        "High House Iron": -0.04,
+        "High House Words": 0.149,
+        "High House Chains": 0.201
       },
       "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
+        "reversed": true,
+        "confidence": 0.541,
         "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.996
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.984
       },
       "article": {
-        "title": "Money , spies and Al Jazeera : How Qatar intelligence services wield power",
-        "url": "https://www.ynetnews.com/article/syqkfq80gx",
-        "source": "gdelt_doc",
+        "title": "\u2018Let the aid in\u2019: deadly winter approaches in Gaza \u2013 The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "CENTER"
     },
     {
-      "house": "High House Life",
-      "title": "The King",
+      "house": "High House Shadow",
+      "title": "The Knight",
       "reversed": false,
-      "confidence": 0.453,
+      "confidence": 0.392,
       "scores": {
-        "High House War": 0.088,
-        "High House Coin": 0.149,
-        "High House Shadow": 0.084,
-        "High House Life": 0.453,
-        "High House Iron": 0.052,
-        "High House Words": 0.064,
-        "High House Chains": 0.165
+        "High House War": 0.162,
+        "High House Coin": 0.255,
+        "High House Shadow": 0.392,
+        "High House Life": 0.197,
+        "High House Iron": 0.162,
+        "High House Words": 0.27,
+        "High House Chains": 0.249
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.902
+        "sentiment_score": 0.997
       },
       "article": {
-        "title": "American Global Health Aid Isn\u2019t Dead. It\u2019s Changing.",
-        "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "FOUNDATION"
-    },
-    {
-      "house": "High House Coin",
-      "title": "The King",
-      "reversed": false,
-      "confidence": 0.423,
-      "scores": {
-        "High House War": 0.198,
-        "High House Coin": 0.423,
-        "High House Shadow": 0.269,
-        "High House Life": 0.124,
-        "High House Iron": 0.064,
-        "High House Words": 0.207,
-        "High House Chains": 0.212
-      },
-      "reversal": {
-        "reversed": false,
-        "confidence": 0.0,
-        "matched_signals": [],
-        "sentiment": "POSITIVE",
-        "sentiment_score": 0.507
-      },
-      "article": {
-        "title": "Trump vs. the Bond Market",
-        "url": "https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html",
+        "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/trump-china-ai-tensions.html",
         "source": "nyt",
         "full_text": null
       },
@@ -92,55 +63,84 @@
       "house": "High House War",
       "title": "The Army",
       "reversed": false,
-      "confidence": 0.362,
+      "confidence": 0.364,
       "scores": {
-        "High House War": 0.362,
-        "High House Coin": 0.173,
-        "High House Shadow": 0.129,
-        "High House Life": 0.032,
-        "High House Iron": 0.142,
-        "High House Words": 0.243,
-        "High House Chains": 0.139
+        "High House War": 0.364,
+        "High House Coin": -0.054,
+        "High House Shadow": 0.039,
+        "High House Life": 0.166,
+        "High House Iron": -0.025,
+        "High House Words": 0.047,
+        "High House Chains": 0.07
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.915
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.991
       },
       "article": {
-        "title": "The conflict between the US and Iran continues to escalate. Tankers burn, oil prices rise",
-        "url": "https://nashaniva.com/en/409373",
+        "title": "Coalition of Volunteers Stages First Field Drill in Poland as War Rages Next Door",
+        "url": "https://www.asalmedia.com/volunteers-coalition-poland-military-drill-ukraine",
         "source": "worldnews",
         "full_text": null
       },
-      "position": "EMERGING"
+      "position": "WILD"
     },
     {
       "house": "High House Iron",
-      "title": "The Merchant",
-      "reversed": true,
+      "title": "The Magi",
+      "reversed": false,
       "confidence": 0.354,
       "scores": {
-        "High House War": -0.017,
-        "High House Coin": 0.138,
-        "High House Shadow": 0.19,
-        "High House Life": 0.243,
+        "High House War": 0.061,
+        "High House Coin": 0.172,
+        "High House Shadow": 0.011,
+        "High House Life": -0.008,
         "High House Iron": 0.354,
-        "High House Words": 0.186,
-        "High House Chains": 0.115
+        "High House Words": 0.044,
+        "High House Chains": -0.015
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.546,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.992
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.927
       },
       "article": {
-        "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
-        "url": "https://www.independent.co.uk/news/study-al-gore-harvard-university-denmark-turkey-b3085828.html",
+        "title": "Elon Musk Dreams of a Larger Empire in Move Toward Technological Supremacy",
+        "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
+        "source": "nyt",
+        "full_text": null
+      },
+      "position": "FOUNDATION"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": false,
+      "confidence": 0.322,
+      "scores": {
+        "High House War": 0.09,
+        "High House Coin": 0.322,
+        "High House Shadow": 0.064,
+        "High House Life": 0.166,
+        "High House Iron": 0.1,
+        "High House Words": 0.202,
+        "High House Chains": 0.237
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.988
+      },
+      "article": {
+        "title": "ECO endorses Iran's push for lasting peace, praises Pakistan's mediation during crisis",
+        "url": "https://www.geo.tv/latest/691385-eco-endorses-irans-push-for-lasting-peace-praises-pakistans-mediation-during-crisis",
         "source": "worldnews",
         "full_text": null
       },
@@ -149,57 +149,57 @@
     {
       "house": "High House Chains",
       "title": "The Knight",
-      "reversed": true,
-      "confidence": 0.343,
+      "reversed": false,
+      "confidence": 0.308,
       "scores": {
-        "High House War": -0.022,
-        "High House Coin": 0.328,
+        "High House War": 0.082,
+        "High House Coin": 0.25,
         "High House Shadow": 0.215,
-        "High House Life": 0.083,
-        "High House Iron": 0.07,
-        "High House Words": 0.259,
-        "High House Chains": 0.343
+        "High House Life": 0.158,
+        "High House Iron": 0.299,
+        "High House Words": 0.189,
+        "High House Chains": 0.308
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.517,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.94
+        "sentiment_score": 0.688
       },
       "article": {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+        "title": "Trump\u2019s New A.I. Chip Rules Rattle Southeast Asia",
+        "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
+      "position": "EMERGING"
     },
     {
       "house": "High House Words",
       "title": "The Weaver",
-      "reversed": true,
-      "confidence": 0.317,
+      "reversed": false,
+      "confidence": 0.288,
       "scores": {
-        "High House War": 0.101,
-        "High House Coin": 0.155,
-        "High House Shadow": 0.203,
-        "High House Life": 0.187,
-        "High House Iron": 0.115,
-        "High House Words": 0.317,
-        "High House Chains": 0.084
+        "High House War": 0.177,
+        "High House Coin": 0.187,
+        "High House Shadow": 0.178,
+        "High House Life": 0.127,
+        "High House Iron": 0.113,
+        "High House Words": 0.288,
+        "High House Chains": 0.274
       },
       "reversal": {
-        "reversed": true,
-        "confidence": 0.548,
+        "reversed": false,
+        "confidence": 0.0,
         "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.996
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.913
       },
       "article": {
-        "title": "A Growing North Korea Problem",
-        "url": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
-        "source": "nyt",
+        "title": "Three Global Powers, One Table: What the Shenzhen Summit Means for the Emerging World Order",
+        "url": "https://www.spotlightnepal.com/2026/11/16/three-global-powers-one-table-what-shenzhen-summit-means-emerging-world-order",
+        "source": "worldnews",
         "full_text": null
       },
       "position": "WANING"
@@ -207,20 +207,110 @@
   ],
   "relationships": [
     {
+      "house_a": "High House Life",
+      "house_b": "High House Shadow",
+      "actor_a": "GAZA",
+      "actor_b": "CHINA",
+      "relationship": "opposed",
+      "goldstein_avg": -1.711,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Life",
+      "house_b": "High House War",
+      "actor_a": "GAZA",
+      "actor_b": "POLAND",
+      "relationship": "neutral",
+      "goldstein_avg": -0.105,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "POLAND",
+      "relationship": "neutral",
+      "goldstein_avg": -0.077,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Iron",
+      "actor_a": "CHINA",
+      "actor_b": "MOVE TOWARD",
+      "relationship": "neutral",
+      "goldstein_avg": -0.206,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
       "house_a": "High House Shadow",
       "house_b": "High House Coin",
-      "actor_a": "QATAR",
-      "actor_b": "TRUMP",
+      "actor_a": "CHINA",
+      "actor_b": "IRAN",
       "relationship": "opposed",
-      "goldstein_avg": -2.606,
-      "confidence": 0.15,
+      "goldstein_avg": -1.667,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Words",
+      "actor_a": "CHINA",
+      "actor_b": "THE SHENZHEN SUMMIT MEANS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.184,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Iron",
+      "actor_a": "POLAND",
+      "actor_b": "MOVE TOWARD",
+      "relationship": "neutral",
+      "goldstein_avg": -0.284,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House War",
+      "house_b": "High House Words",
+      "actor_a": "POLAND",
+      "actor_b": "THE SHENZHEN SUMMIT MEANS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.203,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Iron",
+      "house_b": "High House Coin",
+      "actor_a": "MOVE TOWARD",
+      "actor_b": "IRAN",
+      "relationship": "opposed",
+      "goldstein_avg": -1.603,
+      "confidence": 0.11,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House Words",
+      "actor_a": "IRAN",
+      "actor_b": "THE SHENZHEN SUMMIT MEANS",
+      "relationship": "neutral",
+      "goldstein_avg": -0.367,
+      "confidence": 0.11,
       "source": "gdelt_tone"
     }
   ],
   "house_trends": {
     "High House War": {
-      "trend": "rising",
-      "trend_ratio": 1.866,
+      "trend": "stable",
+      "trend_ratio": 1.147,
       "source": "gdelt_volume"
     }
   }
