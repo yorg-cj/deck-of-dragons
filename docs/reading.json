@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "cards": [
     {
       "house": "High House Iron",
       "title": "The Merchant",
       "reversed": true,
-      "confidence": 0.431,
+      "confidence": 0.419,
       "scores": {
-        "High House War": 0.033,
-        "High House Coin": 0.227,
-        "High House Shadow": 0.175,
-        "High House Life": 0.163,
-        "High House Iron": 0.431,
-        "High House Words": 0.062,
-        "High House Chains": 0.163
+        "High House War": 0.085,
+        "High House Coin": 0.214,
+        "High House Shadow": 0.155,
+        "High House Life": 0.091,
+        "High House Iron": 0.419,
+        "High House Words": 0.06,
+        "High House Chains": 0.101
       },
       "reversal": {
         "reversed": true,
-        "confidence": 0.547,
+        "confidence": 0.55,
         "matched_signals": [],
         "sentiment": "NEGATIVE",
-        "sentiment_score": 0.995
+        "sentiment_score": 0.999
       },
       "article": {
-        "title": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout",
-        "url": "https://www.independent.co.uk/news/world/americas/china-chinese-alibaba-nvidia-hong-kong-b3088067.html",
-        "source": "worldnews",
+        "title": "Can Anthropic Revive the A.I. Trade?",
+        "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
+        "source": "nyt",
         "full_text": null
       },
       "position": "CENTER"
@@ -89,33 +89,93 @@
       "position": "FOUNDATION"
     },
     {
-      "house": "High House Coin",
+      "house": "High House Life",
       "title": "The King",
       "reversed": false,
-      "confidence": 0.326,
+      "confidence": 0.378,
       "scores": {
-        "High House War": 0.126,
-        "High House Coin": 0.326,
-        "High House Shadow": 0.072,
-        "High House Life": 0.094,
-        "High House Iron": 0.066,
-        "High House Words": 0.088,
-        "High House Chains": 0.173
+        "High House War": 0.111,
+        "High House Coin": 0.044,
+        "High House Shadow": 0.082,
+        "High House Life": 0.378,
+        "High House Iron": 0.172,
+        "High House Words": 0.11,
+        "High House Chains": 0.122
       },
       "reversal": {
         "reversed": false,
         "confidence": 0.0,
         "matched_signals": [],
         "sentiment": "POSITIVE",
-        "sentiment_score": 0.989
+        "sentiment_score": 0.965
       },
       "article": {
-        "title": "Carney Outlines How Ottawa Is Deepening Financial Ties With Beijing\u00a0",
-        "url": "https://www.theepochtimes.com/world/carney-outlines-how-ottawa-is-deepening-financial-ties-with-beijing-6126716",
+        "title": "Ghana Space Conference 2026: Deputy Minister wants results, not speeches",
+        "url": "https://3news.com/tech/ghana-space-conference-2026-deputy-minister-wants-results-not-speeches",
         "source": "worldnews",
         "full_text": null
       },
       "position": "WILD"
+    },
+    {
+      "house": "High House Coin",
+      "title": "The King",
+      "reversed": true,
+      "confidence": 0.366,
+      "scores": {
+        "High House War": 0.078,
+        "High House Coin": 0.366,
+        "High House Shadow": 0.279,
+        "High House Life": -0.025,
+        "High House Iron": 0.024,
+        "High House Words": 0.15,
+        "High House Chains": 0.236
+      },
+      "reversal": {
+        "reversed": true,
+        "confidence": 0.7,
+        "matched_signals": [
+          "sanction"
+        ],
+        "sentiment": "NEGATIVE",
+        "sentiment_score": 0.991
+      },
+      "article": {
+        "title": "Can Hezbollah\u2019s shadow financial network survive fresh US sanctions?",
+        "url": "https://www.arabnews.com/middle-east/can-hezbollahs-shadow-financial-network-survive-fresh-us-sanctions-3012891",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "WILD"
+    },
+    {
+      "house": "High House War",
+      "title": "The Army",
+      "reversed": false,
+      "confidence": 0.355,
+      "scores": {
+        "High House War": 0.355,
+        "High House Coin": 0.131,
+        "High House Shadow": 0.257,
+        "High House Life": 0.119,
+        "High House Iron": 0.095,
+        "High House Words": 0.205,
+        "High House Chains": 0.215
+      },
+      "reversal": {
+        "reversed": false,
+        "confidence": 0.0,
+        "matched_signals": [],
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.805
+      },
+      "article": {
+        "title": "Saudi coalition launches 'special operation', Yemen's Houthis vow reprisals",
+        "url": "https://economictimes.indiatimes.com/news/defence/saudi-coalition-launches-special-operation-yemens-houthis-vow-reprisals/articleshow/136031547.cms",
+        "source": "worldnews",
+        "full_text": null
+      },
+      "position": "EMERGING"
     },
     {
       "house": "High House Chains",
@@ -144,78 +204,56 @@
         "source": "nyt",
         "full_text": null
       },
-      "position": "WILD"
-    },
-    {
-      "house": "High House Life",
-      "title": "The King",
-      "reversed": true,
-      "confidence": 0.301,
-      "scores": {
-        "High House War": 0.15,
-        "High House Coin": 0.122,
-        "High House Shadow": 0.241,
-        "High House Life": 0.301,
-        "High House Iron": 0.052,
-        "High House Words": 0.152,
-        "High House Chains": 0.099
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "The Science That U.N.C. Sacrificed to Avoid the Wrath of Trump",
-        "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
-        "source": "nyt",
-        "full_text": null
-      },
-      "position": "EMERGING"
-    },
-    {
-      "house": "High House War",
-      "title": "The Army",
-      "reversed": true,
-      "confidence": 0.248,
-      "scores": {
-        "High House War": 0.248,
-        "High House Coin": 0.145,
-        "High House Shadow": 0.061,
-        "High House Life": 0.14,
-        "High House Iron": 0.107,
-        "High House Words": 0.144,
-        "High House Chains": 0.214
-      },
-      "reversal": {
-        "reversed": true,
-        "confidence": 0.549,
-        "matched_signals": [],
-        "sentiment": "NEGATIVE",
-        "sentiment_score": 0.999
-      },
-      "article": {
-        "title": "War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason",
-        "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-        "source": "nyt",
-        "full_text": null
-      },
       "position": "WANING"
     }
   ],
   "relationships": [
     {
       "house_a": "High House Words",
-      "house_b": "High House Shadow",
+      "house_b": "High House Coin",
       "actor_a": "CHINA",
-      "actor_b": "CHINA",
+      "actor_b": "HEZBOLLAH",
       "relationship": "neutral",
-      "goldstein_avg": -0.272,
-      "confidence": 0.02,
+      "goldstein_avg": -0.927,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House Coin",
+      "actor_a": "CHINA",
+      "actor_b": "HEZBOLLAH",
+      "relationship": "neutral",
+      "goldstein_avg": -0.927,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Shadow",
+      "house_b": "High House War",
+      "actor_a": "CHINA",
+      "actor_b": "YEMEN",
+      "relationship": "neutral",
+      "goldstein_avg": -1.296,
+      "confidence": 0.1,
+      "source": "gdelt_tone"
+    },
+    {
+      "house_a": "High House Coin",
+      "house_b": "High House War",
+      "actor_a": "HEZBOLLAH",
+      "actor_b": "YEMEN",
+      "relationship": "neutral",
+      "goldstein_avg": -0.866,
+      "confidence": 0.1,
       "source": "gdelt_tone"
     }
   ],
-  "house_trends": {}
+  "house_trends": {
+    "High House War": {
+      "trend": "rising",
+      "trend_ratio": 1.183,
+      "source": "gdelt_volume"
+    }
+  }
 }
